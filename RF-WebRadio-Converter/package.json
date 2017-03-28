@@ -1,0 +1,25 @@
+{
+  "name": "rf-web-radio-converter",
+  "version": "0.1.0",
+  "description": "Convert the xml of the Web Radio schedule of Radio France to other formats",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOREMUS-ANR/recommender.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jshintConfig": {
+    "esversion": 6
+  },
+  "author": "Pasquale Lisena <pasquale.lisena@eurecom.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.2.0",
+    "json-2-csv": "^2.1.0",
+    "moment": "^2.18.1",
+    "node-noop": "^1.0.0",
+    "xml2js": "^0.4.17"
+  }
+}

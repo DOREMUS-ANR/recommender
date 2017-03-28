@@ -1,0 +1,31 @@
+[{
+  "label": "id",
+  "field": "id"
+}, {
+  "label": "date",
+  "field": "AbsoluteScheduledDate"
+}, {
+  "label": "duration",
+  "field": "ScheduledDuration"
+}, {
+  "label": "composer",
+  "field": "Compositor.FullName"
+}, {
+  "label": "title",
+  "field": "LongTitle"
+}, {
+  "label": "album",
+  "field": "AlbumTitle"
+}, {
+  "label": "instrumental",
+  "field": "Instru"
+}, {
+  "label": "genre",
+  "field": "LibMusicalKind"
+}, {
+  "label": "interpreter",
+  "field": "Interpreter.FullName+Orchestra.EntityName+OrchestraLeader.FullName"
+}, {
+  "label": "mop",
+  "field": "Interpreter.mop+Orchestra.EntityType+OrchestraLeader.Profession"
+}]
