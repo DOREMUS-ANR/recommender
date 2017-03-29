@@ -29,6 +29,11 @@ class Record {
       if (!note || !note.includes(' : ')) continue;
       interpreter.mop = note.split(' : ', 2)[1];
     }
+
+    // AbsoluteScheduledDate and ScheduledTime should be merged
+    let date = this.AbsoluteScheduledDate,
+      time = this.ScheduledTime.substring(0, this.ScheduledTime.lastIndexOf(':'));
+    this.ScheduledDateTime = moment(`${date}T${time}`).format();
   }
 
   getInterpreters() {
@@ -51,7 +56,7 @@ class Record {
   }
 
   static get CSVHeader() {
-    return CSVFields.map((f)=> f.label).join(',');
+    return CSVFields.map((f) => f.label).join(',');
   }
 
   toCSV() {
@@ -63,7 +68,7 @@ class Record {
         let valueIsArray = Array.isArray(value);
         if (!subProp) return valueIsArray ? value.join(';') : value;
         return valueIsArray ? value.map((v) => v[subProp]).join(';') : value[subProp];
-      }).filter((e)=>!!e).join(';').replace(/[,\n]/, '');
+      }).filter((e) => !!e).join(';').replace(/[,\n]/, '');
     }).join(',');
   }
 }
@@ -89,7 +94,7 @@ function parseFieldValue(value, type, prop) {
     case 1: // string
       return value.trim();
     case 2: // date time
-      return moment(value, 'DD.MM.YYYY hh:mm:ss').format();
+      return moment(value, 'DD.MM.YYYY hh:mm:ss').format('YYYY-MM-DD');
     case 4: // int
       return parseInt(value);
     case 5: // int + reference table

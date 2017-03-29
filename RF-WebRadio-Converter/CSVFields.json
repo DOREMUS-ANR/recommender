@@ -2,8 +2,8 @@
   "label": "id",
   "field": "id"
 }, {
-  "label": "date",
-  "field": "AbsoluteScheduledDate"
+  "label": "datetime",
+  "field": "ScheduledDateTime"
 }, {
   "label": "duration",
   "field": "ScheduledDuration"
@@ -16,6 +16,9 @@
 }, {
   "label": "album",
   "field": "AlbumTitle"
+}, {
+  "label": "publication",
+  "field": "PublicationDate"
 }, {
   "label": "instrumental",
   "field": "Instru"
