@@ -1,0 +1,19 @@
+{
+  "name": "spotify-sniffer",
+  "version": "0.1.0",
+  "description": "Collect data about Spotify recommendation for research pourpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jshintConfig": {
+    "esversion": 6
+  },
+  "author": "Pasquale Lisena <pasquale.lisena@eurecom.fr> (http://pasqlisena.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.4",
+    "noop": "^0.2.2",
+    "spotify-web-api-node": "^2.3.6"
+  }
+}
