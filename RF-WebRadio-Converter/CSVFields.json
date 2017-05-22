@@ -1,34 +1,42 @@
 [{
-  "label": "id",
-  "field": "id"
-}, {
-  "label": "datetime",
-  "field": "ScheduledDateTime"
-}, {
-  "label": "duration",
-  "field": "ScheduledDuration"
-}, {
-  "label": "composer",
-  "field": "Compositor.FullName"
-}, {
-  "label": "title",
-  "field": "LongTitle"
-}, {
-  "label": "album",
-  "field": "AlbumTitle"
-}, {
-  "label": "publication",
-  "field": "PublicationDate"
-}, {
-  "label": "instrumental",
-  "field": "Instru"
-}, {
-  "label": "genre",
-  "field": "LibMusicalKind"
-}, {
-  "label": "interpreter",
-  "field": "Interpreter.FullName+Orchestra.EntityName+OrchestraLeader.FullName"
-}, {
-  "label": "mop",
-  "field": "Interpreter.mop+Orchestra.EntityType+OrchestraLeader.Profession"
-}]
+    "label": "id",
+    "field": "id"
+  }, {
+    "label": "datetime",
+    "field": "ScheduledDateTime"
+  }, {
+    "label": "duration",
+    "field": "ScheduledDuration"
+  }, {
+    "label": "composer",
+    "field": "Compositor.FullName"
+  }, {
+    "label": "title",
+    "field": "LongTitle"
+  }, {
+    "label": "album",
+    "field": "AlbumTitle"
+  }, {
+    "label": "publication",
+    "field": "PublicationDate"
+  }, {
+    "label": "instrumental",
+    "field": "Instru"
+  }, {
+    "label": "genre",
+    "field": "LibMusicalKind"
+  }, {
+    "label": "interpreter",
+    "field": "Interpreter.FullName+Orchestra.EntityName+OrchestraLeader.FullName"
+  }, {
+    "label": "mop",
+    "field": "Interpreter.mop+Orchestra.EntityType+OrchestraLeader.Profession"
+  },
+  {
+    "label": "best",
+    "field": "best"
+  }, {
+    "label": "best_matching_score",
+    "field": "best_matching_score"
+  }
+]

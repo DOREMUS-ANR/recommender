@@ -3,7 +3,7 @@ const path = require('path');
 const async = require('async');
 const xml2js = require('xml2js').Parser();
 const json2csv = require('json-2-csv').json2csv;
-
+const matcher = require('./matcher');
 const Record = require('./Record');
 
 let inputPath = path.join(__dirname, 'input');
@@ -23,6 +23,7 @@ fs.readdirSync(inputPath)
     var filePath = path.join(inputPath, fileName);
     parseFile(filePath)
       .then(processData, handleError)
+      .then(postProcessData, handleError)
       .then(writeOutput, handleError)
       .then(() => console.log('It\'s saved!'), handleError);
   });
@@ -38,6 +39,8 @@ function processData(data) {
 
     // the first record contains the description of the collection
     let objDescr = records.splice(0, 1)[0].FIELD;
+    let channel = objDescr.find(f => f.$.fieldID == '10526').VALUE[0];
+    console.log(channel);
     records = records.map((r, index) => {
       printProgress(`... record ${index + 1} / ${records.length}`);
       return new Record(r);
@@ -46,8 +49,37 @@ function processData(data) {
     console.log(' ... done');
     fullfilled({
       id: objID,
+      channel,
       records
     });
+  });
+}
+
+function postProcessData(json) {
+  console.log('PostProcessing data');
+  return new Promise(function(fullfilled, rejected) {
+    let {
+      records
+    } = json;
+
+    let index = 0;
+    async.eachSeries(records, (r, cb) => {
+      // printProgress(`... record ${++index} / ${records.length}`);
+      matcher(r, (err, bests) => {
+        if (bests && bests[0]) {
+          let best = bests[0];
+          if (best.score >= 10) {
+            r.best = best.expression;
+            r.best_matching_score = best.score.toFixed(2);
+          }
+        }
+        cb();
+      });
+    }, () => {
+      console.log(' ... done');
+      fullfilled(json);
+    });
+
   });
 }
 
@@ -73,21 +105,18 @@ function writeOutput(json) {
       },
       (callback) => {
         let output = path.join(outputPath, 'csv', json.id + '.csv');
-        let csv = Record.CSVHeader;
-        for (let r of json.records) csv += '\n' + r.toCSV();
+        let csv = 'channel,' + Record.CSVHeader;
+        for (let r of json.records) csv += '\n' + json.channel + ',' + r.toCSV();
         fs.writeFile(output, csv, callback);
       }
     ], (err, results) => {
       if (err) return rejected(err);
       fullfilled();
     });
-
-
   });
-
 }
 
-function handleError(er) {
+function handleError(error) {
   console.error(error);
 }
 
