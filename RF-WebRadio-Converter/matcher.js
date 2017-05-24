@@ -2,20 +2,36 @@ const SparqlClient = require('sparql-client2');
 const levenshtein = require('fast-levenshtein');
 const translitterify = require('translitterify');
 
+const debug = false;
 var client = new SparqlClient('http://data.doremus.org/sparql');
 var catalogs, artists;
-
-module.exports = function(record, cb) {
-  let title = record.LongTitle.toLowerCase(),
-    composer = record.Compositor && record.Compositor.FullName;
+const PROPS = [{
+  name: 'opus,opusSub',
+  weight: 90
+}, {
+  name: 'orderNum',
+  weight: 70
+}, {
+  name: 'catLabel,catNum',
+  weight: 15
+}, {
+  name: 'key',
+  weight: 18
+}, {
+  name: 'title',
+  weight: 10,
+  custom: true
+}];
+module.exports = function(composer, title, cb) {
 
   getArtists().then(getCatalogs).then(() => {
     if (!composer) return cb();
-    console.log('\n\n***', composer, '|', title);
+    // if (composer.toLowerCase() != 'johannes brahms') return cb();
+
     let compPlain = translitterify(composer).replace('-', ' ');
     let composerUri = artists.find(a => a.label.toLowerCase() == compPlain.toLowerCase());
     if (!composerUri) {
-      console.warn('Artist not in the db');
+      if(debug) console.warn('\n\nArtist not in the db : ' + composer);
       return cb();
     }
     composerUri = composerUri.uri;
@@ -54,65 +70,75 @@ module.exports = function(record, cb) {
       // console.log(tokens);
 
       let t = tokens;
+
       bindings.forEach(b => {
-        let score = 0;
+        // compute Extended Jaccard Measure (modified)
         let matches = [];
-        if (t.opus) {
-          let sameOpus = t.opus == b.opus;
-          let sameOpusSub = t.opusSub == t.opusSub;
-          if (sameOpus && sameOpusSub) {
-            score += 20;
-            matches.push('opus');
-          }
-        }
+        let shared = [];
+        let unique_t = [];
+        let unique_b = [];
 
-        if (t.orderNum && t.orderNum == b.orderNum) {
-          score += 20;
-          matches.push('orderNum');
-        }
+        PROPS.forEach(prop => {
+          if (prop.custom) return;
 
-        if (t.catLabel) {
-          let sameCatLabel = t.catLabel == b.catLabel;
-          let sameCatNum = t.catNum == b.catNum;
-          if (sameCatLabel && sameCatNum) {
-            score += 7;
+          let propParts = prop.name.split(',');
+          let p = propParts.slice(0, 1);
 
-            matches.push('catalog');
-          }
-        }
+          if (!t[p]) return; // unique_b.push({ prop, value: 0.2 });
+          if (!b[p]) return; // unique_t.push({ prop, value: 0.6 });
 
-        if (t.key && t.key == b.key) {
-          score += 5;
-          matches.push('key');
-
-        }
+          let isDiff = propParts.some(p => t[p] != b[p]); // jshint ignore:line
+          if (!isDiff)
+            matches.push({
+              prop,
+              value: 1
+            });
+          shared.push({
+            prop,
+            value: 1
+          });
+        });
 
         let titleSimilarity = Math.max(
-          (t.title.length - levenshtein.get(t.title, b.title)) / t.title.length,
-          (title.length - levenshtein.get(title, b.title)) / title.length
+          stringSimilarity(t.title, b.title),
+          stringSimilarity(t.title + t.movement, b.title),
+          stringSimilarity(t.title.split(',')[0], b.title),
+          stringSimilarity(title.split(',')[0], b.title),
+          stringSimilarity(title, b.title)
         );
+        let titleProp = PROPS.find(p => p.name == 'title');
+        matches.push({
+          prop: titleProp,
+          value: titleSimilarity
+        });
+        shared.push({
+          prop: titleProp,
+          value: 1
+        });
 
-        score += titleSimilarity * 10;
-        b.score = score;
-        b.matches = matches;
-        b.titleDiff = titleSimilarity;
-        // let full = b.full.value.toLowerCase();
-        //
-        // let fullMatch = intersection(title.split(' '), full.split(' '));
-        // b.matches = fullMatch; // matches in the title counts double
-        // b.score = fullMatch.length; // matches in the title counts double
+        let s_match = matches.reduce(weightedSum, 0);
+        let s_shared = shared.reduce(weightedSum, 0);
+        let s_unique_t = unique_t.reduce(weightedSum, 0);
+        let s_unique_b = unique_b.reduce(weightedSum, 0);
+
+        b.score = s_match / (s_shared + s_unique_b + s_unique_t);
+        b.matches = matches.map(m => m.value + '|' + m.prop.name);
+        b.shared = shared.map(m => m.prop.name);
       });
 
       bindings.sort((a, b) => b.score - a.score);
       let bests = bindings.slice(0, 3);
 
-      // for (let i of [0, 1, 2]) {
-      //   b = bests[i];
-      //   if (b) {
-      //     console.log(b.score, b.title, b.expression);
-      //     console.log(b.matches, b.titleDiff);
-      //   }
-      // }
+      if (debug) {
+        console.log('\n\n***', composer, '|', title);
+        for (let i of [0, 1, 2]) {
+          b = bests[i];
+          if (b) {
+            console.log(b.score, b.title, b.expression);
+            console.log(b.matches, b.shared);
+          }
+        }
+      }
       cb(null, bests);
     }, (err) => {
       handleError(err);
@@ -124,7 +150,7 @@ module.exports = function(record, cb) {
 function extractTokens(title, composerUri) {
   // opus number
   let opus, opusSub;
-  let opusRegex = / op\.? (posth|\d+[a-z]*)(?: n[°º](\d+))?/;
+  let opusRegex = / op[. ] ?(posth|\d+[a-z]*)(?: n[°º](\d+))?/;
   let opusMatch = opusRegex.exec(title);
   if (opusMatch) {
     opus = opusMatch[1];
@@ -135,7 +161,7 @@ function extractTokens(title, composerUri) {
 
   // order number
   let orderNum;
-  let orderNumRegex = /(?: n[°º](\d+))/;
+  let orderNumRegex = /(?: n(?:[°º]|o\.?) ?(\d+))/;
   let orderNumMatch = orderNumRegex.exec(title);
   if (orderNumMatch) {
     orderNum = orderNumMatch[1];
@@ -145,6 +171,7 @@ function extractTokens(title, composerUri) {
   // key
   let key;
   let keyRegex = / en (.+ (maj|min))/;
+  let engKeyRegex = / in (.+ (maj|min)(or)?)/;
   let keyMatch = keyRegex.exec(title);
   if (keyMatch) {
     key = keyMatch[1]
@@ -152,24 +179,30 @@ function extractTokens(title, composerUri) {
       .replace('min', 'mineur')
       .replace(/^ut/, 'do');
     title = title.replace(keyMatch[0], '');
+  } else {
+    keyMatch = engKeyRegex.exec(title);
+    if (keyMatch) {
+      key = keyMatch[1].replace('-', ' ');
+      title = title.replace(keyMatch[0], '');
+    }
   }
 
   // movement
   let movement;
-  let mvtRegex = / : (.+)/;
+  let mvtRegex = /: (.+)/;
   let mvtMatch = mvtRegex.exec(title);
   if (mvtMatch) {
     movement = mvtMatch[1];
-    title = title.replace(mvtMatch[0], '');
+    title = title.replace(mvtMatch[0], '').trim();
   }
 
   // subtitle (can contain casting!)
   let subtitle;
-  let sbtRegex = / - (.+)/;
+  let sbtRegex = /- (.+)/;
   let sbtMatch = sbtRegex.exec(title);
   if (sbtMatch) {
     subtitle = sbtMatch[1];
-    title = title.replace(sbtMatch[0], '');
+    title = title.replace(sbtMatch[0], '').trim();
   }
 
   // catalogs
@@ -178,7 +211,7 @@ function extractTokens(title, composerUri) {
   if (composerUri) catObj = catalogs.find(c => c.artist == composerUri);
 
   if (catObj) {
-    let catRegex = new RegExp(` (${catObj.code.join('|')}) (.+)`, 'i');
+    let catRegex = new RegExp(` (${catObj.code.join('|')})\.? (.+)`, 'i');
     let catMatch = catRegex.exec(title);
     if (catMatch) {
       catLabel = catMatch[1];
@@ -186,6 +219,8 @@ function extractTokens(title, composerUri) {
       title = title.replace(catMatch[0], '');
     }
   }
+
+  title = title.replace(/, ?$/, '').trim();
 
   return {
     title,
@@ -257,4 +292,13 @@ function getCatalogs() {
       code: b.ids.value.split(',')
     }));
   });
+}
+
+function stringSimilarity(a, b) {
+  return (a.length - levenshtein.get(a, b)) / a.length;
+}
+
+function weightedSum(acc, cur) {
+  let score = cur.prop.weight * cur.value;
+  return acc + score;
 }

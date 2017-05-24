@@ -1,36 +1,21 @@
 const fs = require('fs'),
   async = require('async'),
   noop = require('noop'),
-  SpotifyWebApi = require('spotify-web-api-node');
+  spotifyAuth = require('./spotifyAuth');
 
 const config = require('./config.json');
 
-// credentials are optional
-const spotifyApi = new SpotifyWebApi({
-  clientId: config.clientId,
-  clientSecret: config.clientSecret,
-  redirectUri: 'http://www.example.com/callback'
-});
 
 var {
   seeds
 } = config;
 
-// Retrieve an access token
-spotifyApi.clientCredentialsGrant()
-  .then(function(data) {
-    console.log('The access token expires in ' + data.body.expires_in);
-    console.log('The access token is ' + data.body.access_token);
+var spotifyApi;
+spotifyAuth.login(run);
 
-    // Save the access token so that it's used in future calls
-    spotifyApi.setAccessToken(data.body.access_token);
-
-    run();
-  }, function(err) {
-    console.error('Something went wrong when retrieving an access token', err.message);
-  });
-
-function run() {
+function run(err, api) {
+  if (err) return;
+  spotifyApi = api;
   async.map(seeds, (seed, callback) => {
 
     spotifyApi.searchTracks(seed, {
@@ -118,6 +103,8 @@ function getArtistsInfo(artistIds, previousData = [], callback = noop) {
 }
 
 function filterFeatures(array) {
+  console.log(array[0]);
+
   return array.map((input) => {
     var output = {
       id: input.id,

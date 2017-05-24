@@ -15,18 +15,20 @@ for (let subFolder of ['json', 'csv']) {
   if (!fs.existsSync(subpath)) fs.mkdirSync(subpath);
 }
 
-fs.readdirSync(inputPath)
-  .forEach((fileName) => {
-    if (path.extname(fileName) != '.xml') return console.log('Skipping not xml file: ' + fileName);
+async.eachSeries(fs.readdirSync(inputPath), (fileName, callback) => {
+  if (path.extname(fileName) != '.xml') return console.log('Skipping not xml file: ' + fileName);
 
-    console.log('Parsing file ' + fileName);
-    var filePath = path.join(inputPath, fileName);
-    parseFile(filePath)
-      .then(processData, handleError)
-      .then(postProcessData, handleError)
-      .then(writeOutput, handleError)
-      .then(() => console.log('It\'s saved!'), handleError);
-  });
+  console.log('Parsing file ' + fileName);
+  var filePath = path.join(inputPath, fileName);
+  parseFile(filePath)
+    .then(processData, handleError)
+    .then(postProcessData, handleError)
+    .then(writeOutput, handleError)
+    .then(() => {
+      console.log('It\'s saved!');
+      callback();
+    }, handleError);
+});
 
 function processData(data) {
   console.log('Processing data');
@@ -65,7 +67,12 @@ function postProcessData(json) {
     let index = 0;
     async.eachSeries(records, (r, cb) => {
       // printProgress(`... record ${++index} / ${records.length}`);
-      matcher(r, (err, bests) => {
+      let title = r.LongTitle.toLowerCase(),
+        composer = r.Compositor && r.Compositor.FullName;
+
+      printProgress(`... record ${index + 1} / ${records.length}`);
+
+      matcher(composer, title, (err, bests) => {
         if (bests && bests[0]) {
           let best = bests[0];
           if (best.score >= 10) {
@@ -77,6 +84,7 @@ function postProcessData(json) {
       });
     }, () => {
       console.log(' ... done');
+      console.log('Total matched: ' + json.records.filter(r => r.best).length);
       fullfilled(json);
     });
 
@@ -97,6 +105,7 @@ function parseFile(file) {
 }
 
 function writeOutput(json) {
+  console.log('Write output');
   return new Promise(function(fullfilled, rejected) {
     async.parallel([
       (callback) => {
