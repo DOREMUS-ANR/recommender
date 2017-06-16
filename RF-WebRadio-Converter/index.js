@@ -70,12 +70,12 @@ function postProcessData(json) {
       let title = r.LongTitle.toLowerCase(),
         composer = r.Compositor && r.Compositor.FullName;
 
-      printProgress(`... record ${index + 1} / ${records.length}`);
+      printProgress(`... record ${++index} / ${records.length}`);
 
       matcher(composer, title, (err, bests) => {
         if (bests && bests[0]) {
           let best = bests[0];
-          if (best.score >= 10) {
+          if (best.score >= 0.7) {
             r.best = best.expression;
             r.best_matching_score = best.score.toFixed(2);
           }
@@ -84,7 +84,9 @@ function postProcessData(json) {
       });
     }, () => {
       console.log(' ... done');
-      console.log('Total matched: ' + json.records.filter(r => r.best).length);
+      json.total = json.records.length;
+      json.matched = json.records.filter(r => r.best).length;
+      console.log('Matched: ' + json.matched + "/" + json.total);
       fullfilled(json);
     });
 
