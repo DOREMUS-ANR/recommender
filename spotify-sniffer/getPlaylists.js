@@ -19,7 +19,8 @@ const config = require('./config.json');
 
 
 var {
-  playlists
+  playlists,
+  full
 } = config;
 
 var spotifyApi;
@@ -29,6 +30,9 @@ function run(err, api) {
   if (err) return;
   spotifyApi = api;
   async.map(playlists, (playlist, callback) => {
+    if(!full && fs.existsSync(`output/playlists/${playlist.id}.json`)){
+      return callback();
+    }
     spotifyApi.getPlaylist(playlist.user, playlist.id)
       .then((data) => {
         data = data.body;
@@ -61,6 +65,7 @@ function run(err, api) {
           else {
             let matched = playlist.tracks.filter(t=>t.best).length;
             playlist.n_matched = matched;
+            playlist.n_total = playlist.tracks.length;
             console.log(`Playlist ${playlist.id} "${playlist.name}"
             matched: ${matched}`);
             fs.writeFileSync(`output/playlists/${playlist.id}.json`, JSON.stringify(playlist, null, 2));
