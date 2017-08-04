@@ -1940,7 +1940,9 @@
         "Profession": "Interprète",
         "InterventionNote": "Duke Ellington And His Orchestra"
       },
-      "ScheduledDateTime": "2017-05-22T02:42:54+02:00"
+      "ScheduledDateTime": "2017-05-22T02:42:54+02:00",
+      "best": "http://data.doremus.org/expression/b5396267-fe11-3c54-a16e-df17ca5cb574",
+      "best_matching_score": "0.90"
     },
     {
       "id": "47",
@@ -2965,7 +2967,9 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2017-05-22T04:03:13+02:00"
+      "ScheduledDateTime": "2017-05-22T04:03:13+02:00",
+      "best": "http://data.doremus.org/expression/02edc1ed-3020-3b7c-b977-826b32956131",
+      "best_matching_score": "1.00"
     },
     {
       "id": "73",
@@ -3392,7 +3396,9 @@
           "mop": "Batterie"
         }
       ],
-      "ScheduledDateTime": "2017-05-22T04:42:14+02:00"
+      "ScheduledDateTime": "2017-05-22T04:42:14+02:00",
+      "best": "http://data.doremus.org/expression/65e8936f-dd26-353d-a839-f1f018cc3d33",
+      "best_matching_score": "1.00"
     },
     {
       "id": "83",
@@ -3595,7 +3601,9 @@
         "Profession": "Interprète",
         "InterventionNote": "Booty Wood"
       },
-      "ScheduledDateTime": "2017-05-22T05:05:06+02:00"
+      "ScheduledDateTime": "2017-05-22T05:05:06+02:00",
+      "best": "http://data.doremus.org/expression/4c62bdc1-86bc-3830-8d0f-71d898494f7a",
+      "best_matching_score": "1.00"
     },
     {
       "id": "88",
@@ -8176,7 +8184,9 @@
           "mop": "Clavecin"
         }
       ],
-      "ScheduledDateTime": "2017-05-22T12:33:55+02:00"
+      "ScheduledDateTime": "2017-05-22T12:33:55+02:00",
+      "best": "http://data.doremus.org/expression/cefe2e37-4a54-390a-bea8-b46c854db192",
+      "best_matching_score": "1.00"
     },
     {
       "id": "198",
@@ -9039,7 +9049,9 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2017-05-22T13:47:21+02:00"
+      "ScheduledDateTime": "2017-05-22T13:47:21+02:00",
+      "best": "http://data.doremus.org/expression/b0763e93-fa80-31aa-91df-1af7defec741",
+      "best_matching_score": "0.91"
     },
     {
       "id": "217",
@@ -13927,5 +13939,7 @@
       ],
       "ScheduledDateTime": "2017-05-22T20:56:23+02:00"
     }
-  ]
+  ],
+  "total": 240,
+  "matched": 6
 }

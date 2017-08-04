@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.1.4",
-    "noop": "^0.2.2",
+    "jsonfile": "^3.0.0",
+    "node-noop": "^1.0.0",
     "spotify-web-api-node": "^2.3.6",
     "tsv": "^0.2.0"
   }

@@ -29,8 +29,10 @@ spotifyAuth.login(run);
 function run(err, api) {
   if (err) return;
   spotifyApi = api;
+
   async.map(playlists, (playlist, callback) => {
-    if(!full && fs.existsSync(`output/playlists/${playlist.id}.json`)){
+    let outPath =`output/playlists/json/${playlist.id}.json`;
+    if(!full && fs.existsSync(outPath)){
       return callback();
     }
     spotifyApi.getPlaylist(playlist.user, playlist.id)
@@ -68,7 +70,7 @@ function run(err, api) {
             playlist.n_total = playlist.tracks.length;
             console.log(`Playlist ${playlist.id} "${playlist.name}"
             matched: ${matched}`);
-            fs.writeFileSync(`output/playlists/${playlist.id}.json`, JSON.stringify(playlist, null, 2));
+            fs.writeFileSync(outPath, JSON.stringify(playlist, null, 2));
           }
           callback(err, playlist);
         });
