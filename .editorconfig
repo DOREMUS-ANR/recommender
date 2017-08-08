@@ -10,3 +10,6 @@ trim_trailing_whitespace = true
 
 [*.json]
 insert_final_newline = false
+
+[*.py]
+indent_size = 4
