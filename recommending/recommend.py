@@ -1,16 +1,18 @@
 #!/usr/bin/python
 
 import argparse
-import sys
 import re
-import numpy as np
 import subprocess
+import sys
 from concurrent.futures import ThreadPoolExecutor as Pool
 
-from recommending.entity2entity import Entity2Rec
+import numpy as np
+
+from recommender.entity2entity import Entity2Rec
 
 ranklib_res = False
 emb_file_path = False
+
 
 # todo create training mode
 
@@ -28,6 +30,7 @@ def create_connection_file(exp):
 
     with open("all_expressions.txt") as all_exp_file:
         all_exp = all_exp_file.read()
+        # remove last empty line
         if not all_exp[-1]:
             all_exp = all_exp[:-1]
 
@@ -49,8 +52,10 @@ def emb2score(e):
     return np.mean(e)
 
 
-def main(exp):
-    id = exp[exp.rfind('/') + 1:]
+def main(args):
+    exp = args.expression
+    properties = args.properties if args.properties else './properties.json'
+    seed_id = exp[exp.rfind('/') + 1:]
 
     print("create connection file")
     create_connection_file(exp)
@@ -58,9 +63,9 @@ def main(exp):
     # TODO parametrize folders
     print("run e2rec")
     rec = Entity2Rec(False, False, False, 1, 1, 10, 5,
-                     500, 10, 8, 5, '/Users/pasquale/git/entity2rec/config/properties.json', False,
+                     500, 10, 8, 5, properties, False,
                      'doremus', 'all', False,
-                     '/Users/pasquale/git/recommender/recommending/all_connections/%s.edgelist' % id,
+                     './all_connections/%s.edgelist' % seed_id,
                      '/Users/pasquale/git/recommender/spotify-sniffer/output/playlists/e2e/test.dat',
                      False, False,
                      '/Users/pasquale/git/recommender/spotify-sniffer/output/playlists/e2e/feedback.edgelist')
@@ -69,21 +74,21 @@ def main(exp):
 
     global ranklib_res
     global emb_file_path
-    emb_file_path = 'features/doremus/p1_q1/%s_p1_q1.svm' % id
-    ranklib_res = 'ranklib_results/%s.txt' % id
+    emb_file_path = 'features/doremus/p1_q1/%s_p1_q1.svm' % seed_id
+    ranklib_res = 'ranklib_results/%s.txt' % seed_id
 
     #  todo generalize
     print("run ranklib")
     ranklib_cmd = 'java -jar /Users/pasquale/git/RankLib/bin/RankLib.jar' \
-                  ' -load /Users/pasquale/git/RankLib/model_4.txt -rank %s -score %s' \
+                  ' -load models/model_combined.txt -rank %s -score %s' \
                   % (emb_file_path, ranklib_res)
 
     pool = Pool(max_workers=1)
     f = pool.submit(subprocess.call, ranklib_cmd, shell=True)
-    f.add_done_callback(process_recommendation)
+    f.add_done_callback(lambda x: process_recommendation(seed_id))
 
 
-def process_recommendation(self):
+def process_recommendation(seed_id):
     with open("all_expressions.txt") as all_exp_file:
         all_exp = all_exp_file.read().split("\n")
         if not all_exp[-1]:
@@ -97,6 +102,20 @@ def process_recommendation(self):
     with open(emb_file_path) as emb_file:
         emb = [parse_features(line) for line in emb_file.read().strip().split("\n")]
 
+    # feature by feature
+    for i in range(0, len(emb[0])):
+        feat_scoring = []
+        for exp in enumerate(all_exp):
+            j = exp[0]
+            uri = exp[1]
+            if uri != 'http://data.doremus.org/expression/' + seed_id:
+                feat_scoring.append(ScoredExpression(uri, emb[j][i]))
+        feat_scoring.sort(key=lambda s: s.scoring, reverse=True)
+
+        with open('scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
+            output.write('\n'.join([str(e) for e in feat_scoring]))
+
+    # combined
     emb_score = [emb2score(e) for e in emb]
     score[:] = [float(re.sub(r'^\d+\t\d+\t', '', s).strip()) for s in score]
 
@@ -107,17 +126,28 @@ def process_recommendation(self):
 
     score_exp.sort(key=lambda s: s.scoring, reverse=True)
     print("\n".join([str(s) for s in score_exp[0:15]]))
-    with open('scoring/%s.tsv' % id, 'w') as output:
+    with open('scoring/%s_combined.tsv' % seed_id, 'w') as output:
         output.write('\n'.join([str(s) for s in score_exp]))
+
+
+def str2bool(v):
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("-exp", "--expression", help="expression to be used as a seed for the recommendation")
+    parser.add_argument("-exp", "--expression", help="The expression to be used as seed of the recommendation")
+    parser.add_argument("--properties", nargs='?', default='./properties.json', help="Run in training mode.")
+
     args = parser.parse_args()
 
     if not hasattr(args, 'expression'):
         print('The `expression` option is required')
         sys.exit(1)
 
-    main(args.expression)
+    main(args)
