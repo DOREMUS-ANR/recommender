@@ -22,26 +22,22 @@ def main(args):
     properties.append('combined')
 
     # TODO parametrize folders
-    for p in properties:
-        print("run e2rec for property %s" % p)
+    rec = Entity2Rec(False, False, False, 1, 1, 10, 5,
+                     500, 10, 8, 5, properties_path, False, 'doremus', 'all', False,
+                     args.train, args.test, False, False, args.feedback_file)
+    # todo version with run all
+    rec.run(False)
 
-        cur_prop = properties_path if p == 'combined' else [p]
-        rec = Entity2Rec(False, False, False, 1, 1, 10, 5,
-                         500, 10, 8, 5, cur_prop, False, 'doremus', 'all', False,
-                         args.train, args.test, False, False, args.feedback_file)
-        # todo version with run all
-        rec.run(False)
+    emb_file_train = 'features/doremus/p1_q1/%s_p1_q1.svm' % train_name
+    emb_file_test = 'features/doremus/p1_q1/%s_p1_q1.svm' % test_name
 
-        emb_file_train = 'features/doremus/p1_q1/%s_p1_q1.svm' % train_name
-        emb_file_test = 'features/doremus/p1_q1/%s_p1_q1.svm' % test_name
-
-        loop = asyncio.get_event_loop()
-        loop.run_until_complete(compute_ranklib(p, emb_file_train, emb_file_test))
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(compute_ranklib(p, emb_file_train, emb_file_test))
 
 
 async def compute_ranklib(cur_prop, emb_file_train, emb_file_test):
     cp = cur_prop.split(':')[-1]
-    ranklib_cmd = 'java -jar /Users/pasquale/git/RankLib/bin/RankLib.jar' \
+    ranklib_cmd = 'java -jar bin/RankLib.jar' \
                   ' -save models/model_%s.txt -train %s -test %s' \
                   ' -ranker 6 -metric2t P@10 -tvs 0.9' \
                   % (cp, emb_file_train, emb_file_test)

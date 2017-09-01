@@ -4,6 +4,7 @@ import argparse
 import re
 import subprocess
 import sys
+from types import SimpleNamespace
 from concurrent.futures import ThreadPoolExecutor as Pool
 
 import numpy as np
@@ -13,6 +14,7 @@ from recommender.entity2entity import Entity2Rec
 ranklib_res = False
 emb_file_path = False
 
+num_to_save = 20
 
 # todo create training mode
 
@@ -34,7 +36,7 @@ def create_connection_file(exp):
         if not all_exp[-1]:
             all_exp = all_exp[:-1]
 
-    with open("all_connections/%s.edgelist" % epx_id, "w") as output:
+    with open("/data/all_connections/%s.edgelist" % epx_id, "w") as output:
         out = re.sub(r"^", exp + " ", all_exp, 0, re.MULTILINE)
         out = re.sub(r"$", " 0 0", out, 0, re.MULTILINE)
         output.write(out)
@@ -53,8 +55,11 @@ def emb2score(e):
 
 
 def main(args):
+    if type(args) == dict:
+        args = SimpleNamespace(**args)
+
     exp = args.expression
-    properties = args.properties if args.properties else './properties.json'
+    properties = args.properties if hasattr(args, 'properties') else './properties.json'
     seed_id = exp[exp.rfind('/') + 1:]
 
     print("create connection file")
@@ -65,22 +70,22 @@ def main(args):
     rec = Entity2Rec(False, False, False, 1, 1, 10, 5,
                      500, 10, 8, 5, properties, False,
                      'doremus', 'all', False,
-                     './all_connections/%s.edgelist' % seed_id,
-                     '/Users/pasquale/git/recommender/spotify-sniffer/output/playlists/e2e/test.dat',
+                     '/data/all_connections/%s.edgelist' % seed_id,
+                     '/data/e2e/test.dat',
                      False, False,
-                     '/Users/pasquale/git/recommender/spotify-sniffer/output/playlists/e2e/feedback.edgelist')
+                     '/data/e2e/feedback.edgelist')
     # todo version with run all
     rec.run(False)
 
     global ranklib_res
     global emb_file_path
     emb_file_path = 'features/doremus/p1_q1/%s_p1_q1.svm' % seed_id
-    ranklib_res = 'ranklib_results/%s.txt' % seed_id
+    ranklib_res = '/data/ranklib_results/%s.txt' % seed_id
 
     #  todo generalize
     print("run ranklib")
-    ranklib_cmd = 'java -jar /Users/pasquale/git/RankLib/bin/RankLib.jar' \
-                  ' -load models/model_combined.txt -rank %s -score %s' \
+    ranklib_cmd = 'java -jar /bin/RankLib.jar' \
+                  ' -load /data/models/model_combined.txt -rank %s -score %s' \
                   % (emb_file_path, ranklib_res)
 
     pool = Pool(max_workers=1)
@@ -112,8 +117,8 @@ def process_recommendation(seed_id):
                 feat_scoring.append(ScoredExpression(uri, emb[j][i]))
         feat_scoring.sort(key=lambda s: s.scoring, reverse=True)
 
-        with open('scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
-            output.write('\n'.join([str(e) for e in feat_scoring]))
+        with open('/data/scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
+            output.write('\n'.join([str(e) for e in feat_scoring[0:20]]))
 
     # combined
     emb_score = [emb2score(e) for e in emb]
@@ -126,8 +131,8 @@ def process_recommendation(seed_id):
 
     score_exp.sort(key=lambda s: s.scoring, reverse=True)
     print("\n".join([str(s) for s in score_exp[0:15]]))
-    with open('scoring/%s_combined.tsv' % seed_id, 'w') as output:
-        output.write('\n'.join([str(s) for s in score_exp]))
+    with open('/data/scoring/%s_combined.tsv' % seed_id, 'w') as output:
+        output.write('\n'.join([str(s) for s in score_exp[0:20]]))
 
 
 def str2bool(v):
