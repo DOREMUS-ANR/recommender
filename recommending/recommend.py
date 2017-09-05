@@ -5,6 +5,7 @@ import re
 import subprocess
 import sys
 from types import SimpleNamespace
+import os
 from concurrent.futures import ThreadPoolExecutor as Pool
 
 import numpy as np
@@ -16,6 +17,8 @@ emb_file_path = False
 
 num_to_save = 20
 
+curDir = '/'.join(str(__file__).split('/')[:-1])
+os.chdir(curDir)
 # todo create training mode
 
 class ScoredExpression:
@@ -36,7 +39,7 @@ def create_connection_file(exp):
         if not all_exp[-1]:
             all_exp = all_exp[:-1]
 
-    with open("/data/all_connections/%s.edgelist" % epx_id, "w") as output:
+    with open("data/all_connections/%s.edgelist" % epx_id, "w") as output:
         out = re.sub(r"^", exp + " ", all_exp, 0, re.MULTILINE)
         out = re.sub(r"$", " 0 0", out, 0, re.MULTILINE)
         output.write(out)
@@ -70,22 +73,22 @@ def main(args):
     rec = Entity2Rec(False, False, False, 1, 1, 10, 5,
                      500, 10, 8, 5, properties, False,
                      'doremus', 'all', False,
-                     '/data/all_connections/%s.edgelist' % seed_id,
-                     '/data/e2e/test.dat',
+                     'data/all_connections/%s.edgelist' % seed_id,
+                     'data/e2e/test.dat',
                      False, False,
-                     '/data/e2e/feedback.edgelist')
+                     'data/e2e/feedback.edgelist')
     # todo version with run all
     rec.run(False)
 
     global ranklib_res
     global emb_file_path
     emb_file_path = 'features/doremus/p1_q1/%s_p1_q1.svm' % seed_id
-    ranklib_res = '/data/ranklib_results/%s.txt' % seed_id
+    ranklib_res = 'data/ranklib_results/%s.txt' % seed_id
 
     #  todo generalize
     print("run ranklib")
-    ranklib_cmd = 'java -jar /bin/RankLib.jar' \
-                  ' -load /data/models/model_combined.txt -rank %s -score %s' \
+    ranklib_cmd = 'java -jar bin/RankLib.jar' \
+                  ' -load data/models/model_combined.txt -rank %s -score %s' \
                   % (emb_file_path, ranklib_res)
 
     pool = Pool(max_workers=1)
@@ -117,7 +120,7 @@ def process_recommendation(seed_id):
                 feat_scoring.append(ScoredExpression(uri, emb[j][i]))
         feat_scoring.sort(key=lambda s: s.scoring, reverse=True)
 
-        with open('/data/scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
+        with open('data/scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
             output.write('\n'.join([str(e) for e in feat_scoring[0:20]]))
 
     # combined
@@ -131,7 +134,7 @@ def process_recommendation(seed_id):
 
     score_exp.sort(key=lambda s: s.scoring, reverse=True)
     print("\n".join([str(s) for s in score_exp[0:15]]))
-    with open('/data/scoring/%s_combined.tsv' % seed_id, 'w') as output:
+    with open('data/scoring/%s_combined.tsv' % seed_id, 'w') as output:
         output.write('\n'.join([str(s) for s in score_exp[0:20]]))
 
 
