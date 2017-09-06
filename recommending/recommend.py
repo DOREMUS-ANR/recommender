@@ -18,7 +18,11 @@ emb_file_path = False
 num_to_save = 20
 
 curDir = '/'.join(str(__file__).split('/')[:-1])
+if curDir == '':
+    curDir = '/'
 os.chdir(curDir)
+
+
 # todo create training mode
 
 class ScoredExpression:

@@ -9,4 +9,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 CMD ["export","LC_ALL=en_US.UTF-8"]
 CMD ["export","LANG=en_US.UTF-8"]
 
-ENTRYPOINT ["FLASK_APP=server.py", "flask", "run"]
+ENTRYPOINT ["python"]
+CMD ["server.py"]
