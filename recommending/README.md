@@ -27,3 +27,14 @@ Parameters (the ones marked with **\*** are required):
 |--------------------------|--------|-------------------|-------------|
 | `--expression` **\***    | `-exp` |                   | The expression to be used as seed of the recommendation. |
 | `--properties`           |        | ./properties.json | The properties file to pass to _entity2vec_ |
+
+
+## Docker
+
+Build
+
+    docker build -t doremus/recommender .
+
+Run
+
+    docker run -d --restart=unless-stopped  -v /var/docker/doremus/recommender/recommending/data:/data -v /var/docker/doremus/recommender/recommending/emb:/emb -v /var/docker/doremus/recommender/recommending/features:/features --network doremus --name recommender doremus/recommender

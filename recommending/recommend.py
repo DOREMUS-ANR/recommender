@@ -141,6 +141,8 @@ def process_recommendation(seed_id):
     with open('data/scoring/%s_combined.tsv' % seed_id, 'w') as output:
         output.write('\n'.join([str(s) for s in score_exp[0:20]]))
 
+    os.fsync(2)
+
 
 def str2bool(v):
     if v.lower() in ('yes', 'true', 't', 'y', '1'):
