@@ -6,7 +6,7 @@ import subprocess
 import sys
 from types import SimpleNamespace
 import os
-from concurrent.futures import ThreadPoolExecutor as Pool
+from concurrent.futures import as_completed, ThreadPoolExecutor as Pool
 
 import numpy as np
 
@@ -26,12 +26,15 @@ os.chdir(curDir)
 # todo create training mode
 
 class ScoredExpression:
-    def __init__(self, uri, scoring):
+    def __init__(self, uri, score):
         self.uri = uri
-        self.scoring = scoring
+        self.score = score
+
+    def toJSON(self):
+        return {'uri': self.uri, 'score': self.score}
 
     def __str__(self):
-        return self.uri + '\t' + str(self.scoring)
+        return self.uri + '\t' + str(self.score)
 
 
 def writeFile(file, content):
@@ -103,7 +106,8 @@ def main(args):
 
     pool = Pool(max_workers=1)
     f = pool.submit(subprocess.call, ranklib_cmd, shell=True)
-    f.add_done_callback(lambda x: process_recommendation(seed_id))
+    for future in as_completed([f]):
+        return process_recommendation(seed_id)
 
 
 def process_recommendation(seed_id):
@@ -120,6 +124,8 @@ def process_recommendation(seed_id):
     with open(emb_file_path) as emb_file:
         emb = [parse_features(line) for line in emb_file.read().strip().split("\n")]
 
+    recs = []
+
     # feature by feature
     for i in range(0, len(emb[0])):
         feat_scoring = []
@@ -128,10 +134,16 @@ def process_recommendation(seed_id):
             uri = exp[1]
             if uri != 'http://data.doremus.org/expression/' + seed_id:
                 feat_scoring.append(ScoredExpression(uri, emb[j][i]))
-        feat_scoring.sort(key=lambda s: s.scoring, reverse=True)
+        feat_scoring.sort(key=lambda s: s.score, reverse=True)
 
+        content = '\n'.join([str(e) for e in feat_scoring[0:20]]);
         with open('data/scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
-            writeFile(output, '\n'.join([str(e) for e in feat_scoring[0:20]]))
+            writeFile(output, content)
+
+        recs.append({
+            'code': i,
+            'recommendation': [e.toJSON() for e in feat_scoring[0:20]]
+        })
 
     # combined
     emb_score = [emb2score(e) for e in emb]
@@ -142,10 +154,19 @@ def process_recommendation(seed_id):
         i = exp[0]
         score_exp.append(ScoredExpression(exp[1], score[i] + 2 * emb_score[i]))
 
-    score_exp.sort(key=lambda s: s.scoring, reverse=True)
+    score_exp.sort(key=lambda s: s.score, reverse=True)
     print("\n".join([str(s) for s in score_exp[0:15]]))
+
+    content = '\n'.join([str(s) for s in score_exp[0:20]])
     with open('data/scoring/%s_combined.tsv' % seed_id, 'w') as output:
-        writeFile(output, ('\n'.join([str(s) for s in score_exp[0:20]])))
+        writeFile(output, content)
+
+    recs.append({
+        'code': 'combined',
+        'recommendation': [s.toJSON() for s in score_exp[0:20]]
+    })
+
+    return recs
 
 
 def str2bool(v):
