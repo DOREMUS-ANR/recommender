@@ -34,6 +34,12 @@ class ScoredExpression:
         return self.uri + '\t' + str(self.scoring)
 
 
+def writeFile(file, content):
+    file.write(content)
+    file.flush()
+    os.fsync(f.fileno())
+
+
 def create_connection_file(exp):
     epx_id = exp[exp.rfind('/') + 1:]
 
@@ -125,7 +131,7 @@ def process_recommendation(seed_id):
         feat_scoring.sort(key=lambda s: s.scoring, reverse=True)
 
         with open('data/scoring/%s_%d.tsv' % (seed_id, i), 'w') as output:
-            output.write('\n'.join([str(e) for e in feat_scoring[0:20]]))
+            writeFile(output, '\n'.join([str(e) for e in feat_scoring[0:20]]))
 
     # combined
     emb_score = [emb2score(e) for e in emb]
@@ -139,9 +145,7 @@ def process_recommendation(seed_id):
     score_exp.sort(key=lambda s: s.scoring, reverse=True)
     print("\n".join([str(s) for s in score_exp[0:15]]))
     with open('data/scoring/%s_combined.tsv' % seed_id, 'w') as output:
-        output.write('\n'.join([str(s) for s in score_exp[0:20]]))
-
-    os.fsync(2)
+        writeFile(output, ('\n'.join([str(s) for s in score_exp[0:20]])))
 
 
 def str2bool(v):
