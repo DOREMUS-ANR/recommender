@@ -37,7 +37,7 @@ class ScoredExpression:
 def writeFile(file, content):
     file.write(content)
     file.flush()
-    os.fsync(f.fileno())
+    os.fsync(file.fileno())
 
 
 def create_connection_file(exp):
