@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DWYiS8hkmdLyc",
   "name": "Classical World: Belgium & The Netherlands",
-  "followers": 668,
+  "followers": 974,
   "tracks": [
     {
       "artists": [
@@ -13,7 +13,8 @@
       "title": "Sonata for Violin and Piano in A: 4. Allegretto poco mosso",
       "album": "Fauré: Violin Sonata in E minor / Franck: Violin Sonata in A etc.",
       "id": "2yk67DhWWKga3CFkL171en",
-      "trackNum": 11
+      "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/ce72d043-0acc-3cca-95ba-959903770bc8"
     },
     {
       "artists": [
@@ -23,7 +24,8 @@
       "title": "D'un autre amer: D'ung aultre amer",
       "album": "Oh Flanders Free: Music of the Flemish Renaissance",
       "id": "5JJpyIiI6apsFWFUG3SpmC",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/19abfb4d-db7d-334e-8a4a-1695e7419eee"
     },
     {
       "artists": [
@@ -34,6 +36,7 @@
       "album": "Bach 2 the Future, Vol. 2",
       "id": "5LgswvLj116OWB7auuy6vm",
       "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/2d7a8bf1-3355-3f09-b439-de255cd67599",
       "best": "http://data.doremus.org/expression/1fc969f4-9387-33c6-9e0e-fba2170e6631",
       "best_matching_score": "0.93"
     },
@@ -47,6 +50,7 @@
       "album": "Lassus: Cantiones sacrae sex vocum",
       "id": "72BHa9ZD4VGI72teH8FDvA",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/668c2943-1b38-3f55-9fb7-e7a9964d25c6",
       "best": "http://data.doremus.org/expression/3e1fe6d1-9e38-348a-9c22-a951bfa53167",
       "best_matching_score": "1.00"
     },
@@ -60,7 +64,8 @@
       "title": "Violin Concerto No.4 In D Minor, Op.31: 1. Andante - Moderato",
       "album": "Mozart: Violin Concerto No.5 In A, K.219 / Vieuxtemps: Violin Concerto No.4 In D Minor, Op.31 (Bonus Track Version)",
       "id": "5XbsmbzGYvphfhFaaagAfv",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/6148e31e-10e0-3dda-aa35-05e1b04dcf1c"
     },
     {
       "artists": [
@@ -71,6 +76,7 @@
       "album": "Works For Harpsichord",
       "id": "3QcxP0cGmMYPDqEwHR1Tj5",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/2c0a13cd-aff7-3755-8862-6e5e76c41da3",
       "best": "http://data.doremus.org/expression/4da8b0aa-f74d-386d-835e-b7d129ccc3c6",
       "best_matching_score": "0.86"
     },
@@ -84,18 +90,20 @@
       "title": "Concert per piano e orchestra, K. 74 (1927)",
       "album": "Piano Concertos in the Netherlands",
       "id": "4DBm7pOmIyqRjbew2vtbA3",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/ecc9bbef-ca27-35df-b68b-13de724ffc55"
     },
     {
       "artists": [
         "Unico Wilhelm van Wassenaer",
-        "Ton Koopman",
-        "Amsterdam Baroque Orchestra"
+        "Aradia Ensemble",
+        "Kevin Mallon"
       ],
-      "title": "Concerto Armonico No. 5 in F Minor",
-      "album": "Van Wassenaer : 6 Concerti Armonici - APEX",
-      "id": "24M7yH2kyOQMDYJM7Qo5yl",
-      "trackNum": 11,
+      "title": "Concerto Armonico No. 5 in F Minor: A tempo comodo (con sordini)",
+      "album": "Wassenaer: Concerti Armonici",
+      "id": "7K3nmuPkr7W3tfqwXzRLfq",
+      "trackNum": 18,
+      "composer": "http://data.doremus.org/artist/0315982c-c718-3b84-a31e-a218f4ebfb42",
       "best": "http://data.doremus.org/expression/ff562918-11ee-3002-8b11-276c90072756",
       "best_matching_score": "0.80"
     },
@@ -108,7 +116,8 @@
       "title": "Symphonische Etude (Quasi Adagio-Allegro con Spirito-Adagio-Allegro Vivace)",
       "album": "Bernard Haitink - The Philips Years",
       "id": "04lJiLpIbdvc07k1QXyIwN",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/20c4cb20-0bda-3dfe-a485-1fff924f2f11"
     },
     {
       "artists": [
@@ -119,7 +128,8 @@
       "title": "Mysteriën: V. Over de verschillende bewegingen van de natuur en de genade",
       "album": "Mariss Jansons Live: The Radio Recordings 1990-2014",
       "id": "0i5jaF2O6Coq13fBFlYL01",
-      "trackNum": 11
+      "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/fc3b58d5-78b3-312b-b51f-b59c8569a741"
     },
     {
       "artists": [
@@ -131,7 +141,8 @@
       "title": "En sourdine",
       "album": "Diepenbrock: Orchestral Songs",
       "id": "6zucF0P4PT2TlYGcK2WTJD",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/09949eb0-cfda-35d1-8dec-d5aef91c34b7"
     },
     {
       "artists": [
@@ -143,7 +154,8 @@
       "title": "Violin Concerto: I. —",
       "album": "Horizon 6 (Live)",
       "id": "2c32t9hgCi9DLXNx2wmplH",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/0eeab105-8ddd-381d-82f0-385094df4f1a"
     },
     {
       "artists": [
@@ -154,6 +166,7 @@
       "album": "Blockflutes 3",
       "id": "1Fu7nXhHrHXZNynkV75vlt",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/57f327ca-ff6f-33c5-a683-dd22091095be",
       "best": "http://data.doremus.org/expression/ff1c22a9-1e6f-3435-add5-70ec98d792cf",
       "best_matching_score": "0.88"
     },
@@ -166,7 +179,8 @@
       "title": "Improvisation on the Dutch Christmas Carol \"Midden in de Winternacht\"",
       "album": "Pijper & Escher: Violin Sonatas etc.",
       "id": "2M84Wmfrgz6MM5QPmIFXF7",
-      "trackNum": 16
+      "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/42e61da0-bf03-38f5-97c6-62a2e30f9194"
     },
     {
       "artists": [
@@ -178,6 +192,7 @@
       "album": "Dufay: O gemma lux",
       "id": "1tR0ZIfTSsk4EijLtaVAUJ",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/10c7575e-ab13-3912-9919-62c0d3003895",
       "best": "http://data.doremus.org/expression/b5007059-b21e-3daa-9532-c0a2087c54e6",
       "best_matching_score": "1.00"
     },
@@ -191,6 +206,7 @@
       "album": "Gilles Binchois - Chansons",
       "id": "1MGkyJLyG90n9JN06ERrwv",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/2bcf5bb0-7e65-3bd6-8ca5-2f8f249b8e71",
       "best": "http://data.doremus.org/expression/de63851c-430d-35de-ba61-50a99ff8728a",
       "best_matching_score": "0.78"
     },
@@ -213,7 +229,8 @@
       "title": "Le Serviteur, à 4",
       "album": "Ottaviano dei Petrucci: Harmonice Musices Odhecaton",
       "id": "0d84TVPP8H2RCoEdeeKiac",
-      "trackNum": 18
+      "trackNum": 18,
+      "composer": "http://data.doremus.org/artist/bc98465f-7ffd-3f36-b26d-305b26b64b02"
     },
     {
       "artists": [
@@ -225,7 +242,8 @@
       "title": "VII. Testamento de Isabel I y Muerte de Colon, 1506 (20 de mayo) Muere en Valladolid Cristóbal Colón: Fortuna desperata",
       "album": "Christophorus Columbus - Lost Paradises",
       "id": "3NLNMCNSz5oFHGmzUgpgQY",
-      "trackNum": 20
+      "trackNum": 20,
+      "composer": "http://data.doremus.org/artist/ca4e798a-64e4-350f-80b9-bb2d8972001c"
     },
     {
       "artists": [
@@ -246,7 +264,8 @@
       "album": "A Mother's Love - Music For Mary",
       "id": "4RzaInEebiZLH89SnodhWk",
       "trackNum": 8,
-      "best": "http://data.doremus.org/expression/f21471a7-d0e0-3e98-a0c6-15cb59097706",
+      "composer": "http://data.doremus.org/artist/ba14bc2c-90d0-3a82-8977-1fff4ba6f368",
+      "best": "http://data.doremus.org/expression/aa71d8e2-7818-39a7-a6a3-42a4dc6219ff",
       "best_matching_score": "1.00"
     },
     {
@@ -258,7 +277,8 @@
       "album": "The Word Unspoken: Sacred Music by William Byrd and Philippe de Monte",
       "id": "5UzTMKIVL50Olb5hBCSc0t",
       "trackNum": 10,
-      "best": "http://data.doremus.org/expression/0d76c762-3036-3c90-b145-5e637c64fd22",
+      "composer": "http://data.doremus.org/artist/f44d068a-6e45-3ceb-a1b3-3e51b37ae19e",
+      "best": "http://data.doremus.org/expression/7ed4e793-7f49-3d63-a2dd-5d3c067915d8",
       "best_matching_score": "1.00"
     },
     {
@@ -271,7 +291,8 @@
       "title": "Motets à deux voix, 1668: In lectulo meo, dialogus sponsae cum sponso coelesti",
       "album": "Du Mont: Motets à deux voix",
       "id": "57jVIII5o0RLthNM5FJLkS",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/b7f40c08-3476-3a66-a678-1b9813979301"
     },
     {
       "artists": [
@@ -284,6 +305,7 @@
       "album": "Grétry: La Caravane du Caire",
       "id": "6YMTBP0kZdUsqK0Dc0bdXn",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/4ea852e5-ed3b-3085-9baf-018c004c741a",
       "best": "http://data.doremus.org/expression/6d5a8f91-8ec8-313d-8040-91bab32219b2",
       "best_matching_score": "1.00"
     },
@@ -297,6 +319,7 @@
       "album": "Con Amore",
       "id": "0LfoudDZusydpnmQ6RUywV",
       "trackNum": 13,
+      "composer": "http://data.doremus.org/artist/509a3dfb-dc53-32e6-a8c6-67ece223e029",
       "best": "http://data.doremus.org/expression/8a99b1c5-d752-3074-bb4d-062379e74e1d",
       "best_matching_score": "1.00"
     },
@@ -307,7 +330,8 @@
       "title": "Multiple 12",
       "album": "Partes Extra Partes",
       "id": "0OpGVC3tH5pw2V0UfFG8kU",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/76bd8c2d-29e3-3a23-8dc0-b748731c51f6"
     },
     {
       "artists": [
@@ -319,7 +343,8 @@
       "album": "Fauré, Lekeu & Ravel: Violin Sonatas",
       "id": "4PufVRArEYMaYIx114QxPP",
       "trackNum": 3,
-      "best": "http://data.doremus.org/expression/5df6fc76-7d1f-3702-8c10-a0e7fb64b80b",
+      "composer": "http://data.doremus.org/artist/45a16e5c-c41e-3f58-ac93-aeaf4431bcff",
+      "best": "http://data.doremus.org/expression/53fa1489-9938-34a3-8157-1b515dee391c",
       "best_matching_score": "0.75"
     },
     {
@@ -327,11 +352,12 @@
         "Pierre de la Rue",
         "The Hilliard Ensemble"
       ],
-      "title": "O salutaris Hostia",
+      "title": "O salutaris hostia",
       "album": "Franco-Flemish Masterworks",
       "id": "43MopskkE1zSuVIEFHl8Q1",
       "trackNum": 10,
-      "best": "http://data.doremus.org/expression/7885519e-3328-353e-8811-83d49e657485",
+      "composer": "http://data.doremus.org/artist/d1e4ef32-5350-34b1-bbb0-fd4087ea0a5e",
+      "best": "http://data.doremus.org/expression/89477ea2-000c-34f8-b3ff-d57d9bf4ed9e",
       "best_matching_score": "1.00"
     },
     {
@@ -343,7 +369,8 @@
       "title": "IV.1527 Saco de Roma: \"Vecchie Letrose\" (Villanesca Alla Napolitana)",
       "album": "Carlos V: Mille Regretz - La Canción Del Emperador",
       "id": "6L2GwsUlrwnB9BdNLSaHFy",
-      "trackNum": 12
+      "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/5ebd49d1-73ea-30a0-a50b-1a6f4285892a"
     },
     {
       "artists": [
@@ -354,7 +381,8 @@
       "title": "Kom, over de zeeën",
       "album": "Otto Ketting: De Overtoch, De Aankomst, Het Oponthoud & Kom, Over De Zeeën",
       "id": "5TBuWk2WrQKDDUWku6WFVZ",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/5b2ec622-60a5-3613-9a99-e9a6b99a6311"
     }
   ],
   "n_matched": 13,

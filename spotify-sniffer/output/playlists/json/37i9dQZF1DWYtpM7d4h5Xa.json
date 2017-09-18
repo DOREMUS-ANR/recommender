@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DWYtpM7d4h5Xa",
   "name": "Pop Songs Based on Classical Music",
-  "followers": 4637,
+  "followers": 11132,
   "tracks": [
     {
       "artists": [
@@ -25,6 +25,7 @@
       "album": "Bach, J.S.: St. Matthew Passion, BWV 244",
       "id": "5xzdEeJ1OI43cHA6vQ5IWg",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/f8acde74-99ac-39e3-a0fb-437bc8426d33",
       "best_matching_score": "0.98"
     },
@@ -46,7 +47,8 @@
       "title": "A Time for Us (From \"Romeo and Juliette\")",
       "album": "A Time for Us (Silence, on joue!)",
       "id": "0za6HhjZw6LwCIDdBl92Vm",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/6183e619-f3ff-3b30-9773-ed637a12b894"
     },
     {
       "artists": [
@@ -67,7 +69,8 @@
       "album": "The Art of the Trumpet",
       "id": "17V09EMAJWzzb5pUdiV9a3",
       "trackNum": 16,
-      "best": "http://data.doremus.org/expression/6df9e511-4c53-32a3-aa83-afedd39d0586",
+      "composer": "http://data.doremus.org/artist/3d8f2317-0f4b-3fd2-8ae1-7acabb780562",
+      "best": "http://data.doremus.org/expression/6a45b018-d6e3-3761-87aa-b916f952b7d5",
       "best_matching_score": "0.96"
     },
     {
@@ -89,6 +92,7 @@
       "album": "Masterpieces in Miniature",
       "id": "2kzJk1fFlxwavj3TcCHcqk",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
       "best": "http://data.doremus.org/expression/82291aed-4304-3d59-8683-3b2f5e9ece4c",
       "best_matching_score": "1.00"
     },
@@ -111,7 +115,8 @@
       "album": "Verdi: Requiem",
       "id": "0if8P2p8x7jl1BJiFNeUxr",
       "trackNum": 3,
-      "best": "http://data.doremus.org/expression/2cf010c5-8e72-37b3-8dbf-d25cd0a52be3",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/a95e0e49-7a91-33e9-8acb-fa6b6f9ed82d",
       "best_matching_score": "1.00"
     },
     {
@@ -133,6 +138,7 @@
       "album": "Hungarian Dances",
       "id": "5I5DhM7BvNUwA6nAq2aEV2",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/3006ccda-0ba5-3e6b-8196-3b97e686567b",
       "best": "http://data.doremus.org/expression/221acc08-7e4a-32f5-8c42-d5c32611836f",
       "best_matching_score": "1.00"
     },
@@ -147,12 +153,14 @@
     },
     {
       "artists": [
-        "Steve Reich"
+        "Steve Reich",
+        "Pat Metheny"
       ],
       "title": "Electric Counterpoint - Fast (movement 3)",
       "album": "Different Trains / Electric Counterpoint",
       "id": "27WA4tdC9OuzjaDSaU9LQC",
       "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
       "best": "http://data.doremus.org/expression/358ec945-c4a0-381e-921e-8fba13266007",
       "best_matching_score": "1.00"
     },
@@ -177,7 +185,8 @@
       "album": "Brahms: Symphony No. 3 / Haydn Variations",
       "id": "6oNEhiKXtFbk2PNhvrrY6h",
       "trackNum": 3,
-      "best": "http://data.doremus.org/expression/2ad13e6a-cdd9-3318-a823-b65c1ccb4029",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/19adadbb-3a12-369c-9e0c-c72f3c5ef4ee",
       "best_matching_score": "0.98"
     },
     {
@@ -196,7 +205,8 @@
       "title": "Chasing Sheep Is Best Left To Shepherds - 2004 Digital Remaster",
       "album": "Michael Nyman - Peter Greenaway Film Music",
       "id": "037PWxpeWlAcQNvSUbTb8Y",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/283ef3c8-5ca2-336f-9774-6c2ce2010699"
     },
     {
       "artists": [
@@ -215,6 +225,7 @@
       "album": "Symphony No. 3",
       "id": "4iCn374fZg5UbGD1xFNo1m",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/02ad1bab-64ff-32b3-857d-ba87aea1d257",
       "best": "http://data.doremus.org/expression/55ffa18c-8605-36c3-8415-b1f8f518b3ed",
       "best_matching_score": "0.95"
     },
@@ -237,7 +248,8 @@
       "title": "Pagliacci / Act 1: \"Vesti la giubba\"",
       "album": "Pavarotti The 50 Greatest Tracks",
       "id": "4jYrbVi7q5dHqDah1KpW3F",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/08499468-c1b5-35d2-958f-134bc11c9c7a"
     },
     {
       "artists": [
@@ -257,6 +269,7 @@
       "album": "Time Curve: Music for Piano by Philip Glass and William Duckworth",
       "id": "1z0PNAIZniNa5B2XSeG8Sj",
       "trackNum": 18,
+      "composer": "http://data.doremus.org/artist/77285d8d-4a3a-3a3d-a183-40942d70f068",
       "best": "http://data.doremus.org/expression/9eaa6b57-0596-3d6e-86c9-be7eeb6e5b2a",
       "best_matching_score": "1.00"
     },
@@ -277,7 +290,29 @@
       "title": "Première Gymnopédie",
       "album": "Satie: Avant-dernières pensées (Bonus Track Version)",
       "id": "4jep6dMPP0z7HrN375InoL",
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/c536e11e-7871-3469-b913-1883b0b60e98"
+    },
+    {
+      "artists": [
+        "Sia"
+      ],
+      "title": "Breathe Me",
+      "album": "Colour The Small One",
+      "id": "7jqzZyJJLrpkRFYGpkqSK6",
       "trackNum": 3
+    },
+    {
+      "artists": [
+        "Philip Glass"
+      ],
+      "title": "Metamorphosis: Metamorphosis One",
+      "album": "Solo Piano",
+      "id": "4MQjH7bUOKCZlJXtAlfzDK",
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/f34cfadd-5092-3ecb-aa9b-fd267838efb9",
+      "best": "http://data.doremus.org/expression/b450172d-27ab-327c-b6b0-55becfa273a5",
+      "best_matching_score": "1.00"
     },
     {
       "artists": [
@@ -299,7 +334,8 @@
       "title": "Mahagonny Songspiel / Part 1 - Prologue: 2. Alabama Song: Moderato",
       "album": "Weill: Kleine Dreigroschenmusik; Mahagonny Songspiel; Happy End; Berliner Requiem; Violin Concerto (2 CDs)",
       "id": "2YBK3sbZfrwO9rZDW1O2iF",
-      "trackNum": 10
+      "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/55cf22c5-ba2f-3e63-9004-d8eed4b9854b"
     },
     {
       "artists": [
@@ -321,6 +357,7 @@
       "album": "German Chamber Music Before Bach",
       "id": "1tja9MiA7qB26lHXosoH8i",
       "trackNum": 29,
+      "composer": "http://data.doremus.org/artist/7e7bbe8b-058a-31b3-b11b-3669c0c302e0",
       "best": "http://data.doremus.org/expression/b0c41a34-34c1-3c3c-ba1b-6c43bd3fcc4a",
       "best_matching_score": "0.93"
     },
@@ -343,6 +380,7 @@
       "album": "Hildegard Von Bingen: Heavenly Revelations",
       "id": "21aOLjTFH10qpcgy6vvvXP",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/74f93e74-c62c-3662-84fb-4d73f3e62d36",
       "best": "http://data.doremus.org/expression/a3303252-75ec-31ee-a4d5-dd1c641c07f1",
       "best_matching_score": "1.00"
     },
@@ -364,7 +402,8 @@
       "title": "A Song of Summer",
       "album": "111 Summer Classics",
       "id": "6QarorgBbxcztfbFYIre6S",
-      "trackNum": 17
+      "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/f92bcc45-052e-342d-a00b-1b7cdbd89828"
     },
     {
       "artists": [
@@ -385,7 +424,8 @@
       "album": "Bernstein Conducts Copland",
       "id": "55PsqAIdJcOHUTBNwlXMXs",
       "trackNum": 7,
-      "best": "http://data.doremus.org/expression/deab73a2-7df8-33a8-a864-d051d388af53",
+      "composer": "http://data.doremus.org/artist/92da81d0-6e0c-3023-a0d7-5ccbbb30610d",
+      "best": "http://data.doremus.org/expression/012abeae-2fc1-30c5-96d2-618616eb6daf",
       "best_matching_score": "1.00"
     },
     {
@@ -430,30 +470,9 @@
       "album": "Tchaikovsky: The Three Ballets (6 CDs)",
       "id": "2upIXO2lMlRJ5fehElEEiW",
       "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
       "best": "http://data.doremus.org/expression/5a32a6ca-7bb7-3ebf-a585-ea1862745175",
       "best_matching_score": "1.00"
-    },
-    {
-      "artists": [
-        "Sia"
-      ],
-      "title": "Taken for Granted",
-      "album": "Healing Is Difficult (10th Anniversary Edition)",
-      "id": "6m2czjDcr9L5YMouVLeW4y",
-      "trackNum": 3
-    },
-    {
-      "artists": [
-        "Sergei Prokofiev",
-        "Chicago Symphony Orchestra",
-        "Riccardo Muti"
-      ],
-      "title": "Romeo and Juliet Suite: Montagues and Capulets",
-      "album": "Prokofiev: Suite from Romeo & Juliet (Live)",
-      "id": "5UbKh5BlL3w6YsBpMOiqO1",
-      "trackNum": 1,
-      "best": "http://data.doremus.org/expression/709f0103-4477-3304-9dbc-3910631a0794",
-      "best_matching_score": "0.73"
     },
     {
       "artists": [
@@ -479,6 +498,7 @@
       "album": "Bach for Japan",
       "id": "5IbsSQfrwAPUhAJlijRgrg",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/c81d7d98-2c94-30c4-9344-409a74989a06",
       "best_matching_score": "1.00"
     },
@@ -501,6 +521,7 @@
       "album": "Prokofiev: Lieutenant Kije Suite / Andante / Osenneye / the Tale of the Stone Flower (Excerpts)",
       "id": "1LePfjWT8hHGig0AR6s75B",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
       "best": "http://data.doremus.org/expression/3f8d0727-8fb6-3f31-bc3d-deb8a8175727",
       "best_matching_score": "1.00"
     },
@@ -523,6 +544,7 @@
       "album": "Ives : Concord Sonata & Songs",
       "id": "3YYocbj3wZnTgNGOR6f4UP",
       "trackNum": 20,
+      "composer": "http://data.doremus.org/artist/29849554-2024-3b0d-8749-39555e68b2ac",
       "best": "http://data.doremus.org/expression/9f157ddc-521b-37f6-a399-161bd548ca33",
       "best_matching_score": "0.94"
     },
@@ -545,6 +567,7 @@
       "album": "Prokofiev: Lieutenant Kije Suite / Andante / Osenneye / the Tale of the Stone Flower (Excerpts)",
       "id": "0aEVxlKZ2Vk6Bt5UjZC98B",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
       "best": "http://data.doremus.org/expression/3f8d0727-8fb6-3f31-bc3d-deb8a8175727",
       "best_matching_score": "1.00"
     },
@@ -552,7 +575,7 @@
       "artists": [
         "Eric Carmen"
       ],
-      "title": "All By Myself - Remastered",
+      "title": "All By Myself - Single Edit",
       "album": "All By Myself",
       "id": "2QekP0ojOnh6Ut11kobcDD",
       "trackNum": 1
@@ -587,6 +610,7 @@
       "album": "Bach: Contemplation",
       "id": "0p6eXDSAFhKm9CB192DLeB",
       "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/198043d5-74f7-3c91-ab9b-8e4fd3757a57",
       "best_matching_score": "0.75"
     },
@@ -608,6 +632,7 @@
       "album": "Alkan: Preludes, Op. 31",
       "id": "122qz1dG8yJgfz7NV22sd4",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/069e1437-23bf-320f-8581-c22c6077f70e",
       "best": "http://data.doremus.org/expression/c283b3b3-9506-38fd-ac01-337b7d3b6670",
       "best_matching_score": "0.98"
     },
@@ -629,6 +654,7 @@
       "album": "Chopin: Préludes, Op.28",
       "id": "5XfmcJMAaifjRrIdLaXVLm",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
       "best": "http://data.doremus.org/expression/ec9a07b7-e0e7-3546-9991-42e45962aeff",
       "best_matching_score": "1.00"
     },
@@ -651,6 +677,7 @@
       "album": "Bruckner: Symphony No.5",
       "id": "7mQ9KxYlsdyac0a08EKZes",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
       "best": "http://data.doremus.org/expression/f3809952-b393-31f2-b27a-85a28dd2f3e5",
       "best_matching_score": "0.96"
     },
@@ -661,7 +688,8 @@
       "title": "Could It Be Magic",
       "album": "Barry Manilow I",
       "id": "6FDrn47S3Q4s9rhLHm4um0",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/8b06e719-3034-3154-bd67-2090bb1b13d0"
     },
     {
       "artists": [
@@ -672,6 +700,7 @@
       "album": "Chopin: 24 Preludes; Sonata No.2, Op.35; Polonaise, Op.53",
       "id": "1UaPSd1eQWOjGub8iWFzbj",
       "trackNum": 20,
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
       "best": "http://data.doremus.org/expression/ec9a07b7-e0e7-3546-9991-42e45962aeff",
       "best_matching_score": "0.99"
     },
@@ -693,6 +722,7 @@
       "album": "Clementi: 6 Progressive Piano Sonatinas, Op. 36 / Piano Sonatas",
       "id": "1I7PwnFBtCYPZPSfNsg1k0",
       "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/95ce6e89-35ad-3933-b487-6d3604b0f00d",
       "best": "http://data.doremus.org/expression/c6cb6c49-e0a2-3df5-9cbd-b7859a3d5f17",
       "best_matching_score": "0.94"
     },
@@ -714,8 +744,7 @@
       "album": "Mendelssohn: Lieder ohne Worte, Books 5-8",
       "id": "1F4cxNDfZ2nfUBJxB05tmJ",
       "trackNum": 6,
-      "best": "http://data.doremus.org/expression/b46f6ed9-e32a-3fad-9616-1032d8729df1",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
     },
     {
       "artists": [
@@ -735,7 +764,8 @@
       "album": "Chopin: Piano Sonata No.2 / Ravel: Gaspard de la nuit / Prokofiev: Piano Sonata No.6",
       "id": "4l7AdbXY5F2h3vbvQk3e8D",
       "trackNum": 6,
-      "best": "http://data.doremus.org/expression/e6989721-039e-358c-b08b-83c91a6cc4f1",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/d1580f48-97f9-348c-9dbb-bf2e06e6722a",
       "best_matching_score": "1.00"
     },
     {
@@ -774,10 +804,11 @@
         "Paavo Järvi",
         "Orchestre Philharmonique de Radio France"
       ],
-      "title": "Borodine: Prince Igor, Polovtsian Dances: Dance II",
+      "title": "Borodine: Prince Igor, Act 2: No. 17, Polovtsian Dances, (b) Gliding Dance of the Maidens (Andantino)",
       "album": "Ballets Russes",
       "id": "7hWffso3aV26KK0fxHYSs1",
-      "trackNum": 15
+      "trackNum": 15,
+      "composer": "http://data.doremus.org/artist/778332bf-c1a7-32b1-8c19-578385e1c6ce"
     },
     {
       "artists": [
@@ -799,7 +830,8 @@
       "album": "Mozart: Die Zauberflöte",
       "id": "6nOfdXGmPHjwJGamnCjS73",
       "trackNum": 11,
-      "best": "http://data.doremus.org/expression/9ec0e0c1-f4ac-385f-8a00-c4cf07edf746",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/0be4c01a-c5d9-3eb0-bdae-89634c63acf2",
       "best_matching_score": "1.00"
     },
     {
@@ -809,7 +841,8 @@
       "title": "Can't Help Falling In Love",
       "album": "The 50 Greatest Love Songs",
       "id": "4m6qlJGRnw2vWf4kRFJoji",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/56536f37-e298-3fb9-ade4-3aa79af9e2b4"
     },
     {
       "artists": [
@@ -841,6 +874,7 @@
       "album": "Bach: The Well-Tempered Clavier, Book II, BWV 878-885",
       "id": "66kTwo98SzwIqVZd4cfMvG",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/ff7f8a3a-11bc-3b0b-bb95-d14fca047821",
       "best_matching_score": "0.95"
     },
@@ -881,7 +915,8 @@
       "album": "Debussy: Piano Music",
       "id": "2ECDuGdDx51ZemYEznyXKF",
       "trackNum": 15,
-      "best": "http://data.doremus.org/expression/d374df39-051e-3043-bdee-ef87759f815d",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/d07bfb58-f695-35b2-877b-d03d68f32d78",
       "best_matching_score": "1.00"
     },
     {
@@ -903,7 +938,8 @@
       "title": "\"E lucevan le stelle\"",
       "album": "Pavarotti Forever (2 CDs)",
       "id": "1vquQvjELxZdRvFrUHIIdA",
-      "trackNum": 8
+      "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/5bcd515f-354f-30f8-ae0a-c42b65536d9f"
     },
     {
       "artists": [
@@ -923,6 +959,7 @@
       "album": "Vladimir Horowitz - The Last Romantic",
       "id": "6LP7KFvjRqjhRWhBAqpWUA",
       "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
       "best": "http://data.doremus.org/expression/332b968c-1179-395f-96a1-6a135315a905",
       "best_matching_score": "0.98"
     },
@@ -946,6 +983,7 @@
       "album": "Poulenc: Organ Concerto - Saint-Saëns: Symphony No. 3 \"Organ\"",
       "id": "6LkMW4nSCKUVjDiiQxcCPh",
       "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
       "best": "http://data.doremus.org/expression/72c8af4f-a0c0-355a-ba1b-664e6c9aff00",
       "best_matching_score": "0.98"
     },
@@ -968,6 +1006,7 @@
       "album": "Grieg: Peer Gynt, Suite No. 1, Op. 46 / Suite No. 2, Op. 55 / Holberg Suite, Op. 40",
       "id": "2TQE36gHvmYSXk1UVxG970",
       "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
       "best": "http://data.doremus.org/expression/6f995cbb-849d-3cdb-934f-81e17744c39f",
       "best_matching_score": "0.94"
     },
@@ -989,8 +1028,7 @@
       "album": "Beethoven: Sonatas",
       "id": "6hz8zGuFmLP1jlCyDtlyca",
       "trackNum": 2,
-      "best": "http://data.doremus.org/expression/0ed18cd8-5808-3e5c-a550-726489a8e240",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
     },
     {
       "artists": [
@@ -1011,7 +1049,8 @@
       "album": "Sibelius: Symphony No. 5 (Original and Final Versions)",
       "id": "6aHAw3Iiuru3GiITivyA0Z",
       "trackNum": 7,
-      "best": "http://data.doremus.org/expression/bc4fad0f-d8b7-37e4-83a8-0e7697bae43b",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/b2d27f22-5ee1-30d9-ac62-d8540e1d5c94",
       "best_matching_score": "0.98"
     },
     {
@@ -1031,7 +1070,8 @@
       "title": "Largo Al Factotum Della Città",
       "album": "Il Barbiere Di Siviglia",
       "id": "7FoAZxxMcTKP2Vu8pbso6C",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/c5d5735c-1095-3ed4-a20f-1208ab9567f9"
     },
     {
       "artists": [
@@ -1047,12 +1087,14 @@
       "artists": [
         "Anton Rubinstein",
         "Isaac Stern",
-        "Frank Brieff"
+        "Frank Brieff",
+        "Columbia Symphony Orchestra"
       ],
       "title": "Romance in E-Flat Major, Op. 44 No. 1",
       "album": "Humoresque",
       "id": "0lqbiUXCJa13jUeKWBLzR7",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/77034601-15e1-3088-8bca-d47622b8e853",
       "best": "http://data.doremus.org/expression/7e82d98f-e32c-3b03-a7c6-209401169020",
       "best_matching_score": "0.73"
     },
@@ -1075,10 +1117,11 @@
       "album": "Brahms: Complete Symphonies",
       "id": "4nMLMpoAdcWJnCIHdtntC6",
       "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/b6931d2a-d5d2-3505-8833-03c85c4b3b71",
       "best_matching_score": "1.00"
     }
   ],
-  "n_matched": 36,
+  "n_matched": 34,
   "n_total": 100
 }

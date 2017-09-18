@@ -1,6 +1,6 @@
 const config = require('./config.json'),
   SpotifyWebApi = require('spotify-web-api-node'),
-  noop = require('noop');
+  noop = require('node-noop').noop;
 
 // credentials are optional
 const spotifyApi = new SpotifyWebApi({

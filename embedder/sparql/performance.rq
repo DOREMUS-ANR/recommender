@@ -1,0 +1,13 @@
+SELECT DISTINCT ?s ?o
+WHERE {
+  ?s a mus:M42_Performed_Expression_Creation .
+  {
+    ?o ecrm:P9_consists_of ?s
+  } UNION {
+     ?s ?p ?o
+     FILTER (?p IN (ecrm:P9_consists_of, ecrm:P7_took_place_at))
+  } UNION {
+    ?s efrbroo:R17_created / mus:U54_is_performed_expression_of ?o
+  }
+
+}

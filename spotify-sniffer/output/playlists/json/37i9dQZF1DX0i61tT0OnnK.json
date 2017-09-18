@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DX0i61tT0OnnK",
   "name": "Space-themed Classical Music",
-  "followers": 85231,
+  "followers": 92602,
   "tracks": [
     {
       "artists": [
@@ -32,7 +32,8 @@
       "album": "Strauss, R.: Also sprach Zarathustra; Don Juan",
       "id": "0S9igDWt4u1HMB1cS8rpRZ",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/f43a8b75-b001-32b9-b1e5-6f2bbd6b821e",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
+      "best": "http://data.doremus.org/expression/20e40cc2-dfcc-3bfb-bfc6-cd87e4851b39",
       "best_matching_score": "1.00"
     },
     {
@@ -43,7 +44,8 @@
       "title": "One Earth, One People, One Love (from Sun Rings)",
       "album": "Sunrise of the Planetary Dream Collector",
       "id": "0rw6tBdGsf35eBnPVIpmic",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384"
     },
     {
       "artists": [
@@ -52,7 +54,8 @@
       "title": "Rosetta",
       "album": "Rosetta",
       "id": "5eOf4NuzhpWHTIIN3jM0JQ",
-      "trackNum": 8
+      "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/637b8a53-eb0e-3e3f-93bc-55df5c421e75"
     },
     {
       "artists": [
@@ -73,7 +76,8 @@
       "title": "Walhall aus dem Ring des Nibelungen, S. 449",
       "album": "Liszt: On Wings of Song - Piano Transcriptions",
       "id": "2nUjLUECYcjhRyz89fPCCD",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d"
     },
     {
       "artists": [
@@ -90,7 +94,8 @@
       "title": "The Hubble Cantata: Fistful of Stars",
       "album": "The Hubble Cantata",
       "id": "6q9DbmvBP3EMk3dU1KV6T7",
-      "trackNum": 18
+      "trackNum": 18,
+      "composer": "http://data.doremus.org/artist/ac58bb5a-0f70-3b60-9db1-65be836c28ed"
     },
     {
       "artists": [
@@ -118,7 +123,8 @@
       "title": "The Departure",
       "album": "The Piano Sings",
       "id": "4aG8luUBo8RPbqsMius2vl",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/283ef3c8-5ca2-336f-9774-6c2ce2010699"
     },
     {
       "artists": [
@@ -138,23 +144,24 @@
         "Orchestre Symphonique de Montréal",
         "Charles Dutoit"
       ],
-      "title": "The Planets, op.32: 2. Venus, the Bringer of Peace",
+      "title": "The Planets, Op.32: 2. Venus, the Bringer of Peace",
       "album": "Holst: The Planets",
       "id": "3JmjTLthOqLVNtu5KUUDAn",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
       "best": "http://data.doremus.org/expression/a89deec7-d982-3218-a35d-62d951aa53f7",
       "best_matching_score": "1.00"
     },
     {
       "artists": [
-        "George Crumb",
-        "Quattro Mani",
-        "Robert Shannon"
+        "Bruce Adolphe",
+        "Joshua Bell",
+        "Marija Stroke"
       ],
-      "title": "Makrokosmos I for Amplified Piano: XI. Part Three: Dream images - Love-Death Music - Gemini",
-      "album": "George Crumb Edition, Vol. 8",
-      "id": "4nLxlLfOL30wzQFKjs16ye",
-      "trackNum": 11
+      "title": "Bending of Space-Time",
+      "album": "Einstein's Light",
+      "id": "32k5htuAhVhvOFJ08UL5Xq",
+      "trackNum": 4
     },
     {
       "artists": [
@@ -175,7 +182,8 @@
       "title": "Symphony No. 48, Op. 355 \"Vision of Andromeda\": II. Fugue: Allegro",
       "album": "Hovhaness: Works for Orchestra & Soprano Saxophone",
       "id": "3CTQulLCiB3F4MHPJAzr6G",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/1fed6e30-c73b-30c4-b7ef-8a45a7ebdd9f"
     },
     {
       "artists": [
@@ -185,7 +193,8 @@
       "title": "Polaris \"Voyage for Orchestra\"",
       "album": "Adès: Asyla, Tevot, Polaris",
       "id": "6mnlDDHtQYg2Of7vdZ9Mal",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/2aeb07c8-09ac-3785-a93b-40444fc4cbc5"
     },
     {
       "artists": [
@@ -194,7 +203,8 @@
       "title": "End Credits - From \"Star Trek V: The Final Frontier\"",
       "album": "The Ultimate Star Trek",
       "id": "7CIalb90uZHA6vzWD7KLHO",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/4c7172c4-2cf7-3ce3-ac97-75f8bf917b2b"
     },
     {
       "artists": [
@@ -215,16 +225,18 @@
       "title": "Jupiter's Moons: Leda",
       "album": "Piano Music",
       "id": "5EN8Poad49hYD7pSSAsbHv",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/cbb83cba-44f4-3114-bbb3-f6db5a81de58"
     },
     {
       "artists": [
         "John Williams"
       ],
-      "title": "Three Million Light Years From Home",
+      "title": "Three Million Light Years From Home - From \"E.T. The Extra-Terrestrial\" Soundtrack",
       "album": "E.T. The Extra-Terrestrial (Music From The Original Motion Picture Soundtrack)",
       "id": "6jOiH3fshQ8TMHRb0qTBKv",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
     },
     {
       "artists": [
@@ -236,7 +248,8 @@
       "title": "Piano Concerto No. 4, Op. 130, \"Aurora Borealis\": III. Fading away in the bright night of spring",
       "album": "Tveitt: Piano Concerto No. 4 / Variations On A Folk Song",
       "id": "3J8OXoeYnqXLme7bboR8vl",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/6e32d7bc-1634-3512-85c3-e38b5debc0e6"
     },
     {
       "artists": [
@@ -245,7 +258,8 @@
       "title": "Main Title",
       "album": "Alien",
       "id": "3mgO7YAlNvmGoZNEaEjfaA",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/4c7172c4-2cf7-3ce3-ac97-75f8bf917b2b"
     },
     {
       "artists": [
@@ -255,6 +269,18 @@
       "album": "Pioneers Of Electronic Music",
       "id": "1sSJ4jPs0CkRd1iiy4ELZh",
       "trackNum": 6
+    },
+    {
+      "artists": [
+        "Guillaume Connesson",
+        "Royal Scottish National Orchestra",
+        "Stephane Deneve"
+      ],
+      "title": "Cosmic Trilogy, Part III: Supernova: I. Quelques cercles",
+      "album": "Connesson, G.: Cosmic Trilogy / The Shining One",
+      "id": "0DwnNeCy4uOK73r6e02YzU",
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/c654b229-ff49-30c8-b26f-546c7ee7f16f"
     },
     {
       "artists": [
@@ -283,7 +309,8 @@
       "title": "Gravity",
       "album": "Zoforbit: A Space Odyssey",
       "id": "5ggFMs2GpcTQyFLDkU3t5T",
-      "trackNum": 12
+      "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/0de600f3-865b-37a1-86a0-d60936fc1619"
     },
     {
       "artists": [
@@ -304,7 +331,8 @@
       "title": "Musica Celestis for cello and orchestra",
       "album": "Kernis - Colored Field/Musica Celestis/Air",
       "id": "1LJXwE4VkSmYjnmEfIhA1g",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/2fdd3523-81f3-321e-a9f6-a137c222b2a5"
     },
     {
       "artists": [
@@ -314,7 +342,8 @@
       "title": "Zodiacs",
       "album": "Spectrum / Spectrum 2",
       "id": "5QovN44rzPUnqIoi4ORPY2",
-      "trackNum": 26
+      "trackNum": 26,
+      "composer": "http://data.doremus.org/artist/6c547710-d56f-3aae-9e78-fe5b9eb0ffb5"
     },
     {
       "artists": [
@@ -326,7 +355,8 @@
       "album": "György Ligeti - Clear or Cloudy",
       "id": "4ofGP0KPLaQZOq9AvDGYTu",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/fb4c7f2f-5852-36ab-8d2d-79221163e9a0",
+      "composer": "http://data.doremus.org/artist/f1fb6fa7-767a-3067-a55b-5b41de0f0367",
+      "best": "http://data.doremus.org/expression/a4684c66-96c4-3311-b8ae-972ece5d17a8",
       "best_matching_score": "1.00"
     },
     {
@@ -336,7 +366,8 @@
       "title": "Main Title and The Attack on the Jakku Village",
       "album": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
       "id": "4TaAFxxUwQpsPs2nsr4s9N",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
     },
     {
       "artists": [
@@ -350,6 +381,7 @@
       "album": "Music of Poul Ruders, Vol. 6",
       "id": "3lUVV1XkabMrh4To15id5r",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/5b5cfa65-baf6-307c-a1ea-a741844f62a3",
       "best": "http://data.doremus.org/expression/34f88fac-d3a8-3f24-9edd-3dd07ab30bc1",
       "best_matching_score": "1.00"
     },
@@ -373,7 +405,8 @@
       "title": "Celestial Mechanics - Makrokosmos IV: I. Alpha Centauri",
       "album": "Complete Crumb Edition, Vol. 5",
       "id": "2di61xed2qf17HXYM96J5N",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
     },
     {
       "artists": [
@@ -382,18 +415,8 @@
       "title": "Tears In Rain",
       "album": "Blade Runner (Music From The Original Soundtrack)",
       "id": "2LxEIWrZkzfc55c3rk05DH",
-      "trackNum": 12
-    },
-    {
-      "artists": [
-        "Jonathan Harvey",
-        "BBC Scottish Symphony Orchestra",
-        "Stefan Solyom"
-      ],
-      "title": "Timepieces: I. —",
-      "album": "Harvey: Body Mandala, Timepieces, Tranquil Abiding, White as Jasmine & …Towards a Pure Land",
-      "id": "3MBy0uqwhP5ijBu1gfqAWP",
-      "trackNum": 3
+      "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/637b8a53-eb0e-3e3f-93bc-55df5c421e75"
     },
     {
       "artists": [
@@ -404,7 +427,8 @@
       "title": "Prayer for Travelling",
       "album": "To the Field of Stars",
       "id": "7Ijlt1DIrpT3kEU2JaKa0f",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/6dcdb20a-3e93-3c21-8d5c-1425ed49af85"
     },
     {
       "artists": [
@@ -415,7 +439,8 @@
       "title": "Komarov's Fall",
       "album": "Dean, B.: Viola Concerto / 12 Angry Men / Intimate Decisions / Komarov's Fall",
       "id": "2Hbt5qLJOCXYR1zVJBhoZF",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/070e1fda-31f3-376a-9d44-ea2e41436458"
     },
     {
       "artists": [
@@ -435,7 +460,8 @@
       "title": "The Creation (Die Schöpfung) - Text Adjustment: Paul McCreesh / Part 1 / The First Day: Introduction: The Representation Of Chaos",
       "album": "Haydn: The Creation",
       "id": "0wYnIp1nXRY2s5fUadjpaU",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04"
     },
     {
       "artists": [
@@ -457,7 +483,8 @@
       "title": "Pluto, the Renewer",
       "album": "Holst: The Planets, Op. 32 - Matthews: Pluto, the Renewer",
       "id": "1gOIwAnrD7kiGpCW1HFZ9p",
-      "trackNum": 8
+      "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/8ffb600a-cc00-3a5f-b154-24569ae700d5"
     },
     {
       "artists": [
@@ -483,7 +510,8 @@
       "album": "Messiaen: Des canyons aux étoiles (Live)",
       "id": "3tnHF2A0Y0S6hgGsom2Ulb",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/414ea1e8-c9ba-33c3-8710-e3708055384c",
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c",
+      "best": "http://data.doremus.org/expression/81fc615b-665f-365c-970c-88ae8cb6e2fc",
       "best_matching_score": "0.88"
     },
     {
@@ -504,7 +532,8 @@
       "title": "Ceres",
       "album": "Holst: The Planets",
       "id": "6tZAOHEmm9VRg9KNiO22xD",
-      "trackNum": 3
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/6be5c3f6-d661-35d5-8b74-029d65729830"
     },
     {
       "artists": [
@@ -513,7 +542,8 @@
       "title": "Theme From The TV Series 'Cosmos' - Heaven And Hell, 3rd Movement",
       "album": "Best Of",
       "id": "4CZv4bLziFAXyyMZzQmv2s",
-      "trackNum": 12
+      "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/637b8a53-eb0e-3e3f-93bc-55df5c421e75"
     },
     {
       "artists": [
@@ -523,7 +553,8 @@
       "title": "Pulsar",
       "album": "Zorn, J.: Goetia / Carter, E.: 4 Lauds / Salonen, E.-P.: Lachen Verlernt / Thomas, A.R.: Pulsar (Rhapsodic Musings)",
       "id": "1W75MaR2IfPM4Xd051tQ5j",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/c7b76d5d-ab04-370a-a352-1938dfc146c2"
     },
     {
       "artists": [
@@ -544,6 +575,7 @@
       "album": "Holst: The Planets",
       "id": "32nyNtObipNRkSefmUOPds",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25",
       "best": "http://data.doremus.org/expression/fe842f16-0ca6-33dd-a0e2-1ec3d2be93fb",
       "best_matching_score": "0.92"
     },
@@ -561,7 +593,8 @@
       "title": "Star-Child: I. Introduction: Desolato",
       "album": "George Crumb Edition, Vol. 3",
       "id": "2VxtZXGCEZXM4L4k74vD2d",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
     },
     {
       "artists": [
@@ -572,7 +605,8 @@
       "title": "Saturn: XI. Saturn",
       "album": "Edwin Roxburgh: Saturn & Clarinet Concerto",
       "id": "3PxN0JyrvzXNR5utFDsMJa",
-      "trackNum": 14
+      "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/3b1eb515-6a76-39d5-a945-e6e057c12b3f"
     },
     {
       "artists": [
@@ -586,6 +620,7 @@
       "album": "Scelsi collection vol. 3",
       "id": "3xcWetNw8lKQ2YO8aD4guM",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/9615ca34-9128-36e0-893a-0a88b716d8b7",
       "best": "http://data.doremus.org/expression/789cb2a1-a0c0-3aa1-b2af-19bedbe8950c",
       "best_matching_score": "0.75"
     },
@@ -610,6 +645,7 @@
       "album": "Messiaen: Illuminations of the Beyond",
       "id": "5PltWNHdwlQhDIruL4jEiC",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c",
       "best": "http://data.doremus.org/expression/0784d40e-5fb5-39e8-b8b3-366d994d2744",
       "best_matching_score": "1.00"
     },
@@ -622,7 +658,8 @@
       "title": "Timbres, espace, mouvement \"La nuit etoilée\": I. Nébuleuse (Live)",
       "album": "Dutilleux: Sur le même accord, Les citations, Mystère de l'instant & Timbres, espace, mouvement",
       "id": "4QcAwiiT68uKJ2UcKV3f3L",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d"
     },
     {
       "artists": [
@@ -633,7 +670,8 @@
       "album": "Stockhausen: Tierkreis, In Freundschaft, Spiral 1 & Japan",
       "id": "4icXfAsRMHLHylW6oLKTkD",
       "trackNum": 11,
-      "best": "http://data.doremus.org/expression/ad83d28d-ccf3-340d-b449-156440d9797f",
+      "composer": "http://data.doremus.org/artist/a8009434-ef08-30f7-820a-134008b221f3",
+      "best": "http://data.doremus.org/expression/0d961965-0f13-3359-b2c2-b6662505e725",
       "best_matching_score": "1.00"
     },
     {
@@ -656,6 +694,7 @@
       "album": "Holmes, A.: Orchestral Works",
       "id": "24mRAgVSGibHKBEUeaYM2K",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/707443ee-985c-31a5-bec8-3f421e5efc43",
       "best": "http://data.doremus.org/expression/d6587d90-374b-3f26-8035-8bf9a0c3fc60",
       "best_matching_score": "0.89"
     },
@@ -666,7 +705,8 @@
       "title": "Where We're Going",
       "album": "Interstellar: Original Motion Picture Soundtrack",
       "id": "1TBJRUEWgRCKvcaVtojDad",
-      "trackNum": 16
+      "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/24dd1f5e-591c-303c-ad66-3e2da62632ce"
     },
     {
       "artists": [
@@ -688,7 +728,8 @@
       "title": "Time's Arrow: The void - Explosive exposition (excerpt)",
       "album": "A Round-Up of NMC",
       "id": "1dB2obC77ibQbOKIdO8DEw",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/f3596e01-71a9-3f9d-bf39-13a38a6d6498"
     },
     {
       "artists": [
@@ -699,7 +740,8 @@
       "title": "Caeli enarrant… III: Part 2b: Lumen de lumine: Rho Ophiuchi",
       "album": "Lentz: 'Caeli Enarrant...' Iii and Iv / Birrung / Nguurraa",
       "id": "4uwMn3TOZKRQ1LBMtSWZye",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/891b6656-b731-3e2d-8fc7-c5b8896c9ce9"
     },
     {
       "artists": [
@@ -709,7 +751,8 @@
       "title": "Towards the Horizon: III. Atmospheric Disturbances",
       "album": "Martin Boykan: Music for Piano (1986-2007)",
       "id": "1FJIeVkkDcJbsvZLNzOJNu",
-      "trackNum": 12
+      "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/7a7179ca-e013-3002-a6ea-a33baefbc2fe"
     },
     {
       "artists": [
@@ -720,7 +763,8 @@
       "title": "Orion: II. Winter Sky",
       "album": "Saariaho, K.: Notes On Light / Orion / Mirage",
       "id": "7jNfvRVZE4A50b1bNuQVbB",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
     },
     {
       "artists": [
@@ -736,6 +780,7 @@
       "album": "Whitbourn, J.: Luminosity",
       "id": "10OrFPGqkstf3sSlRYnWRY",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/15d778d4-7776-389c-b65e-82cab8d99f54",
       "best": "http://data.doremus.org/expression/e37cb1f8-ec0f-3eb9-aaa4-815994e88ec1",
       "best_matching_score": "1.00"
     },
@@ -748,7 +793,8 @@
       "title": "Symphony No. 53, Op. 378, \"Star Dawn\": II. Moderato sostenuto con molta espressione",
       "album": "Hovhaness: Symphonies Nos. 4, 20 and 53",
       "id": "6ZWLx3qZlLEIhDgA9t5vFS",
-      "trackNum": 11
+      "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/1fed6e30-c73b-30c4-b7ef-8a45a7ebdd9f"
     },
     {
       "artists": [
@@ -759,7 +805,8 @@
       "title": "The Light",
       "album": "Glass: Symphony No. 4, 'Heroes' / The Light",
       "id": "4EPwVqdSx7DvyhcoKDWHks",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/f34cfadd-5092-3ecb-aa9b-fd267838efb9"
     },
     {
       "artists": [
@@ -771,7 +818,8 @@
       "title": "Spaces in Time",
       "album": "Nørgård: Violin Concertos Nos 1 & 2 - Spaces of Time",
       "id": "0n1tJmj35kyYVfzXuHIueb",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/8fd3b326-bc3a-3e2e-a554-6aad63ddfe28"
     },
     {
       "artists": [
@@ -788,7 +836,8 @@
       "title": "Symphony of the Way: II. On the Threshold of a Bright World",
       "album": "Vyacheslav Artyomov: On the Threshold of a Radiant World, Ave atque vale & Ave, cruz alba",
       "id": "7dt6Np64hAMCorvEGdn9O9",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/f362c9da-d321-3d89-972b-e4738576aa54"
     },
     {
       "artists": [

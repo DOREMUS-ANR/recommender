@@ -23,15 +23,13 @@ const PROPS = [{
   custom: true
 }];
 module.exports = function(composer, title, cb) {
-
   getArtists().then(getCatalogs).then(() => {
     if (!composer) return cb();
-    // if (composer.toLowerCase() != 'johannes brahms') return cb();
 
     let compPlain = translitterify(composer).replace('-', ' ');
     let composerUri = artists.find(a => a.label.toLowerCase() == compPlain.toLowerCase());
     if (!composerUri) {
-      if(debug) console.warn('\n\nArtist not in the db : ' + composer);
+      if (debug) console.warn('\n\nArtist not in the db : ' + composer);
       return cb();
     }
     composerUri = composerUri.uri;
@@ -56,7 +54,9 @@ module.exports = function(composer, title, cb) {
     sparqlExec(sparql).then((data) => {
 
       let bindings = data.results.bindings;
-      if (!bindings.length) return cb();
+      if (!bindings.length) return cb(null, {
+        composerUri
+      });
 
       bindings = bindings.map(b => {
         let obj = {};
@@ -139,12 +139,15 @@ module.exports = function(composer, title, cb) {
           }
         }
       }
-      cb(null, bests);
+      cb(null, {
+        bests,
+        composerUri
+      });
     }, (err) => {
       handleError(err);
       cb();
     });
-  });
+  }).catch(e => console.error(e));
 };
 
 function extractTokens(title, composerUri) {

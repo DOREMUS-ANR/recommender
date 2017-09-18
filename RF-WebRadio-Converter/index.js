@@ -72,7 +72,11 @@ function postProcessData(json) {
 
       printProgress(`... record ${++index} / ${records.length}`);
 
-      matcher(composer, title, (err, bests) => {
+      matcher(composer, title, (err, res) => {
+        if (!res) return cb();
+        if (res.composerUri) r.composer = res.composerUri;
+
+        let bests = res.bests;
         if (bests && bests[0]) {
           let best = bests[0];
           if (best.score >= 0.7) {

@@ -1,6 +1,6 @@
 const fs = require('fs'),
   async = require('async'),
-  noop = require('noop'),
+  noop = require('node-noop').noop,
   Track = require('./Track'),
   matcher = require('../RF-WebRadio-Converter/matcher.js'),
   spotifyAuth = require('./spotifyAuth');
@@ -27,7 +27,7 @@ var spotifyApi;
 spotifyAuth.login(run);
 
 function run(err, api) {
-  if (err) return;
+  if (err) return console.error(err);
   spotifyApi = api;
 
   async.map(playlists, (playlist, callback) => {
@@ -51,7 +51,10 @@ function run(err, api) {
         async.eachSeries(trackList, (r, cb) => {
           let title = r.title.toLowerCase(),
             composer = r.artists[0].toLowerCase();
-          matcher(composer, title, (err, bests) => {
+          matcher(composer, title, (err, res) => {
+            if(!res) return cb();
+            if(res.composerUri) r.composer = res.composerUri;
+            let bests = res.bests;
             if (bests && bests[0]) {
               let best = bests[0];
               if (best.score >= 0.7) {

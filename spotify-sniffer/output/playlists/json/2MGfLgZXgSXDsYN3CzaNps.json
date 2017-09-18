@@ -2,8 +2,46 @@
   "user": "sonyclassicalbenelux",
   "id": "2MGfLgZXgSXDsYN3CzaNps",
   "name": "Werken met Klassiek",
-  "followers": 2004,
+  "followers": 2049,
   "tracks": [
+    {
+      "artists": [
+        "Fabio Angelini"
+      ],
+      "title": "Una mattina",
+      "album": "Fabio Angelini plays the Best of Ludovico Einaudi",
+      "id": "47COS9gzNHkSSmhx8sYON6",
+      "trackNum": 5
+    },
+    {
+      "artists": [
+        "Francesco Tristano"
+      ],
+      "title": "Circle Song",
+      "album": "Circle Song",
+      "id": "0EoiR3mVdVM5OZXU7jDg8T",
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/2cf55d84-e563-3c54-b37b-ff48ed673013"
+    },
+    {
+      "artists": [
+        "Michael Giacchino",
+        "Marshall Bowen III"
+      ],
+      "title": "On a Ned-To-Know Basis",
+      "album": "Spider-Man: Homecoming (Original Motion Picture Soundtrack)",
+      "id": "0zGjoyD5fLkenLmLc6gDiv",
+      "trackNum": 5
+    },
+    {
+      "artists": [
+        "2Cellos"
+      ],
+      "title": "Moon River",
+      "album": "Moon River",
+      "id": "70hfWbNXeghZ1EjJMx7cch",
+      "trackNum": 1
+    },
     {
       "artists": [
         "Ludwig van Beethoven",
@@ -14,8 +52,16 @@
       "album": "The Beethoven Journey - Piano Concerto No.5 \"Emperor\" & Choral Fantasy",
       "id": "7IKq4yNGvAe5KjKwaOW24L",
       "trackNum": 2,
-      "best": "http://data.doremus.org/expression/c3d5671c-004c-3530-804b-beea5ac8aea7",
-      "best_matching_score": "0.98"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "artists": [
+        "Yiruma"
+      ],
+      "title": "Lamentation",
+      "album": "Piano",
+      "id": "2RZWSolFOoxHOLLvuBCAmV",
+      "trackNum": 3
     },
     {
       "artists": [
@@ -28,6 +74,7 @@
       "album": "Saint-Saëns: Cello Concerto No. 1 in A Minor, Op. 33 & Lalo: Cello Concerto in D Minor - Sony Classical Masters",
       "id": "17Wg35QGLVg1qNrOqArvG5",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/916a5a71-42ba-30c2-b2e9-fd1ec5e99a9b",
       "best": "http://data.doremus.org/expression/5984e353-e406-3cbc-8ee1-7ef0364464d5",
       "best_matching_score": "0.74"
     },
@@ -40,7 +87,8 @@
       "title": "Dances for Harp and Orchestra, L. 103: 1. Danse sacrée",
       "album": "Voyage",
       "id": "4yEvEcPG62YgX0WdvCCToq",
-      "trackNum": 13
+      "trackNum": 13,
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
     },
     {
       "artists": [
@@ -51,17 +99,9 @@
       "album": "Lang Lang in Paris",
       "id": "7oVbUYJLIcNnB0ETXLVrvh",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
       "best": "http://data.doremus.org/expression/b888012e-3b61-3784-9bff-fdecd2bfbb99",
       "best_matching_score": "1.00"
-    },
-    {
-      "artists": [
-        "2Cellos"
-      ],
-      "title": "Moon River",
-      "album": "Moon River",
-      "id": "70hfWbNXeghZ1EjJMx7cch",
-      "trackNum": 1
     },
     {
       "artists": [
@@ -77,6 +117,17 @@
     },
     {
       "artists": [
+        "Ludwig van Beethoven",
+        "Nelly Kokinos"
+      ],
+      "title": "Für Elise",
+      "album": "Classical Music 101",
+      "id": "67hXs9oizk6evBJxuk42cb",
+      "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "artists": [
         "Georg Philipp Telemann",
         "The Age of Passions"
       ],
@@ -84,8 +135,35 @@
       "album": "Telemann: Pariser Quartette 1-3",
       "id": "6YAwgcL2zZgTJWi5Lr40z8",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
       "best": "http://data.doremus.org/expression/24a83a32-0342-3f99-b8b5-046b5f7dec8a",
       "best_matching_score": "0.81"
+    },
+    {
+      "artists": [
+        "Jean Sibelius",
+        "Leif Ove Andsnes"
+      ],
+      "title": "6 Impromptus, Op. 5: Impromptu V",
+      "album": "Sibelius",
+      "id": "2kyyNhBUX8aVnKitNPLOhM",
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dacdc28f-be13-3f48-8be8-2854f886e46d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "artists": [
+        "Johann Sebastian Bach",
+        "Lang Lang"
+      ],
+      "title": "Orchestral Suite No. 3 in D Major, BWV 1068: III. Air, \"On the G String\" (Arr. for Piano)",
+      "album": "Gran Turismo 5 - Original Game Soundtrack played by Lang Lang",
+      "id": "4ksxLnn1ymLGRKnwhba45Y",
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/2f39ef3a-c62e-3a5f-9978-d65f920302eb",
+      "best_matching_score": "0.99"
     },
     {
       "artists": [
@@ -96,19 +174,22 @@
       "title": "The Swan (From \"Carnival of the Animals, R. 125\")",
       "album": "The Swan (From \"Carnival of the Animals, R. 125\")",
       "id": "0NuqOvYcOo12f0QVa7j6OP",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3"
     },
     {
       "artists": [
         "Jules Massenet",
         "Joshua Bell",
-        "Nigel Hess"
+        "Nigel Hess",
+        "Royal Philharmonic Orchestra"
       ],
       "title": "Thaïs: Méditation (Arr. for Violin and Orchestra)",
       "album": "Ladies in Lavender (Original Motion Picture Soundtrack)",
       "id": "7LCs36H7QJEpQrpcBgaHCM",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/6989cea2-160b-3e57-b519-2c68ddea5215",
+      "composer": "http://data.doremus.org/artist/bb190de9-54d7-3e08-8ec0-d02fc701573f",
+      "best": "http://data.doremus.org/expression/88191d3c-0b46-33cb-97c9-118a8ba4b825",
       "best_matching_score": "1.00"
     },
     {
@@ -120,6 +201,7 @@
       "album": "Volodos Plays Brahms",
       "id": "7wyC0Lz81oZo91NGH8zHq2",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/78590c22-f2a4-3c80-9868-69719853e6ab",
       "best_matching_score": "0.98"
     },
@@ -133,8 +215,20 @@
       "album": "Roots",
       "id": "1zpwLW4WMLbLnNzjwqw4eC",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/39175a03-2f9a-3bb6-b7bc-74c04a77adcc",
       "best": "http://data.doremus.org/expression/4c204643-aa74-30dd-afc7-024b80bc5448",
       "best_matching_score": "0.93"
+    },
+    {
+      "artists": [
+        "Francesco Tristano",
+        "Chilly Gonzales"
+      ],
+      "title": "Triangle Song",
+      "album": "Piano Circle Songs",
+      "id": "76uPQxLAUJF6mLl47loUnk",
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/2cf55d84-e563-3c54-b37b-ff48ed673013"
     },
     {
       "artists": [
@@ -155,7 +249,8 @@
       "title": "Gladiator Rhapsody (From \"Gladiator\")",
       "album": "Hans Zimmer - The Classics",
       "id": "5lfPf7e5TSTP7YZdg0ZPuw",
-      "trackNum": 3
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/24dd1f5e-591c-303c-ad66-3e2da62632ce"
     },
     {
       "artists": [
@@ -167,6 +262,7 @@
       "album": "Perspectives",
       "id": "4ypse7LaAdfXysDW0oNlCR",
       "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
       "best": "http://data.doremus.org/expression/b888012e-3b61-3784-9bff-fdecd2bfbb99",
       "best_matching_score": "1.00"
     },
@@ -180,6 +276,7 @@
       "album": "Il Progetto Vivaldi 3",
       "id": "7KeK99nk7VBsF4YzBGeIXa",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0",
       "best": "http://data.doremus.org/expression/8483b460-664c-330d-abb4-2b8516766581",
       "best_matching_score": "0.82"
     },
@@ -191,7 +288,17 @@
       "title": "Sonata in A Major, Op. 15, No. 4: I. Allegro spiritoso",
       "album": "Boccherini & Cirri: Cello Sonatas",
       "id": "7N3cb8dR5t1PkhIC68pwyE",
-      "trackNum": 16
+      "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/8a9f354b-0886-36fd-ac05-272b4d92aab9"
+    },
+    {
+      "artists": [
+        "Yiruma"
+      ],
+      "title": "Embrace of Silence",
+      "album": "Piano",
+      "id": "1qD8aL3CA2I0rzSPrPO7mY",
+      "trackNum": 1
     },
     {
       "artists": [
@@ -203,6 +310,7 @@
       "album": "Flute and Harp Duets",
       "id": "7ckOOf5ZfXzN1DfLGkaexz",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
       "best": "http://data.doremus.org/expression/4f77117e-b8e2-3598-8714-9f781660823d",
       "best_matching_score": "1.00"
     },
@@ -215,7 +323,8 @@
       "title": "Il postino",
       "album": "Lavinia Meijer & Carel Kraayenhof in Concert",
       "id": "0wPznEauMYVlhbfvv3yaFs",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/51cab720-d76d-3e15-92ce-fedd9d9f747e"
     },
     {
       "artists": [
@@ -227,6 +336,7 @@
       "album": "Tchaikovsky: Complete Symphonies; 1812 Overture, March Slave; Romeo and Juliet Concert Overture; Nutcracker Suite",
       "id": "0FFWQORVTr4QUCbylThP8w",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
       "best": "http://data.doremus.org/expression/cf726580-bd63-39e2-a9e6-2458f9b6c38a",
       "best_matching_score": "0.98"
     },
@@ -239,6 +349,7 @@
       "album": "Mozart: Five Quartets with Flute",
       "id": "2maSKStgi16222GrJg1p52",
       "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/28e297eb-b103-30dc-899a-92a2c3662464",
       "best_matching_score": "0.89"
     },
@@ -251,6 +362,7 @@
       "album": "Liszt - My Piano Hero",
       "id": "0Jp7n6FKqGVxtXPMVYtMQr",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
       "best": "http://data.doremus.org/expression/ec5dbba2-f0a0-3036-b253-c595248e6c01",
       "best_matching_score": "0.89"
     },
@@ -271,7 +383,8 @@
       "album": "Solo Piano",
       "id": "4ihT4OEVnjttmtD4l6Unkk",
       "trackNum": 4,
-      "best": "http://data.doremus.org/expression/053ce1f9-4005-3a99-9287-f7b876ab233b",
+      "composer": "http://data.doremus.org/artist/f34cfadd-5092-3ecb-aa9b-fd267838efb9",
+      "best": "http://data.doremus.org/expression/5e1ccdcc-d83d-35e6-8c94-98d80bbc9b5e",
       "best_matching_score": "1.00"
     },
     {
@@ -283,6 +396,7 @@
       "album": "Mozart: Five Quartets with Flute",
       "id": "1NObdiPsUR7iHzuSWqrz1C",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/28e297eb-b103-30dc-899a-92a2c3662464",
       "best_matching_score": "0.89"
     },
@@ -295,7 +409,8 @@
       "title": "Dances for Harp and Orchestra, L. 103: 2. Danse profane",
       "album": "Voyage",
       "id": "3qzNMOAMWvzMtl3aPv9rOB",
-      "trackNum": 14
+      "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
     },
     {
       "artists": [
@@ -316,7 +431,8 @@
       "album": "Tchaikovsky: Complete Symphonies; 1812 Overture, March Slave; Romeo and Juliet Concert Overture; Nutcracker Suite",
       "id": "562mw7y8gbU0MVOpORHTS0",
       "trackNum": 8,
-      "best": "http://data.doremus.org/expression/c9b40721-0027-38bb-8124-9ae402552f6f",
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
+      "best": "http://data.doremus.org/expression/cf726580-bd63-39e2-a9e6-2458f9b6c38a",
       "best_matching_score": "0.98"
     },
     {
@@ -328,6 +444,7 @@
       "album": "Mozart: Five Quartets with Flute",
       "id": "2DcnQPra0OaT3243YjF6A6",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/28e297eb-b103-30dc-899a-92a2c3662464",
       "best_matching_score": "0.89"
     },
@@ -350,6 +467,7 @@
       "album": "Keys to Mozart",
       "id": "4c31lsFSNwHICs9kKJTeNm",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/44d60392-e4bc-3b37-8e21-2f72d69ecd6d",
       "best_matching_score": "0.92"
     },
@@ -361,7 +479,8 @@
       "title": "Concerto for Bassoon in A major, Wq 172: I. Allegro",
       "album": "C.P.E. Bach: Bassoon Music / Werke für Fagott",
       "id": "1KdDnwsY4tzC6R4FsU7PvF",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665"
     },
     {
       "artists": [
@@ -372,7 +491,8 @@
       "album": "Satie: Piano Works",
       "id": "40EFtSg3iDJLV2it8MCJiH",
       "trackNum": 22,
-      "best": "http://data.doremus.org/expression/4832379d-48f8-3ea3-b318-16f8f29ffea0",
+      "composer": "http://data.doremus.org/artist/c536e11e-7871-3469-b913-1883b0b60e98",
+      "best": "http://data.doremus.org/expression/0b99074d-c562-3833-818c-4bc2c4258333",
       "best_matching_score": "1.00"
     },
     {
@@ -384,6 +504,7 @@
       "album": "Bach: Partitas BWV 825-830",
       "id": "3o8LanAupKr7euLzhITYZk",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/cfbc444b-c671-30be-a848-e59651c8b6e6",
       "best_matching_score": "1.00"
     },
@@ -396,6 +517,7 @@
       "album": "Keys to Mozart",
       "id": "5wN12RlZKMYyMd79q66wdd",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/44d60392-e4bc-3b37-8e21-2f72d69ecd6d",
       "best_matching_score": "0.92"
     },
@@ -408,6 +530,7 @@
       "album": "Lang Lang in Paris",
       "id": "2hDFqHL2ewTa4zWBUtJXXH",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
       "best": "http://data.doremus.org/expression/b888012e-3b61-3784-9bff-fdecd2bfbb99",
       "best_matching_score": "1.00"
     },
@@ -419,7 +542,8 @@
       "title": "Concerto for Bassoon in A major, Wq 172: II. Largo con sordini, mesto",
       "album": "C.P.E. Bach: Bassoon Music / Werke für Fagott",
       "id": "5bgjvToiqU86gwIxEfDAVj",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665"
     },
     {
       "artists": [
@@ -429,7 +553,8 @@
       "title": "Sonata in A Major, Op. 15, No. 4: II. Adagio cantabile",
       "album": "Boccherini & Cirri: Cello Sonatas",
       "id": "5Yz5qTUBodANvqd3ZiM8ut",
-      "trackNum": 17
+      "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/8a9f354b-0886-36fd-ac05-272b4d92aab9"
     },
     {
       "artists": [
@@ -439,7 +564,8 @@
       "title": "Concerto for Bassoon in A major, Wq 172: III. Allegro assai",
       "album": "C.P.E. Bach: Bassoon Music / Werke für Fagott",
       "id": "4sNa0KMMGSsBMB6PFlqEIu",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665"
     },
     {
       "artists": [
@@ -449,7 +575,8 @@
       "title": "Sonata in A Major, Op. 15, No. 4: III. Allegro",
       "album": "Boccherini & Cirri: Cello Sonatas",
       "id": "6bnnH1YEjKVOvqZgzVCJfX",
-      "trackNum": 18
+      "trackNum": 18,
+      "composer": "http://data.doremus.org/artist/8a9f354b-0886-36fd-ac05-272b4d92aab9"
     },
     {
       "artists": [
@@ -461,19 +588,9 @@
       "album": "Il Progetto Vivaldi 3",
       "id": "4oIvCMbPnpE4sQcWEpvBTd",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0",
       "best": "http://data.doremus.org/expression/8483b460-664c-330d-abb4-2b8516766581",
       "best_matching_score": "0.82"
-    },
-    {
-      "artists": [
-        "Salamone Rossi Hebreo",
-        "Apollo's Fire",
-        "Jeannette Sorrell"
-      ],
-      "title": "Sonata in Dialogo detta la Viena",
-      "album": "Sephardic Journey",
-      "id": "7BjT2GIeiuNSEn0GNpai14",
-      "trackNum": 5
     },
     {
       "artists": [
@@ -484,6 +601,7 @@
       "album": "Bach: Partitas BWV 825-830",
       "id": "6jYl96tQY0lsG1tZtACDZx",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/cfbc444b-c671-30be-a848-e59651c8b6e6",
       "best_matching_score": "1.00"
     },
@@ -505,7 +623,8 @@
       "album": "The Bach Sons: Piano Concertos & Solo Pieces",
       "id": "0EjzjSdFGr8xuxBtFxSJOB",
       "trackNum": 2,
-      "best": "http://data.doremus.org/expression/7db84b67-f2e8-3e08-a9c0-fca8681125b0",
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665",
+      "best": "http://data.doremus.org/expression/2c0105c1-8083-3f75-be13-b0cef6ea5dfb",
       "best_matching_score": "0.88"
     },
     {
@@ -517,6 +636,7 @@
       "album": "Bach: Partitas BWV 825-830",
       "id": "7amVH8pFY6km5EMnSoqaRX",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/cfbc444b-c671-30be-a848-e59651c8b6e6",
       "best_matching_score": "1.00"
     },
@@ -531,6 +651,7 @@
       "album": "Saint-Saëns: Cello Concerto No. 1 in A Minor, Op. 33 & Lalo: Cello Concerto in D Minor - Sony Classical Masters",
       "id": "6eaGMd4RTTbOnGmpJXfbPd",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/916a5a71-42ba-30c2-b2e9-fd1ec5e99a9b",
       "best": "http://data.doremus.org/expression/5984e353-e406-3cbc-8ee1-7ef0364464d5",
       "best_matching_score": "0.74"
     },
@@ -553,6 +674,7 @@
       "album": "Brahms: Complete Violin Sonatas",
       "id": "3DKhTfCcighVAsuRemQbjG",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/0c66d5b1-7b49-37fa-8481-0596efec4d2c",
       "best_matching_score": "0.97"
     },
@@ -565,6 +687,7 @@
       "album": "Telemann: Pariser Quartette 1-3",
       "id": "4R4zphX9CbGQmPwlkBvhM9",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
       "best": "http://data.doremus.org/expression/24a83a32-0342-3f99-b8b5-046b5f7dec8a",
       "best_matching_score": "0.81"
     },
@@ -577,6 +700,7 @@
       "album": "Brahms: Complete Violin Sonatas",
       "id": "10FIjEdG1881InVCFYs6Kt",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/0c66d5b1-7b49-37fa-8481-0596efec4d2c",
       "best_matching_score": "0.97"
     },
@@ -598,7 +722,8 @@
       "album": "The Bach Sons: Piano Concertos & Solo Pieces",
       "id": "2lV7kajwTDuvV8ylxPwg6b",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/2c0105c1-8083-3f75-be13-b0cef6ea5dfb",
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665",
+      "best": "http://data.doremus.org/expression/7db84b67-f2e8-3e08-a9c0-fca8681125b0",
       "best_matching_score": "0.88"
     },
     {
@@ -611,6 +736,7 @@
       "album": "Il Progetto Vivaldi 3",
       "id": "6itlZvEgE1kwe5X5DvZO4D",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0",
       "best": "http://data.doremus.org/expression/8483b460-664c-330d-abb4-2b8516766581",
       "best_matching_score": "0.82"
     },
@@ -623,7 +749,8 @@
       "album": "The Bach Sons: Piano Concertos & Solo Pieces",
       "id": "4SMy9ah2JXYRRSoM92pbH8",
       "trackNum": 3,
-      "best": "http://data.doremus.org/expression/2c0105c1-8083-3f75-be13-b0cef6ea5dfb",
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665",
+      "best": "http://data.doremus.org/expression/7db84b67-f2e8-3e08-a9c0-fca8681125b0",
       "best_matching_score": "0.88"
     },
     {
@@ -635,10 +762,11 @@
       "album": "Telemann: Pariser Quartette 1-3",
       "id": "2R7HIM1hV2PFEYUgoTCenK",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
       "best": "http://data.doremus.org/expression/24a83a32-0342-3f99-b8b5-046b5f7dec8a",
       "best_matching_score": "0.81"
     }
   ],
-  "n_matched": 34,
-  "n_total": 55
+  "n_matched": 35,
+  "n_total": 63
 }

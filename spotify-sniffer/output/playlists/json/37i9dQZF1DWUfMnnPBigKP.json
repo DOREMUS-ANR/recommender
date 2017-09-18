@@ -2,8 +2,20 @@
   "user": "spotify",
   "id": "37i9dQZF1DWUfMnnPBigKP",
   "name": "Symphony of the Winds",
-  "followers": 6647,
+  "followers": 8388,
   "tracks": [
+    {
+      "artists": [
+        "David Maslanka",
+        "Northwestern University Symphonic Wind Ensemble",
+        "Mallory Thompson"
+      ],
+      "title": "Symphony No. 4",
+      "album": "Rising",
+      "id": "0v3NskaDbGsXPycx4qQWth",
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/021cf8e7-ca5e-316b-94bc-e3ea2daa0fbb"
+    },
     {
       "artists": [
         "Eric Whitacre",
@@ -13,7 +25,8 @@
       "title": "October",
       "album": "North Texas Wind Symphony: Passions",
       "id": "0NiKlQjjwoP2IoBhzuwf9j",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/f8234596-e4ec-39e3-a177-8c78d599da92"
     },
     {
       "artists": [
@@ -25,6 +38,7 @@
       "album": "Lincolnshire Posy",
       "id": "6FwkSITKGSBNIpzdMDSgMR",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/6b20c91a-e05e-350f-bd4a-eed5443338a4",
       "best": "http://data.doremus.org/expression/fce65d83-863f-377d-a32e-94a179a2746d",
       "best_matching_score": "1.00"
     },
@@ -38,6 +52,7 @@
       "album": "Weill: Violin Concerto, Op. 12, Kleine Dreigroschenmusik & Berlin im Licht",
       "id": "28wNE6V0e5H4CPdY83TgVy",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/55cf22c5-ba2f-3e63-9004-d8eed4b9854b",
       "best": "http://data.doremus.org/expression/002edb12-a307-37f5-9ff4-da1e8d48669a",
       "best_matching_score": "1.00"
     },
@@ -55,17 +70,6 @@
     },
     {
       "artists": [
-        "David Maslanka",
-        "Northwestern University Symphonic Wind Ensemble",
-        "Mallory Thompson"
-      ],
-      "title": "Symphony No. 4",
-      "album": "Rising",
-      "id": "0v3NskaDbGsXPycx4qQWth",
-      "trackNum": 5
-    },
-    {
-      "artists": [
         "Igor Stravinsky",
         "Twentieth Century Classics Ensemble",
         "Robert Craft"
@@ -73,7 +77,8 @@
       "title": "Symphonies of Wind Instruments (original 1920 version)",
       "album": "Stravinsky: 125th Anniversary Album: The Rite of Spring - Violin Concerto",
       "id": "5u8Vmfr249qnrgOcPrvCNz",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/1f1c9292-087a-3ac7-b854-84e213e69dc6"
     },
     {
       "artists": [
@@ -81,10 +86,11 @@
         "Harmonie de l'Orchestre des Champs-Elysées",
         "Philippe Herreweghe"
       ],
-      "title": "Sérénade No. 10 \"Gran Partita\" K.361, en Si Bémol Majeur: III. Adagio",
+      "title": "Sérénade No. 10 \"Gran Partita\" K.361, en Si Bémol Majeur: Sérénade No. 10 \"Gran Partita\" K.361, en Si Bémol Majeur: III. Adagio",
       "album": "Mozart: Gran Partita, Sérénade No. 12 \"Nacht Musique\" K. 388",
       "id": "3E3RCA2Fc96joc5sEOjOps",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/91cd8584-0bfe-3aa7-96f8-5efd58a2c4a0",
       "best_matching_score": "0.98"
     },
@@ -98,7 +104,8 @@
       "album": "Messiaen: Orchestral Works",
       "id": "0D8Bzayb1RqjXLM9ghzNlG",
       "trackNum": 9,
-      "best": "http://data.doremus.org/expression/09fa8cf5-eb2e-3eae-bc4b-bf8e2bae7b06",
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c",
+      "best": "http://data.doremus.org/expression/cf054a79-dd7c-3795-b05c-f09be58cfdfe",
       "best_matching_score": "1.00"
     },
     {
@@ -111,6 +118,7 @@
       "album": "Sousa: Music for Wind Band, Vol. 8",
       "id": "77IxzesBR8AmZnxslT4AXM",
       "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/bd418c3f-1922-39a7-a037-d11eb955a5a0",
       "best": "http://data.doremus.org/expression/7891838e-f21c-359e-921c-eb46eabb1e78",
       "best_matching_score": "1.00"
     },
@@ -125,6 +133,7 @@
       "album": "North Texas Wind Symphony: Wildflowers",
       "id": "4zCaSn0F41Odtm7NbDcV4h",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/1cc7b0bb-e82b-3c9f-8691-4c7bdd634718",
       "best": "http://data.doremus.org/expression/50a3236d-e9a4-3a29-8e1b-ca8f3f2fa7cf",
       "best_matching_score": "0.91"
     },
@@ -138,6 +147,7 @@
       "album": "Cincinnati Wind Symphony: Soundings",
       "id": "01D87p503wfqPqsYbjYwjb",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/3e473c54-e1d4-3f94-98db-80110177aa56",
       "best": "http://data.doremus.org/expression/03e2efd2-89da-3ee0-8540-511f0d648c10",
       "best_matching_score": "0.98"
     },
@@ -150,7 +160,8 @@
       "title": "Emblems",
       "album": "Cincinnati Wind Symphony: Emblems",
       "id": "563FfxUyfmiscrmp6SlxyQ",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/92da81d0-6e0c-3023-a0d7-5ccbbb30610d"
     },
     {
       "artists": [
@@ -161,7 +172,8 @@
       "title": "Symphony No. 3, \"Circus Maximus\": I. Introitus",
       "album": "Corigliano, J.: Symphony No. 3, \"Circus Maximus\" / Gazebo Dances",
       "id": "0chhqzSKeOgwyunR6gVL4O",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/91ed10cb-abdb-3218-9cf9-abdaa5032d3a"
     },
     {
       "artists": [
@@ -172,7 +184,8 @@
       "title": "Symphony No. 53, Op. 378, \"Star Dawn\": I. Maestoso sostenuto",
       "album": "Hovhaness: Symphonies Nos. 4, 20 and 53",
       "id": "2euDU6SFC0bQElXUu6MdKP",
-      "trackNum": 10
+      "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/1fed6e30-c73b-30c4-b7ef-8a45a7ebdd9f"
     },
     {
       "artists": [
@@ -183,7 +196,8 @@
       "title": "Symphony in B-Flat Major: I. Moderately fast with vigour - Molto agitato",
       "album": "Wind Band Music - Hindemith, P. / Holst, G. / Grainger, P. / Schwantner, J. (Trendsetters)",
       "id": "1vvzVNIPJxoTXtc8AO1ncY",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/ce41b86a-08bc-3ddf-8e82-b5ba0a723836"
     },
     {
       "artists": [
@@ -193,7 +207,8 @@
       "title": "Serenade in D Minor, Op. 44, B. 77: II. Minuetto",
       "album": "Dvořák: Serenade for Winds in D minor, Op. 44 - Gounod: Petite symphonie",
       "id": "2zhqlA5F4fyDCA8EmLlZvU",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/df6fc930-3a58-355d-8270-b2343b5f5b0a"
     },
     {
       "artists": [
@@ -206,6 +221,7 @@
       "album": "100 Best British Classics",
       "id": "0nlBfy8ILabnnUgWE5NjLO",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
       "best": "http://data.doremus.org/expression/b63feb29-9af1-3655-9fbc-eaf56f1e1445",
       "best_matching_score": "0.89"
     },
@@ -219,6 +235,7 @@
       "album": "North Texas Wind Symphony: Recollections",
       "id": "4CN9OlrLoMdlWMFAMk87KN",
       "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/b6096272-6527-3271-82c3-ddf54b9de349",
       "best": "http://data.doremus.org/expression/446677e6-4225-3ec4-81fa-50f818019bd4",
       "best_matching_score": "0.76"
     },
@@ -232,6 +249,7 @@
       "album": "Holst / Vaughan Williams: British Wind Band Classics",
       "id": "7zJDozH1UoihZXypgyvKSY",
       "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd",
       "best": "http://data.doremus.org/expression/5dbb3cba-1bc7-3055-8f8b-a4505d8e285c",
       "best_matching_score": "1.00"
     },
@@ -245,6 +263,7 @@
       "album": "German Wind Band Classics",
       "id": "5wBr6sZaeRb8YlSRbAs1DU",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
       "best": "http://data.doremus.org/expression/041c9718-733d-3981-ad77-38b77df095da",
       "best_matching_score": "0.93"
     },
@@ -258,6 +277,7 @@
       "album": "No Mo' Chalumeau!",
       "id": "5y1AnvJzyMrn9EdDSyZytp",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
       "best": "http://data.doremus.org/expression/56bfaf3d-d30e-3095-a9ce-647535e57be0",
       "best_matching_score": "0.97"
     },
@@ -271,6 +291,7 @@
       "album": "2003 WASBE Jönköping, Sweden: Guildhall Symphonic Wind Ensemble",
       "id": "0fUZT3uFZRKoGXuPLw1FeL",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/3ff81c97-097d-3bb7-876d-88b2de3caf44",
       "best": "http://data.doremus.org/expression/70d29252-7769-3488-927a-0bcd175c2d64",
       "best_matching_score": "1.00"
     },
@@ -283,7 +304,8 @@
       "title": "Niagara Falls",
       "album": "Daugherty: Ufo / Motown Metal / Niagara Falls / Desi / Red Cape Tango",
       "id": "4UadwkQ7bCNhpffq4vAX3T",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/6716c2f0-c661-3111-add7-df12cf52485a"
     },
     {
       "artists": [
@@ -294,7 +316,8 @@
       "title": "Wine-Dark Sea (Symphony for Band): III. The attentions of souls",
       "album": "Wine-Dark Sea",
       "id": "3527uKxlEfmeXC7IZum4BY",
-      "trackNum": 8
+      "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/763774d0-d433-326a-b69e-3cbea2cd2ab4"
     },
     {
       "artists": [
@@ -317,6 +340,7 @@
       "album": "Above and Beyond (Live)",
       "id": "47shnPNVJAj0kvzCQobwgg",
       "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/2a367db5-5728-3510-a266-0df803bd655e",
       "best": "http://data.doremus.org/expression/b4f2c43d-c29a-37e8-9af7-f0d669cffc7b",
       "best_matching_score": "1.00"
     },
@@ -329,7 +353,8 @@
       "title": "Incantation and Dance",
       "album": "The Legacy of John Barnes Chance",
       "id": "72XpYtLl8RfxLXYTKo22Zy",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/356f5ed0-ea05-31e5-92f0-f2cb676164ca"
     },
     {
       "artists": [
@@ -340,7 +365,8 @@
       "title": "Chorale and Alleluia, Op. 42",
       "album": "Hanson: Laude / Chorale and Alleluia / Dies Natalis / Centennial March / Merry Mount Suite",
       "id": "20Vxoj00f6kUPocuLZi8lg",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/564438dd-db4d-36ab-9c83-9725fc9a90c6"
     },
     {
       "artists": [
@@ -352,6 +378,7 @@
       "album": "Works for Symphonic Band By French And Italian Composers",
       "id": "2jQlj4c9zavtX8DWGAQz5T",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
       "best": "http://data.doremus.org/expression/9888957f-c1ec-3a30-8e27-dc6987fbbf69",
       "best_matching_score": "1.00"
     },
@@ -365,6 +392,7 @@
       "album": "Johan de Meij: The Symphonies",
       "id": "2T5TISZyuo3UE4rpUaX4jW",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/22090ba9-cf69-3585-b33f-9607b2e523cc",
       "best": "http://data.doremus.org/expression/570d235e-64b7-31ce-be75-661b5690e0f4",
       "best_matching_score": "0.95"
     },
@@ -377,7 +405,8 @@
       "title": "Symphonic Songs for Band: II. Spiritual",
       "album": "Grainger: Duke of Marlborough Fanfare (The) / Lincolnshire Posy / Roussel: A Glorious Day",
       "id": "1TD8yk933e5kgXNirub464",
-      "trackNum": 18
+      "trackNum": 18,
+      "composer": "http://data.doremus.org/artist/a65044f9-60f8-34b1-9d02-c5a0a000c8c8"
     },
     {
       "artists": [
@@ -388,7 +417,8 @@
       "title": "Rocky Point Holiday",
       "album": "Dallas Wind Symphony Sampler",
       "id": "6yk2CG518SW7rwXyRmph0N",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/63569dc6-144d-3670-95ca-3da6040cd3ca"
     },
     {
       "artists": [
@@ -399,7 +429,8 @@
       "title": "Tunbridge Fair",
       "album": "Radiant Joy",
       "id": "6I6AQHwT7llU2JKBNDWrSM",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/12e299a4-6c60-3299-bec0-e61fb4afac55"
     },
     {
       "artists": [
@@ -409,7 +440,8 @@
       "title": "Armenian Dances: I. The Apricot Tree - The Partridge's Song - Hoy, Nazan Eem - Alagyaz - Go, Go",
       "album": "Reed: Alfred Reed Live!, Vol. 1 - Armenian Dances",
       "id": "1foIONDXJRB8B5cpzPAyVu",
-      "trackNum": 3
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/e013acb8-6d41-3968-a73d-24df6355c4ff"
     },
     {
       "artists": [
@@ -432,7 +464,8 @@
       "album": "Berlioz: Grande Symphonie Funèbre Et Triomphale",
       "id": "0nbumcBVv1lrJnCdGs51O4",
       "trackNum": 3,
-      "best": "http://data.doremus.org/expression/678d0417-74de-311a-bf07-9fe07ed7d670",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/535e789c-7ca1-3f1d-bcdf-8ec50ba35ec9",
       "best_matching_score": "1.00"
     },
     {
@@ -444,6 +477,7 @@
       "album": "Gran Partita",
       "id": "5WOMgv6ks1MyqIKpo4rCXN",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
       "best": "http://data.doremus.org/expression/6f7a83ef-6f99-3b5b-a8dd-1c3a23b4ffee",
       "best_matching_score": "0.85"
     },
@@ -468,7 +502,8 @@
       "title": "Suite francaise, Op. 248: II. Bretagne",
       "album": "Incursions",
       "id": "3EI4asvJ4V1iZVcAkTSUfq",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/bcfefeca-ab42-3e86-9ffa-0b0176319b29"
     },
     {
       "artists": [
@@ -479,7 +514,8 @@
       "title": "New England Triptych (version for wind ensemble): II. When Jesus Wept (arr. by W. Schuman)",
       "album": "Schuman: George Washington Bridge / Prelude for A Great Occasion / New England Triptych",
       "id": "339BzSMa3uxTk1mQ9HkoiP",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/b1a9cb34-5cbd-3dda-b60d-13a05ee81ecc"
     },
     {
       "artists": [
@@ -490,7 +526,8 @@
       "title": "Dusk",
       "album": "Ticheli, F.: Wild Nights! / Etezady, R.: Anahita / Mackey, J.: Soprano Saxophone Concerto",
       "id": "7abfUxNpRHuby0N2T4JCv1",
-      "trackNum": 3
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/f9917e4d-78c2-35ed-bc9e-c0c0b43dce18"
     },
     {
       "artists": [
@@ -501,7 +538,8 @@
       "title": "Concerto for Alto Saxophone",
       "album": "Dahl: Concerto for Alto Saxophone, Music for Brass Instruments, The Tower of Saint Barbara, et al.",
       "id": "27p07p7vJLhvrBRpFTLSeF",
-      "trackNum": 3
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/ce16bdbc-c3c7-38e7-9aa1-c45fb1a9db43"
     },
     {
       "artists": [
@@ -512,7 +550,8 @@
       "title": "In Wartime: I. Hymn",
       "album": "Bells for Stokowski",
       "id": "5ae5HkZiWsWPp87rtNmxpm",
-      "trackNum": 13
+      "trackNum": 13,
+      "composer": "http://data.doremus.org/artist/b850cb92-2dd0-3add-87e8-6163af687c91"
     },
     {
       "artists": [
@@ -524,7 +563,8 @@
       "title": "Rhythm Stand",
       "album": "Distinguished Music for the Developing Wind Band, Vol. 6",
       "id": "1MSNRDKiJuqaEbA3x9zhGl",
-      "trackNum": 13
+      "trackNum": 13,
+      "composer": "http://data.doremus.org/artist/0584e383-3899-3240-a96a-e19c48cfd68f"
     },
     {
       "artists": [
@@ -547,6 +587,7 @@
       "album": "Audibles",
       "id": "6bqPSEkjKc1mlVo0ALaruT",
       "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/aad8d23a-184d-3119-a08d-8a58e8539f69",
       "best": "http://data.doremus.org/expression/7b1bb529-4746-3fa0-9bb2-d046f6a479d1",
       "best_matching_score": "1.00"
     },
@@ -570,7 +611,8 @@
       "title": "4 Places in the West: IV. Zion",
       "album": "Places in the West: Music of Dan Welcher",
       "id": "0z8eOJgg51WUyesBjBAwpy",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/ef92276f-1a07-30e6-a6f6-13f90ffff42b"
     },
     {
       "artists": [
@@ -582,6 +624,7 @@
       "album": "Cincinnati Wind Symphony: Songs and Dances",
       "id": "3AyRfJbOVn4Zqa0DfLNzWQ",
       "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
       "best": "http://data.doremus.org/expression/1d8fce14-da1e-3d67-96df-c3d734e30eff",
       "best_matching_score": "1.00"
     },
@@ -594,7 +637,8 @@
       "title": "Vientos y Tangos",
       "album": "North Texas Wind Symphony: Poetics",
       "id": "3EiQxic1kxxQkUyCHbnzIf",
-      "trackNum": 3
+      "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/41f7a97b-ae83-3357-a268-e1cdd76b652b"
     }
   ],
   "n_matched": 20,

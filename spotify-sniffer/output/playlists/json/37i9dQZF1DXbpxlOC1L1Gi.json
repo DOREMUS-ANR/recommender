@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DXbpxlOC1L1Gi",
   "name": "Classical World: France",
-  "followers": 3022,
+  "followers": 5077,
   "tracks": [
     {
       "artists": [
@@ -13,6 +13,7 @@
       "album": "La Folie française",
       "id": "7aU3RuNBBIH8FBsr4OMDCd",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
       "best": "http://data.doremus.org/expression/d547e458-a447-3ede-b664-3fb109c0fef0",
       "best_matching_score": "1.00"
     },
@@ -26,48 +27,35 @@
       "title": "Meditation: Méditation from Thaïs",
       "album": "Szymanowski: Violin Concerto No.1",
       "id": "6Uk28Hs2MulezLxMrd1rBD",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/bb190de9-54d7-3e08-8ec0-d02fc701573f"
     },
     {
       "artists": [
-        "Reynaldo Hahn",
-        "Véronique Gens",
-        "Susan Manoff"
+        "Erik Satie",
+        "Pascal Rogé"
       ],
-      "title": "A Chloris",
-      "album": "Néère",
-      "id": "494LJb4JwERtottTanuEi4",
-      "trackNum": 15,
-      "best": "http://data.doremus.org/expression/aea3d56c-c082-3b9d-8590-e59a3abfab5a",
-      "best_matching_score": "0.89"
+      "title": "3 Gymnopédies: No.1",
+      "album": "Satie: 3 Gymnopédies; 6 Gnossiennes etc.",
+      "id": "49UFcP1xlcuxwkrCgDhxos",
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/c536e11e-7871-3469-b913-1883b0b60e98",
+      "best": "http://data.doremus.org/expression/77bfcd0f-bdf7-302c-a988-86e760e19846",
+      "best_matching_score": "0.97"
     },
     {
       "artists": [
-        "François-Adrien Boieldieu",
-        "Anaïs Gaudemard",
-        "Leo Hussain",
-        "Orchestre de l'Opéra de Rouen Normandie"
+        "Louise Farrenc",
+        "North German Radio Symphony, Hannover",
+        "Johannes Goritzki"
       ],
-      "title": "Concerto pour harpe en ut majeur: III. Rondeau. Allegro agitato",
-      "album": "Harp Concertos",
-      "id": "3wq9aGvlloLL8vs3z5qitB",
-      "trackNum": 8,
-      "best": "http://data.doremus.org/expression/ddbb457f-2bdb-35bb-b52d-1e1c42ce0b6f",
-      "best_matching_score": "0.77"
-    },
-    {
-      "artists": [
-        "Georges Bizet",
-        "Maria Callas",
-        "Georges Prêtre",
-        "Orchestre du Théâtre National de l'Opéra de Paris"
-      ],
-      "title": "Carmen, WD 31, Act 1 Scene 4",
-      "album": "Bizet: Carmen",
-      "id": "2r1FiNXh5mDNEP8K07YRVp",
+      "title": "Symphony No. 3 in G Minor, Op. 36: II. Adagio cantabile",
+      "album": "Farrenc: Symphonies Nos. 1 and 3",
+      "id": "4caRxA3WAlAgD9Y2kqsRc5",
       "trackNum": 6,
-      "best": "http://data.doremus.org/expression/bf4c5eb0-1c4e-39e9-a403-c991ab54e220",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/1d78b116-b274-3a8f-88dd-a32e77f30ee9",
+      "best": "http://data.doremus.org/expression/b1e9b52c-cb20-311c-9f37-4163e7fa9d59",
+      "best_matching_score": "0.98"
     },
     {
       "artists": [
@@ -78,29 +66,24 @@
       "album": "Ravel: Intégrale de l'œuvre pour piano",
       "id": "7MjEk3ha3TdVVfeYryOIAq",
       "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
       "best": "http://data.doremus.org/expression/e30089cc-4c06-3a72-9cca-358bf21324bd",
       "best_matching_score": "1.00"
     },
     {
       "artists": [
-        "Hector Berlioz",
-        "Sir Thomas Beecham",
-        "The Orchestre National De La Radiodiffusion Francaise"
+        "Georges Bizet",
+        "Maria Callas",
+        "Georges Prêtre",
+        "Orchestre du Théâtre National de l'Opéra Paris"
       ],
-      "title": "Symphonie fantastique, H. 48 (from \"Episodes de la Vie d'un Artiste\", Pt. 1)",
-      "album": "Berlioz: Symphonie Fantastique",
-      "id": "3uxyMPiAFgvxLM3saCA3da",
-      "trackNum": 2
-    },
-    {
-      "artists": [
-        "Cécile Chaminade",
-        "Eric Parkin"
-      ],
-      "title": "6 Romances sans paroles, Op. 76: No. 1. Souvenance",
-      "album": "Chaminade: Works for Piano",
-      "id": "4B8udiCf3B681ifQ3gnPy4",
-      "trackNum": 7
+      "title": "Carmen, WD 31, Act 1 Scene 4",
+      "album": "Bizet: Carmen",
+      "id": "2r1FiNXh5mDNEP8K07YRVp",
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/e432aa13-207f-34f8-9792-d1d15fcd4711",
+      "best": "http://data.doremus.org/expression/4d4fed5f-e383-3560-9aa3-bf6496e1c335",
+      "best_matching_score": "1.00"
     },
     {
       "artists": [
@@ -114,8 +97,61 @@
       "album": "Claude Debussy: Sonate pour flûte, alto et harpe, Les Chansons de Bilitis, Syrinx",
       "id": "4GoNXwMrkNfVifDKI4oSNj",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/09bcd7d1-ace1-3321-8971-3f997f8fe0c7",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/e4b58b98-494c-33e8-b684-e99668243f2f",
       "best_matching_score": "0.94"
+    },
+    {
+      "artists": [
+        "Reynaldo Hahn",
+        "Véronique Gens",
+        "Susan Manoff"
+      ],
+      "title": "A Chloris",
+      "album": "Néère",
+      "id": "494LJb4JwERtottTanuEi4",
+      "trackNum": 15,
+      "composer": "http://data.doremus.org/artist/48cf752f-eba6-3f2e-90e3-ca675277f7f7",
+      "best": "http://data.doremus.org/expression/aea3d56c-c082-3b9d-8590-e59a3abfab5a",
+      "best_matching_score": "0.89"
+    },
+    {
+      "artists": [
+        "Hector Berlioz",
+        "Sir Thomas Beecham",
+        "The Orchestre National De La Radiodiffusion Francaise"
+      ],
+      "title": "Symphonie fantastique, H. 48 (from \"Episodes de la Vie d'un Artiste\", Pt. 1)",
+      "album": "Berlioz: Symphonie Fantastique",
+      "id": "3uxyMPiAFgvxLM3saCA3da",
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707"
+    },
+    {
+      "artists": [
+        "François-Adrien Boieldieu",
+        "Anaïs Gaudemard",
+        "Leo Hussain",
+        "Orchestre de l'Opéra de Rouen Normandie"
+      ],
+      "title": "Concerto pour harpe en ut majeur: III. Rondeau. Allegro agitato",
+      "album": "Harp Concertos",
+      "id": "3wq9aGvlloLL8vs3z5qitB",
+      "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/ac4d1a55-958b-3f19-a8bc-9418e4bae02f",
+      "best": "http://data.doremus.org/expression/ddbb457f-2bdb-35bb-b52d-1e1c42ce0b6f",
+      "best_matching_score": "0.77"
+    },
+    {
+      "artists": [
+        "Cécile Chaminade",
+        "Eric Parkin"
+      ],
+      "title": "6 Romances sans paroles, Op. 76: No. 1. Souvenance",
+      "album": "Chaminade: Works for Piano",
+      "id": "4B8udiCf3B681ifQ3gnPy4",
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/c8f19185-bba1-376c-a3d9-387e1856304f"
     },
     {
       "artists": [
@@ -129,7 +165,8 @@
       "album": "Fauré: Requiem",
       "id": "53326N9mpp60jIOj1DAUDN",
       "trackNum": 4,
-      "best": "http://data.doremus.org/expression/c2c33739-ccf0-3866-8c3c-a35f7aef46c6",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/21c5df51-9123-337f-9ae6-643146a26d12",
       "best_matching_score": "1.00"
     },
     {
@@ -143,20 +180,9 @@
       "album": "Lully: Phaéton",
       "id": "3zcCQoPjV4MJM8nMUjV0JU",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/815651d8-e6b8-30bc-835a-3d3f51c92859",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/832435a8-6bb9-31eb-abc4-445887977b2d",
       "best_matching_score": "0.86"
-    },
-    {
-      "artists": [
-        "Erik Satie",
-        "Pascal Rogé"
-      ],
-      "title": "3 Gymnopédies: No.1",
-      "album": "Satie: 3 Gymnopédies; 6 Gnossiennes etc.",
-      "id": "49UFcP1xlcuxwkrCgDhxos",
-      "trackNum": 1,
-      "best": "http://data.doremus.org/expression/77bfcd0f-bdf7-302c-a988-86e760e19846",
-      "best_matching_score": "0.97"
     },
     {
       "artists": [
@@ -168,7 +194,8 @@
       "album": "Poulenc: Figure Humaine",
       "id": "6I26Y6nDwlNtCxNsumoufy",
       "trackNum": 18,
-      "best": "http://data.doremus.org/expression/cf501b0d-d89d-3aaf-b97b-c7cc6c0c4570",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/262ee877-c9e7-3248-8d6c-d20ff1a2656d",
       "best_matching_score": "1.00"
     },
     {
@@ -184,6 +211,7 @@
       "album": "Oliver Messiaen: Des Canyons aux étoiles",
       "id": "42dQH7n1TI4HCn3e7R1MFe",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c",
       "best": "http://data.doremus.org/expression/81fc615b-665f-365c-970c-88ae8cb6e2fc",
       "best_matching_score": "1.00"
     },
@@ -196,6 +224,7 @@
       "album": "Rameau: Suite en Mi & Suite en Ré",
       "id": "0NHAFZjKipuRLnFSNUKYhD",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/1929320a-c4f9-36e5-890c-657126ebcdaf",
       "best": "http://data.doremus.org/expression/35f1a812-a1a3-351d-a92a-a0a4c0184c1a",
       "best_matching_score": "1.00"
     },
@@ -211,6 +240,7 @@
       "album": "Serene Spirits - Divine Harmonies for Mind and Soul",
       "id": "2yFTZSCcCAb0iWt1zL8yRZ",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/95bb7ab4-648d-3d95-beae-4dfc17530aec",
       "best": "http://data.doremus.org/expression/9a9e4909-2bfd-3e1b-af7a-308cfb47cfb1",
       "best_matching_score": "0.80"
     },
@@ -222,7 +252,8 @@
       "title": "Sonata for Solo Harp: I. Allegretto",
       "album": "V - Chamber Music for Harp",
       "id": "4c5mLCcyPNdPTVfBvDTjtn",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/9a8e0ccd-5e4e-359e-bbf0-d4e54d1ac12d"
     },
     {
       "artists": [
@@ -234,19 +265,21 @@
       "title": "Concerto symphonique No. 4 in D Minor, Op. 102: II. Scherzo",
       "album": "Masterpieces in Miniature",
       "id": "6pwSsSfS4L1fRBZdAu7AtT",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/5cd402f9-33a3-3169-8e97-5c32e3b856d8"
     },
     {
       "artists": [
         "Ernest Chausson",
         "Trio Wanderer"
       ],
-      "title": "Trio en sol mineur, Op.3: II. Vite - Très vite",
+      "title": "Trio en sol mineur, Op.3: Trio en sol mineur, Op.3: II. Vite - Très vite",
       "album": "Ravel & Chausson: Piano Trios",
       "id": "5hBXun1GPryhjPF69dRx5S",
       "trackNum": 6,
-      "best": "http://data.doremus.org/expression/28dd157f-7426-3c38-9920-f1ad685e270a",
-      "best_matching_score": "0.96"
+      "composer": "http://data.doremus.org/artist/c15d6849-cfbc-368c-9c8b-3c564c3b8fcf",
+      "best": "http://data.doremus.org/expression/33d34207-40dc-3022-bd47-cf794242bddb",
+      "best_matching_score": "0.81"
     },
     {
       "artists": [
@@ -259,7 +292,8 @@
       "title": "Sonnerie de Ste. Geneviève du Mont-de-Paris (Marin Marais)",
       "album": "Tous les matins du monde (Bande originale du film)",
       "id": "7f9iwK3Z2eZ9tqNurjiuRh",
-      "trackNum": 16
+      "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/89088a2c-8c1a-3ed4-9519-9c1a771e958b"
     },
     {
       "artists": [
@@ -273,7 +307,8 @@
       "album": "Gounod & Massenet: Arias",
       "id": "7AHKCACZqaNToAgIOF4o9D",
       "trackNum": 12,
-      "best": "http://data.doremus.org/expression/518ae66f-5f5c-3a32-9e90-3292506fde1d",
+      "composer": "http://data.doremus.org/artist/180755b4-2997-3fb4-8588-2ad68339ce6b",
+      "best": "http://data.doremus.org/expression/a4b7706e-d7dd-34c0-b9f1-72c781ef7281",
       "best_matching_score": "1.00"
     },
     {
@@ -284,7 +319,8 @@
       "title": "Deuxième Livre de Pièces de clavecin: Sixième ordre, Les Baricades Mistérieuses",
       "album": "Louis XIV",
       "id": "4dQo9iOO7xWqfhqm7VSZZJ",
-      "trackNum": 12
+      "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/14970460-189f-3593-a550-7bceb778072e"
     },
     {
       "artists": [
@@ -296,6 +332,7 @@
       "album": "French Impressions",
       "id": "0xX7kREWmOGBWzYNcpZwRN",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/ce72d043-0acc-3cca-95ba-959903770bc8",
       "best": "http://data.doremus.org/expression/75c9790d-311f-329f-89bc-30564fcabd69",
       "best_matching_score": "0.86"
     },
@@ -307,7 +344,8 @@
       "title": "Motet No. 1: Amara valde / Amour et biauté / Quant en moy",
       "album": "Machaut: Les motets",
       "id": "1NQdTLmQ4djQEV6hGhS5Sl",
-      "trackNum": 9
+      "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/b72017bd-bdbf-35b0-a962-54950c8e5de8"
     },
     {
       "artists": [
@@ -318,6 +356,7 @@
       "album": "Les Vents Français - Music for Wind Ensemble",
       "id": "16X1uwUyNeRQrfvh7ZXGVe",
       "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/bcfefeca-ab42-3e86-9ffa-0b0176319b29",
       "best": "http://data.doremus.org/expression/0e43ccee-a056-3218-bf8c-428f5f88d66d",
       "best_matching_score": "1.00"
     },
@@ -334,6 +373,7 @@
       "album": "Souvenirs",
       "id": "6VTsgxa1cF8Epos9qbwAOV",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/90a1934c-84f6-3604-b95e-b311ad0e85c9",
       "best": "http://data.doremus.org/expression/647c74f6-a9e2-34d8-9983-75bc7f7649ed",
       "best_matching_score": "0.88"
     },
@@ -348,6 +388,7 @@
       "album": "Lalo: Cello Concerto / Saint-Saëns:Cello Concerto",
       "id": "64Y05ZacnAjf9ysmPHcml7",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/916a5a71-42ba-30c2-b2e9-fd1ec5e99a9b",
       "best": "http://data.doremus.org/expression/5984e353-e406-3cbc-8ee1-7ef0364464d5",
       "best_matching_score": "0.82"
     },
@@ -362,7 +403,8 @@
       "title": "Lakmé / Act 1: Viens, Mallika, ... Dôme épais (Flower Duet)",
       "album": "Flower Duet - The World's Most Beautiful Duets",
       "id": "0Lqr5oasT5jFkaEE8pfH3D",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/5e166265-3cbf-3b0c-b7f5-a09b82e3a279"
     },
     {
       "artists": [
@@ -373,6 +415,7 @@
       "album": "Louis Couperin: Pièces de Clavecin",
       "id": "2gUBFuFJOROoWFTLtxYkYi",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/977c9c02-4107-39d6-b27e-b32e83f4ab1c",
       "best": "http://data.doremus.org/expression/555d8d4f-9a02-313d-81e5-af72689c165d",
       "best_matching_score": "0.87"
     },
@@ -386,7 +429,8 @@
       "album": "Neeme Jarvi conducts Chabrier",
       "id": "4Ri6Ww8D6AuWwJPMGaDu85",
       "trackNum": 4,
-      "best": "http://data.doremus.org/expression/8225cf8b-d712-3e81-a90f-19add2b851dc",
+      "composer": "http://data.doremus.org/artist/3c178aab-26f9-359b-bcd3-36f5ff6e39e0",
+      "best": "http://data.doremus.org/expression/16515dda-a401-3064-a19c-464f549c8126",
       "best_matching_score": "1.00"
     },
     {
@@ -400,6 +444,7 @@
       "album": "Duruflé: Requiem, Four Motets, Messe Cum Jubilo",
       "id": "1Arp8kHOQBUwcO0tUOTIr8",
       "trackNum": 10,
+      "composer": "http://data.doremus.org/artist/397d44ec-866d-3ad2-968e-1e722e9637c0",
       "best": "http://data.doremus.org/expression/ac03f390-3786-3585-bdb5-b85cfcd3ee52",
       "best_matching_score": "1.00"
     },
@@ -414,6 +459,7 @@
       "album": "Roussel: Bacchus Et Ariane / Le Festin De L'Araignee",
       "id": "1APAKATIIiwV9JnPZUkKNh",
       "trackNum": 43,
+      "composer": "http://data.doremus.org/artist/ab926ca9-5fe8-358c-a29e-33f8083596a8",
       "best": "http://data.doremus.org/expression/7701d09f-d7c6-3d99-8468-7b50b33d2a25",
       "best_matching_score": "1.00"
     },
@@ -426,6 +472,7 @@
       "album": "Alkan: Preludes, Op. 31",
       "id": "122qz1dG8yJgfz7NV22sd4",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/069e1437-23bf-320f-8581-c22c6077f70e",
       "best": "http://data.doremus.org/expression/c283b3b3-9506-38fd-ac01-337b7d3b6670",
       "best_matching_score": "0.98"
     },
@@ -439,7 +486,8 @@
       "title": "Nocturne for Violin & Orchestra \"Sur le même accord\"",
       "album": "Dutilleux: Sur le même accord, Les citations, Mystère de l'instant & Timbres, espace, mouvement",
       "id": "1c6ZtnrndpCLeJmiIQYW6H",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d"
     },
     {
       "artists": [
@@ -450,7 +498,8 @@
       "title": "Giselle / Act 2: No. 15 Grand pas de deux: a) Andante",
       "album": "Adam: Giselle",
       "id": "5uW7qfl788sFVGAv1c0HKf",
-      "trackNum": 16
+      "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/6cf3d2d5-2ba6-3db1-8447-9764a8335486"
     },
     {
       "artists": [
@@ -458,10 +507,11 @@
         "Les Arts Florissants",
         "William Christie"
       ],
-      "title": "Te Deum, H. 146: I. Prélude",
+      "title": "Te Deum, H. 146: Te Deum, H. 146: I. Prélude",
       "album": "Charpentier: Te Deum, H.146, Litanies de la Vierge & Missa \"Assumpta est Maria\"",
       "id": "5a7TTN4nMONsd11zCJgqGP",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
       "best": "http://data.doremus.org/expression/2d5af6f3-aedf-33f3-845a-d51c77388af0",
       "best_matching_score": "1.00"
     },
@@ -474,7 +524,8 @@
       "title": "Beata viscera (monophonic conductus)",
       "album": "Leonin / Perotin: Sacred Music From Notre-Dame Cathedral",
       "id": "1gB7qtssuV9OCnlUnqhoYh",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/0664ce25-26a5-34a6-80b7-f39d2756746f"
     },
     {
       "artists": [
@@ -484,7 +535,8 @@
       "title": "Symphony No.5 In F Minor, Op.42 No.1 For Organ: 5. Toccata (Allegro)",
       "album": "Vierne: Carillon de Westminster / Widor: Symphony No. 5",
       "id": "1w38xiSHmZXPL3b0PhPDll",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/15540ea5-c67c-38bb-afe3-101e1934f82a"
     },
     {
       "artists": [
@@ -496,6 +548,7 @@
       "album": "Josquin Desprez: Missa de Beata Virgine - Jean Mouton: Motets",
       "id": "4Aqcz79fJMdK50QagX4doY",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/95312d6a-0c15-3f07-a0f6-bd97ceee4cb2",
       "best": "http://data.doremus.org/expression/f643796d-5b35-3eb8-b336-01cb1fed0820",
       "best_matching_score": "1.00"
     },
@@ -508,7 +561,8 @@
       "title": "3 Symphonic Movements",
       "album": "Honegger : Symphonies Nos 1 - 5, Pacific 231 & Rugby (Apex)",
       "id": "1dp55rfQxM7QGzNTcf63lz",
-      "trackNum": 16
+      "trackNum": 16,
+      "composer": "http://data.doremus.org/artist/e3f0fc72-7967-39a4-888b-823b46576174"
     },
     {
       "artists": [
@@ -520,18 +574,8 @@
       "title": "Le Domino noir / Act 3: Flamme vengeresse",
       "album": "Coloratura Spectacular",
       "id": "2LzGbV49L9yp3x0zwhAkyj",
-      "trackNum": 11
-    },
-    {
-      "artists": [
-        "Georges Auric",
-        "BBC Philharmonic Orchestra",
-        "Rumon Gamba"
-      ],
-      "title": "The Lavender Hill Mob Suite: III. The Eiffel Tower",
-      "album": "Auric: Film Music",
-      "id": "1LDoauvd0B9iP0qTtdeNEr",
-      "trackNum": 15
+      "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/2804297e-1fa8-3fd9-863a-80358f878613"
     },
     {
       "artists": [
@@ -543,6 +587,7 @@
       "album": "Dukas: L'apprenti sorcier, La péri & Symphony in C Major",
       "id": "0NCxdUondB2MFfyOVZQ2cg",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/b9efae82-32ef-3cd0-bbe5-b58e16b9ec49",
       "best": "http://data.doremus.org/expression/1974982b-2d32-3bd8-8b94-cd11e52f2b27",
       "best_matching_score": "1.00"
     },
@@ -555,6 +600,7 @@
       "album": "Bach: Partita in D major, French Suite in D minor/Boulez: Douze Notations pour piano, Incises",
       "id": "27aKyYxz7dG6Pcnd7UNMjY",
       "trackNum": 25,
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1",
       "best": "http://data.doremus.org/expression/19c3c5c4-09bf-3134-867c-d7e9f24c2aec",
       "best_matching_score": "1.00"
     },
@@ -568,6 +614,7 @@
       "album": "Varese",
       "id": "3myNgVFMxAzcnMk9Os4Lb5",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/f0817935-c4e3-3bf2-882d-d0e96170c1c3",
       "best": "http://data.doremus.org/expression/32c11395-e362-3fea-bed7-2506cb895a15",
       "best_matching_score": "1.00"
     },
@@ -582,6 +629,7 @@
       "album": "Gérard Grisey: 4 Chants pour franchir le seuil",
       "id": "0a5y1uhDogTQ9nzPBcJ8fG",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/c4ef4da5-5668-36b4-8f95-6aca037d04d8",
       "best": "http://data.doremus.org/expression/80fd7764-cf68-3ac9-be17-0d25beb2d82c",
       "best_matching_score": "0.81"
     },
@@ -594,6 +642,7 @@
       "album": "Liszt Inspections",
       "id": "28KpIUwdeWQfQwfkQGtg2b",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7",
       "best": "http://data.doremus.org/expression/f34f866d-315a-3785-a95b-4c2cad436f36",
       "best_matching_score": "0.91"
     },
@@ -606,6 +655,7 @@
       "album": "Dusapin: 7 solos pour orchestre",
       "id": "59g7Mog0X2GWq46X9f8I3N",
       "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/631549a0-18b1-3d51-95c9-f7df6301ee76",
       "best": "http://data.doremus.org/expression/2178a648-c259-34a5-b98b-83e81474edc6",
       "best_matching_score": "0.91"
     },
@@ -619,7 +669,8 @@
       "title": "Nocturne, Op. 90",
       "album": "Bacri: Symphony No. 4, \"Classique Sturm Und Drang\" - Flute Concerto - Concertos, Op. 80",
       "id": "6oKVasKQEh7UtVzcTg2zr9",
-      "trackNum": 8
+      "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/03767ce3-7c69-30a6-a5e1-4162e40cb14f"
     },
     {
       "artists": [
@@ -630,10 +681,11 @@
       "album": "Claude Bolling's Suite for Cello and Jazz Piano Trio (Remastered)",
       "id": "5318LdRm6mBZiWVcbVGKlB",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/2b0eaa38-b663-3530-b9bb-434d9cb6d8d9",
       "best": "http://data.doremus.org/expression/e9a57510-ea44-37ae-948d-d484d66a400c",
       "best_matching_score": "1.00"
     }
   ],
-  "n_matched": 33,
+  "n_matched": 34,
   "n_total": 50
 }

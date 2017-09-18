@@ -1,0 +1,13 @@
+SELECT DISTINCT ?s ?o
+WHERE {
+  ?s ecrm:P14_carried_out_by ?someone ;
+     ?p ?o
+
+  FILTER (?p IN (
+    ecrm:P14_carried_out_by,
+    mus:U31_had_function_of_type,
+    mus:U32_had_responsibility_of_type,
+    mus:U1_used_medium_of_performance,
+    mus:U27_performed_character
+  ))
+}

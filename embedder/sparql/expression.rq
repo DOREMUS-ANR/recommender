@@ -1,0 +1,16 @@
+SELECT DISTINCT ?s ?o
+WHERE {
+  ?s a efrbroo:F22_Self-Contained_Expression .
+  {
+    ?s ?p ?o
+    FILTER (?p IN (mus:U11_has_key, mus:U12_has_genre, mus:U73_is_derivative_of))
+  } UNION {
+     ?s mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance_of_type ?o .
+  } UNION  {
+    ?event efrbroo:R17_created ?s;
+           ecrm:P9_consists_of / ecrm:P14_carried_out_by ?o
+  } UNION {
+    ?work efrbroo:R9_is_realised_in ?s ;
+       ecrm:P148_has_component / efrbroo:R9_is_realised_in ?o .
+  }
+}

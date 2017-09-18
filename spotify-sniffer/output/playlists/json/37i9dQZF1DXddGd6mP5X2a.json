@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DXddGd6mP5X2a",
   "name": "Orchestra 100: Spotify Picks",
-  "followers": 32848,
+  "followers": 36859,
   "tracks": [
     {
       "artists": [
@@ -14,8 +14,7 @@
       "album": "Mendelssohn in Scotland",
       "id": "0fIBz9zLZGqrCMaAUskhk2",
       "trackNum": 4,
-      "best": "http://data.doremus.org/expression/60ca9825-cdfe-3438-8ea7-177e7c019440",
-      "best_matching_score": "0.98"
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
     },
     {
       "artists": [
@@ -27,7 +26,8 @@
       "album": "Wagner - Dudamel",
       "id": "6y5U4NlIAuLFWqt3lRbe5j",
       "trackNum": 2,
-      "best": "http://data.doremus.org/expression/0f63dbe8-947a-3cee-a17e-89f70a743478",
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
+      "best": "http://data.doremus.org/expression/4edab563-b6d7-38d5-b5b4-8cab4ce81ba6",
       "best_matching_score": "1.00"
     },
     {
@@ -40,8 +40,23 @@
       "album": "Mozart: Symphonies Nos. 39, 40 & 41",
       "id": "11W7nrD4T26Q0p4bXj53Hm",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/6c52936c-9ec7-3e9c-be1c-ca56f9e2a2bb",
       "best_matching_score": "0.97"
+    },
+    {
+      "artists": [
+        "Franz Schubert",
+        "Wiener Philharmoniker",
+        "Carlos Kleiber"
+      ],
+      "title": "Symphony No.8 In B Minor, D.759 - \"Unfinished\": 1. Allegro moderato",
+      "album": "Schubert: Symphonies Nos.3 & 8 \"Unfinished\"",
+      "id": "1ev0w7RxxeduSGZfWG8XVj",
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/bd66e4dd-5d9d-3eea-b0ca-0b57cbff655c",
+      "best_matching_score": "0.96"
     },
     {
       "artists": [
@@ -53,7 +68,8 @@
       "title": "Concierto de Aranjuez for Guitar and Orchestra: 2. Adagio",
       "album": "Aranjuez",
       "id": "4e7vCSlmwDw6Y40nQvuojR",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/509b09ef-a4e5-3ad7-90d2-ef540c30617a"
     },
     {
       "artists": [
@@ -63,7 +79,22 @@
       "title": "Equus",
       "album": "Water Night",
       "id": "1Y6ujg6IUpryelPvGVNsCd",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/f8234596-e4ec-39e3-a177-8c78d599da92"
+    },
+    {
+      "artists": [
+        "Alban Berg",
+        "San Francisco Symphony",
+        "Michael Tilson Thomas"
+      ],
+      "title": "Three Pieces for Orchestra, Op. 6 (1929 Revision): I. Präludium",
+      "album": "Berg Three Pieces for Orchestra, Op. 6 (1929 revision)",
+      "id": "7wJOynfcHyoxQT25l6ecPV",
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/7de07efb-0df7-3ff0-94c5-1e13b3a396e5",
+      "best": "http://data.doremus.org/expression/944c8674-dc5d-3609-b555-dca3d0bbe219",
+      "best_matching_score": "0.97"
     },
     {
       "artists": [
@@ -75,6 +106,7 @@
       "album": "Dvořák: Symphonie Nr. 9, 'Aus der Neuen Welt\" - Heldenlied, Op. 111",
       "id": "0hBoe0lGBmDbGpCr1LXbSx",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/df6fc930-3a58-355d-8270-b2343b5f5b0a",
       "best": "http://data.doremus.org/expression/6c12e0d8-da91-39f9-b1ff-56647f433fe3",
       "best_matching_score": "0.84"
     },
@@ -84,10 +116,11 @@
         "Swedish Radio Symphony Orchestra",
         "Daniel Harding"
       ],
-      "title": "Symphonie fantastique, Op. 14: IV. Marche au supplice",
+      "title": "Symphonie fantastique, Op. 14: Symphonie fantastique, Op. 14: IV. Marche au supplice",
       "album": "Berlioz: Symphonie Fantastique - Rameau: Suite de Hippolyte et Aricie",
       "id": "1SHixA41Vy0TTlJJSX9Gbo",
       "trackNum": 13,
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
       "best": "http://data.doremus.org/expression/ee3a666a-9867-3f81-8d28-798ea72f66c1",
       "best_matching_score": "1.00"
     },
@@ -100,6 +133,7 @@
       "album": "Bach Sons (The) – Bach, J.C.F. / Bach, W.F. / Bach, C.P.E. / Bach, J.C.",
       "id": "6rcAlTeTWF4uYpxwVm5QdD",
       "trackNum": 15,
+      "composer": "http://data.doremus.org/artist/b2360e86-1c01-322d-a9a0-ffff6dfff68d",
       "best": "http://data.doremus.org/expression/17bb12d2-5dc9-311d-aecd-2d6d85df6b2b",
       "best_matching_score": "0.95"
     },
@@ -112,7 +146,8 @@
       "title": "Concerto for Orchestra, BB 123: I. Introduzione: Andante non troppo - Allegro vivace",
       "album": "Bartok: Concerto for Orchestra - Martinu: Memorial to Lidice - Klein: Partita for Strings",
       "id": "0j91GO1DteIBNsg1RHFCww",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/23df9200-a2a7-3ba8-ab11-ec16bf781c41"
     },
     {
       "artists": [
@@ -124,6 +159,7 @@
       "album": "Bruckner: 10 Symphonien",
       "id": "7xs1uO7mcpST4JyM8EteH8",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
       "best": "http://data.doremus.org/expression/5aad564e-0b51-3209-ba1e-cd5eab7c26c4",
       "best_matching_score": "0.84"
     },
@@ -137,8 +173,7 @@
       "album": "Beethoven : Symphonies Nos 1 - 9",
       "id": "3UkIZn9Brm9kwriMOkPShv",
       "trackNum": 30,
-      "best": "http://data.doremus.org/expression/aac01a66-68f4-3815-a1e0-b6a8b81157f9",
-      "best_matching_score": "0.99"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
     },
     {
       "artists": [
@@ -150,6 +185,7 @@
       "album": "Mahler: Symphony No. 9",
       "id": "605mQZLXgVwbYjDsr1uhGi",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
       "best": "http://data.doremus.org/expression/2bcffcee-c8e4-3eda-8663-b33d00115192",
       "best_matching_score": "0.96"
     },
@@ -163,7 +199,8 @@
       "album": "Debussy: Orchestral Music (2 CDs)",
       "id": "5mEHVyfhuqXAGIIIv8hxcd",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/8d5c104d-29a2-3c54-bf0b-8110b3d04b15",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/700b0618-d9a1-31bb-a2c5-840b07574cfd",
       "best_matching_score": "1.00"
     },
     {
@@ -176,7 +213,8 @@
       "album": "Tchaikovsky: Symphony No. 6 in B Minor, Op. 74, TH 30 \"Pathétique\"",
       "id": "0zQx2YEcN2aGN881kvK2H6",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/65a3a6e5-f125-3917-b376-e1a45d070136",
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
+      "best": "http://data.doremus.org/expression/c4a0ceb3-6732-3b81-a1b1-2b7947bbeb50",
       "best_matching_score": "0.96"
     },
     {
@@ -189,6 +227,7 @@
       "album": "Mozart: Symphonies Nos. 29, 33, 35 \"Haffner\", 38 \"Prague\", 41 \"Jupiter\" (Live)",
       "id": "6neUlEOCsnrQFoED0jzfim",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/f3f23bbc-549a-340d-bd56-ec6abc97a7a0",
       "best_matching_score": "0.96"
     },
@@ -202,6 +241,7 @@
       "album": "Brahms: The Symphonies",
       "id": "6jWrXbhQcKEN7Zhzh84iTL",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/ad54fe8b-926d-38b6-9491-63f9439ab4f7",
       "best_matching_score": "0.98"
     },
@@ -211,12 +251,11 @@
         "The English Concert",
         "Andrew Manze"
       ],
-      "title": "Symphony No. 1 in D major, Wq. 183/1: I. Allegro di molto",
+      "title": "Symphony No. 1 in D major, Wq. 183/1: Symphony No. 1 in D major, Wq. 183/1: I. Allegro di molto",
       "album": "C.P.E.Bach: Symphonies 1-4, Cello Concerto in A",
       "id": "7125Z776uNesKF0pNYU3lU",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/58daa9b2-3e7d-3f4e-b7bd-0e3095985635",
-      "best_matching_score": "0.71"
+      "composer": "http://data.doremus.org/artist/5500e650-4d41-31ab-b2ed-d93607613665"
     },
     {
       "artists": [
@@ -228,7 +267,8 @@
       "album": "Strauss, R.: Tod und Verklärung; Metamorphosen; Four Last Songs",
       "id": "0khJ40OuZxPzLgLVC3bKZY",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/3d85aeb1-3f22-3340-8545-9c25d1693d4f",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
+      "best": "http://data.doremus.org/expression/4d4ae2f1-d820-3c82-a09b-1d2047647aa8",
       "best_matching_score": "1.00"
     },
     {
@@ -240,6 +280,7 @@
       "album": "Stravinsky: Le Sacre du Printemps",
       "id": "6g4dvPG9jMtSCwQKIHOvo4",
       "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/1f1c9292-087a-3ac7-b854-84e213e69dc6",
       "best": "http://data.doremus.org/expression/4c2663ac-25c1-3727-be5e-439bfc0423a1",
       "best_matching_score": "1.00"
     },
@@ -255,6 +296,7 @@
       "album": "Haydn: The Complete Symphonies (33 CDs)",
       "id": "1ZZO2cU9xSbJrtBclJA3wU",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
       "best": "http://data.doremus.org/expression/3ce3c5da-d52f-3f20-b1f0-cc9d1d786611",
       "best_matching_score": "0.95"
     },
@@ -268,6 +310,7 @@
       "album": "Sibelius: Complete Symphonies (The)",
       "id": "4gDgBiFHHWI4Oe7G2jC0sU",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
       "best": "http://data.doremus.org/expression/0267113f-4275-3858-83d2-49d8324ad9b4",
       "best_matching_score": "1.00"
     },
@@ -281,6 +324,7 @@
       "album": "Vaughan Williams: Pastoral Symphony",
       "id": "2YOTtrurg9liRCwwIgFRUa",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd",
       "best": "http://data.doremus.org/expression/1d5f572f-417a-3552-b16c-82b2ada77d14",
       "best_matching_score": "0.95"
     },
@@ -296,6 +340,7 @@
       "album": "Villa-Lobos, H.: Choros, Vol. 2 - Choros Nos. 1, 4, 6, 8, 9",
       "id": "5qMBDUqS4OVfsqmb2tIWFA",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/c51a1b01-5682-33da-a15a-67d7f36c8308",
       "best": "http://data.doremus.org/expression/4e51d47e-1bb8-3cfa-9f56-9c8d8beb9c1c",
       "best_matching_score": "0.98"
     },
@@ -309,6 +354,7 @@
       "album": "Liszt: Faust Symphony; Dante Symphony; Les Prélludes; Prometheus (2 CDs)",
       "id": "4Y75CMjbhmRGAkyNq9vMc5",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
       "best": "http://data.doremus.org/expression/589b99ea-cc99-3ee6-aeea-2903ff852c84",
       "best_matching_score": "0.75"
     },
@@ -322,6 +368,7 @@
       "album": "Road Trip (SD)",
       "id": "19SN5mb0gs0ze9PYBIVANZ",
       "trackNum": 14,
+      "composer": "http://data.doremus.org/artist/92da81d0-6e0c-3023-a0d7-5ccbbb30610d",
       "best": "http://data.doremus.org/expression/012abeae-2fc1-30c5-96d2-618616eb6daf",
       "best_matching_score": "1.00"
     },
@@ -335,6 +382,7 @@
       "album": "Nielsen: Symphonies Nos 4 & 5",
       "id": "5L3iedRAALEijOPYREjKP2",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
       "best": "http://data.doremus.org/expression/4baa576b-dfd0-3400-a5cf-656fc67ab960",
       "best_matching_score": "0.95"
     },
@@ -347,7 +395,8 @@
       "title": "Ma vlast (My Fatherland): No. 2. Vltava (Moldau)",
       "album": "Smetana: Ma Vlast (My Country)",
       "id": "0P3TUNfXfhdJ4rgdZAUL6i",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/9dbaadc5-e795-3306-982c-8b2bd5187340"
     },
     {
       "artists": [
@@ -358,7 +407,10 @@
       "title": "Symphony No. 15 in A Major, Op. 141: I. Allegretto",
       "album": "Shostakovich: Symphony No. 15 (Live)",
       "id": "24c4y4WyYAe8YiHi2urD7L",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/dac301a0-0165-3bdb-9746-545ba575b127",
+      "best": "http://data.doremus.org/expression/c5164f5f-9474-373f-920d-66b05c8e4f8f",
+      "best_matching_score": "0.98"
     },
     {
       "artists": [
@@ -370,6 +422,7 @@
       "album": "Prokofiev: The Symphonies",
       "id": "4sg9qLqjUVP1UjPOTTofT7",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
       "best": "http://data.doremus.org/expression/1a3560b3-c1be-311c-be8a-81dc95d36001",
       "best_matching_score": "0.98"
     },
@@ -396,8 +449,7 @@
       "album": "Tchaikovsky: Symphony No. 6 / Mendelssohn: Overture to a Midsummer Night's Dream",
       "id": "1QaIrWYD8GxsDiWpgFB1gY",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/48d41c71-9486-3aca-8dc4-740a8810feb3",
-      "best_matching_score": "0.96"
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
     },
     {
       "artists": [
@@ -411,6 +463,7 @@
       "album": "Messiaen: Turangalila-Symphonie",
       "id": "4atbTjbpzc1142MnGMKgCU",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c",
       "best": "http://data.doremus.org/expression/ac637835-10e4-3277-a703-a0db511ffe9c",
       "best_matching_score": "0.95"
     },
@@ -424,6 +477,7 @@
       "album": "Elgar: Symphony No.1 in A Flat Major, Op.55",
       "id": "1QcPhQQix5q6Aacqr7fAjg",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/587fe034-c58f-3def-934c-0e0ac572ae06",
       "best": "http://data.doremus.org/expression/bb8ebdb9-0ffb-3558-8f93-525528eef147",
       "best_matching_score": "0.98"
     },
@@ -437,7 +491,8 @@
       "album": "Prokofiev: Romeo & Juliet",
       "id": "5GGAomZJOfGspbxRvQGqV7",
       "trackNum": 13,
-      "best": "http://data.doremus.org/expression/7317d654-d348-3005-bbdd-f287d9270a9e",
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
+      "best": "http://data.doremus.org/expression/709f0103-4477-3304-9dbc-3910631a0794",
       "best_matching_score": "0.79"
     },
     {
@@ -450,6 +505,7 @@
       "album": "Rautavaara: Symphony No. 7, Angel of Light / Dances With Winds, Op. 69 / Cantus Arcticus, Op. 61",
       "id": "5XrnggHPiU3Zg0RtJEDX21",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/147cdee4-b013-3fd0-8ed9-b945f3e520fd",
       "best": "http://data.doremus.org/expression/3e252cdc-a2cc-363f-9a21-ea1b74038fc7",
       "best_matching_score": "1.00"
     },
@@ -463,6 +519,7 @@
       "album": "Haydn: The 12 \"London\" Symphonies",
       "id": "3uek5osjt5bfnkNfQno0uz",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
       "best": "http://data.doremus.org/expression/6e83925a-fcdb-38c4-a919-1c689f83c249",
       "best_matching_score": "0.96"
     },
@@ -474,21 +531,9 @@
       "album": "A Nonesuch Retrospective",
       "id": "0AA32fvL7jCfCEyX1tRWRo",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/02ad1bab-64ff-32b3-857d-ba87aea1d257",
       "best": "http://data.doremus.org/expression/55ffa18c-8605-36c3-8415-b1f8f518b3ed",
       "best_matching_score": "0.95"
-    },
-    {
-      "artists": [
-        "Franz Schubert",
-        "Wiener Philharmoniker",
-        "Carlos Kleiber"
-      ],
-      "title": "Symphony No.8 In B Minor, D.759 - \"Unfinished\": 1. Allegro moderato",
-      "album": "Schubert: Symphonies Nos.3 & 8 \"Unfinished\"",
-      "id": "1ev0w7RxxeduSGZfWG8XVj",
-      "trackNum": 5,
-      "best": "http://data.doremus.org/expression/16c09b79-739e-3192-8df9-9e737f19b819",
-      "best_matching_score": "0.96"
     },
     {
       "artists": [
@@ -498,6 +543,7 @@
       "album": "Reich: The Four Sections, Music for Mallet Instruments, Voices and Organ",
       "id": "41n9hfWnzHCUArPmNn8CCy",
       "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
       "best": "http://data.doremus.org/expression/6522a181-e9f0-37e4-9a6e-75093b5df27b",
       "best_matching_score": "1.00"
     },
@@ -511,6 +557,7 @@
       "album": "Franck: Symphony in D Minor / Chausson: Symphony in B-Flat Major",
       "id": "2T53RUcVI8W6u0CShRr9Ot",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/ce72d043-0acc-3cca-95ba-959903770bc8",
       "best": "http://data.doremus.org/expression/b15c06cb-a3b8-34b8-b530-e600aeddf048",
       "best_matching_score": "1.00"
     },
@@ -524,7 +571,8 @@
       "album": "Farrenc: Symphonies Nos. 1 and 3",
       "id": "3PM3acBhUaj2bIeHu3BxYY",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/48ba297d-31ae-3b23-8f29-011c29221144",
+      "composer": "http://data.doremus.org/artist/1d78b116-b274-3a8f-88dd-a32e77f30ee9",
+      "best": "http://data.doremus.org/expression/b1e9b52c-cb20-311c-9f37-4163e7fa9d59",
       "best_matching_score": "0.98"
     },
     {
@@ -537,21 +585,23 @@
       "album": "Xenakis, I.: Orchestral Works, Vol. 2 - Jonchaies / Shaar / Lichens / Antikhthon",
       "id": "1zOqrZCX1qyzyIlhMXALH2",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/b39d9afb-ac44-34ae-a709-6f56bf8daa91",
       "best": "http://data.doremus.org/expression/4e5459df-5203-3756-8cc3-6b9eb92ba464",
       "best_matching_score": "1.00"
     },
     {
       "artists": [
         "George Gershwin",
-        "Columbia Symphony Orchestra",
         "Leonard Bernstein",
+        "Columbia Symphony Orchestra",
         "New York Philharmonic"
       ],
       "title": "An American In Paris",
       "album": "Gershwin: Rhapsody in Blue/An American in Paris",
       "id": "7tMaOTu32tb7G2Ieb9ULY8",
       "trackNum": 2,
-      "best": "http://data.doremus.org/expression/993e327e-fd10-33b9-8554-9afbda7aabfb",
+      "composer": "http://data.doremus.org/artist/5b2ec204-a456-3aa2-8ac7-25305464add8",
+      "best": "http://data.doremus.org/expression/776cc3e1-60b6-3544-afc7-5ba65ad9dd49",
       "best_matching_score": "1.00"
     },
     {
@@ -564,6 +614,7 @@
       "album": "Britten: War Requiem / Sinfonia Da Requiem / Ballad of Heroes",
       "id": "4lM3x9FFXbHsuUF34DP4pR",
       "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123",
       "best": "http://data.doremus.org/expression/03854754-2247-3f03-bedf-d64d67082073",
       "best_matching_score": "1.00"
     },
@@ -573,12 +624,13 @@
         "Freiburger Barockorchester",
         "René Jacobs"
       ],
-      "title": "Symphony No. 41 in C Major, K. 551 - “Jupiter”: IV. Molto Allegro",
+      "title": "Symphony No. 41 in C Major, K. 551 - “Jupiter”: Symphony No. 41 in C Major, K. 551 - “Jupiter”: IV. Molto Allegro",
       "album": "Mozart: Symphonies No. 38 \"Prague\" & No. 41 \"Jupiter\"",
       "id": "2MwxBjuFa72Nvv9lGKkyAT",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/173f6293-7d45-30cf-b8e2-7eef05c260a4",
-      "best_matching_score": "0.97"
+      "best_matching_score": "0.81"
     },
     {
       "artists": [
@@ -587,10 +639,11 @@
         "Chicago Symphony Orchestra",
         "Daniel Barenboim"
       ],
-      "title": "Symphony No.3 In C Minor, Op.78, R. 176: 3. Maestoso - Allegro, Op. 78, R. 176",
+      "title": "Symphony No.3 in C Minor, Op.78, R.176 - \"Organ Symphony\": 3. Maestoso - Allegro",
       "album": "Saint-Saens: Symphony No.3 \"Organ\"; Bacchanale from \"Samson et Dalila\"; Prélude from \"Le Déluge\"; Danse macabre",
       "id": "44z0uZvB3FgzGiTPjY6C9x",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
       "best": "http://data.doremus.org/expression/72c8af4f-a0c0-355a-ba1b-664e6c9aff00",
       "best_matching_score": "0.98"
     },
@@ -604,8 +657,7 @@
       "album": "Harnoncourt - The Complete Beethoven Recordings",
       "id": "1S432DERcJ0B0JfQRnqkzl",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/9bad149e-ff63-3299-b83d-fd2150e91070",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
     },
     {
       "artists": [
@@ -622,10 +674,11 @@
         "George Frideric Handel",
         "Akademie für Alte Musik Berlin"
       ],
-      "title": "Water Music, Suite No. 2, HWV 349: XII. [Alla Hornpipe]",
+      "title": "Water Music, Suite No. 2, HWV 349: Water Music, Suite No. 2, HWV 349: XII. [Alla Hornpipe]",
       "album": "Handel: Water Music",
       "id": "6x1xxlk6Dw1IdzvrzsL7B3",
       "trackNum": 12,
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
       "best": "http://data.doremus.org/expression/75ade3fb-57d6-3beb-976e-e7718fd79999",
       "best_matching_score": "1.00"
     },
@@ -639,6 +692,7 @@
       "album": "Brahms: Symphony No.4",
       "id": "3nSB6SGVgQQsZoWBCmlLj9",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/178209d3-de81-3c74-a24d-d3550c040838",
       "best_matching_score": "0.98"
     },
@@ -663,7 +717,8 @@
       "title": "Symphony No. 8: I. Tempo giusto - Poco allegro, molto distinto",
       "album": "Nørgård: Symphonies Nos. 1 & 8",
       "id": "4UbEQasGp2JVuVbYvghmkR",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/8fd3b326-bc3a-3e2e-a554-6aad63ddfe28"
     },
     {
       "artists": [
@@ -675,6 +730,7 @@
       "album": "Mahler: Symphonie No. 6",
       "id": "0jRYO7vBGrMMyq0AZC2TkP",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
       "best": "http://data.doremus.org/expression/44f6cfd4-922f-3ea5-ac64-8a485afb9606",
       "best_matching_score": "0.97"
     },
@@ -689,6 +745,7 @@
       "album": "Ravel: Daphnis et Chloe",
       "id": "5Bytc52HzVMrjbRrapNyBh",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
       "best": "http://data.doremus.org/expression/f8f2126f-8c22-356a-b9c7-b76483165ff1",
       "best_matching_score": "1.00"
     },
@@ -702,6 +759,7 @@
       "album": "Sinfonietta, The Huddler´s Child, The Ballad of Blanik, Taras Bulba",
       "id": "1IKXHa724NJePo2byVpL7P",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43",
       "best": "http://data.doremus.org/expression/52086bd1-b78b-3c16-8215-30f70e04c21f",
       "best_matching_score": "1.00"
     },
@@ -715,6 +773,7 @@
       "album": "Spirit of the American Range (Live)",
       "id": "1wCFkSeKqAgvhlB1HF4Hhj",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/92da81d0-6e0c-3023-a0d7-5ccbbb30610d",
       "best": "http://data.doremus.org/expression/18624c22-1f5a-3fe5-bf36-333c8da9b89c",
       "best_matching_score": "0.95"
     },
@@ -728,7 +787,8 @@
       "album": "Sibelius: Symphonies Nos. 1, 2 & 4; Finlandia; Karelia Suite (2 CDs)",
       "id": "6hrxmwz44El2T3C0X0DdY0",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/cdfcbd7d-e7eb-3b55-a522-7854d7f363d8",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/2c129e79-72cd-3ceb-a93a-70ff79ac345e",
       "best_matching_score": "1.00"
     },
     {
@@ -745,7 +805,8 @@
       "album": "Grieg: Peer Gynt (English Version)",
       "id": "2SXAQdYOQP2c4KTdbNj4Qw",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/5419172a-1987-3c4e-b01a-c616acba1fe5",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/12be0b77-b92d-3f88-afb9-71f612d8117f",
       "best_matching_score": "1.00"
     },
     {
@@ -758,6 +819,7 @@
       "album": "Boulez conducts Webern",
       "id": "0YaD4l2FCeyA2TyJfLGCza",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/6338d86f-5872-3c9c-85e8-9d10b5907f5b",
       "best": "http://data.doremus.org/expression/18bdc7c7-3f4d-33e8-98d8-22a1cd649f5c",
       "best_matching_score": "0.98"
     },
@@ -772,6 +834,7 @@
       "album": "Barber: Cello Concerto and Sonata",
       "id": "69PFmXR4Lo4s0yRcyfGlBF",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/2a367db5-5728-3510-a266-0df803bd655e",
       "best": "http://data.doremus.org/expression/ba534bf9-c8ec-304a-be8b-d63e135706f6",
       "best_matching_score": "0.93"
     },
@@ -785,7 +848,8 @@
       "album": "Varèse: Amériques; Arcana; Déserts; Ionisation",
       "id": "4ikMu2ZnsfONG1ngDtAPMn",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/328b9d20-7c0b-3664-b192-61e001d3243e",
+      "composer": "http://data.doremus.org/artist/f0817935-c4e3-3bf2-882d-d0e96170c1c3",
+      "best": "http://data.doremus.org/expression/95c5b3e5-c94f-3a64-86a1-ddeef5954edf",
       "best_matching_score": "1.00"
     },
     {
@@ -798,6 +862,7 @@
       "album": "Charles Ives: An American Journey",
       "id": "7kZKXTeVE3qs0E0p3SPWr4",
       "trackNum": 17,
+      "composer": "http://data.doremus.org/artist/29849554-2024-3b0d-8749-39555e68b2ac",
       "best": "http://data.doremus.org/expression/9915c490-6291-3592-bc8e-155568c630ee",
       "best_matching_score": "1.00"
     },
@@ -811,6 +876,7 @@
       "album": "Adams: Harmonielehre - Short Ride in a Fast Machine",
       "id": "7vsIH9niRFKlFbDyQbl4SG",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
       "best": "http://data.doremus.org/expression/364a9277-36d1-395c-95fa-f2e1f9e1e202",
       "best_matching_score": "1.00"
     },
@@ -823,7 +889,8 @@
       "title": "Symphony No. 3, Op. 18: Andante misterioso - Fantastico",
       "album": "Knussen: Symphonies Nos. 2 & 3",
       "id": "42tLVJdHOYPOT5yKhqKGEm",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/3c0df2c8-dc12-3cb7-b398-530dc5b2a576"
     },
     {
       "artists": [
@@ -835,7 +902,8 @@
       "album": "Dutilleux: Métaboles, L'arbre des songes & Symphony No. 2 \"Le double\"",
       "id": "2L40SzklXISbK6ffl8ZLNq",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/ba300422-5ba2-3746-8972-5f37b64503e6",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/bbf6375e-a33b-32dd-b617-ddbe0de77690",
       "best_matching_score": "1.00"
     },
     {
@@ -848,6 +916,7 @@
       "album": "Holst: The Planets",
       "id": "2D3RIzUcCYNIINwWbOhspn",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
       "best": "http://data.doremus.org/expression/a89deec7-d982-3218-a35d-62d951aa53f7",
       "best_matching_score": "1.00"
     },
@@ -861,6 +930,7 @@
       "album": "Carter: Clarinet Concerto; Symphonia",
       "id": "46SNnjsI9XWJyz3psP9gBU",
       "trackNum": 9,
+      "composer": "http://data.doremus.org/artist/a00bad16-9c78-36de-b915-9bc6981ae409",
       "best": "http://data.doremus.org/expression/9de84719-fbb4-3a65-9c9f-62912c43bc8f",
       "best_matching_score": "1.00"
     },
@@ -873,7 +943,8 @@
       "title": "Symphony \"Mathis der Maler\": I. Engelkonzert (Angelic Concert)",
       "album": "Hindemith: Symphony \"Mathis der Maler\" & Symphony in E-Flat Major",
       "id": "1gJUBhsOUWoDjP0QCsGyGO",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/ce41b86a-08bc-3ddf-8e82-b5ba0a723836"
     },
     {
       "artists": [
@@ -899,8 +970,7 @@
       "album": "Beethoven: Symphonies & Ouvertures, Vol. 2",
       "id": "3pr1F6H1z3U8ogRls62VK9",
       "trackNum": 6,
-      "best": "http://data.doremus.org/expression/7309aa59-44a0-330d-96c2-308837b08031",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
     },
     {
       "artists": [
@@ -912,6 +982,7 @@
       "album": "Adès: Tevot & Violin Concerto",
       "id": "7nanZ8RwpRKvhMFZJNpzPR",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/2aeb07c8-09ac-3785-a93b-40444fc4cbc5",
       "best": "http://data.doremus.org/expression/e708f111-ebd6-32c3-a4aa-af32d5ab371f",
       "best_matching_score": "1.00"
     },
@@ -925,6 +996,7 @@
       "album": "Stravinsky: Symphonies",
       "id": "7Jfb8VLOUr39Vv5gM2Xi0K",
       "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/1f1c9292-087a-3ac7-b854-84e213e69dc6",
       "best": "http://data.doremus.org/expression/b28ae086-3c54-34ae-b322-27ed5ac282df",
       "best_matching_score": "1.00"
     },
@@ -938,7 +1010,8 @@
       "title": "Concerto for Orchestra (1994 Digital Remaster): I Intrada (Allegro maestoso)",
       "album": "Lutoslawski: Symphonies, Concertos, etc",
       "id": "69npZvdshvhrTMbv7Mv4C4",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/e20f3055-68ec-3f7d-a1e7-8fd0447e2c90"
     },
     {
       "artists": [
@@ -960,7 +1033,8 @@
       "title": "Du cristal",
       "album": "Saariaho: Du cristal - …à la fumée - 7 Papillons - Nymphéa",
       "id": "2SLeGMtM59ZffXtkYNlTHL",
-      "trackNum": 1
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
     },
     {
       "artists": [
@@ -971,6 +1045,7 @@
       "album": "Walton: Symphony No. 1",
       "id": "3162cNjh7TALlf38YFvx44",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/8e94bb94-19ee-3247-9795-b956f2244b9e",
       "best": "http://data.doremus.org/expression/03e00d66-ac33-3c77-aa8e-f028f29d0e8a",
       "best_matching_score": "0.96"
     },
@@ -983,6 +1058,7 @@
       "album": "Anton Webern: Complete Works: Op. 1 - Op. 31",
       "id": "7vP3oaA9G6G0W9DZmRGrhV",
       "trackNum": 31,
+      "composer": "http://data.doremus.org/artist/6338d86f-5872-3c9c-85e8-9d10b5907f5b",
       "best": "http://data.doremus.org/expression/671cce59-5ffe-3cc8-8e68-af0ad0ae2875",
       "best_matching_score": "1.00"
     },
@@ -996,6 +1072,7 @@
       "album": "Tchaikovsky: The Nutcracker",
       "id": "0pnFfDDgplzUxcRHeVeFqA",
       "trackNum": 3,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c",
       "best": "http://data.doremus.org/expression/5a32a6ca-7bb7-3ebf-a585-ea1862745175",
       "best_matching_score": "1.00"
     },
@@ -1017,7 +1094,8 @@
       "album": "Berio: Ritirata notturna di Madrid, Calmo & Sinfonia",
       "id": "0lMDzAcO0RPdj30zcqUEU9",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/650bba02-8611-3d52-85f2-ac594c670cff",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/ad0946df-16f0-3781-9fc3-76929a5e44d4",
       "best_matching_score": "1.00"
     },
     {
@@ -1030,7 +1108,8 @@
       "album": "Ligeti: Violin Concerto, Lontano, Atmosphères & San Francisco Polyphony",
       "id": "2ehEZK4uxSDNdFQbchM543",
       "trackNum": 1,
-      "best": "http://data.doremus.org/expression/d9bedb0c-9c23-3748-ac23-4cd305089d29",
+      "composer": "http://data.doremus.org/artist/f1fb6fa7-767a-3067-a55b-5b41de0f0367",
+      "best": "http://data.doremus.org/expression/d8dde33e-1c66-3823-ba95-0c4e5e194c8e",
       "best_matching_score": "1.00"
     },
     {
@@ -1043,6 +1122,7 @@
       "album": "Lindberg: EXPO - Piano Concerto No. 2 - Al largo",
       "id": "197V1pGvVRrfYNPwtskcHt",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/d39c4044-4131-3a99-ac1b-67207dfd8099",
       "best": "http://data.doremus.org/expression/434f498e-a262-3377-b871-cd9a101572c9",
       "best_matching_score": "1.00"
     },
@@ -1066,6 +1146,7 @@
       "album": "Maxwell Davies: Symphony No. 1 - Mavis in Las Vegas",
       "id": "1IkHBX9h5Eld9z4rODG9al",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/ce9a201f-a0d4-346c-bd88-031345756720",
       "best": "http://data.doremus.org/expression/e327cea6-f66b-37fa-ab80-3c5e34d6bd09",
       "best_matching_score": "0.95"
     },
@@ -1079,7 +1160,8 @@
       "album": "Elgar : Enigma Variations, Introduction & Allegro, Serenade for Strings & Cockaigne Overture (Apex)",
       "id": "2T1bhzjTfir3gsLRiudU1e",
       "trackNum": 20,
-      "best": "http://data.doremus.org/expression/0466859a-576b-34a9-812b-0605dc576519",
+      "composer": "http://data.doremus.org/artist/587fe034-c58f-3def-934c-0e0ac572ae06",
+      "best": "http://data.doremus.org/expression/400ba957-cec9-35c6-bc23-6bf96563b092",
       "best_matching_score": "1.00"
     },
     {
@@ -1093,7 +1175,8 @@
       "title": "Gruppen für drei Orchester - Werk Nr.6",
       "album": "Kurtág: Grabstein für Stephan, Op. 15; Stele, Op. 33; Stockhausen: Gruppen",
       "id": "5iF4Xxk7WpQkmWLnoHmqIT",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/a8009434-ef08-30f7-820a-134008b221f3"
     },
     {
       "artists": [
@@ -1104,7 +1187,8 @@
       "title": "Jeux (Poème dansé), L.126: Très lent - Scherzando (Tempo initial)",
       "album": "Debussy: Nocturnes; Première Rhapsodie; Jeux; La Mer",
       "id": "375hsWiufNqzp2ex4GpShd",
-      "trackNum": 5
+      "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
     },
     {
       "artists": [
@@ -1116,6 +1200,7 @@
       "album": "Bruckner: Symphony No. 6",
       "id": "6Q6bulH4DWU6GiNp7J9M4l",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
       "best": "http://data.doremus.org/expression/9db34bef-f527-387e-bce6-8ad847bbbf3a",
       "best_matching_score": "0.84"
     },
@@ -1129,6 +1214,7 @@
       "album": "Strauss, R.: Also sprach Zarathustra; Till Eulenspiegel; Don Juan; Salome's Dance Of The Seven Veils",
       "id": "3SOZcwfezNCWKs2vukSELD",
       "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
       "best": "http://data.doremus.org/expression/20e40cc2-dfcc-3bfb-bfc6-cd87e4851b39",
       "best_matching_score": "1.00"
     },
@@ -1156,6 +1242,7 @@
       "album": "Szymanowski: Violin Concerto No.1, Op.35; Symphony No.3, Op.27 \"Song of the Night\"",
       "id": "6VZ0CYMRhrdprO6u9rMwxC",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/97f529e5-c876-3411-b8dc-2cd206262c96",
       "best": "http://data.doremus.org/expression/8cb70759-214c-3a53-ad81-f6d88c81a2dd",
       "best_matching_score": "0.99"
     },
@@ -1165,10 +1252,11 @@
         "Berliner Philharmoniker",
         "Herbert von Karajan"
       ],
-      "title": "Pines Of Rome: The Pines Of The Janiculum",
+      "title": "Pines Of Rome, P. 141: 3. The Pines Of The Janiculum",
       "album": "Respighi: The Fountains of Rome; The Pines of Rome; Ancient Airs and Dances - Suite III / Boccherini: Quintettino / Albinoni: Adagio in G Minor",
       "id": "09R0O5z1MZR7s2vbNlDKTG",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d"
     },
     {
       "artists": [
@@ -1180,7 +1268,8 @@
       "album": "Amadeus (Music From The 1999 Stage Play)",
       "id": "02GgkjgUsnDcgQCL0JQfG3",
       "trackNum": 5,
-      "best": "http://data.doremus.org/expression/da23dfd4-5b9c-3fe5-a25a-641d2138d71d",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/2511c676-d062-31ad-8429-f3e93630f6a1",
       "best_matching_score": "1.00"
     },
     {
@@ -1192,7 +1281,8 @@
       "title": "Music for Strings, Percussion and Celesta, BB 114: II. Allegro",
       "album": "Bartok New Series 10 - Music for Strings, Percussion and Celesta - Divertimento - Hungarian Sketches",
       "id": "67nERYyvMwe3dUQZXpUvDo",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/23df9200-a2a7-3ba8-ab11-ec16bf781c41"
     },
     {
       "artists": [
@@ -1204,7 +1294,8 @@
       "title": "A Flock Descends Into The Pentagonal Garden",
       "album": "Takemitsu: Quatrain; A Flock descends",
       "id": "0dv5IADhMkI6ZJuSC2gtJ2",
-      "trackNum": 2
+      "trackNum": 2,
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
     },
     {
       "artists": [
@@ -1215,7 +1306,8 @@
       "title": "1812 Festival Overture, Op. 49: 1812 Overture, Op. 49",
       "album": "Tchaikovsky: Orchestral Works",
       "id": "1aEhYlZtypmipA06SDJ4U3",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/a6302b4b-a8bf-3952-a8e2-0775068c3f5c"
     },
     {
       "artists": [
@@ -1227,20 +1319,8 @@
       "title": "Winter Fragments pour ensemble instrumental, sons de synthèse et dispositif électronique",
       "album": "Murail: Winter Fragments",
       "id": "1Gfqe7TAKklmuZf6hxsH6h",
-      "trackNum": 1
-    },
-    {
-      "artists": [
-        "Alban Berg",
-        "Wiener Philharmoniker",
-        "Claudio Abbado"
-      ],
-      "title": "3 Pieces For Orchestra, Op.6: 1. Praeludium (Prelude)",
-      "album": "Berg: Three Orchestral Pieces",
-      "id": "0iCfOy7VJziCiAk0TpJlha",
-      "trackNum": 9,
-      "best": "http://data.doremus.org/expression/944c8674-dc5d-3609-b555-dca3d0bbe219",
-      "best_matching_score": "0.96"
+      "trackNum": 1,
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7"
     },
     {
       "artists": [
@@ -1252,6 +1332,7 @@
       "album": "Schonberg : Verklärte Nacht, 5 Orchestral Pieces & Piano Works",
       "id": "2XNwnFrdMDpismp0VUZ7cU",
       "trackNum": 11,
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
       "best": "http://data.doremus.org/expression/c69f6b1c-83a7-30f1-9b31-9bd1b733f49f",
       "best_matching_score": "0.95"
     },
@@ -1265,6 +1346,7 @@
       "album": "Tchaikovsky / Dvorák: String Serenades",
       "id": "7ucDwgMtE3YJtEfTbuRhy0",
       "trackNum": 5,
+      "composer": "http://data.doremus.org/artist/df6fc930-3a58-355d-8270-b2343b5f5b0a",
       "best": "http://data.doremus.org/expression/7a91fc9e-0527-3240-a80e-e58e7c4f3c37",
       "best_matching_score": "0.71"
     },
@@ -1278,10 +1360,11 @@
       "album": "Ravel : Orchestral works",
       "id": "7E1ErYYCn0lYjHODZ1qGuB",
       "trackNum": 8,
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
       "best": "http://data.doremus.org/expression/16c4f521-9fd4-3408-ab31-c850a6f8e1cf",
       "best_matching_score": "1.00"
     }
   ],
-  "n_matched": 76,
+  "n_matched": 71,
   "n_total": 100
 }

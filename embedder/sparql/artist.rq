@@ -1,0 +1,9 @@
+SELECT DISTINCT ?s ?o
+WHERE {
+  ?s a ecrm:E21_Person ;
+    ?p ?o .
+  FILTER (?p IN (
+          ecrm:P98i_was_born, ecrm:P100i_died_in,
+          dbpprop:birthPlace, dbpprop:deathPlace
+          ))
+}
