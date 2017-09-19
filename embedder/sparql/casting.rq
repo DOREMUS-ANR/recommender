@@ -1,0 +1,4 @@
+SELECT DISTINCT ?s ?o
+WHERE {
+  ?s mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance_of_type ?o .
+}

@@ -22,7 +22,7 @@ def main():
     print('computing shortest path')
     paths = nx.all_shortest_paths(G, a, b)
     print('done')
-    print([p for p in paths])
+    print([p for p in paths[0:100]])
 
 
 def init():
