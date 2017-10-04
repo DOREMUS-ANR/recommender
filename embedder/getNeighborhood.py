@@ -1,13 +1,9 @@
-import os
 import json
-import entity2vec.node2vec as node2vec
-from os import path
+import os
+from types import SimpleNamespace
 
 import numpy as np
-from types import SimpleNamespace
 import scipy.spatial.distance as dist
-
-import networkx as nx
 
 
 def main():
@@ -40,7 +36,9 @@ def main():
 
     full_sorted = sorted(full, key=lambda x: dist.cosine(matrix[pos], x[1]))
 
-    print('\n'.join(f[0] for f in full_sorted[1:11]))
+    instruments = [i for i in full_sorted if i[0].startswith('http://data.doremus.org/vocabulary')]
+
+    print('\n'.join(f[0] for f in instruments[1:11]))
 
 
 def init():

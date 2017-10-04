@@ -11,21 +11,22 @@ def main():
     global config
     init()
 
+    what = 'genre'
+
     print('loading edgelists...')
-    G = nx.read_edgelist(path.join(config.edgelistDir, 'mop.edgelist'), nodetype=str, create_using=nx.DiGraph())
+    G = nx.read_edgelist(path.join(config.edgelistDir, '%s.edgelist' % what), nodetype=str, create_using=nx.DiGraph())
 
     for edge in G.edges():
         G[edge[0]][edge[1]]['weight'] = .3
 
     # for eg in os.listdir(config.edgelistDir):
-    for eg in ['casting.edgelist']:
+    for eg in ['expression.edgelist']:
         H = nx.read_edgelist(path.join(config.edgelistDir, eg), nodetype=str, create_using=nx.DiGraph())
         for edge in H.edges():
-            H[edge[0]][edge[1]]['weight'] = 4
+            H[edge[0]][edge[1]]['weight'] = 6
 
         G = nx.compose(G, H)
     # G = nx.read_edgelist(path.join(config.edgelistDir, 'mop.edgelist'), nodetype=str, create_using=nx.DiGraph())
-
 
     G = G.to_undirected()
 
@@ -35,9 +36,9 @@ def main():
     p = 1
     q = 1
     walk_length = 4
-    num_walks = 10
-    dimensions = 100
-    window_size = 10
+    num_walks = 5
+    dimensions = 80
+    window_size = 8
     workers = 3
     iter = 5
 
@@ -46,7 +47,7 @@ def main():
 
     node2vec_graph.G = G
 
-    node2vec_graph.learn_embeddings('emb/mop.emb')
+    node2vec_graph.learn_embeddings('emb/%s.emb' % what)
 
 
 def init():

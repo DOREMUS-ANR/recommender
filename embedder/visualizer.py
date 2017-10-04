@@ -1,32 +1,31 @@
-import sys
+import numpy as Math
+import pylab as Plot
 import codecs
-import numpy as np
-import matplotlib.pyplot as plt
 
-from sklearn.manifold import TSNE
+from lib.tsne import tsne
 
+glove_matrix = Math.loadtxt("emb/mop.emb.v")
+glove_words = [line.strip() for line in codecs.open("emb/mop.emb.l", 'r', 'utf-8')]
 
-def main():
-    embeddings_file = sys.argv[1]
-    wv, vocabulary = load_embeddings(embeddings_file)
+target_words = glove_words
+    # [line.strip().lower() for line in open("4000-most-common-english-words-csv.csv")][:2000]
 
-    tsne = TSNE(n_components=2, random_state=0)
-    np.set_printoptions(suppress=True)
-    Y = tsne.fit_transform(wv[:1000, :])
+rows = [glove_words.index(word) for word in target_words if word in glove_words]
+target_matrix = glove_matrix[rows, :]
+reduced_matrix = tsne(target_matrix, 2)
 
-    plt.scatter(Y[:, 0], Y[:, 1])
-    for label, x, y in zip(vocabulary, Y[:, 0], Y[:, 1]):
-        plt.annotate(label, xy=(x, y), xytext=(0, 0), textcoords='offset points')
-    plt.show()
+Plot.figure(figsize=(200, 200), dpi=100)
+max_x = Math.amax(reduced_matrix, axis=0)[0]
+max_y = Math.amax(reduced_matrix, axis=0)[1]
+Plot.xlim((-max_x, max_x))
+Plot.ylim((-max_y, max_y))
 
+Plot.scatter(reduced_matrix[:, 0], reduced_matrix[:, 1], 20);
 
-def load_embeddings(file_name):
-    with codecs.open(file_name, 'r', 'utf-8') as f_in:
-        vocabulary, wv = zip(*[line.strip().split(' ', 1) for line in
-                               f_in])
-    wv = np.loadtxt(wv[1:])
-    return wv, vocabulary
+for row_id in range(0, len(rows)):
+    target_word = glove_words[rows[row_id]]
+    x = reduced_matrix[row_id, 0]
+    y = reduced_matrix[row_id, 1]
+    Plot.annotate(target_word, (x, y))
 
-
-if __name__ == '__main__':
-    main()
+Plot.savefig("glove_2000.png")

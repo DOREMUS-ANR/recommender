@@ -1,24 +1,22 @@
 #!/usr/bin/env python
 import os
-import json
 from os import path
 import argparse
 from types import SimpleNamespace
 
 from SPARQLWrapper import SPARQLWrapper, JSON
 import networkx as nx
+from config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
 
 def main(args):
-    global sparql
-    global config
-
     if type(args) == dict:
         args = SimpleNamespace(**args)
 
-    init()
+    if not os.path.exists(config.edgelistDir):
+        os.makedirs(config.edgelistDir)
 
     all_query_files = [qf for qf in os.listdir(config.sparqlDir) if qf.endswith(".rq")]
 
@@ -28,27 +26,8 @@ def main(args):
         query2edgelist(query_file)
 
 
-def init():
-    global sparql
-    global config
-
-    with open('config.json') as json_data_file:
-        config = json.load(json_data_file)
-
-    if type(config) == dict:
-        config = SimpleNamespace(**config)
-
-
-    global sparql
-    sparql = SPARQLWrapper(config.endpoint)
-
-    if not os.path.exists(config.edgelistDir):
-        os.makedirs(config.edgelistDir)
-
-
 def query2edgelist(query_file):
-    global sparql
-    global config
+    sparql = SPARQLWrapper(config.endpoint)
 
     with open(path.join(config.sparqlDir, query_file), 'r') as qf:
         query = qf.read()
