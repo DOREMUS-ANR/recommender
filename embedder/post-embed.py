@@ -58,4 +58,5 @@ def main():
 
 
 if __name__ == '__main__':
+    config.parse_args()
     main()

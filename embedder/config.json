@@ -2,8 +2,9 @@
   "endpoint": "http://data.doremus.org/sparql",
   "sparqlDir": "./sparql",
   "edgelistDir": "./edgelist",
-  "chosenFeature": "genre",
+  "chosenFeature": "activity",
   "features": {
+    "activity": {},
     "mop": {
       "dependencies": [
         "casting",
