@@ -11,9 +11,10 @@ if type(config) == dict:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-cf', "--chosenFeature",
+    parser.add_argument('-cf', "--chosenFeature", default=config.chosenFeature,
                         help="The feature on which compute the script. It subscribes the one in config.json")
 
     args = parser.parse_args()
+
     if 'chosenFeature' in args:
         config.chosenFeature = args.chosenFeature

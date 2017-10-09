@@ -1,5 +1,6 @@
 import codecs
 import numpy as np
+import sklearn.preprocessing as skpreprocess
 from SPARQLWrapper import SPARQLWrapper, JSON
 
 import config as cs
@@ -24,6 +25,8 @@ def main():
     what = config.chosenFeature
     embeddings_file = 'emb/%s.emb' % what
     vectors = []
+    labels = []
+    uris = []
 
     chosen = config.features[config.chosenFeature]
 
@@ -44,18 +47,24 @@ def main():
                 if not any(ext in word for ext in namespaces):
                     continue
 
-            vectors.append([word, get_label(word), vector.flatten()])
+            vectors.append(vector.flatten())
+            labels.append(get_label(word))
+            uris.append(word)
+
+    vectors = skpreprocess.normalize(vectors, 'l2', 0)
+    # why? because of https://www.quora.com/Should-I-do-normalization-to-word-embeddings-from-word2vec-if-I-want-to-do-semantic-tasks
 
     with open(embeddings_file + '.v', 'w') as f:
-        with open(embeddings_file + '.u', 'w') as fu:
-            with codecs.open(embeddings_file + '.l', 'w', 'utf-8') as fl:
-                for a in vectors:
-                    fu.write(a[0] + '\n')
-                    fl.write(a[1] + '\n')
+        for a in vectors:
+            nums = [str(n) for n in a]
+            f.write(' '.join(nums))
+            f.write('\n')
 
-                    nums = [str(n) for n in a[2]]
-                    f.write(' '.join(nums))
-                    f.write('\n')
+    with open(embeddings_file + '.u', 'w') as fu:
+        fu.write('\n'.join(uris))
+
+    with codecs.open(embeddings_file + '.l', 'w', 'utf-8') as fl:
+        fl.write('\n'.join(labels))
 
 
 if __name__ == '__main__':
