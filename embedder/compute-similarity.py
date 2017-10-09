@@ -34,7 +34,9 @@ def to_embed(obj, emb):
 
     if type == 'typed-literal' and obj['datatype'].startswith(XSD_NAMESPACE):
         # is a date!
-        return int(value[:4]) / 2100
+        # range mapping {-100,2016} -> {0,2} -> {-1,1}
+        n = (int(value[:4]) / 1050) - 1
+        return [n]
 
     return 0
 
