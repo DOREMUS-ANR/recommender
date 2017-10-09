@@ -5,7 +5,7 @@ import numpy as np
 from config import config
 
 
-def getLabel(uri):
+def get_label(uri):
     print(uri)
     query = "select sql:BEST_LANGMATCH(?o, 'en;q=0.9, en-gb;q=0.8, *;q=0.1', 'en') as ?label" \
             " where { <%s> skos:prefLabel ?o }" % uri
@@ -20,19 +20,14 @@ def getLabel(uri):
 
 
 def main():
-    embeddings_file = 'emb/mop.emb'
-    words = []
+    what = config.chosenFeature
+    embeddings_file = 'emb/%s.emb' % what
     vectors = []
-    full = []
 
-    namespaces = ["http://data.doremus.org/vocabulary/iaml/mop/",
-                  "http://data.doremus.org/vocabulary/redomi/mop/",
-                  "http://data.doremus.org/vocabulary/itema3/mop/",
-                  "http://data.doremus.org/vocabulary/diabolo/mop/",
-                  "http://www.mimo-db.eu/InstrumentsKeywords"]
+    chosen = config.features[config.chosenFeature]
 
     header = None
-    with open(embeddings_file, 'r') as f:
+    with codecs.open(embeddings_file, 'r', 'utf-8') as f:
         for line in f:
             if header is None:
                 header = line
@@ -43,20 +38,23 @@ def main():
             vector = np.fromiter((float(x) for x in fields[1:]),
                                  dtype=np.float)
 
-            if not any(ext in word for ext in namespaces):
-                continue
+            if 'namespaces' in chosen:
+                namespaces = chosen['namespaces']
+                if not any(ext in word for ext in namespaces):
+                    continue
 
-            words.append(word)
-            vectors.append(vector)
-            full.append([getLabel(word), vector.flatten()])
+            vectors.append([word, get_label(word), vector.flatten()])
 
     with open(embeddings_file + '.v', 'w') as f:
-        with codecs.open(embeddings_file + '.l', 'w', "utf-8") as fl:
-            for a in full:
-                nums = [str(n) for n in a[1]]
-                fl.write(a[0] + '\n')
-                f.write(' '.join(nums))
-                f.write('\n')
+        with open(embeddings_file + '.u', 'w') as fu:
+            with codecs.open(embeddings_file + '.l', 'w', 'utf-8') as fl:
+                for a in vectors:
+                    fu.write(a[0] + '\n')
+                    fl.write(a[1] + '\n')
+
+                    nums = [str(n) for n in a[2]]
+                    f.write(' '.join(nums))
+                    f.write('\n')
 
 
 if __name__ == '__main__':

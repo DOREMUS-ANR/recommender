@@ -1,5 +1,34 @@
 {
   "endpoint": "http://data.doremus.org/sparql",
   "sparqlDir": "./sparql",
-  "edgelistDir": "./edgelist"
+  "edgelistDir": "./edgelist",
+  "chosenFeature": "genre",
+  "features": {
+    "mop": {
+      "dependencies": [
+        "casting",
+        "activity"
+      ],
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/iaml/mop/",
+        "http://data.doremus.org/vocabulary/redomi/mop/",
+        "http://data.doremus.org/vocabulary/itema3/mop/",
+        "http://data.doremus.org/vocabulary/diabolo/mop/",
+        "http://www.mimo-db.eu/InstrumentsKeywords"
+      ]
+    },
+    "genre": {
+      "dependencies": [
+        "expression"
+      ],
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/iaml/genre/",
+        "http://data.doremus.org/vocabulary/redomi/genre/",
+        "http://data.doremus.org/vocabulary/itema3/genre",
+        "http://data.doremus.org/vocabulary/itema3/genre/musdoc/",
+        " http://data.doremus.org/vocabulary/diabolo/genre/",
+        "http://data.bnf.fr/ark:/12148/"
+      ]
+    }
+  }
 }

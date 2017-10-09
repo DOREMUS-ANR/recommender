@@ -11,7 +11,8 @@ def main():
     global config
     init()
 
-    what = 'genre'
+    what = config.chosenFeature
+    dependencies = config.features[what].dependencies
 
     print('loading edgelists...')
     G = nx.read_edgelist(path.join(config.edgelistDir, '%s.edgelist' % what), nodetype=str, create_using=nx.DiGraph())
@@ -20,7 +21,7 @@ def main():
         G[edge[0]][edge[1]]['weight'] = .3
 
     # for eg in os.listdir(config.edgelistDir):
-    for eg in ['expression.edgelist']:
+    for eg in dependencies:
         H = nx.read_edgelist(path.join(config.edgelistDir, eg), nodetype=str, create_using=nx.DiGraph())
         for edge in H.edges():
             H[edge[0]][edge[1]]['weight'] = 6

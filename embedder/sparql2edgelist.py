@@ -38,13 +38,13 @@ def query2edgelist(query_file):
 
         G = nx.Graph()
         for result in results["results"]["bindings"]:
-            G.add_edge(toNode(result['s']), toNode(result['o']))
+            G.add_edge(to_node(result['s']), to_node(result['o']))
 
         out_file = path.join(config.edgelistDir, query_file.replace(".rq", ".edgelist"))
         nx.write_edgelist(G, out_file, data=False)
 
 
-def toNode(obj):
+def to_node(obj):
     global XSD_NAMESPACE
 
     type = obj['type']
@@ -57,9 +57,13 @@ def toNode(obj):
         return value.replace(" ", '_')
 
     if type == 'typed-literal' and obj['datatype'].startswith(XSD_NAMESPACE):
-        # is a date! to half century
-        decade = 5 if (int(value[3]) > 4) else 0
-        return value[:2] + str(decade) + '0'
+        try:
+            # is a date! to half century
+            print(obj)
+            decade = 5 if (int(value[3]) > 4) else 0
+            return value[:2] + str(decade) + '0'
+        except:
+            return '_'
 
     return value
 

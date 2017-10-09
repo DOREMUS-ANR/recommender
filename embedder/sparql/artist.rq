@@ -3,7 +3,7 @@ WHERE {
   ?s a ecrm:E21_Person ;
     ?p ?o .
   FILTER (?p IN (
-          ecrm:P98i_was_born, ecrm:P100i_died_in,
+          schema:birthDate, schema:deathDate,
           dbpprop:birthPlace, dbpprop:deathPlace
           ))
 }
