@@ -3,6 +3,7 @@ import pylab as Plot
 import codecs
 
 from lib.tsne import tsne
+import config as cs
 from config import config
 
 
@@ -11,7 +12,6 @@ def main():
     glove_words = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
 
     target_words = glove_words
-    # [line.strip().lower() for line in open("4000-most-common-english-words-csv.csv")][:2000]
 
     rows = [glove_words.index(word) for word in target_words if word in glove_words]
     target_matrix = glove_matrix[rows, :]
@@ -35,5 +35,5 @@ def main():
 
 
 if __name__ == '__main__':
-    config.parse_args()
+    cs.parse_args()
     main()

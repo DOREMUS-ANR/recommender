@@ -16,4 +16,4 @@ def parse_args():
 
     args = parser.parse_args()
     if 'chosenFeature' in args:
-        config.chosenFeature = args['chosenFeature']
+        config.chosenFeature = args.chosenFeature

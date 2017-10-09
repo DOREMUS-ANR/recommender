@@ -1,16 +1,13 @@
 import os
-import json
 import entity2vec.node2vec as node2vec
 from os import path
-from types import SimpleNamespace
-
 import networkx as nx
+
+import config as cs
+from config import config
 
 
 def main():
-    global config
-    init()
-
     what = config.chosenFeature
 
     print('loading edgelists...')
@@ -54,19 +51,10 @@ def main():
 
 
 def init():
-    global sparql
-    global config
-
-    with open('config.json') as json_data_file:
-        config = json.load(json_data_file)
-
-    if type(config) == dict:
-        config = SimpleNamespace(**config)
-
     if not os.path.exists(config.edgelistDir):
         os.makedirs(config.edgelistDir)
 
 
 if __name__ == '__main__':
-    config.parse_args()
+    cs.parse_args()
     main()

@@ -1,7 +1,8 @@
-from SPARQLWrapper import SPARQLWrapper, JSON
-
 import codecs
 import numpy as np
+from SPARQLWrapper import SPARQLWrapper, JSON
+
+import config as cs
 from config import config
 
 
@@ -58,5 +59,5 @@ def main():
 
 
 if __name__ == '__main__':
-    config.parse_args()
+    cs.parse_args()
     main()
