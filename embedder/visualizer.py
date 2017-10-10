@@ -8,13 +8,11 @@ from config import config
 
 
 def main():
-    glove_matrix = Math.loadtxt('emb/%s.emb.v' % config.chosenFeature)
-    glove_words = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
+    vectors = Math.loadtxt('emb/%s.emb.v' % config.chosenFeature)
+    labels = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
 
-    target_words = glove_words
-
-    rows = [glove_words.index(word) for word in target_words if word in glove_words]
-    target_matrix = glove_matrix[rows, :]
+    rows = [labels.index(word) for word in labels if word in labels]
+    target_matrix = vectors[rows, :]
     reduced_matrix = tsne(target_matrix, 2)
 
     Plot.figure(figsize=(200, 200), dpi=100)
@@ -26,7 +24,7 @@ def main():
     Plot.scatter(reduced_matrix[:, 0], reduced_matrix[:, 1], 20)
 
     for row_id in range(0, len(rows)):
-        target_word = glove_words[rows[row_id]]
+        target_word = labels[rows[row_id]]
         x = reduced_matrix[row_id, 0]
         y = reduced_matrix[row_id, 1]
         Plot.annotate(target_word, (x, y))

@@ -5,6 +5,11 @@
   "chosenFeature": "genre",
   "features": {
     "activity": {},
+    "key": {
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/key/"
+      ]
+    },
     "mop": {
       "dependencies": [
         "casting",

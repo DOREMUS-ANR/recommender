@@ -5,9 +5,10 @@ from types import SimpleNamespace
 import numpy as np
 import scipy.spatial.distance as dist
 
+from config import config
+
 
 def main():
-    global config
     init()
 
     embeddings_file = 'emb/mop.emb'
@@ -42,7 +43,6 @@ def main():
 
 
 def init():
-    global sparql
     global config
 
     with open('config.json') as json_data_file:

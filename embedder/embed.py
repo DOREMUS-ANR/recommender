@@ -35,11 +35,11 @@ def main():
     weighted = False
     p = 1
     q = 1
-    walk_length = 4
+    walk_length = 3
     num_walks = 3
-    dimensions = 10
+    dimensions = 6
     window_size = 3
-    workers = 3
+    workers = 5
     iter = 3
 
     node2vec_graph = node2vec.Node2Vec(directed, preprocessing, weighted, p, q, walk_length,
@@ -47,7 +47,7 @@ def main():
 
     node2vec_graph.G = G
 
-    node2vec_graph.learn_embeddings('emb/%s.emb' % what)
+    node2vec_graph.learn_embeddings('emb/%s.emb' % what, 'text')
 
 
 def init():

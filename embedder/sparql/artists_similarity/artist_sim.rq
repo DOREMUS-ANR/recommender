@@ -1,0 +1,56 @@
+prefix artist: <http://data.doremus.org/artist/>
+
+
+select DISTINCT * where {
+
+OPTIONAL { ?a schema:birthDate ?birthDate }
+OPTIONAL { ?a schema:deathDate ?deathDate }
+OPTIONAL { ?a dbpprop:birthPlace ?birthPlace }
+OPTIONAL { ?a dbpprop:deathPlace ?deathPlace }
+
+OPTIONAL {
+    [] efrbroo:R17_created [mus:U12_has_genre ?genre];
+           ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+OPTIONAL {
+    [] efrbroo:R17_created [mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance_of_type ?mop];
+           ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+OPTIONAL {
+    [] efrbroo:R17_created [mus:U11_has_key ?key];
+           ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+OPTIONAL {
+    [] efrbroo:R17_created ?exp;
+           ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+OPTIONAL {
+    [] efrbroo:R17_created [mus:U73_is_derivative_of ?der];
+           ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+OPTIONAL {
+    [] ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?a ; mus:U1_used_medium_of_performance ?mopp]
+}
+
+OPTIONAL {
+    [] ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?a ; mus:U31_had_function_of_type ?func]
+}
+
+OPTIONAL {
+      VALUES (?kind) { ( mus:M42_Performed_Expression_Creation ) ( efrbroo:F31_Performance ) }
+      ?performance a ?kind;
+        ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+OPTIONAL {
+   [] ecrm:P7_took_place_at ?place;
+     ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a .
+}
+
+FILTER (?a = artist:b82c0771-5280-39af-ad2e-8ace2f4ebda3)
+} LIMIT 1
