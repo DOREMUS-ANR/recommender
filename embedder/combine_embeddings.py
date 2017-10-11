@@ -1,6 +1,6 @@
 import json
 import numpy as np
-import pylab as Plot
+import os
 import codecs
 from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
@@ -17,7 +17,6 @@ feat_len = {
 
 def get_embed(uri, emb):
     vectors = np.loadtxt('emb/%s.emb.v' % emb)
-    feat_len[emb] = len(vectors[0])
     # labels = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
     uris = np.array([line.strip() for line in codecs.open('emb/%s.emb.u' % emb, 'r', 'utf-8')])
 
@@ -71,38 +70,56 @@ def get_partial_emb(f, uri):
         return np.ones(feat_len.get(emb, 1)) * -2
 
 
+def count_emb_len(emb):
+    vectors = np.loadtxt('emb/%s.emb.v' % emb)
+    return len(vectors[0])
+
+
 def main():
     with open('artist-similarity.json') as json_data_file:
         feature_list = json.load(json_data_file)
+
+    artist_uris_done = []
+    if os.path.isfile('emb/artist.emb.u'):
+        artist_uris_done = np.array([line.strip() for line in open('emb/artist.emb.u', 'r')])
+
+    for f in feature_list:
+        if 'embedding' in f:
+            emb_f = f['embedding']
+            if feat_len.get(emb_f, None) is None:
+                feat_len[emb_f] = count_emb_len(emb_f)
 
     # giuseppeverdi = '<http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3>'
     big_query = """select DISTINCT * where {
                   ?a a ecrm:E21_Person .
                   [] ecrm:P14_carried_out_by ?a .
-                } ORDER BY (COUNT (*))
-                LIMIT 10"""
+                }"""
 
     sparql.setQuery(big_query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
-    artist_list = []
-    for result in results["results"]["bindings"]:
-        uri = "<%s>" % result['a']['value']
-        print(uri)
-        artist = flatten([get_partial_emb(f, uri) for f in feature_list])
-        artist_list.append(artist)
+    with open('emb/artist.emb.h', 'w') as fh:
+        fh.write(' '.join([ft['label'].replace(' ', '_') for ft in feature_list]))
+        fh.write('\n')
+        fh.write(' '.join([str(feat_len[ft.get('embedding', 'default')]) for ft in feature_list]))
 
-    with open('emb/artist.emb.v', 'w') as f:
-        for a in artist_list:
-            nums = [str(n) for n in a]
+    for result in results["results"]["bindings"]:
+        uri = result['a']['value']
+        if uri in artist_uris_done:
+            continue
+
+        print(uri)
+        artist = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
+
+        with open('emb/artist.emb.v', 'a+') as f:
+            nums = [str(n) for n in artist]
             f.write(' '.join(nums))
             f.write('\n')
 
-    with open('emb/artist.emb.h', 'w') as fu:
-        fu.write(' '.join([ft['label'].replace(' ', '_') for ft in feature_list]))
-        fu.write('\n')
-        fu.write(' '.join([str(feat_len[ft.get('embedding', 'default')]) for ft in feature_list]))
+        with open('emb/artist.emb.u', 'a+') as fu:
+            fu.write(uri)
+            fu.write('\n')
 
 
 def flatten(lst=None):

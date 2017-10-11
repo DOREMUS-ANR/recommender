@@ -14,7 +14,9 @@ def parse_args():
     parser.add_argument('-cf', "--chosenFeature", default=config.chosenFeature,
                         help="The feature on which compute the script. It subscribes the one in config.json")
 
+    parser.add_argument('-s', "--seed", nargs='?', default=None, help="The URI of the entity")
+
     args = parser.parse_args()
 
-    if 'chosenFeature' in args:
-        config.chosenFeature = args.chosenFeature
+    config.chosenFeature = args.chosenFeature
+    config.seed = args.seed

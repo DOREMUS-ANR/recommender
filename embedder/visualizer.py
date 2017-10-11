@@ -1,4 +1,4 @@
-import numpy as Math
+import numpy as np
 import pylab as Plot
 import codecs
 
@@ -8,7 +8,7 @@ from config import config
 
 
 def main():
-    vectors = Math.loadtxt('emb/%s.emb.v' % config.chosenFeature)
+    vectors = np.loadtxt('emb/%s.emb.v' % config.chosenFeature)
     labels = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
 
     rows = [labels.index(word) for word in labels if word in labels]
@@ -16,8 +16,8 @@ def main():
     reduced_matrix = tsne(target_matrix, 2)
 
     Plot.figure(figsize=(200, 200), dpi=100)
-    max_x = Math.amax(reduced_matrix, axis=0)[0]
-    max_y = Math.amax(reduced_matrix, axis=0)[1]
+    max_x = np.amax(reduced_matrix, axis=0)[0]
+    max_y = np.amax(reduced_matrix, axis=0)[1]
     Plot.xlim((-max_x, max_x))
     Plot.ylim((-max_y, max_y))
 
