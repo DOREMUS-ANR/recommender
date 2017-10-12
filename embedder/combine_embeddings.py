@@ -40,8 +40,11 @@ def to_embed(obj, emb):
     if type == 'typed-literal' and obj['datatype'].startswith(XSD_NAMESPACE):
         # is a date!
         # range mapping {-100,2016} -> {0,2} -> {-1,1}
-        n = (int(value[:4]) / 1050) - 1
-        return [n]
+        try:
+            n = (int(value[:4]) / 1050) - 1
+            return [n]
+        except:
+            return None
 
     return None
 
@@ -93,7 +96,7 @@ def main():
     big_query = """select DISTINCT * where {
                   ?a a ecrm:E21_Person .
                   [] ecrm:P14_carried_out_by ?a .
-                }"""
+                } ORDER BY DESC(COUNT(?a))"""
 
     sparql.setQuery(big_query)
     sparql.setReturnFormat(JSON)
