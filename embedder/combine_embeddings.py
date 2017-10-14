@@ -107,12 +107,13 @@ def main():
         fh.write('\n')
         fh.write(' '.join([str(feat_len[ft.get('embedding', 'default')]) for ft in feature_list]))
 
-    for result in results["results"]["bindings"]:
+    results = results["results"]["bindings"]
+    for i, result in enumerate(results):
         uri = result['a']['value']
         if uri in artist_uris_done:
             continue
 
-        print(uri)
+        print('%d/%d %s' % (i, len(results), uri))
         artist = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
 
         with open('emb/artist.emb.v', 'a+') as f:

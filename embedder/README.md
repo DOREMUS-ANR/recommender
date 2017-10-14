@@ -37,6 +37,5 @@ Returns a list of the most similar artist to the seed `-s`
 
 Explains why 2 artists (seed `-s` and target `-t`) are similar
 
-    python tell_me_why.py -cf artist -s http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b -t http://data.doremus.org/artist/438fe235-e00d-3864-befa-467398df6748
-
+    python tell_me_why.py -cf artist -s http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b -t http://data.doremus.org/artist/88458f1f-b751-3dbd-b081-b2cf5f20f225
 

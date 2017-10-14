@@ -1,13 +1,12 @@
-import codecs
 import json
+from types import SimpleNamespace
+
 import config as cs
 import numpy as np
-from types import SimpleNamespace
-from scipy.spatial import distance
-
-from config import config
-from combine_embeddings import flatten, to_embed
 from SPARQLWrapper import SPARQLWrapper, JSON
+from combine_embeddings import to_embed
+from config import config
+from scipy.spatial import distance
 
 sparql = SPARQLWrapper(config.endpoint)
 
