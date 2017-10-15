@@ -51,7 +51,7 @@ def to_humans(x):
 def get_partials_intersections(f, uri1, uri2):
     f = SimpleNamespace(**f)
     # print(f.label)
-
+    how_many = config.num_results
     v1 = get_feature_values(f, uri1)
 
     selected = []
@@ -76,18 +76,20 @@ def get_partials_intersections(f, uri1, uri2):
                             continue
                         d = distance.euclidean(a['e'], b['e'])
                         s = 1 - d
-                        if len(selected) < 3 or selected[2]['score'] < s:
+                        if len(selected) < how_many or selected[2]['score'] < s:
                             x = a.copy()
                             x['score'] = s
                             x['similar'] = b['o']
                             selected.append(x)
+
+    selected = sorted(selected, key=lambda _x: int(_x['n']) * _x['score'], reverse=True)
 
     if len(selected) == 0:
         return None
 
     return {
         'label': f.label,
-        'selected': selected[:3]
+        'selected': selected[:how_many]
     }
 
 
