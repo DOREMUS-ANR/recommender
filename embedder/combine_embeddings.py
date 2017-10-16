@@ -5,7 +5,7 @@ import codecs
 from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-from config import config
+from .config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
@@ -16,9 +16,10 @@ feat_len = {
 
 
 def get_embed(uri, emb):
-    vectors = np.loadtxt('emb/%s.emb.v' % emb)
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    vectors = np.loadtxt('%s/emb/%s.emb.v' % (dir_path, emb))
     # labels = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
-    uris = np.array([line.strip() for line in codecs.open('emb/%s.emb.u' % emb, 'r', 'utf-8')])
+    uris = np.array([line.strip() for line in codecs.open('%s/emb/%s.emb.u' % (dir_path, emb), 'r', 'utf-8')])
 
     index = np.where(uris == uri)
     return vectors[index][0] if len(index[0]) else None
@@ -83,8 +84,11 @@ def main():
         feature_list = json.load(json_data_file)
 
     artist_uris_done = []
-    if os.path.isfile('emb/artist.emb.u'):
-        artist_uris_done = np.array([line.strip() for line in open('emb/artist.emb.u', 'r')])
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+
+    uri_file = '%s/emb/artist.emb.u' % dir_path
+    if os.path.isfile(uri_file):
+        artist_uris_done = np.array([line.strip() for line in open(uri_file, 'r')])
 
     for f in feature_list:
         if 'embedding' in f:
@@ -116,12 +120,12 @@ def main():
         print('%d/%d %s' % (i, len(results), uri))
         artist = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
 
-        with open('emb/artist.emb.v', 'a+') as f:
+        with open('%s/emb/artist.emb.v' % dir_path, 'a+') as f:
             nums = [str(n) for n in artist]
             f.write(' '.join(nums))
             f.write('\n')
 
-        with open('emb/artist.emb.u', 'a+') as fu:
+        with open('%s/emb/artist.emb.u' % dir_path, 'a+') as fu:
             fu.write(uri)
             fu.write('\n')
 

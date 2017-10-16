@@ -1,36 +1,36 @@
 [
   {
     "label": "birth date",
-    "group": "person",
+    "group": "period",
     "query": "?a schema:birthDate ?o"
   },
   {
     "label": "death date",
-    "group": "person",
+    "group": "period",
     "query": "?a schema:deathDate ?o"
   },
   {
     "label": "key",
     "embedding": "key",
-    "group": "work",
+    "group": "work:key",
     "query": "[] efrbroo:R17_created [mus:U11_has_key ?o]; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a ."
   },
   {
     "label": "genre",
     "embedding": "genre",
-    "group": "work",
+    "group": "work:genre",
     "query": "[] efrbroo:R17_created ?sth; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a . { ?sth mus:U54_is_performed_expression_of [mus:U12_has_genre ?o] } UNION {?sth mus:U12_has_genre ?o}"
   },
   {
     "label": "casting",
     "embedding": "mop",
-    "group": "work",
+    "group": "work:casting",
     "query": "[] efrbroo:R17_created [mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance_of_type ?o]; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a ."
   },
   {
     "label": "mop",
     "embedding": "mop",
-    "group": "performance",
+    "group": "performance:mop",
     "query": "[] ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?a ; mus:U1_used_medium_of_performance ?o]"
   }
 ]
