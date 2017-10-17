@@ -1,15 +1,26 @@
 {
   "endpoint": "http://data.doremus.org/sparql",
   "sparqlDir": "./sparql",
-  "edgelistDir": "./edgelist",
+  "edgelistDir": "embedder/edgelist",
   "embDir": "/Users/pasquale/git/recommender/recsystem/embedder/emb",
   "chosenFeature": "genre",
-  "num_results" : 3,
+  "num_results": 3,
   "features": {
     "activity": {},
     "key": {
       "namespaces": [
         "http://data.doremus.org/vocabulary/key/"
+      ]
+    },
+    "artist": {
+      "dependencies": [
+        "casting",
+        "activity",
+        "genre",
+        "expression",
+        "key",
+        "mop",
+        "performance"
       ]
     },
     "mop": {

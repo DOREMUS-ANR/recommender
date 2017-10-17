@@ -22,7 +22,8 @@ def main():
             dependencies = feat['dependencies']
 
             for eg in dependencies:
-                H = nx.read_edgelist(path.join(config.edgelistDir, eg), nodetype=str, create_using=nx.DiGraph())
+                H = nx.read_edgelist(path.join(config.edgelistDir, '%s.edgelist' % eg), nodetype=str,
+                                     create_using=nx.DiGraph())
                 for edge in H.edges():
                     H[edge[0]][edge[1]]['weight'] = 6
 
@@ -35,9 +36,9 @@ def main():
     weighted = False
     p = 1
     q = 1
-    walk_length = 3
+    walk_length = 5
     num_walks = 3
-    dimensions = 6
+    dimensions = 80
     window_size = 3
     workers = 5
     iter = 3
