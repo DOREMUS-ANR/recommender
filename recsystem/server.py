@@ -1,11 +1,8 @@
+import sys
 from flask import Flask, jsonify
-import recommend
-from inspect import getsourcefile
-import os.path as path, sys
 
-current_dir = path.dirname(path.abspath(getsourcefile(lambda: 0)))
-sys.path.insert(0, current_dir[:current_dir.rfind(path.sep)])
 from embedder import get_neighborhood, tell_me_why
+from recommending import recommend
 
 sys.path.pop(0)
 

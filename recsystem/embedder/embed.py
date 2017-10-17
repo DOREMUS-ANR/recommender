@@ -47,7 +47,7 @@ def main():
 
     node2vec_graph.G = G
 
-    node2vec_graph.learn_embeddings('emb/%s.emb' % what, 'text')
+    node2vec_graph.learn_embeddings('%s/%s.emb' % (config.embDir, what), 'text')
 
 
 def init():

@@ -8,8 +8,9 @@ from config import config
 
 
 def main():
-    vectors = np.loadtxt('emb/%s.emb.v' % config.chosenFeature)
-    labels = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
+    vectors = np.loadtxt('%s/%s.emb.v' % (config.embDir, config.chosenFeature))
+    labels_file = codecs.open('%s/%s.emb.l' % (config.embDir, config.chosenFeature), 'r', 'utf-8')
+    labels = [line.strip() for line in labels_file]
 
     rows = [labels.index(word) for word in labels if word in labels]
     target_matrix = vectors[rows, :]

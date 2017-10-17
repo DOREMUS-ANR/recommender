@@ -23,7 +23,7 @@ def get_label(uri):
 
 def main():
     what = config.chosenFeature
-    embeddings_file = 'emb/%s.emb' % what
+    embeddings_file = '%s/%s.emb' % (config.embDir, what)
     vectors = []
     labels = []
     uris = []

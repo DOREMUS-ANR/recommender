@@ -1,5 +1,4 @@
 import codecs
-import os
 import config as cs
 import numpy as np
 from scipy.spatial import distance
@@ -22,10 +21,8 @@ def main():
 def find(seed, ftype='artist'):
     global max_distance
 
-    dir_path = os.path.dirname(os.path.realpath(__file__))
-
-    vectors = np.genfromtxt('%s/emb/%s.emb.v' % (dir_path, ftype))
-    uris = np.array([line.strip() for line in codecs.open('%s/emb/%s.emb.u' % (dir_path, ftype), 'r', 'utf-8')])
+    vectors = np.genfromtxt('%s/%s.emb.v' % (config.embDir, ftype))
+    uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (config.embDir, ftype), 'r', 'utf-8')])
     full = np.column_stack((uris, vectors))
 
     pos = np.where(uris == seed)[0][0]

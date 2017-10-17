@@ -10,7 +10,7 @@ from concurrent.futures import as_completed, ThreadPoolExecutor as Pool
 
 import numpy as np
 
-from recommender.entity2entity import Entity2Rec
+from .recommender.entity2entity import Entity2Rec
 
 ranklib_res = False
 emb_file_path = False

@@ -1,11 +1,8 @@
-import os
-import json
 import argparse
+import json
 from types import SimpleNamespace
 
-dir_path = os.path.dirname(os.path.realpath(__file__))
-
-with open('%s/config.json' % dir_path) as json_data_file:
+with open('config/config.json') as json_data_file:
     config = json.load(json_data_file)
 
 if type(config) == dict:

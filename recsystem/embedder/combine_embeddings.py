@@ -16,10 +16,10 @@ feat_len = {
 
 
 def get_embed(uri, emb):
-    dir_path = os.path.dirname(os.path.realpath(__file__))
-    vectors = np.loadtxt('%s/emb/%s.emb.v' % (dir_path, emb))
-    # labels = [line.strip() for line in codecs.open('emb/%s.emb.l' % config.chosenFeature, 'r', 'utf-8')]
-    uris = np.array([line.strip() for line in codecs.open('%s/emb/%s.emb.u' % (dir_path, emb), 'r', 'utf-8')])
+    emb_root = config.embDir
+
+    vectors = np.loadtxt('%s/%s.emb.v' % (emb_root, emb))
+    uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (emb_root, emb), 'r', 'utf-8')])
 
     index = np.where(uris == uri)
     return vectors[index][0] if len(index[0]) else None
@@ -75,7 +75,7 @@ def get_partial_emb(f, uri):
 
 
 def count_emb_len(emb):
-    vectors = np.loadtxt('emb/%s.emb.v' % emb)
+    vectors = np.loadtxt('%s/%s.emb.v' % (config.embDir, emb))
     return len(vectors[0])
 
 
@@ -84,9 +84,8 @@ def main():
         feature_list = json.load(json_data_file)
 
     artist_uris_done = []
-    dir_path = os.path.dirname(os.path.realpath(__file__))
 
-    uri_file = '%s/emb/artist.emb.u' % dir_path
+    uri_file = '%s/artist.emb.u' % config.embDir
     if os.path.isfile(uri_file):
         artist_uris_done = np.array([line.strip() for line in open(uri_file, 'r')])
 
@@ -106,7 +105,7 @@ def main():
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
-    with open('emb/artist.emb.h', 'w') as fh:
+    with open('%s/artist.emb.h' % config.embDir, 'w') as fh:
         fh.write(' '.join([ft['label'].replace(' ', '_') for ft in feature_list]))
         fh.write('\n')
         fh.write(' '.join([str(feat_len[ft.get('embedding', 'default')]) for ft in feature_list]))
@@ -120,12 +119,12 @@ def main():
         print('%d/%d %s' % (i, len(results), uri))
         artist = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
 
-        with open('%s/emb/artist.emb.v' % dir_path, 'a+') as f:
+        with open('%s/artist.emb.v' % config.embDir, 'a+') as f:
             nums = [str(n) for n in artist]
             f.write(' '.join(nums))
             f.write('\n')
 
-        with open('%s/emb/artist.emb.u' % dir_path, 'a+') as fu:
+        with open('%s/artist.emb.u' % config.embDir, 'a+') as fu:
             fu.write(uri)
             fu.write('\n')
 

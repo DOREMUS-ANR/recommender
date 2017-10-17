@@ -37,4 +37,4 @@ Build
 
 Run
 
-    docker run -d --restart=unless-stopped  -v /var/docker/doremus/recommender/recommending/data:/data -v /var/docker/doremus/recommender/recommending/emb:/emb -v /var/docker/doremus/recommender/recommending/features:/features --network doremus --name recommender doremus/recommender
+    docker run -d --restart=unless-stopped  -v /Users/pasquale/git/recommender/recommending/data:/data -v /Users/pasquale/git/recommender/recommending/emb:/emb -v /Users/pasquale/git/recommender/embedder/embedder -v /Users/pasquale/git/recommender/recommending/features:/features --network doremus --name recommender doremus/recommender

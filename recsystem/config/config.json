@@ -2,6 +2,7 @@
   "endpoint": "http://data.doremus.org/sparql",
   "sparqlDir": "./sparql",
   "edgelistDir": "./edgelist",
+  "embDir": "/Users/pasquale/git/recommender/recsystem/embedder/emb",
   "chosenFeature": "genre",
   "num_results" : 3,
   "features": {
