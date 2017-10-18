@@ -18,8 +18,11 @@ def main():
     find(config.seed, f)
 
 
-def find(seed, ftype='artist'):
+def find(seed, ftype='artist', n=config.num_results):
     global max_distance
+
+    if n < 1:
+        n = config.num_results
 
     vectors = np.genfromtxt('%s/%s.emb.v' % (config.embDir, ftype))
     uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (config.embDir, ftype), 'r', 'utf-8')])
@@ -44,7 +47,7 @@ def find(seed, ftype='artist'):
     # sort
     full_sorted = sorted(full, key=lambda _x: float(_x[full_len]), reverse=True)
 
-    most_similar = full_sorted[:3]
+    most_similar = full_sorted[:n]
     print('\n'.join('%s %s' % (f[0], f[full_len]) for f in most_similar))
 
     return [{'uri': _a[0], 'score': _a[full_len]} for _a in most_similar]
