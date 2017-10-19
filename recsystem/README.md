@@ -19,7 +19,7 @@ Build
 
 Run
 
- docker run -d --restart=unless-stopped  -v /var/docker/doremus/recommender/recommending/data:/data -v /var/docker/doremus/recommender/recommending/emb:/emb -v /var/docker/doremus/recommender/recsystem/config:/config -v /var/docker/doremus/recommender/recsystem/embedder/emb:/emb2 -v /var/docker/doremus/recommender/recommending/features:/features --network doremus --name recommender doremus/recommender
+    docker run -d --restart=unless-stopped  -v /var/docker/doremus/recommender/recsystem/recommending/data:/data -v /var/docker/doremus/recommender/recsystem/recommending/emb:/emb -v /var/docker/doremus/recommender/recsystem/config:/config -v /var/docker/doremus/recommender/recsystem/embedder/emb:/emb2 -v /var/docker/doremus/recommender/recsystem/recommending/features:/features -t --network doremus --name recommender doremus/recommender
 
 
-    docker run -d --restart=unless-stopped  -v /Users/pasquale/git/recommender/recsystem/recommending/data:/data -v /Users/pasquale/git/recommender/recsystem/recommending/emb:/emb -v /Users/pasquale/git/recommender/recsystem/config:/config -v /Users/pasquale/git/recommender/recsystem/embedder/emb:/emb2 -v /Users/pasquale/git/recommender/recsystem/recommending/features:/features --network doremus -t --name recommender doremus/recommender
+<!-- docker run -d --restart=unless-stopped  -v /Users/pasquale/git/recommender/recsystem/recommending/data:/data -v /Users/pasquale/git/recommender/recsystem/recommending/emb:/emb -v /Users/pasquale/git/recommender/recsystem/config:/config -v /Users/pasquale/git/recommender/recsystem/embedder/emb:/emb2 -v /Users/pasquale/git/recommender/recsystem/recommending/features:/features --network doremus -t --name recommender doremus/recommender -->
