@@ -19,10 +19,11 @@ def recommend_expression(exp):
 
 @app.route('/artist/<string:artist>')
 def recommend_artist(artist):
-    n = int(request.args.get('n', default=-1))
-
     uri = 'http://data.doremus.org/artist/%s' % artist
     print('recommending artist %s' % uri)
+    n = int(request.args.get('n', default=-1))
+    print('n=%d' % n)
+
     most_similar = get_neighborhood.find(uri, n=n)
 
     # we can swap out ProcessPoolExecutor for ThreadPoolExecutor

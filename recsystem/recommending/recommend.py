@@ -52,7 +52,7 @@ def create_connection_file(exp):
         if not all_exp[-1]:
             all_exp = all_exp[:-1]
 
-    with open("data/all_connections/%s.edgelist" % epx_id, "w") as output:
+    with open("/data/all_connections/%s.edgelist" % epx_id, "w") as output:
         out = re.sub(r"^", exp + " ", all_exp, 0, re.MULTILINE)
         out = re.sub(r"$", " 0 0", out, 0, re.MULTILINE)
         output.write(out)
