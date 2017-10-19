@@ -1,14 +1,14 @@
 from __future__ import print_function
-import os
+
+import argparse
 import codecs
 import collections
-import numpy as np
-import argparse
+import os
 import time
-from random import shuffle
 
-from entity2vec.entity2vec import Entity2Vec
+import numpy as np
 from entity2vec.entity2rel import Entity2Rel
+from entity2vec.entity2vec import Entity2Vec
 
 ##############################################################################
 # Computes a set of relatedness scores between user-item pairs from a set of #
@@ -48,7 +48,7 @@ class Entity2Rec(Entity2Vec, Entity2Rel):
             if '/' in prop:
                 prop_short = prop.split('/')[-1].strip()
 
-            self.add_embedding(u'emb/%s/%s/num%s_p%d_q%d_l%s_d%s_iter%d_winsize%d.emd' % (
+            self.add_embedding(u'/emb/%s/%s/num%s_p%d_q%d_l%s_d%s_iter%d_winsize%d.emd' % (
                 self.dataset, prop_short, self.num_walks, int(self.p), int(self.q), self.walk_length, self.dimensions,
                 self.iter,
                 self.window_size))
