@@ -226,7 +226,7 @@ class Entity2Rec(Entity2Vec, Entity2Rel):
 
         train_name = (self.training.split('/')[-1]).split('.')[0]
 
-        feature_path = 'features/%s/p%d_q%d/' % (self.dataset, int(self.p), int(self.q))
+        feature_path = '/features/%s/p%d_q%d/' % (self.dataset, int(self.p), int(self.q))
 
         try:
             os.makedirs(feature_path)
