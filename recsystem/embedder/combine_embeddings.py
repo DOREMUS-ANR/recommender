@@ -4,8 +4,9 @@ import os
 import codecs
 from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
+from sklearn.decomposition import PCA
 
-from .config import config
+from config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
@@ -14,12 +15,29 @@ feat_len = {
     'default': 1
 }
 
+embedding_cache = dict()
 
-def get_embed(uri, emb):
+
+def load_embedding(file):
+    if file in embedding_cache:
+        return embedding_cache[file]
+
     emb_root = config.embDir
 
-    vectors = np.loadtxt('%s/%s.emb.v' % (emb_root, emb))
-    uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (emb_root, emb), 'r', 'utf-8')])
+    vectors = np.loadtxt('%s/%s.emb.v' % (emb_root, file))
+    uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (emb_root, file), 'r', 'utf-8')])
+
+    # dimensionality reduction
+    pca = PCA(n_components=3)
+    pca.fit(vectors)
+    vectors = pca.transform(vectors)
+
+    embedding_cache[file] = vectors, uris
+    return vectors, uris
+
+
+def get_embed(uri, emb):
+    vectors, uris = load_embedding(emb)
 
     index = np.where(uris == uri)
     return vectors[index][0] if len(index[0]) else None
@@ -75,7 +93,7 @@ def get_partial_emb(f, uri):
 
 
 def count_emb_len(emb):
-    vectors = np.loadtxt('%s/%s.emb.v' % (config.embDir, emb))
+    vectors, uris = load_embedding(emb)
     return len(vectors[0])
 
 
@@ -93,7 +111,7 @@ def main():
         if 'embedding' in f:
             emb_f = f['embedding']
             if feat_len.get(emb_f, None) is None:
-                feat_len[emb_f] = count_emb_len(emb_f)
+                feat_len[emb_f] = f['dimensions'] or count_emb_len(emb_f)
 
     # giuseppeverdi = '<http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3>'
     big_query = """select DISTINCT * where {
@@ -124,7 +142,7 @@ def main():
             f.write(' '.join(nums))
             f.write('\n')
 
-        with open('%s/artist.emb.u' % config.embDir, 'a+') as fu:
+        with open(uri_file, 'a+') as fu:
             fu.write(uri)
             fu.write('\n')
 
