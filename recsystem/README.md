@@ -23,3 +23,10 @@ Run
 
 
 <!-- docker run -d --restart=unless-stopped  -v /Users/pasquale/git/recommender/recsystem/recommending/data:/data -v /Users/pasquale/git/recommender/recsystem/recommending/emb:/emb -v /Users/pasquale/git/recommender/recsystem/config:/config -v /Users/pasquale/git/recommender/recsystem/embedder/emb:/emb2 -v /Users/pasquale/git/recommender/recsystem/recommending/features:/features --network doremus -t --name recommender doremus/recommender -->
+
+
+Stop
+
+    docker stop recommender
+    docker rm recommender ##remove from available containers
+    docker rmi doremus/recommender ##remove from images

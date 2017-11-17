@@ -6,7 +6,7 @@ from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
 from sklearn.decomposition import PCA
 
-from config import config
+from .config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 

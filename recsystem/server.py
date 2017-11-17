@@ -22,9 +22,16 @@ def recommend_artist(artist):
     uri = 'http://data.doremus.org/artist/%s' % artist
     print('recommending artist %s' % uri)
     n = int(request.args.get('n', default=-1))
+    w = request.args.get('w', default=None)
+    if w is not None:
+        w = list(map(int, w.split(",")))
+
+    explain = request.args.get('explain', default=True)
+    if explain == "false":
+        explain = False
     print('n=%d' % n)
 
-    most_similar = get_neighborhood.find(uri, n=n)
+    most_similar = get_neighborhood.find(uri, n=n, explain=explain, w=w)
 
     # we can swap out ProcessPoolExecutor for ThreadPoolExecutor
     with concurrent.futures.ThreadPoolExecutor() as executor:

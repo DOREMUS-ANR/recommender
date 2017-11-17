@@ -15,10 +15,10 @@ def main():
     print("Seed: %s" % config.seed)
     print("Type: %s" % f)
 
-    find(config.seed, f)
+    find(config.seed, f, config.num_results)
 
 
-def find(seed, ftype='artist', n=config.num_results):
+def find(seed, ftype='artist', n=config.num_results, explain=True, w=None):
     global max_distance
 
     if n < 1:
@@ -27,19 +27,28 @@ def find(seed, ftype='artist', n=config.num_results):
     print('loading embeddings')
     vectors = np.genfromtxt('%s/%s.emb.v' % (config.embDir, ftype))
     uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (config.embDir, ftype), 'r', 'utf-8')])
+    f_length = np.array([line.strip() for line in codecs.open('%s/%s.emb.h' % (config.embDir, ftype), 'r', 'utf-8')])
+    f_length = list(map(int, f_length[1].split()))
 
     pos = np.where(uris == seed)[0][0]
     _seed = vectors[pos]
 
-    # pos = np.where(uris == 'http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b')[0][0]
-    # target = vectors[pos]
+    if w is None:
+        w = np.ones(len(_seed))
+    else:
+        w = np.array(w)
+        # duplicate first for period
+        w = np.insert(w, 0, w[0], 0)
 
-    full_len = len(vectors[0])
+    temp = [np.ones(f_length[k]) * w[k] for k in range(len(w))]
+    w = np.array([item for sublist in temp for item in sublist])
 
-    max_distance = distance.sqeuclidean(np.ones(len(_seed)), np.ones(len(_seed)) * -1)
+    w = w / w.sum()
+
+    max_distance = weightedL2(np.ones(len(_seed)), np.ones(len(_seed)) * -1, w)
 
     print('computing scores')
-    scores = np.array([[compute_similarity(_seed, x.astype(float)) for x in vectors]])
+    scores = np.array([[compute_similarity(_seed, x.astype(float), w) for x in vectors]])
     full = np.concatenate([uris.reshape(len(uris), 1), scores.transpose()], axis=1)
 
     # remove the seed from the list
@@ -51,21 +60,23 @@ def find(seed, ftype='artist', n=config.num_results):
     print('\n'.join('%s %s' % (f[0], f[1]) for f in most_similar))
 
     return [{'uri': _a[0], 'score': _a[1]} for _a in most_similar]
+    print(f_length)
 
 
-def compute_similarity(seed, target):
+def compute_similarity(seed, target, w):
     b1 = np.where(seed < -1)[0]
     b2 = np.where(target < -1)[0]
     bad_pos = np.unique(np.concatenate([b1, b2]))
 
     _seed = np.delete(seed, bad_pos, axis=0)
     _target = np.delete(target, bad_pos, axis=0)
+    _w = np.delete(w, bad_pos, axis=0)
 
     if len(_seed) == 0:
         return 0
 
     # distance
-    d = distance.sqeuclidean(_seed, _target)
+    d = weightedL2(_seed, _target, _w)
 
     # how much info I am not finding
     penalty = len([x for x in b2 if x not in b1]) / len(seed)
@@ -73,6 +84,13 @@ def compute_similarity(seed, target):
     # score
     s = (max_distance - d) / max_distance
     return s * (1 - penalty)
+
+
+def weightedL2(a, b, w):
+    # https://stackoverflow.com/a/8861999/1218213
+    q = a - b
+    # return np.sqrt((w * q * q).sum())
+    return (w * q * q).sum()
 
 
 if __name__ == '__main__':
