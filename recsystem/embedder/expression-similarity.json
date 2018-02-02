@@ -1,0 +1,38 @@
+{
+  "select": "?a a efrbroo:F22_Self-Contained_Expression",
+  "features": [
+    {
+      "label": "composition date",
+      "group": "period",
+      "query": "[] efrbroo:R17_created ?a ; ecrm:P4_has_time_span / time:hasBeginning / time:inXSDDate ?o"
+    },
+    {
+      "label": "key",
+      "embedding": "key",
+      "dimensions": 3,
+      "group": "key",
+      "query": "?a mus:U11_has_key ?o"
+    },
+    {
+      "label": "genre",
+      "embedding": "genre",
+      "dimensions": 3,
+      "group": "genre",
+      "query": "?a mus:U12_has_genre ?o"
+    },
+    {
+      "label": "casting",
+      "embedding": "mop",
+      "dimensions": 3,
+      "group": "casting",
+      "query": "?a mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance_of_type ?o"
+    },
+    {
+      "label": "composer",
+      "embedding": "artist",
+      "group": "composer",
+      "dimensions": 3,
+      "query": "[] efrbroo:R17_created ?a ; ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?o ]"
+    }
+  ]
+}

@@ -6,7 +6,8 @@ from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
 from sklearn.decomposition import PCA
 
-from .config import config
+import config as cs
+from config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
@@ -98,14 +99,23 @@ def count_emb_len(emb):
 
 
 def main():
-    with open('artist-similarity.json') as json_data_file:
-        feature_list = json.load(json_data_file)
+    what = config.chosenFeature
 
-    artist_uris_done = []
+    with open('%s-similarity.json' % what) as json_data_file:
+        _json = json.load(json_data_file)
 
-    uri_file = '%s/artist.emb.u' % config.embDir
+    feature_list = _json['features']
+    main_query_select = _json['select']
+
+    entity_uris_done = []
+
+    uri_file = '%s/%s.emb.u' % (config.embDir, what)
+    # label_file = '%s/%s.emb.l' % (config.embDir, what)
+    vector_file = '%s/%s.emb.v' % (config.embDir, what)
+    header_file = '%s/%s.emb.h' % (config.embDir, what)
+
     if os.path.isfile(uri_file):
-        artist_uris_done = np.array([line.strip() for line in open(uri_file, 'r')])
+        entity_uris_done = np.array([line.strip() for line in open(uri_file, 'r')])
 
     for f in feature_list:
         if 'embedding' in f:
@@ -114,16 +124,13 @@ def main():
                 feat_len[emb_f] = f['dimensions'] or count_emb_len(emb_f)
 
     # giuseppeverdi = '<http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3>'
-    big_query = """select DISTINCT * where {
-                  ?a a ecrm:E21_Person .
-                  [] ecrm:P14_carried_out_by ?a .
-                } ORDER BY DESC(COUNT(?a))"""
+    main_query = "SELECT DISTINCT * WHERE { %s } ORDER BY DESC(COUNT(?a))" % main_query_select
 
-    sparql.setQuery(big_query)
+    sparql.setQuery(main_query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
-    with open('%s/artist.emb.h' % config.embDir, 'w') as fh:
+    with open(header_file, 'w') as fh:
         fh.write(' '.join([ft['label'].replace(' ', '_') for ft in feature_list]))
         fh.write('\n')
         fh.write(' '.join([str(feat_len[ft.get('embedding', 'default')]) for ft in feature_list]))
@@ -131,14 +138,14 @@ def main():
     results = results["results"]["bindings"]
     for i, result in enumerate(results):
         uri = result['a']['value']
-        if uri in artist_uris_done:
+        if uri in entity_uris_done:
             continue
 
         print('%d/%d %s' % (i, len(results), uri))
-        artist = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
+        vector = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
 
-        with open('%s/artist.emb.v' % config.embDir, 'a+') as f:
-            nums = [str(n) for n in artist]
+        with open(vector_file, 'a+') as f:
+            nums = [str(n) for n in vector]
             f.write(' '.join(nums))
             f.write('\n')
 
@@ -155,4 +162,5 @@ def flatten(lst=None):
 
 
 if __name__ == '__main__':
+    cs.parse_args()
     main()
