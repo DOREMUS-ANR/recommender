@@ -31,17 +31,18 @@ def main():
 
     G = G.to_undirected()
 
-    directed = False
-    preprocessing = False
-    weighted = False
-    p = 1
-    q = 1
-    walk_length = 5
-    num_walks = 3
-    dimensions = 80
-    window_size = 3
-    workers = 5
-    iter = 3
+    n2vOpt = config.node2vec
+    directed = n2vOpt["directed"]
+    preprocessing = n2vOpt["preprocessing"]
+    weighted = n2vOpt["weighted"]
+    p = n2vOpt["p"]
+    q = n2vOpt["q"]
+    walk_length = n2vOpt["walk_length"]
+    num_walks = n2vOpt["num_walks"]
+    dimensions = n2vOpt["dimensions"]
+    window_size = n2vOpt["window_size"]
+    workers = n2vOpt["workers"]
+    iter = n2vOpt["iter"]
 
     node2vec_graph = node2vec.Node2Vec(directed, preprocessing, weighted, p, q, walk_length,
                                        num_walks, dimensions, window_size, workers, iter)

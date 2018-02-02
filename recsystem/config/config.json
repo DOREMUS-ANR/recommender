@@ -1,10 +1,23 @@
 {
   "endpoint": "http://data.doremus.org/sparql",
   "sparqlDir": "./sparql",
-  "edgelistDir": "embedder/edgelist",
-  "embDir": "/emb2",
-  "chosenFeature": "genre",
+  "edgelistDir": "edgelist",
+  "embDir": "emb",
+  "chosenFeature": "mop",
   "num_results": 3,
+  "node2vec": {
+    "directed": false,
+    "preprocessing": false,
+    "weighted": false,
+    "p": 1,
+    "q": 1,
+    "walk_length": 5,
+    "num_walks": 10,
+    "dimensions": 100,
+    "window_size": 10,
+    "workers": 5,
+    "iter": 3
+  },
   "features": {
     "activity": {},
     "key": {
