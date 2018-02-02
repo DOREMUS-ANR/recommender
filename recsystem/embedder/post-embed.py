@@ -55,11 +55,6 @@ def main():
     vectors = skpreprocess.normalize(vectors, 'l2', 0)
     # why? because of https://www.quora.com/Should-I-do-normalization-to-word-embeddings-from-word2vec-if-I-want-to-do-semantic-tasks
 
-    # dimensionality reduction
-    pca = PCA(n_components=3)
-    pca.fit(vectors)
-    vectors = pca.transform(vectors)
-
     with open(embeddings_file + '.v', 'w') as f:
         for a in vectors:
             nums = [str(n) for n in a]
