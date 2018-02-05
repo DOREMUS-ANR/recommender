@@ -33,6 +33,7 @@ Returns a list of the most similar artist to the seed `-s`
 
     python get_neighborhood.py -cf artist -s http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b # bach
     python get_neighborhood.py -cf artist -s http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0 # vivaldi
+    python get_neighborhood.py -cf expression -s http://data.doremus.org/expression/a9dd5b7e-4541-3654-9a45-af2ab36c320c # La Traviata
 
 ## tell me why
 

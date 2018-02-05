@@ -1,8 +1,9 @@
 import codecs
+
 import config as cs
 import numpy as np
-from scipy.spatial import distance
-from .config import config
+
+from config import config
 
 max_distance = 0
 
@@ -18,7 +19,7 @@ def main():
     find(config.seed, f, config.num_results)
 
 
-def find(seed, ftype='artist', n=config.num_results, explain=True, w=None):
+def find(seed, ftype='artist', n=config.num_results, w=None):
     global max_distance
 
     if n < 1:
@@ -35,15 +36,11 @@ def find(seed, ftype='artist', n=config.num_results, explain=True, w=None):
 
     if w is None:
         w = np.ones(len(_seed))
+        w = w / w.sum()
     else:
         w = np.array(w)
-        # duplicate first for period
-        w = np.insert(w, 0, w[0], 0)
-
-    temp = [np.ones(f_length[k]) * w[k] for k in range(len(w))]
-    w = np.array([item for sublist in temp for item in sublist])
-
-    w = w / w.sum()
+        temp = [np.ones(f_length[k]) * w[k] for k in range(len(w))]
+        w = np.array([item for sublist in temp for item in sublist])
 
     max_distance = weightedL2(np.ones(len(_seed)), np.ones(len(_seed)) * -1, w)
 
@@ -60,7 +57,6 @@ def find(seed, ftype='artist', n=config.num_results, explain=True, w=None):
     print('\n'.join('%s %s' % (f[0], f[1]) for f in most_similar))
 
     return [{'uri': _a[0], 'score': _a[1]} for _a in most_similar]
-    print(f_length)
 
 
 def compute_similarity(seed, target, w):
@@ -86,7 +82,7 @@ def compute_similarity(seed, target, w):
     return s * (1 - penalty)
 
 
-def weightedL2(a, b, w):
+def weightedL2(a, b, w=1):
     # https://stackoverflow.com/a/8861999/1218213
     q = a - b
     # return np.sqrt((w * q * q).sum())
