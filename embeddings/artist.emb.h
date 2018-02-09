@@ -1,2 +1,2 @@
-birth_date death_date key genre casting mop
-1 1 3 3 3 3
+period key genre casting mop
+2 3 3 3 3
