@@ -1,0 +1,1522 @@
+{
+  "id": "FM-405_20170508_00-02",
+  "channel": "405",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:00:15:00",
+      "ScheduledDuration": "00:00:37:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Titan",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Titan",
+      "Label": "LABEL BLEU",
+      "ReferenceLabel": "LBLC6723",
+      "ISRC": "FR-1F3-16-00460",
+      "ExternalID": "3521383441718-1-1",
+      "AlbumTitle": "Sons of love",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383441718",
+      "EditorialComment": "Import iRF [[ Fournisseur=idol ]]",
+      "Compositor": {
+        "FullName": "Thomas De Pourquery",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Supersonic",
+        "Profession": "Interprète",
+        "InterventionNote": "Supersonic"
+      },
+      "ScheduledDateTime": "2017-05-08T00:00:15+02:00",
+      "composer": "http://data.doremus.org/artist/6f4c8ecf-f01d-391c-b046-81238b2f31ee"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:00:52:00",
+      "ScheduledDuration": "00:05:32:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mermaids",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mermaids",
+      "Label": "LABEL BLEU",
+      "ReferenceLabel": "LBLC6723",
+      "ISRC": "FR-1F3-16-00470",
+      "ExternalID": "3521383441718-1-2",
+      "AlbumTitle": "Sons of love",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383441718",
+      "EditorialComment": "Import iRF [[ Fournisseur=idol ]]",
+      "Compositor": {
+        "FullName": "Thomas De Pourquery",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Supersonic",
+        "Profession": "Interprète",
+        "InterventionNote": "Supersonic"
+      },
+      "ScheduledDateTime": "2017-05-08T00:00:52+02:00",
+      "composer": "http://data.doremus.org/artist/6f4c8ecf-f01d-391c-b046-81238b2f31ee"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:06:24:00",
+      "ScheduledDuration": "00:05:16:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jenseits von gut und böse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jenseits von gut und böse",
+      "Label": "LABEL BLEU",
+      "ReferenceLabel": "LBLC6721",
+      "ExternalID": "3521383434536-1-6",
+      "AlbumTitle": "Kind of red",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383434536",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Das Kapital",
+          "Profession": "Interprète",
+          "InterventionNote": "Das Kapital"
+        },
+        {
+          "FullName": "Daniel Erdmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Erdmann : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Hasse Poulsen",
+          "Profession": "Interprète",
+          "InterventionNote": "Hasse Poulsen : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Edward Perraud",
+          "Profession": "Interprète",
+          "InterventionNote": "Edward Perraud : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:06:24+02:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:11:40:00",
+      "ScheduledDuration": "00:05:30:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantaloupe island",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantaloupe island",
+      "Label": "BLUE NOTE",
+      "ReferenceLabel": "8293312",
+      "ExternalID": "0724382933120-1-1",
+      "AlbumTitle": "Cantaloupe island: Hancock on Blue Note",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724382933120",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Herbie Hancock",
+          "Profession": "Interprète",
+          "InterventionNote": "Herbie Hancock : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "George Coleman",
+          "Profession": "Interprète",
+          "InterventionNote": "George Coleman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Freddie Hubbard",
+          "Profession": "Interprète",
+          "InterventionNote": "Freddie Hubbard : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Ron Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ron Carter : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Tony Williams",
+          "Profession": "Interprète",
+          "InterventionNote": "Tony Williams : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:11:40+02:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:17:10:00",
+      "ScheduledDuration": "00:04:52:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Entrailles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Entrailles",
+      "Label": "QUARK",
+      "ExternalID": "RF00000047347-1-1",
+      "AlbumTitle": "Synaesthetic trip 02",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047347",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Edward Perraud",
+          "Profession": "Interprète",
+          "InterventionNote": "Edward Perraud"
+        },
+        {
+          "FullName": "Benoit Delbecq",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Delbecq : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Bart Maris",
+          "Profession": "Interprète",
+          "InterventionNote": "Bart Maris : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Arnault Cuisinier",
+          "Profession": "Interprète",
+          "InterventionNote": "Arnault Cuisinier : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Daniel Erdmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Erdmann : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Thomas De Pourquery",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas De Pourquery : Saxophone alto",
+          "mop": "Saxophone alto"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:17:10+02:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:22:05:00",
+      "ScheduledDuration": "00:10:17:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4/4 cm3 / horizons",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4/4 cm3 / horizons",
+      "Label": "NOCTURNE",
+      "ReferenceLabel": "NTCD 361",
+      "ExternalID": "0826596003610-1-7",
+      "AlbumTitle": "Dreams in tune",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596003610",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Andy Emler Megaoctet",
+          "Profession": "Interprète",
+          "InterventionNote": "Andy Emler Megaoctet"
+        },
+        {
+          "FullName": "Andy Emler",
+          "Profession": "Interprète",
+          "InterventionNote": "Andy Emler : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Mederic Collignon",
+          "Profession": "Interprète",
+          "InterventionNote": "Mederic Collignon : Bugle",
+          "mop": "Bugle"
+        },
+        {
+          "FullName": "Laurent Dehors",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Dehors : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Thomas De Pourquery",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas De Pourquery : Saxophone soprano",
+          "mop": "Saxophone soprano"
+        },
+        {
+          "FullName": "Francois Thuillier",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Thuillier : Tuba",
+          "mop": "Tuba"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:22:05+02:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:32:22:00",
+      "ScheduledDuration": "00:07:01:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Derrière la colline",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Derrière la colline",
+      "Label": "ONJ RECORDS",
+      "ReferenceLabel": "JF003",
+      "ExternalID": "3521383437438-1-5",
+      "AlbumTitle": "Chut ! /Rebirth",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383437438",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Fabrice Martinez",
+          "Profession": "Interprète",
+          "InterventionNote": "Fabrice Martinez : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Fred Escoffier",
+          "Profession": "Interprète",
+          "InterventionNote": "Fred Escoffier : Claviers",
+          "mop": "Claviers"
+        },
+        {
+          "FullName": "Bruno Chevillon",
+          "Profession": "Interprète",
+          "InterventionNote": "Bruno Chevillon : Basse électrique",
+          "mop": "Basse électrique"
+        },
+        {
+          "FullName": "Eric Echampard",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Echampard : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:32:22+02:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:39:26:00",
+      "ScheduledDuration": "00:06:01:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Django",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Django",
+      "Label": "QUARK RECORDS",
+      "ReferenceLabel": "QR021419/1",
+      "ExternalID": "3521383428696-1-4",
+      "AlbumTitle": "Earthly bird",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383428696",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Earthly Bird",
+          "Profession": "Interprète",
+          "InterventionNote": "Earthly Bird"
+        },
+        {
+          "FullName": "Sebastien Coste",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Coste : Saxophone soprano",
+          "mop": "Saxophone soprano"
+        },
+        {
+          "FullName": "Benat Achiary",
+          "Profession": "Interprète"
+        },
+        {
+          "FullName": "Julien Desprez",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Desprez : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Edward Perraud",
+          "Profession": "Interprète",
+          "InterventionNote": "Edward Perraud : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:39:26+02:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:45:27:00",
+      "ScheduledDuration": "00:02:16:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Descent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Descent",
+      "Label": "GAZUL RECORDS",
+      "ReferenceLabel": "GA8865",
+      "ExternalID": "3426300088659-1-7",
+      "AlbumTitle": "Pearl of swines",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3426300088659",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Pearl Of Swines",
+          "Profession": "Interprète",
+          "InterventionNote": "Pearl Of Swines"
+        },
+        {
+          "FullName": "Gilles Coronado",
+          "Profession": "Interprète",
+          "InterventionNote": "Gilles Coronado : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Sarah Murcia",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Murcia : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Franck Vaillant",
+          "Profession": "Interprète",
+          "InterventionNote": "Franck Vaillant : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Frederick Galiay",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederick Galiay : Basse",
+          "mop": "Basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:45:27+02:00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:47:43:00",
+      "ScheduledDuration": "00:05:57:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suranné",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suranné",
+      "Label": "QUARK",
+      "ExternalID": "RF00000047347-1-7",
+      "AlbumTitle": "Synaesthetic trip 02",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047347",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Edward Perraud",
+          "Profession": "Interprète",
+          "InterventionNote": "Edward Perraud"
+        },
+        {
+          "FullName": "Benoit Delbecq",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Delbecq : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Bart Maris",
+          "Profession": "Interprète",
+          "InterventionNote": "Bart Maris : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Arnault Cuisinier",
+          "Profession": "Interprète",
+          "InterventionNote": "Arnault Cuisinier : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Daniel Erdmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Erdmann : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Thomas De Pourquery",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas De Pourquery : Saxophone alto",
+          "mop": "Saxophone alto"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:47:43+02:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "00:53:40:00",
+      "ScheduledDuration": "00:07:33:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Out of the storm",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Out of the storm",
+      "Label": "VERVE",
+      "ReferenceLabel": "V6 8 663",
+      "ExternalID": "RF00000055161-1-3",
+      "AlbumTitle": "Out of the storm",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1966-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055161",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ed Thigpen",
+          "Profession": "Interprète",
+          "InterventionNote": "Ed Thigpen"
+        },
+        {
+          "FullName": "Herbie Hancock",
+          "Profession": "Interprète",
+          "InterventionNote": "Herbie Hancock"
+        },
+        {
+          "FullName": "Kenny Burrell",
+          "Profession": "Interprète",
+          "InterventionNote": "Kenny Burrell"
+        },
+        {
+          "FullName": "Ron Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ron Carter"
+        },
+        {
+          "FullName": "Clark Terry",
+          "Profession": "Interprète",
+          "InterventionNote": "Clark Terry"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T00:53:40+02:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:01:25:00",
+      "ScheduledDuration": "00:06:42:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From planet to planet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From planet to planet",
+      "Label": "LABEL BLEU",
+      "ReferenceLabel": "LBLC6723",
+      "ISRC": "FR-1F3-16-00490",
+      "ExternalID": "3521383441718-1-4",
+      "AlbumTitle": "Sons of love",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383441718",
+      "EditorialComment": "Import iRF [[ Fournisseur=idol ]]",
+      "Compositor": {
+        "FullName": "Thomas De Pourquery",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Supersonic",
+        "Profession": "Interprète",
+        "InterventionNote": "Supersonic"
+      },
+      "ScheduledDateTime": "2017-05-08T01:01:25+02:00",
+      "composer": "http://data.doremus.org/artist/6f4c8ecf-f01d-391c-b046-81238b2f31ee"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:08:07:00",
+      "ScheduledDuration": "00:12:03:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love in outer space",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love in outer space",
+      "Label": "ZENSOR",
+      "ReferenceLabel": "ZS 136",
+      "ExternalID": "0718750583628-1-8",
+      "AlbumTitle": "Somewhere else",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0718750583628",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sun Ra",
+          "Profession": "Interprète",
+          "InterventionNote": "Sun Ra : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Billy Higgins",
+          "Profession": "Interprète",
+          "InterventionNote": "Billy Higgins : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Buster Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Buster Smith : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "John Ore",
+          "Profession": "Interprète",
+          "InterventionNote": "John Ore : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Julian Priester",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Priester : Trombone",
+          "mop": "Trombone"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T01:08:07+02:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:20:10:00",
+      "ScheduledDuration": "00:05:03:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Knuckle walking",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Knuckle walking",
+      "Label": "QUARK",
+      "ReferenceLabel": "QUARKSCD02",
+      "ExternalID": "0884502250954-1-5",
+      "AlbumTitle": "Solo/Préhistoire(s).",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0884502250954",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Edward Perraud",
+        "Profession": "Interprète",
+        "InterventionNote": "Edward Perraud : Batterie",
+        "mop": "Batterie"
+      },
+      "ScheduledDateTime": "2017-05-08T01:20:10+02:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:25:16:00",
+      "ScheduledDuration": "00:03:58:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Valentina Tereskova",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Valentina Tereskova",
+      "Label": "DISCOGRAPH",
+      "ExternalID": "3700666182481-1-2",
+      "AlbumTitle": "Woman's land",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700666182481",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Stefano Di Battista",
+        "Profession": "Interprète",
+        "InterventionNote": "Stefano Di Battista"
+      },
+      "ScheduledDateTime": "2017-05-08T01:25:16+02:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:29:14:00",
+      "ScheduledDuration": "00:26:17:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Seven by seven",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Seven by seven",
+      "Label": "CALIBRE",
+      "ReferenceLabel": "ESP CD 1003",
+      "ExternalID": "RF00000012100-1-1",
+      "AlbumTitle": "Pharoah's first",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000012100",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Pharoah Sanders",
+          "Profession": "Interprète",
+          "InterventionNote": "Pharoah Sanders : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Stan Foster",
+          "Profession": "Interprète",
+          "InterventionNote": "Stan Foster : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Jane Getz",
+          "Profession": "Interprète",
+          "InterventionNote": "Jane Getz : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "William Bennett",
+          "Profession": "Interprète",
+          "InterventionNote": "William Bennett : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Marvin Pattillo",
+          "Profession": "Interprète",
+          "InterventionNote": "Marvin Pattillo : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T01:29:14+02:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:55:43:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Seven",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Seven",
+      "Label": "NAIVE",
+      "ReferenceLabel": "Y226210",
+      "ExternalID": "3298492262106-1-6",
+      "AlbumTitle": "Solo",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298492262106",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Baptiste Trotignon",
+        "Profession": "Interprète",
+        "InterventionNote": "Baptiste Trotignon : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-05-08T01:55:43+02:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "01:59:53:00",
+      "ScheduledDuration": "00:07:13:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stars fell on alabama",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stars fell on alabama",
+      "Label": "LABEL BLEU",
+      "ReferenceLabel": "LBLC 6613",
+      "ExternalID": "0794881414222-1-5",
+      "AlbumTitle": "Volare",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881414222",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Di Battista Stefano & Boltro Flavio Quintet",
+          "Profession": "Interprète",
+          "InterventionNote": "Di Battista Stefano & Boltro Flavio Quintet"
+        },
+        {
+          "FullName": "Stefano Di Battista",
+          "Profession": "Interprète",
+          "InterventionNote": "Stefano Di Battista : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Flavio Boltro",
+          "Profession": "Interprète",
+          "InterventionNote": "Flavio Boltro : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T01:59:53+02:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:07:09:00",
+      "ScheduledDuration": "00:09:50:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mahakali",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mahakali",
+      "Label": "WOUNDED BIRD RECORDS",
+      "ReferenceLabel": "WOU 8217",
+      "ExternalID": "0664140821729-1-1",
+      "AlbumTitle": "Hear & now",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0664140821729",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Michael Brecker",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Brecker : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Stan Samole",
+          "Profession": "Interprète",
+          "InterventionNote": "Stan Samole : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T02:07:09+02:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:16:59:00",
+      "ScheduledDuration": "00:05:23:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I have a dream",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I have a dream",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "013990-2",
+      "ExternalID": "0044001399022-1-7",
+      "AlbumTitle": "A personal landscape",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044001399022",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Laurent Cugny / Lumiere",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Cugny / Lumiere"
+        },
+        {
+          "FullName": "Laurent Cugny",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Cugny : Claviers",
+          "mop": "Claviers"
+        },
+        {
+          "FullName": "Denis Barbier",
+          "Profession": "Interprète",
+          "InterventionNote": "Denis Barbier : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Pierre-Olivier Govin",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre-Olivier Govin : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Thomas De Pourquery",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas De Pourquery : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Claude Egea",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Egea : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T02:16:59+02:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:22:22:00",
+      "ScheduledDuration": "00:06:15:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Revolutions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Revolutions",
+      "Label": "LABEL BLEU",
+      "ReferenceLabel": "LBLC6723",
+      "ISRC": "FR-1F3-16-00560",
+      "ExternalID": "3521383441718-1-11",
+      "AlbumTitle": "Sons of love",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383441718",
+      "EditorialComment": "Import iRF [[ Fournisseur=idol ]]",
+      "Compositor": {
+        "FullName": "Thomas De Pourquery",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Supersonic",
+        "Profession": "Interprète",
+        "InterventionNote": "Supersonic"
+      },
+      "ScheduledDateTime": "2017-05-08T02:22:22+02:00",
+      "composer": "http://data.doremus.org/artist/6f4c8ecf-f01d-391c-b046-81238b2f31ee"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:28:52:00",
+      "ScheduledDuration": "00:06:42:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Seventh arrow",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Seventh arrow",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2364",
+      "ExternalID": "0602537729562-1-2",
+      "AlbumTitle": "Music of Weather Report",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602537729562",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Miroslav Vitous",
+          "Profession": "Interprète",
+          "InterventionNote": "Miroslav Vitous"
+        },
+        {
+          "FullName": "Gary Campbell",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Campbell"
+        },
+        {
+          "FullName": "Roberto Bonisolo",
+          "Profession": "Interprète",
+          "InterventionNote": "Roberto Bonisolo"
+        },
+        {
+          "FullName": "Aydin Esen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aydin Esen : Claviers",
+          "mop": "Claviers"
+        },
+        {
+          "FullName": "Gerald Cleaver",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerald Cleaver : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Nasheet Waits",
+          "Profession": "Interprète",
+          "InterventionNote": "Nasheet Waits : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T02:28:52+02:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:35:34:00",
+      "ScheduledDuration": "00:03:51:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love in outer space",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love in outer space",
+      "Label": "STRUT",
+      "ExternalID": "RF00000057255-3-9",
+      "AlbumTitle": "Singles : The definitive 45s collection 1952-1991",
+      "Rank": 9,
+      "NumVolume": 3,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000057255",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Sun Ra And His Arkestra",
+        "Profession": "Interprète",
+        "InterventionNote": "Sun Ra And His Arkestra"
+      },
+      "ScheduledDateTime": "2017-05-08T02:35:34+02:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:39:28:00",
+      "ScheduledDuration": "00:06:59:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Watusi Egyptian march",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Watusi Egyptian march",
+      "Label": "QUARK RECORDS",
+      "ReferenceLabel": "QR0201418",
+      "ExternalID": "3521383427538-1-7",
+      "AlbumTitle": "Play Sun Ra",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383427538",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Thomas De Pourquery & Supersonic",
+        "Profession": "Interprète",
+        "InterventionNote": "Thomas De Pourquery & Supersonic"
+      },
+      "ScheduledDateTime": "2017-05-08T02:39:28+02:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:46:27:00",
+      "ScheduledDuration": "00:07:29:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hang up your hang ups",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hang up your hang ups",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "88697724082-7",
+      "ExternalID": "RF00000038694-1-1",
+      "AlbumTitle": "The complete Columbia album collection 1972 - 1988 / Man-Child / CD 7",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000038694",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Herbie Hancock",
+          "Profession": "Interprète",
+          "InterventionNote": "Herbie Hancock : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Wayne Shorter",
+          "Profession": "Interprète",
+          "InterventionNote": "Wayne Shorter : Saxophone soprano",
+          "mop": "Saxophone soprano"
+        },
+        {
+          "FullName": "Bennie Maupin",
+          "Profession": "Interprète",
+          "InterventionNote": "Bennie Maupin : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Stevie Wonder",
+          "Profession": "Interprète",
+          "InterventionNote": "Stevie Wonder : Harmonica",
+          "mop": "Harmonica"
+        },
+        {
+          "FullName": "Blackbird Mcnight",
+          "Profession": "Interprète",
+          "InterventionNote": "Blackbird Mcnight : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Mike Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "Mike Clark : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T02:46:27+02:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "02:53:56:00",
+      "ScheduledDuration": "00:04:08:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Enlightenment",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Enlightenment",
+      "Label": "QUARK RECORDS",
+      "ReferenceLabel": "QR0201418",
+      "ExternalID": "3521383427538-1-6",
+      "AlbumTitle": "Play Sun Ra",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3521383427538",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Thomas De Pourquery & Supersonic",
+        "Profession": "Interprète",
+        "InterventionNote": "Thomas De Pourquery & Supersonic"
+      },
+      "ScheduledDateTime": "2017-05-08T02:53:56+02:00"
+    }
+  ],
+  "total": 26,
+  "matched": 0
+}

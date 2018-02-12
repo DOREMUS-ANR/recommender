@@ -1,0 +1,3087 @@
+{
+  "id": "FM-407_20170508_00-23",
+  "channel": "407",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:00:04:00",
+      "ScheduledDuration": "00:04:35:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Julius Caesar (film)/Jules César (film)/Julius Caesar : ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Julius Caesar (film)/Jules César (film)/Julius Caesar : ouverture",
+      "Label": "RCA",
+      "ReferenceLabel": "RL 42 005",
+      "ExternalID": "RF00000020034-1-11",
+      "AlbumTitle": "The spectacular world of classic film scores",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1977-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000020034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Miklos Rozsa",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "National Philharmonic Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Charles Gerhardt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:00:04+02:00",
+      "composer": "http://data.doremus.org/artist/cd876b1f-63b7-379f-b5e9-f64bbd8dbde9"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:04:39:00",
+      "ScheduledDuration": "00:07:40:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "250 000 (the bello gallico)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "250 000 (the bello gallico)",
+      "Label": "WARNER STRATEGIC MARKETING",
+      "ReferenceLabel": "0466-28472-3",
+      "ExternalID": "5050466284723-1-15",
+      "AlbumTitle": "Bof / Jules Cesar (film tv)",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5050466284723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carlo Siliotto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Carlo Siliotto",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:04:39+02:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:12:19:00",
+      "ScheduledDuration": "00:01:38:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The invasion",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The invasion",
+      "Label": "LONDON",
+      "ReferenceLabel": "828719-2",
+      "ExternalID": "0042282871923-1-1",
+      "AlbumTitle": "BOF / Richard III",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042282871923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Trevor Jones",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gavin Wright",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:12:19+02:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:13:57:00",
+      "ScheduledDuration": "00:03:05:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Clarence's dream",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Clarence's dream",
+      "Label": "LONDON",
+      "ReferenceLabel": "828719-2",
+      "ExternalID": "0042282871923-1-6",
+      "AlbumTitle": "BOF / Richard III",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042282871923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Trevor Jones",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gavin Wright",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:13:57+02:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:17:02:00",
+      "ScheduledDuration": "00:02:47:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The cauldron",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The cauldron",
+      "Label": "PATHE MARCONI",
+      "ReferenceLabel": "2C 062 04 966",
+      "ExternalID": "RF00000015218-1-14",
+      "AlbumTitle": "Musique de Macbeth (film)",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000015218",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Third Ear Band",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Third Ear Band",
+          "Profession": "Interprète",
+          "InterventionNote": "Third Ear Band"
+        },
+        {
+          "FullName": "Paul Minns",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Minns : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Glen Sweeney",
+          "Profession": "Interprète",
+          "InterventionNote": "Glen Sweeney : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Paul Buckmaster",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Buckmaster : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Simon House",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon House : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Denim Bridges",
+          "Profession": "Interprète",
+          "InterventionNote": "Denim Bridges : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T03:17:02+02:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:19:49:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dagger and death",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dagger and death",
+      "Label": "PATHE MARCONI",
+      "ReferenceLabel": "2C 062 04 966",
+      "ExternalID": "RF00000015218-1-6",
+      "AlbumTitle": "Musique de Macbeth (film)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000015218",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Third Ear Band",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Third Ear Band",
+          "Profession": "Interprète",
+          "InterventionNote": "Third Ear Band"
+        },
+        {
+          "FullName": "Paul Minns",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Minns : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Glen Sweeney",
+          "Profession": "Interprète",
+          "InterventionNote": "Glen Sweeney : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Paul Buckmaster",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Buckmaster : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Simon House",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon House : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Denim Bridges",
+          "Profession": "Interprète",
+          "InterventionNote": "Denim Bridges : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T03:19:49+02:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:22:37:00",
+      "ScheduledDuration": "00:05:17:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prologue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prologue",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 60086",
+      "ExternalID": "5099706008620-1-1",
+      "AlbumTitle": "BOF / Symphony for Richard III",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706008620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academie Musicale Italienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:22:37+02:00",
+      "composer": "http://data.doremus.org/artist/3cec2023-12e2-3046-905b-74e97ab94e70"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:27:54:00",
+      "ScheduledDuration": "00:05:02:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "After the battle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "After the battle",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 60086",
+      "ExternalID": "5099706008620-1-2",
+      "AlbumTitle": "BOF / Symphony for Richard III",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706008620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academie Musicale Italienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:27:54+02:00",
+      "composer": "http://data.doremus.org/artist/3cec2023-12e2-3046-905b-74e97ab94e70"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:32:59:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "With wand' ring steps",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "With wand' ring steps",
+      "Label": "DECCA",
+      "ReferenceLabel": "B0003804-02",
+      "ExternalID": "0028947563679-1-1",
+      "AlbumTitle": "BOF/The merchant of venice/Le marchand de venise (film)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947563679",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jocelyn Pook",
+          "Profession": "Interprète",
+          "InterventionNote": "Jocelyn Pook"
+        },
+        {
+          "FullName": "Andreas Sholl",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Sholl"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T03:32:59+02:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:35:09:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Synagogue cantors",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Synagogue cantors",
+      "Label": "DECCA",
+      "ReferenceLabel": "B0003804-02",
+      "ExternalID": "0028947563679-1-5",
+      "AlbumTitle": "BOF/The merchant of venice/Le marchand de venise (film)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947563679",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Jocelyn Pook",
+        "Profession": "Interprète",
+        "InterventionNote": "Jocelyn Pook"
+      },
+      "ScheduledDateTime": "2017-05-08T03:35:09+02:00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:36:43:00",
+      "ScheduledDuration": "00:01:51:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Portia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Portia",
+      "Label": "DECCA",
+      "ReferenceLabel": "B0003804-02",
+      "ExternalID": "0028947563679-1-6",
+      "AlbumTitle": "BOF/The merchant of venice/Le marchand de venise (film)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947563679",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Jocelyn Pook",
+        "Profession": "Interprète",
+        "InterventionNote": "Jocelyn Pook"
+      },
+      "ScheduledDateTime": "2017-05-08T03:36:43+02:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:38:34:00",
+      "ScheduledDuration": "00:03:35:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Starve with feeding",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Starve with feeding",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "VSD-7141",
+      "ExternalID": "4005939714123-1-13",
+      "AlbumTitle": "BOF / Coriolan",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4005939714123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ilan Eshkeri",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T03:38:34+02:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:42:09:00",
+      "ScheduledDuration": "00:01:29:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sarabanda",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sarabanda",
+      "Label": "SCREEN TRAX",
+      "ReferenceLabel": "CDST 308",
+      "ExternalID": "8018163003082-1-6",
+      "AlbumTitle": "Bof / La megere apprivoisee / Zeffirelli",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8018163003082",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Nino Rota",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Nino Rota : Auteur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Carlo Savina",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:42:09+02:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:43:38:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dolce italia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dolce italia",
+      "Label": "SCREEN TRAX",
+      "ReferenceLabel": "CDST 308",
+      "ExternalID": "8018163003082-1-1",
+      "AlbumTitle": "Bof / La megere apprivoisee / Zeffirelli",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8018163003082",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Nino Rota",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Nino Rota : Auteur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Carlo Savina",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:43:38+02:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:45:42:00",
+      "ScheduledDuration": "00:01:45:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I'd rather charleston with you",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I'd rather charleston with you",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 89004",
+      "ExternalID": "5099708900427-1-2",
+      "AlbumTitle": "Love's Labour's Lost",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099708900427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Patrick Doyle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Divers",
+        "Profession": "Interprète",
+        "InterventionNote": "Divers"
+      },
+      "ScheduledDateTime": "2017-05-08T03:45:42+02:00",
+      "composer": "http://data.doremus.org/artist/89a8049e-9907-361d-a071-30bb279aefd9"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:47:27:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Arrival of the princess",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Arrival of the princess",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 89004",
+      "ExternalID": "5099708900427-1-3",
+      "AlbumTitle": "Love's Labour's Lost",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099708900427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Patrick Doyle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Divers",
+        "Profession": "Interprète",
+        "InterventionNote": "Divers"
+      },
+      "ScheduledDateTime": "2017-05-08T03:47:27+02:00",
+      "composer": "http://data.doremus.org/artist/89a8049e-9907-361d-a071-30bb279aefd9"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:50:41:00",
+      "ScheduledDuration": "00:03:45:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Main titles (Love theme)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Main titles (Love theme)",
+      "Label": "POLYDOR",
+      "ReferenceLabel": "25 MM 9045",
+      "ExternalID": "RF00000016879-1-1",
+      "AlbumTitle": "Antoine et cléopâtre (film)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016879",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Scott",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De L'Orchestre Philharmonique De Londres",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "John Scott",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:50:41+02:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:54:26:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vive Henri IV, Vive L'Amour! - Vive Henri IV",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vive Henri IV, Vive L'Amour! - Vive Henri IV",
+      "Label": "FGL",
+      "ReferenceLabel": "PL 9307",
+      "ExternalID": "0338300642301-1-20",
+      "AlbumTitle": "Les plus belles musiques de films de rene cloerec",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0338300642301",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Rene Cloerec",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Rene Cloerec",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:54:26+02:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:56:26:00",
+      "ScheduledDuration": "00:01:04:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hamlet op 116 : Musique du palais",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hamlet op 116 : Musique du palais",
+      "Label": "DECA",
+      "ReferenceLabel": "460792-2",
+      "ExternalID": "0028946079225-1-16",
+      "AlbumTitle": "Dimitri Chostakovitch : L'album cinema",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946079225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Riccardo Chailly",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:56:26+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "03:57:30:00",
+      "ScheduledDuration": "00:02:58:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hamlet op 116 : Bal au chateau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hamlet op 116 : Bal au chateau",
+      "Label": "DECA",
+      "ReferenceLabel": "460792-2",
+      "ExternalID": "0028946079225-1-17",
+      "AlbumTitle": "Dimitri Chostakovitch : L'album cinema",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946079225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Riccardo Chailly",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T03:57:30+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:00:31:00",
+      "ScheduledDuration": "00:02:30:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Alchemical lightshow",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Alchemical lightshow",
+      "Label": "ZARATHUSTRA MUSIC",
+      "ReferenceLabel": "ZAR-17040-2",
+      "ExternalID": "0016581704022-1-3",
+      "AlbumTitle": "B.O.F./ The Tempest",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0016581704022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Elliot Goldenthal",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Elliot Goldenthal",
+          "Profession": "Interprète",
+          "InterventionNote": "Elliot Goldenthal : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Mark Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Stewart : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "T-Bone Wolk",
+          "Profession": "Interprète",
+          "InterventionNote": "T-Bone Wolk : Guitare basse",
+          "mop": "Guitare basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T04:00:31+02:00",
+      "composer": "http://data.doremus.org/artist/b4d65c99-8773-33d6-b332-bc961b2b1058"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:03:01:00",
+      "ScheduledDuration": "00:02:50:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Brave new world",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Brave new world",
+      "Label": "ZARATHUSTRA MUSIC",
+      "ReferenceLabel": "ZAR-17040-2",
+      "ExternalID": "0016581704022-1-6",
+      "AlbumTitle": "B.O.F./ The Tempest",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0016581704022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Elliot Goldenthal",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Elliot Goldenthal",
+          "Profession": "Interprète",
+          "InterventionNote": "Elliot Goldenthal : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Mark Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Stewart : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "T-Bone Wolk",
+          "Profession": "Interprète",
+          "InterventionNote": "T-Bone Wolk : Guitare basse",
+          "mop": "Guitare basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T04:03:01+02:00",
+      "composer": "http://data.doremus.org/artist/b4d65c99-8773-33d6-b332-bc961b2b1058"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:05:51:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Where the bee sucks",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Where the bee sucks",
+      "Label": "ZARATHUSTRA MUSIC",
+      "ReferenceLabel": "ZAR-17040-2",
+      "ExternalID": "0016581704022-1-9",
+      "AlbumTitle": "B.O.F./ The Tempest",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0016581704022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Elliot Goldenthal",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Elliot Goldenthal",
+          "Profession": "Interprète",
+          "InterventionNote": "Elliot Goldenthal : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Mark Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Stewart : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "T-Bone Wolk",
+          "Profession": "Interprète",
+          "InterventionNote": "T-Bone Wolk : Guitare basse",
+          "mop": "Guitare basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T04:05:51+02:00",
+      "composer": "http://data.doremus.org/artist/b4d65c99-8773-33d6-b332-bc961b2b1058"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:07:47:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love's labours lost / The unraveling",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love's labours lost / The unraveling",
+      "Label": "INTRADA RECORDS",
+      "ReferenceLabel": "VOLUME 160",
+      "ExternalID": "RF00000032190-1-19",
+      "AlbumTitle": "BOF / La lettre du Kremlin (The Kremlin letter)",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032190",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Drasnin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Robert Drasnin",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:07:47+02:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:09:42:00",
+      "ScheduledDuration": "00:13:00:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Golgotha (suite) - la fête de pâques",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Golgotha (suite) - la fête de pâques",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.557607",
+      "ExternalID": "0747313260720-1-7",
+      "AlbumTitle": "Macbeth, golgotha, don quichotte",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313260720",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jacques Ibert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T04:09:42+02:00",
+      "composer": "http://data.doremus.org/artist/fe285a82-eb65-35f6-9dfb-5fb426610091"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:22:42:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Maléfices : Après la mort",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Maléfices : Après la mort",
+      "Label": "CACOPHONIC",
+      "ReferenceLabel": "6CACKLP",
+      "ExternalID": "5060099505072-1-3",
+      "AlbumTitle": "BOF / Maléfices",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1962-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060099505072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:22:42+02:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:25:08:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Maléfices : Générique : Thème de Myriam",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Maléfices : Générique : Thème de Myriam",
+      "Label": "CACOPHONIC",
+      "ReferenceLabel": "6CACKLP",
+      "ExternalID": "5060099505072-1-1",
+      "AlbumTitle": "BOF / Maléfices",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1962-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060099505072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:25:08+02:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:27:32:00",
+      "ScheduledDuration": "00:01:53:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Maléfices : Le mariage de la feuille et du cliché op 357",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Maléfices : Le mariage de la feuille et du cliché op 357",
+      "Label": "CACOPHONIC",
+      "ReferenceLabel": "6CACKLP",
+      "ExternalID": "5060099505072-1-7",
+      "AlbumTitle": "BOF / Maléfices",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1962-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060099505072",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Henry Pierre",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Darius Milhaud",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Non Identifie",
+        "Profession": "Interprète",
+        "InterventionNote": "Non Identifie"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:27:32+02:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:29:25:00",
+      "ScheduledDuration": "00:03:05:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Touchez pas au grisbi : Grisbi blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Touchez pas au grisbi : Grisbi blues",
+      "Label": "GITANES JAZZ PRODUCTIONS",
+      "ReferenceLabel": "016506-2",
+      "ExternalID": "0044001650628-1-2",
+      "AlbumTitle": "Jazz in Paris / Vol.4",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044001650628",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Wiener",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jean Wetzel",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Wetzel : Harmonica",
+          "mop": "Harmonica"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Jean Wiener",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Wiener : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Henri Crolla",
+          "Profession": "Interprète",
+          "InterventionNote": "Henri Crolla : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Non Identifie",
+          "Profession": "Interprète",
+          "InterventionNote": "Non Identifie"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T04:29:25+02:00",
+      "composer": "http://data.doremus.org/artist/60eba381-f3fc-38e4-841b-de8f090d1eea",
+      "best": "http://data.doremus.org/expression/e43e8acc-0ffe-3ccc-a403-c327f1f41bfb",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:32:30:00",
+      "ScheduledDuration": "00:02:34:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gervaise (film) : Chanson de Gervaise (valse)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gervaise (film) : Chanson de Gervaise (valse)",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "82 039",
+      "ExternalID": "RF00000022272-1-8",
+      "AlbumTitle": "Musique de film / Cinémélodies",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000022272",
+      "Compositor": {
+        "FullName": "Georges Auric",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Barclay Eddie & Son Grand Orchestre De Danse",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Eddie Barclay",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:32:30+02:00",
+      "composer": "http://data.doremus.org/artist/ef599a39-dd9f-3824-9a28-8c721a847f84"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:35:04:00",
+      "ScheduledDuration": "00:02:22:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Regain",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Regain",
+      "Label": "MILAN",
+      "ReferenceLabel": "5372422",
+      "ExternalID": "RF00000056380-2-9",
+      "AlbumTitle": "BOF / Voyage à travers le cinéma français / 40 ans de musique de film",
+      "Rank": 9,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056380",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arthur Honegger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Jeune Orchestre Symphonique De Douai",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Henri Vachey",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:35:04+02:00",
+      "composer": "http://data.doremus.org/artist/e3f0fc72-7967-39a4-888b-823b46576174"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:37:30:00",
+      "ScheduledDuration": "00:04:06:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The taming of the shrew (La bisbetica domata)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The taming of the shrew (La bisbetica domata)",
+      "Label": "CAM",
+      "ReferenceLabel": "822747-2",
+      "ExternalID": "RF00000004870-1-2",
+      "AlbumTitle": "B.O.F Nino Rota movies",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004870",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Nino Rota",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Nino Rota : Auteur"
+      },
+      "Orchestra": {
+        "EntityName": "Savina",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:37:30+02:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:41:36:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le passe et les pensees (1973) : Suite de concert pour choeur et orchestre / Pour la serie televisee en 12 episodes : Madonnen",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le passe et les pensees (1973) : Suite de concert pour choeur et orchestre / Pour la serie televisee en 12 episodes : Madonnen",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 999796-2",
+      "ExternalID": "0761203979622-1-2",
+      "AlbumTitle": "Alfred Schnittke : Musiques de film",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203979622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Alexander Herzen",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Alexander Herzen : Auteur"
+      },
+      "Interpreter": {
+        "FullName": "Choeur De La Radio De Berlin",
+        "Profession": "Interprète",
+        "InterventionNote": "Choeur De La Radio De Berlin"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Strobel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:41:36+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:43:16:00",
+      "ScheduledDuration": "00:01:01:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le passe et les pensees (1973) : Suite de concert pour choeur et orchestre / Pour la serie televisee en 12 episodes : Menuett",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le passe et les pensees (1973) : Suite de concert pour choeur et orchestre / Pour la serie televisee en 12 episodes : Menuett",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 999796-2",
+      "ExternalID": "0761203979622-1-4",
+      "AlbumTitle": "Alfred Schnittke : Musiques de film",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203979622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Alexander Herzen",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Alexander Herzen : Auteur"
+      },
+      "Interpreter": {
+        "FullName": "Choeur De La Radio De Berlin",
+        "Profession": "Interprète",
+        "InterventionNote": "Choeur De La Radio De Berlin"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Strobel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:43:16+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:44:17:00",
+      "ScheduledDuration": "00:02:13:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The adventures of a dentist : Der park: tempo di valse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The adventures of a dentist : Der park: tempo di valse",
+      "Label": "CAPRICCIO",
+      "ReferenceLabel": "50002",
+      "ExternalID": "0845221050027-1-9",
+      "AlbumTitle": "Schnittke / Sportfilm music vol 4",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0845221050027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Rundfunk Sinfoniorchester Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Strobel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:44:17+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:46:30:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dekalog IX - Thou shalt not covet thy neighbor's wife (Part 13)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dekalog IX - Thou shalt not covet thy neighbor's wife (Part 13)",
+      "Label": "SILVA CLASSICS",
+      "ReferenceLabel": "SILKD 6029",
+      "ExternalID": "0738572602925-1-25",
+      "AlbumTitle": "Bof / Dekalog - Le Décalogue",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0738572602925",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Zbigniew Preisner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Konrad Mastylo",
+        "Profession": "Interprète",
+        "InterventionNote": "Konrad Mastylo : Piano",
+        "mop": "Piano"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Zbigniew Preisner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:46:30+02:00",
+      "composer": "http://data.doremus.org/artist/69980fac-8a58-3d0f-8f59-255f5961aa94"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:48:41:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nuit",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nuit",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "522655-2",
+      "ExternalID": "0731452265524-1-13",
+      "AlbumTitle": "Bof / La reine Margot",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731452265524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Goran Bregovic",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T04:48:41+02:00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:50:56:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dekalog I - I am the lord thy god (Part 5)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dekalog I - I am the lord thy god (Part 5)",
+      "Label": "SILVA CLASSICS",
+      "ReferenceLabel": "SILKD 6029",
+      "ExternalID": "0738572602925-1-2",
+      "AlbumTitle": "Bof / Dekalog - Le Décalogue",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0738572602925",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Zbigniew Preisner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Konrad Mastylo",
+        "Profession": "Interprète",
+        "InterventionNote": "Konrad Mastylo : Piano",
+        "mop": "Piano"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Zbigniew Preisner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:50:56+02:00",
+      "composer": "http://data.doremus.org/artist/69980fac-8a58-3d0f-8f59-255f5961aa94"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:54:39:00",
+      "ScheduledDuration": "00:05:13:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In the deathcar",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In the deathcar",
+      "Label": "MERCURY",
+      "ReferenceLabel": "512112-2",
+      "ExternalID": "0731451211225-1-1",
+      "AlbumTitle": "Bof / Arizona dream",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731451211225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Goran Bregovic",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T04:54:39+02:00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "04:59:52:00",
+      "ScheduledDuration": "00:02:25:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La grande blonde (Simion Stanciu ''Syrinx'')",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La grande blonde (Simion Stanciu ''Syrinx'')",
+      "Label": "POMME MUSIC",
+      "ReferenceLabel": "952 732",
+      "ExternalID": "3436949527327-1-18",
+      "AlbumTitle": "Bof / Le grand blond avec une chaussure noire & le retour du grand blond",
+      "Rank": 18,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3436949527327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vladimir Cosma",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gheorghe Zamfir",
+          "Profession": "Interprète",
+          "InterventionNote": "Gheorghe Zamfir : Flûte de pan",
+          "mop": "Flûte de pan"
+        },
+        {
+          "FullName": "Simion Stanciu",
+          "Profession": "Interprète",
+          "InterventionNote": "Simion Stanciu : Flûte de pan",
+          "mop": "Flûte de pan"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T04:59:52+02:00",
+      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:02:17:00",
+      "ScheduledDuration": "00:03:09:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bubamara (Sunflower)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bubamara (Sunflower)",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "559350-2",
+      "ExternalID": "0731455935028-1-18",
+      "AlbumTitle": "Bof/Chat noir chat blanc",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731455935028",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Black Cat",
+        "Profession": "Interprète",
+        "InterventionNote": "Black Cat"
+      },
+      "ScheduledDateTime": "2017-05-08T05:02:17+02:00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:05:29:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les tontons flingeurs:Tamouré",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les tontons flingeurs:Tamouré",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "017 182-2",
+      "ExternalID": "0044001718229-1-2",
+      "AlbumTitle": "Bandes originales des films de Georges Lautner",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1963-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044001718229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michel Magne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Michel Magne",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Magne"
+        },
+        {
+          "FullName": "Bernard Gerard",
+          "Profession": "Interprète",
+          "InterventionNote": "Bernard Gerard"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-08T05:05:29+02:00",
+      "composer": "http://data.doremus.org/artist/8f760a28-d0d8-3c9f-bc15-995df141cc30"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:07:33:00",
+      "ScheduledDuration": "00:01:41:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le roi et l'oiseau : Berceuse paternelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le roi et l'oiseau : Berceuse paternelle",
+      "Label": "LES FILMS PAUL GRIMAULT",
+      "ReferenceLabel": "LFPG - 3025412",
+      "ExternalID": "3383001254120-1-7",
+      "AlbumTitle": "Bof / Le roi et l'oiseau",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1979-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383001254120",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kilar Wojciech",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T05:07:33+02:00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:09:14:00",
+      "ScheduledDuration": "00:05:50:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le roi et l'oiseau : La bergere et le ramoneur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le roi et l'oiseau : La bergere et le ramoneur",
+      "Label": "LES FILMS PAUL GRIMAULT",
+      "ReferenceLabel": "LFPG - 3025412",
+      "ExternalID": "3383001254120-1-12",
+      "AlbumTitle": "Bof / Le roi et l'oiseau",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1979-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383001254120",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kilar Wojciech",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T05:09:14+02:00"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:15:04:00",
+      "ScheduledDuration": "00:04:11:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pskov - Procession of the fallen and the judgement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pskov - Procession of the fallen and the judgement",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 61926 2",
+      "ExternalID": "0090266192625-1-16",
+      "AlbumTitle": "Bof / Alexandre nevsky",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266192625",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Prokofiev",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Evgenia Gorohovskaya",
+        "Profession": "Interprète",
+        "InterventionNote": "Evgenia Gorohovskaya : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Saint Petersbourg",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "Choeur De La Radio De Saint-Petersbourg",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Choeur De Chambre De Saint Petersbourg",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Chorus Capella Lik De Saint-Petersbourg",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Yuri Temirkanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:15:04+02:00",
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:19:15:00",
+      "ScheduledDuration": "00:00:56:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bof / night mail - percussion sequence pour narrateur et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bof / night mail - percussion sequence pour narrateur et ensemble instrumental",
+      "Label": "NMC RECORDINGS",
+      "ReferenceLabel": "NMC D112",
+      "ExternalID": "5023363011228-1-2",
+      "AlbumTitle": "BOF / Britten on Film",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5023363011228",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Benjamin Britten",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Groupe De Musique Contemporaine De Birmingham",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Martyn Brabbins",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:19:15+02:00",
+      "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:20:11:00",
+      "ScheduledDuration": "00:02:47:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love from a stranger - Love music",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love from a stranger - Love music",
+      "Label": "NMC RECORDINGS",
+      "ReferenceLabel": "NMC D073",
+      "ExternalID": "5023363007320-1-4",
+      "AlbumTitle": "Film/ 4 mus. De films britanniques / Britten.../ Love from a stranger",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5023363007320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Benjamin Britten",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Steen Jac Van",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:20:11+02:00",
+      "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123",
+      "best": "http://data.doremus.org/expression/13f6a8bf-7061-3cde-8f58-0b25670267a1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:22:58:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love remembered",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love remembered",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "CK 53165",
+      "ExternalID": "0074645316529-1-7",
+      "AlbumTitle": "Dracula (film)",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0074645316529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wojcieh Kilar",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "FullName": "Anton Coppola",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:22:58+02:00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:27:08:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A wartime sketchbook : Lovers",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A wartime sketchbook : Lovers",
+      "Label": "CHOS",
+      "ReferenceLabel": "CHAN 8870",
+      "ExternalID": "0095115887028-1-8",
+      "AlbumTitle": "William Walton - musique de film - volume 2",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115887028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "William Walton",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:27:08+02:00",
+      "composer": "http://data.doremus.org/artist/8e94bb94-19ee-3247-9795-b956f2244b9e"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:30:12:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Un an comme une vie op 120a : Le matin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Un an comme une vie op 120a : Le matin",
+      "Label": "DOXY RECORDS",
+      "ReferenceLabel": "DOC129",
+      "ExternalID": "0889397381295-1-7",
+      "AlbumTitle": "BOF / Dimitri Chostakovitch : Musique pour films soviétiques",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889397381295",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Television Russe",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Maxime Chostakovitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:30:12+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:33:23:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le passe et les pensees (1973) : Suite de concert pour choeur et orchestre / Pour la serie televisee en 12 episodes : Petersburg",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le passe et les pensees (1973) : Suite de concert pour choeur et orchestre / Pour la serie televisee en 12 episodes : Petersburg",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 999796-2",
+      "ExternalID": "0761203979622-1-1",
+      "AlbumTitle": "Alfred Schnittke : Musiques de film",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203979622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Alexander Herzen",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Alexander Herzen : Auteur"
+      },
+      "Interpreter": {
+        "FullName": "Choeur De La Radio De Berlin",
+        "Profession": "Interprète",
+        "InterventionNote": "Choeur De La Radio De Berlin"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Strobel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:33:23+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:35:27:00",
+      "ScheduledDuration": "00:08:48:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "High noon (film) / Le train sifflera 3 fois (film) : The clock and the showdown",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "High noon (film) / Le train sifflera 3 fois (film) : The clock and the showdown",
+      "Label": "UNICORN",
+      "ReferenceLabel": "UKCD 2011",
+      "ExternalID": "5016908201123-1-9",
+      "AlbumTitle": "Les musiques de westerns de Dimitri Tiomkin",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1988-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5016908201123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Tiomkin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Bob Saker",
+        "Profession": "Interprète",
+        "InterventionNote": "Bob Saker : Baryton (voix)",
+        "mop": "Baryton (voix)"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Studio De Londres",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "John Mac Carthy Singers",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Laurie Johnson",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:35:27+02:00",
+      "composer": "http://data.doremus.org/artist/c58099e2-503c-3927-a563-4622f9df4014"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:44:15:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dekalog I - I am the lord thy god (Part 6)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dekalog I - I am the lord thy god (Part 6)",
+      "Label": "SILVA CLASSICS",
+      "ReferenceLabel": "SILKD 6029",
+      "ExternalID": "0738572602925-1-1",
+      "AlbumTitle": "Bof / Dekalog - Le Décalogue",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0738572602925",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Zbigniew Preisner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Konrad Mastylo",
+        "Profession": "Interprète",
+        "InterventionNote": "Konrad Mastylo : Piano",
+        "mop": "Piano"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Zbigniew Preisner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:44:15+02:00",
+      "composer": "http://data.doremus.org/artist/69980fac-8a58-3d0f-8f59-255f5961aa94"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:46:29:00",
+      "ScheduledDuration": "00:03:56:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The circus (film) : Lullaby",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The circus (film) : Lullaby",
+      "Label": "BRUNO",
+      "ReferenceLabel": "BR 50 005",
+      "ExternalID": "RF00000024134-1-4",
+      "AlbumTitle": "Chants populaires russes dans la musique de film",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1958-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024134",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Isaac Dunayevsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Elena Kornyeyeva",
+        "Profession": "Interprète",
+        "InterventionNote": "Elena Kornyeyeva : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Moscou",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:46:29+02:00"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:50:25:00",
+      "ScheduledDuration": "00:01:39:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les clowns et les enfants (film) : Intermezzo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les clowns et les enfants (film) : Intermezzo",
+      "Label": "CAPRICCIO",
+      "ReferenceLabel": "71 061",
+      "ExternalID": "4006408710615-1-2",
+      "AlbumTitle": "Alfred Schnittke : Musiques de film vol 2",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4006408710615",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Strobel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T05:50:25+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:52:08:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mice circus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mice circus",
+      "Label": "KOCH RECORDS",
+      "ReferenceLabel": "KOC-CD-4741",
+      "ExternalID": "0099923474128-1-12",
+      "AlbumTitle": "Bof / Coraline",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099923474128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Coulais",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T05:52:08+02:00",
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:53:35:00",
+      "ScheduledDuration": "00:01:29:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Circus mouse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Circus mouse",
+      "Label": "WARNER BROS",
+      "ReferenceLabel": "957584-2",
+      "ExternalID": "0093624758426-1-14",
+      "AlbumTitle": "B.O.F. / La ligne verte",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093624758426",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thomas Newman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T05:53:35+02:00",
+      "composer": "http://data.doremus.org/artist/142feeef-c325-3041-8cf6-370e93e61845"
+    },
+    {
+      "id": "66",
+      "StepID": "66",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:55:04:00",
+      "ScheduledDuration": "00:03:56:00",
+      "NumPhase": 65,
+      "Inclusion": 0,
+      "NumEventCond": 66,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La rançon de la gloire : Chaplin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La rançon de la gloire : Chaplin",
+      "Label": "WHY NOT PRODUCTIONS",
+      "ReferenceLabel": "PL1501294",
+      "ExternalID": "3700403512045-1-2",
+      "AlbumTitle": "BOF : La rançon de la gloire",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700403512045",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michel Legrand",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T05:55:04+02:00",
+      "composer": "http://data.doremus.org/artist/4c9e3128-8f13-36c0-9cf0-9886c6ed897d"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "05:59:00:00",
+      "ScheduledDuration": "00:03:44:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Circus fantasy",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Circus fantasy",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88697893052",
+      "ExternalID": "0886978930521-1-3",
+      "AlbumTitle": "Bof / De l'eau pour les éléphants",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886978930521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Newton-Howard James",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T05:59:00+02:00"
+    },
+    {
+      "id": "68",
+      "StepID": "68",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "06:02:44:00",
+      "ScheduledDuration": "00:01:10:00",
+      "NumPhase": 67,
+      "Inclusion": 0,
+      "NumEventCond": 68,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La rançon de la gloire : Le cirque",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La rançon de la gloire : Le cirque",
+      "Label": "WHY NOT PRODUCTIONS",
+      "ReferenceLabel": "PL1501294",
+      "ExternalID": "3700403512045-1-7",
+      "AlbumTitle": "BOF : La rançon de la gloire",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700403512045",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michel Legrand",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T06:02:44+02:00",
+      "composer": "http://data.doremus.org/artist/4c9e3128-8f13-36c0-9cf0-9886c6ed897d"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "06:03:54:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lola Montez (Suite 55 pour orchestre) : Main Title - The Circus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lola Montez (Suite 55 pour orchestre) : Main Title - The Circus",
+      "Label": "MARCO POLO",
+      "ReferenceLabel": "8.225070",
+      "ExternalID": "0636943507025-1-11",
+      "AlbumTitle": "Film / Auric Georges / Vol.3 / Lola Montez",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0636943507025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georges Auric",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Moscou",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Adriano",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-08T06:03:54+02:00",
+      "composer": "http://data.doremus.org/artist/ef599a39-dd9f-3824-9a28-8c721a847f84"
+    },
+    {
+      "id": "70",
+      "StepID": "70",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-08",
+      "ScheduledTime": "06:07:01:00",
+      "ScheduledDuration": "00:01:46:00",
+      "NumPhase": 69,
+      "Inclusion": 0,
+      "NumEventCond": 70,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Grimm circus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Grimm circus",
+      "Label": "CARRERE",
+      "ReferenceLabel": "66281",
+      "ExternalID": "3218030662816-1-7",
+      "AlbumTitle": "Hold up (film)",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3218030662816",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Franklin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-05-08T06:07:01+02:00"
+    }
+  ],
+  "total": 62,
+  "matched": 2
+}

@@ -1,0 +1,1509 @@
+{
+  "id": "FM-406_20171009_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:09:13:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In nomine - Ricercare il nomine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In nomine - Ricercare il nomine",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0012442KAI",
+      "ExternalID": "9120010280177-1-3",
+      "AlbumTitle": "In nomine / The witten in nomine broken consort book",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010280177",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Recherche",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Recherche"
+      },
+      "ScheduledDateTime": "2017-10-09T00:00:23+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/c6b98eaa-91a5-338e-a464-f38f3e73d33d",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:09:36:00",
+      "ScheduledDuration": "00:20:08:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lamentationes - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lamentationes - pour orchestre",
+      "Label": "COL LEGNO",
+      "ReferenceLabel": "WWE 8CD 20041/5",
+      "ExternalID": "RF00000048020-1-1",
+      "AlbumTitle": "Konzept / Michael Gielen dirige Huber Kagel et Nono / CD5",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michael Gielen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T00:09:36+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:29:50:00",
+      "ScheduledDuration": "00:05:45:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Vida y muerte no son mundos contrarios - arrangement pour contre-ténor flûte traversière alto et théorbe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Vida y muerte no son mundos contrarios - arrangement pour contre-ténor flûte traversière alto et théorbe",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR37039",
+      "ExternalID": "8011570370396-1-1",
+      "AlbumTitle": "Jean-Luc Menet interprète Klaus Huber",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570370396",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Jean Luc Menet",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Jean Luc Menet : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jean Luc Menet",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Luc Menet : Flûte traversière alto",
+          "mop": "Flûte traversière alto"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Théorbe",
+          "mop": "Théorbe"
+        },
+        {
+          "FullName": "Magid El-Bushra",
+          "Profession": "Interprète",
+          "InterventionNote": "Magid El-Bushra : Contre-ténor",
+          "mop": "Contre-ténor"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:29:50+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:35:35:00",
+      "ScheduledDuration": "00:07:06:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Plainte Lieber spaltet mein Herz - pour flûte traversière alto et traitement électronique de résonateurs virtuels",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Plainte Lieber spaltet mein Herz - pour flûte traversière alto et traitement électronique de résonateurs virtuels",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR37039",
+      "ExternalID": "8011570370396-1-6",
+      "AlbumTitle": "Jean-Luc Menet interprète Klaus Huber",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570370396",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Luc Menet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Luc Menet : Flûte traversière alto",
+        "mop": "Flûte traversière alto"
+      },
+      "ScheduledDateTime": "2017-10-09T00:35:35+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/fdae76a9-e22b-3ac1-9640-20a5102e2624",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:42:41:00",
+      "ScheduledDuration": "00:01:33:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita : Partita n°1 - pour violoncelle et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita : Partita n°1 - pour violoncelle et clavecin",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1089",
+      "ExternalID": "3760058360897-1-7",
+      "AlbumTitle": "Klaus Huber : Intégrale des oeuvres pour violoncelle",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360897",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexis Descharmes",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexis Descharmes : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Sebastien Vichard",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Vichard : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:42:41+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:44:14:00",
+      "ScheduledDuration": "00:01:04:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita : Partita n°2 - pour violoncelle et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita : Partita n°2 - pour violoncelle et clavecin",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1089",
+      "ExternalID": "3760058360897-1-8",
+      "AlbumTitle": "Klaus Huber : Intégrale des oeuvres pour violoncelle",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360897",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexis Descharmes",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexis Descharmes : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Sebastien Vichard",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Vichard : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:44:14+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/9a161f3c-bbb9-3e3c-8e03-6759f6ef55fa",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:45:18:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita : Partita n°3 - pour violoncelle et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita : Partita n°3 - pour violoncelle et clavecin",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1089",
+      "ExternalID": "3760058360897-1-9",
+      "AlbumTitle": "Klaus Huber : Intégrale des oeuvres pour violoncelle",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360897",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexis Descharmes",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexis Descharmes : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Sebastien Vichard",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Vichard : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:45:18+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:47:44:00",
+      "ScheduledDuration": "00:03:18:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita : Partita n°4 - pour violoncelle et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita : Partita n°4 - pour violoncelle et clavecin",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1089",
+      "ExternalID": "3760058360897-1-10",
+      "AlbumTitle": "Klaus Huber : Intégrale des oeuvres pour violoncelle",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360897",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexis Descharmes",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexis Descharmes : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Sebastien Vichard",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Vichard : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:47:44+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:51:02:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita : Partita n°5 - pour violoncelle et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita : Partita n°5 - pour violoncelle et clavecin",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1089",
+      "ExternalID": "3760058360897-1-11",
+      "AlbumTitle": "Klaus Huber : Intégrale des oeuvres pour violoncelle",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360897",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexis Descharmes",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexis Descharmes : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Sebastien Vichard",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Vichard : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:51:02+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:52:08:00",
+      "ScheduledDuration": "00:03:52:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita : Partita n°6 - pour violoncelle et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita : Partita n°6 - pour violoncelle et clavecin",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1089",
+      "ExternalID": "3760058360897-1-12",
+      "AlbumTitle": "Klaus Huber : Intégrale des oeuvres pour violoncelle",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360897",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexis Descharmes",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexis Descharmes : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Sebastien Vichard",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Vichard : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-09T00:52:08+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:56:07:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Opus contra naturam (Shadowtime : Scène 4) : 1er mouvement - pour piano et récitant pour un instrumentiste",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Opus contra naturam (Shadowtime : Scène 4) : 1er mouvement - pour piano et récitant pour un instrumentiste",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS11501-02",
+      "ExternalID": "4260063115011-1-3",
+      "AlbumTitle": "Brian Ferneyhough : Intégrale des oeuvres pour piano",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063115011",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Brian Ferneyhough",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Nicolas Hodges",
+        "Profession": "Interprète",
+        "InterventionNote": "Nicolas Hodges : Piano, Voix",
+        "mop": "Piano, Voix"
+      },
+      "ScheduledDateTime": "2017-10-09T00:56:07+02:00",
+      "composer": "http://data.doremus.org/artist/d87a3247-abf5-333f-95a3-9949ee191499"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "00:58:59:00",
+      "ScheduledDuration": "00:15:05:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Opus contra naturam (Shadowtime : Scène 4) : Katabasis - pour piano et récitant pour un instrumentiste",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Opus contra naturam (Shadowtime : Scène 4) : Katabasis - pour piano et récitant pour un instrumentiste",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS11501-02",
+      "ExternalID": "4260063115011-1-4",
+      "AlbumTitle": "Brian Ferneyhough : Intégrale des oeuvres pour piano",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063115011",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Brian Ferneyhough",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Nicolas Hodges",
+        "Profession": "Interprète",
+        "InterventionNote": "Nicolas Hodges : Piano, Voix",
+        "mop": "Piano, Voix"
+      },
+      "ScheduledDateTime": "2017-10-09T00:58:59+02:00",
+      "composer": "http://data.doremus.org/artist/d87a3247-abf5-333f-95a3-9949ee191499"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:14:04:00",
+      "ScheduledDuration": "00:03:37:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Opus contra naturam (Shadowtime : Scène 4) : Kataplexy - pour piano et récitant pour un instrumentiste",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Opus contra naturam (Shadowtime : Scène 4) : Kataplexy - pour piano et récitant pour un instrumentiste",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS11501-02",
+      "ExternalID": "4260063115011-1-5",
+      "AlbumTitle": "Brian Ferneyhough : Intégrale des oeuvres pour piano",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063115011",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Brian Ferneyhough",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Nicolas Hodges",
+        "Profession": "Interprète",
+        "InterventionNote": "Nicolas Hodges : Piano, Voix",
+        "mop": "Piano, Voix"
+      },
+      "ScheduledDateTime": "2017-10-09T01:14:04+02:00",
+      "composer": "http://data.doremus.org/artist/d87a3247-abf5-333f-95a3-9949ee191499"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:17:50:00",
+      "ScheduledDuration": "00:02:51:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Miserere hominibus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Miserere hominibus",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-1",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:17:50+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:20:41:00",
+      "ScheduledDuration": "00:01:51:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Canción n°1 : Dime sequía",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Canción n°1 : Dime sequía",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-2",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:20:41+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:22:32:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : O mort est ce là l'histoire",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : O mort est ce là l'histoire",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-3",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:22:32+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:24:58:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Amplius lava me",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Amplius lava me",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-4",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:24:58+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:26:50:00",
+      "ScheduledDuration": "00:03:13:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Wachstum wachstum über alles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Wachstum wachstum über alles",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-5",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:26:50+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:30:03:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Amplius lava me",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Amplius lava me",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-6",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:30:03+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:31:55:00",
+      "ScheduledDuration": "00:02:58:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Canción n°2 : dime sequía",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Canción n°2 : dime sequía",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-7",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:31:55+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:34:53:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Asperges me hysopo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Asperges me hysopo",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-8",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:34:53+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:36:11:00",
+      "ScheduledDuration": "00:04:47:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Canción n°3 : Vida y muerte",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Canción n°3 : Vida y muerte",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-9",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:36:11+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:40:58:00",
+      "ScheduledDuration": "00:09:47:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Nous la raison du coeur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Nous la raison du coeur",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-10",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:40:58+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:50:45:00",
+      "ScheduledDuration": "00:07:13:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miserere hominibus : Agnus Dei",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miserere hominibus : Agnus Dei",
+      "Label": "SOUPIR",
+      "ReferenceLabel": "SOUPIR S216",
+      "ExternalID": "0826596012162-1-11",
+      "AlbumTitle": "Klaus Huber : Miserere Hominibus et Agnus Dei cum recordatione",
+      "Rank": 11,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596012162",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Jeunes Solistes",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Jeunes Solistes"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:50:45+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/549a9d87-ca88-3f8e-b94e-6d2e98bc751b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "01:58:02:00",
+      "ScheduledDuration": "00:17:15:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lichtes Spiel (Ein Sommerstück) - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lichtes Spiel (Ein Sommerstück) - pour violon et orchestre",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "477 9359",
+      "ExternalID": "0289477935950-1-1",
+      "AlbumTitle": "Anne-Sophie Mutter interprète Rihm Currier et Penderecki",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0289477935950",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anne Sophie Mutter",
+        "Profession": "Interprète",
+        "InterventionNote": "Anne Sophie Mutter : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De New York",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michael Francis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T01:58:02+02:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18",
+      "best": "http://data.doremus.org/expression/60e41c05-5cdc-3d98-bc5f-040d487df744",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "02:15:21:00",
+      "ScheduledDuration": "00:22:50:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quod est pax vers la raison du coeur - pour 5 solistes percussions et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quod est pax vers la raison du coeur - pour 5 solistes percussions et orchestre",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS 10824",
+      "ExternalID": "4260063108242-1-4",
+      "AlbumTitle": "Donaueschinger Musiktage 2007 / Vol. 1",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063108242",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nora Thiele",
+          "Profession": "Interprète",
+          "InterventionNote": "Nora Thiele : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Les Jeunes Solistes",
+          "Profession": "Interprète",
+          "InterventionNote": "Les Jeunes Solistes"
+        },
+        {
+          "FullName": "Anne Marie Jacquin",
+          "Profession": "Interprète",
+          "InterventionNote": "Anne Marie Jacquin : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucie Lacoste",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucie Lacoste : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Sebastien Amadieu",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Amadieu : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Hubert Mayer",
+          "Profession": "Interprète",
+          "InterventionNote": "Hubert Mayer : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Alain Lyet",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Lyet : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rupert Huber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T02:15:21+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf",
+      "best": "http://data.doremus.org/expression/dcba7806-dcfe-3615-818c-a61b66b29beb",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "02:38:22:00",
+      "ScheduledDuration": "00:18:58:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Un temps de silence",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Un temps de silence",
+      "Label": "EMI",
+      "ReferenceLabel": "5012262",
+      "ExternalID": "5099950122622-1-2",
+      "AlbumTitle": "Dalbavie - jarrell - pintscher : Concertos pour flute",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099950122622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Jarrell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Emmanuel Pahud",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Pahud : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Orchestre Orchestre Philharmonique De Radio France",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre Orchestre Philharmonique De Radio France"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Pascal Rophe",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-09T02:38:22+02:00",
+      "composer": "http://data.doremus.org/artist/2267aa34-8eb3-378f-bc51-c84c006ecd1d"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-09",
+      "ScheduledTime": "02:57:20:00",
+      "ScheduledDuration": "00:05:21:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "To ask the flutist - pour flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "To ask the flutist - pour flûte traversière",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR37039",
+      "ExternalID": "8011570370396-1-4",
+      "AlbumTitle": "Jean-Luc Menet interprète Klaus Huber",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570370396",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Huber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Luc Menet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Luc Menet : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "ScheduledDateTime": "2017-10-09T02:57:20+02:00",
+      "composer": "http://data.doremus.org/artist/bbbd749a-7d03-33aa-be66-a8fe001b2cbf"
+    }
+  ],
+  "total": 28,
+  "matched": 17
+}

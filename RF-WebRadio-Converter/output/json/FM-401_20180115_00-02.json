@@ -1,0 +1,3179 @@
+{
+  "id": "FM-401_20180115_00-02",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:02:02:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Luxuriosa res vinum",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Luxuriosa res vinum",
+      "Label": "RICERCAR",
+      "ReferenceLabel": "RIC 283",
+      "ExternalID": "5400439002838-1-19",
+      "AlbumTitle": "Roland de Lassus : Magnum opus musicum",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5400439002838",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Roland De Lassus",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Fenice (la)",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre De Namur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Tubery",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:00:06+01:00",
+      "composer": "http://data.doremus.org/artist/668c2943-1b38-3f55-9fb7-e7a9964d25c6",
+      "best": "http://data.doremus.org/expression/e8f2d073-cb19-3c8e-951f-110a71be0816",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:02:08:00",
+      "ScheduledDuration": "00:04:52:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quand je bois du vin clairet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quand je bois du vin clairet",
+      "Label": "ALIA VOX",
+      "ReferenceLabel": "AV 9814",
+      "ExternalID": "7619986098142-1-3",
+      "AlbumTitle": "Carlos V : Mille regretz la cancion del Emperador",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619986098142",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Capella Reial De Catalogne",
+          "Profession": "Interprète",
+          "InterventionNote": "Capella Reial De Catalogne : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Hesperion Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Hesperion Xxi"
+        },
+        {
+          "FullName": "Arianna Savall",
+          "Profession": "Interprète",
+          "InterventionNote": "Arianna Savall : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Jordi Savall",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:02:08+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:07:00:00",
+      "ScheduledDuration": "00:06:06:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sylvia ou La nymphe de Diane : Cortège de Bacchus - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sylvia ou La nymphe de Diane : Cortège de Bacchus - pour orchestre",
+      "Label": "SAN FRANCISCO SYMPHONY",
+      "ReferenceLabel": "821936-0060-2",
+      "ExternalID": "0821936006023-1-12",
+      "AlbumTitle": "Masterpieces in miniature",
+      "Rank": 12,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0821936006023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leo Delibes",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De San Francisco",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michael Tilson-Thomas",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:07:00+01:00",
+      "composer": "http://data.doremus.org/artist/5e166265-3cbf-3b0c-b7f5-a09b82e3a279"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:13:06:00",
+      "ScheduledDuration": "00:01:58:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Je boy a toy mon compagnon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Je boy a toy mon compagnon",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901863",
+      "ExternalID": "0794881767922-1-15",
+      "AlbumTitle": "Autant en emporte le vent",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881767922",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Le Jeune",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Catherine Greuillet",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Greuillet : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Agnes Mellon",
+          "Profession": "Interprète",
+          "InterventionNote": "Agnes Mellon : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Dominique Visse",
+          "Profession": "Interprète",
+          "InterventionNote": "Dominique Visse : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Bruno Boterf",
+          "Profession": "Interprète",
+          "InterventionNote": "Bruno Boterf : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Vincent Bouchot",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Bouchot : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Francois Fauche",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Fauche : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Renaud Delaigue",
+          "Profession": "Interprète",
+          "InterventionNote": "Renaud Delaigue : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Eric Bellocq",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Bellocq : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Jean Marc Aymes",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Marc Aymes : Orgue positif",
+          "mop": "Orgue positif"
+        },
+        {
+          "FullName": "Malcolm Bothwell",
+          "Profession": "Interprète",
+          "InterventionNote": "Malcolm Bothwell : Viole de gambe",
+          "mop": "Viole de gambe"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Ensemble Clement Janequin",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-15T00:13:06+01:00",
+      "composer": "http://data.doremus.org/artist/d285fe9e-24ba-3514-ae9b-e9d1eddd1e16"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:15:04:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "O vin en vigne - pour ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "O vin en vigne - pour ensemble instrumental",
+      "Label": "CAPRICCIO",
+      "ReferenceLabel": "CCIO",
+      "ExternalID": "4006408105381-1-19",
+      "AlbumTitle": "Roland de Lassus : Lieder allemands et musique instrumentale",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4006408105381",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Roland De Lassus",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Lautten Compagney",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:15:04+01:00",
+      "composer": "http://data.doremus.org/artist/668c2943-1b38-3f55-9fb7-e7a9964d25c6",
+      "best": "http://data.doremus.org/expression/ec0e93df-f65c-370e-99fe-decc91a74f0d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:16:38:00",
+      "ScheduledDuration": "00:12:59:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La mort d'orphee / Monologue et bacchanale pour tenor choeur de femmes et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La mort d'orphee / Monologue et bacchanale pour tenor choeur de femmes et orchestre",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901542",
+      "ExternalID": "0794881351428-1-4",
+      "AlbumTitle": "Cantates du prix de rome",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881351428",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Galvez-Vallejo",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Galvez-Vallejo : Ténor",
+        "mop": "Ténor"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lille",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Regional Du Nord-Pas-De-Calais",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Claude Casadesus",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:16:38+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:29:48:00",
+      "ScheduledDuration": "00:03:37:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vineam meam plantavi - rondellus à 1 / pour 3 voix de femmes a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vineam meam plantavi - rondellus à 1 / pour 3 voix de femmes a cappella",
+      "Label": "GLOSSA",
+      "ReferenceLabel": "GCD 922505",
+      "ExternalID": "8424562225053-1-12",
+      "AlbumTitle": "Crux / Musique pascale parisienne des XIIIème et XIVème siècles",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8424562225053",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme France Xiiieme Siecle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Peregrina",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Peregrina"
+        },
+        {
+          "FullName": "Kelly Landerkin",
+          "Profession": "Interprète",
+          "InterventionNote": "Kelly Landerkin : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Lorenza Donadini",
+          "Profession": "Interprète",
+          "InterventionNote": "Lorenza Donadini : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Agnieszka Budzinska-Bennett",
+          "Profession": "Interprète",
+          "InterventionNote": "Agnieszka Budzinska-Bennett : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T00:29:48+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:33:25:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "El Cancionero musical de Palacio 1474 - 1516 : Ave color vini clari (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "El Cancionero musical de Palacio 1474 - 1516 : Ave color vini clari (instrumental)",
+      "Label": "ASTREE",
+      "ReferenceLabel": "E 8762",
+      "ExternalID": "3298490087626-1-17",
+      "AlbumTitle": "El Cancionero musical de Palacio 1474 - 1516",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490087626",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Juan Ponce",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hesperion Xx",
+        "Profession": "Interprète",
+        "InterventionNote": "Hesperion Xx"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jordi Savall",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:33:25+01:00",
+      "composer": "http://data.doremus.org/artist/071eeebf-989c-30b7-848d-16e860cd0c01"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:35:13:00",
+      "ScheduledDuration": "00:03:41:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantiones sacrae de festis praecipuis totius anni : vincula dum christus terit - de 4 à 8 voix / pour choeur mixte et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantiones sacrae de festis praecipuis totius anni : vincula dum christus terit - de 4 à 8 voix / pour choeur mixte et ensemble instrumental",
+      "Label": "ETCETERA",
+      "ReferenceLabel": "KTC 1409",
+      "ExternalID": "8711801102788-1-9",
+      "AlbumTitle": "Hans Leo Hassler : Musique sacrée et profane",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8711801102788",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Leo Hassler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Currende",
+        "Profession": "Interprète",
+        "InterventionNote": "Currende"
+      },
+      "OrchestraLeader": {
+        "FullName": "Erik Van Nevel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:35:13+01:00",
+      "composer": "http://data.doremus.org/artist/f806dad3-afff-3b4f-ab74-1d3a475cfaa3"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:38:54:00",
+      "ScheduledDuration": "00:02:09:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musik zu einem Ritterballett WoO 1 \"\"Musique pour un ballet de chevalier WoO 1\"\" : Trinklied - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musik zu einem Ritterballett WoO 1 \"\"Musique pour un ballet de chevalier WoO 1\"\" : Trinklied - pour orchestre",
+      "Label": "SIMAX",
+      "ReferenceLabel": "PSC 1179",
+      "ExternalID": "7033662011797-1-6",
+      "AlbumTitle": "Ludwig van Beethoven : Intégrale de l'oeuvre pour orchestre / Vol.1",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7033662011797",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Suedois",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Thomas Dausgaard",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:38:54+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:41:03:00",
+      "ScheduledDuration": "00:00:40:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musik zu einem Ritterballett WoO 1 \"\"Musique pour un ballet de chevalier WoO 1\"\" : Deutscher Tanz - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musik zu einem Ritterballett WoO 1 \"\"Musique pour un ballet de chevalier WoO 1\"\" : Deutscher Tanz - pour orchestre",
+      "Label": "SIMAX",
+      "ReferenceLabel": "PSC 1179",
+      "ExternalID": "7033662011797-1-7",
+      "AlbumTitle": "Ludwig van Beethoven : Intégrale de l'oeuvre pour orchestre / Vol.1",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7033662011797",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Suedois",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Thomas Dausgaard",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:41:03+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:41:43:00",
+      "ScheduledDuration": "00:01:53:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musik zu einem Ritterballett WoO 1 \"\"Musique pour un ballet de chevalier WoO 1\"\" : Coda - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musik zu einem Ritterballett WoO 1 \"\"Musique pour un ballet de chevalier WoO 1\"\" : Coda - pour orchestre",
+      "Label": "SIMAX",
+      "ReferenceLabel": "PSC 1179",
+      "ExternalID": "7033662011797-1-8",
+      "AlbumTitle": "Ludwig van Beethoven : Intégrale de l'oeuvre pour orchestre / Vol.1",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7033662011797",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Suedois",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Thomas Dausgaard",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:41:43+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:43:36:00",
+      "ScheduledDuration": "00:04:30:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I am the true wine - pour choeur mixte à 4 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I am the true wine - pour choeur mixte à 4 voix a cappella",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1434",
+      "ExternalID": "7318590014349-1-4",
+      "AlbumTitle": "Arvo Pärt : Spiegel im Spiegel et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590014349",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arvo Part",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tonu Kaljuste",
+        "Profession": "Interprète",
+        "InterventionNote": "Tonu Kaljuste"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Radio Suedoise",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-15T00:43:36+01:00",
+      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
+      "best": "http://data.doremus.org/expression/268deba6-5b08-3cc2-8e91-1b5d4f7cc338",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:48:06:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sansserre / Pour luth flute alto et basse de viole",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sansserre / Pour luth flute alto et basse de viole",
+      "Label": "ARION",
+      "ReferenceLabel": "ARN 68248",
+      "ExternalID": "3325480682483-1-12",
+      "AlbumTitle": "Eloge du vin et de la vigne",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325480682483",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Attaingnant",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "La Maurache",
+        "Profession": "Interprète",
+        "InterventionNote": "La Maurache"
+      },
+      "ScheduledDateTime": "2018-01-15T00:48:06+01:00",
+      "composer": "http://data.doremus.org/artist/07f7b149-abc1-3cf4-b3cc-f4ebc8e3ddda"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:49:56:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Blanc et clairet / Pour 3 voix et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Blanc et clairet / Pour 3 voix et ensemble instrumental",
+      "Label": "ARION",
+      "ReferenceLabel": "ARN 68248",
+      "ExternalID": "3325480682483-1-13",
+      "AlbumTitle": "Eloge du vin et de la vigne",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325480682483",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "La Maurache",
+        "Profession": "Interprète",
+        "InterventionNote": "La Maurache"
+      },
+      "ScheduledDateTime": "2018-01-15T00:49:56+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:51:57:00",
+      "ScheduledDuration": "00:06:30:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wine's so good",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wine's so good",
+      "Label": "MUTE RECORDS",
+      "ReferenceLabel": "CDMUTEL19",
+      "ExternalID": "5099902693224-1-5",
+      "AlbumTitle": "This is the Balanescu quartet",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099902693224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexander Balanescu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steve Arguelles",
+        "Profession": "Interprète",
+        "InterventionNote": "Steve Arguelles : Percussions",
+        "mop": "Percussions"
+      },
+      "Orchestra": {
+        "EntityName": "The Balanescu Quartet",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:51:57+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:58:27:00",
+      "ScheduledDuration": "00:03:36:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Acte 1 : The wine-pickers' march",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Acte 1 : The wine-pickers' march",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 42450",
+      "ExternalID": "5099704245027-1-10",
+      "AlbumTitle": "Adam / Giselle / Tilson",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704245027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Adolphe Adam",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michael Tilson-Thomas",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:58:27+01:00",
+      "composer": "http://data.doremus.org/artist/6cf3d2d5-2ba6-3db1-8447-9764a8335486"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:02:12:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don Quichotte à Dulcinée : Chanson à boire - pour baryton et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don Quichotte à Dulcinée : Chanson à boire - pour baryton et orchestre",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295953539/12",
+      "ExternalID": "RF00000056504-1-7",
+      "AlbumTitle": "Armin Jordan : The french symphonie recordings / CD 12",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056504",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Huttenlocher",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Huttenlocher : Baryton (voix)",
+        "mop": "Baryton (voix)"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Lausanne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Armin Jordan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:02:12+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/4a25b777-40f4-3ccb-9db0-79344931c184",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:04:12:00",
+      "ScheduledDuration": "00:03:56:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Namouna suite n°1 : Fête foraine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Namouna suite n°1 : Fête foraine",
+      "Label": "DECCA",
+      "ExternalID": "RF00000053269-1-3",
+      "AlbumTitle": "Ernest Ansermet : French music CD 22",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000053269",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Lalo",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Michel Cuvit",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Cuvit : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Andre Pepin",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Pepin : Flûte traversière",
+          "mop": "Flûte traversière"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De La Suisse Romande",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ernest Ansermet",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:04:12+01:00",
+      "composer": "http://data.doremus.org/artist/916a5a71-42ba-30c2-b2e9-fd1ec5e99a9b",
+      "best": "http://data.doremus.org/expression/a5c660eb-3296-37a5-92dd-f017a3b38580",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:08:08:00",
+      "ScheduledDuration": "00:13:12:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wein Weib und Gesang op 333 - réduction pour 2 violons alto violoncelle et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wein Weib und Gesang op 333 - réduction pour 2 violons alto violoncelle et piano",
+      "Label": "DGG",
+      "ReferenceLabel": "463667-2",
+      "ExternalID": "0028946366721-1-3",
+      "AlbumTitle": "Johann Strauss : Walzer et Igor Stravinsky : musique de chambre",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946366721",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Johann Strauss Fils",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Alban Berg",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Boston Symphony Chamber Players",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:08:08+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:21:20:00",
+      "ScheduledDuration": "00:04:42:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Responsoria pro hebdomada sancta ZWV 55 : 1er nocturne pour le Vendredi Saint : Vinea mea electa",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Responsoria pro hebdomada sancta ZWV 55 : 1er nocturne pour le Vendredi Saint : Vinea mea electa",
+      "Label": "ACCENT",
+      "ReferenceLabel": "ACC 24259",
+      "ExternalID": "4015023242593-2-1",
+      "AlbumTitle": "Jan Dismas Zelenka : Répons pour la Semaine Sainte",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4015023242593",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jan Dismas Zelenka",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Collegium 1704",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Collegium Vocale 1704",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vaclav Luks",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:21:20+01:00",
+      "composer": "http://data.doremus.org/artist/bee4cb9f-3231-32be-8771-4ffb509847fe",
+      "best": "http://data.doremus.org/expression/f7e091fb-87b2-3227-9c52-55aa4bdf2019",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:26:02:00",
+      "ScheduledDuration": "00:04:24:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 nature poems op 25 : Bacchanal - pour piano / version pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 nature poems op 25 : Bacchanal - pour piano / version pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHSA 5119",
+      "ExternalID": "0095115511923-1-22",
+      "AlbumTitle": "Eugene Goossens : Concert piece et autres oeuvres",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115511923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Eugene Goossens",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Melbourne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andrew Davis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:26:02+01:00",
+      "composer": "http://data.doremus.org/artist/94812f43-e323-360b-8714-dddb26e593fb"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:30:26:00",
+      "ScheduledDuration": "00:04:47:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "N°11 / Fêtes lointaines n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "N°11 / Fêtes lointaines n°3",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM 2367",
+      "ExternalID": "0028948109920-1-9",
+      "AlbumTitle": "Moderato cantabile / Anja Lechner et François Couturier interprètent différents compositeurs",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948109920",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Georges Gurdjieff",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Federico Mompou",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Anja Lechner",
+          "Profession": "Interprète",
+          "InterventionNote": "Anja Lechner : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Francois Couturier",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Couturier : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T01:30:26+01:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:35:13:00",
+      "ScheduledDuration": "00:01:36:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ma bouteille vient de finir",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ma bouteille vient de finir",
+      "Label": "DECCA",
+      "ReferenceLabel": "SXL 20 125",
+      "ExternalID": "RF00000050970-1-2",
+      "AlbumTitle": "Airs à boire",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1965-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050970",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Regnault",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jacques Herbillon",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacques Herbillon : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Jean Louis Petit",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Louis Petit : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T01:35:13+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:36:49:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le cou de ma bouteille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le cou de ma bouteille",
+      "Label": "LES CHARBONNIERS DE L'ENFER",
+      "ExternalID": "RF00000050220-1-16",
+      "AlbumTitle": "Wo",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050220",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Les Charbonniers De L'Enfer",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Charbonniers De L'Enfer"
+      },
+      "ScheduledDateTime": "2018-01-15T01:36:49+01:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:41:30:00",
+      "ScheduledDuration": "00:04:31:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Adieu ces bons vins de lannoys",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Adieu ces bons vins de lannoys",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 907314",
+      "ExternalID": "093046731427-1-12",
+      "AlbumTitle": "Food wine and song",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "093046731427",
+      "Compositor": {
+        "FullName": "Guillaume Dufay",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "The Orlando Consort",
+          "Profession": "Interprète",
+          "InterventionNote": "The Orlando Consort"
+        },
+        {
+          "FullName": "Charles Daniels",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Daniels"
+        },
+        {
+          "FullName": "Angus Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Angus Smith"
+        },
+        {
+          "FullName": "Donald Greig",
+          "Profession": "Interprète",
+          "InterventionNote": "Donald Greig"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T01:41:30+01:00",
+      "composer": "http://data.doremus.org/artist/10c7575e-ab13-3912-9919-62c0d3003895",
+      "best": "http://data.doremus.org/expression/6e6c4ec9-5d75-3b06-a7f3-3ff42daf2587",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:46:01:00",
+      "ScheduledDuration": "00:03:59:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le vin de Catherine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le vin de Catherine",
+      "Label": "SCALEN DISC (DISTR.)",
+      "ReferenceLabel": "ARI 143",
+      "ExternalID": "RF00000014872-1-9",
+      "AlbumTitle": "Deodat de Severac : melodies et chansons - vol.2",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000014872",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Deodat De Severac",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jacques Bernier",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacques Bernier : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gabriel Bacquier",
+          "Profession": "Interprète",
+          "InterventionNote": "Gabriel Bacquier : Voix, Baryton (voix)",
+          "mop": "Voix, Baryton (voix)"
+        },
+        {
+          "FullName": "Michele Command",
+          "Profession": "Interprète",
+          "InterventionNote": "Michele Command : Voix, Soprano",
+          "mop": "Voix, Soprano"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T01:46:01+01:00",
+      "composer": "http://data.doremus.org/artist/5dc75a67-7470-3c2b-9703-a804e3a881d5",
+      "best": "http://data.doremus.org/expression/7bbf199d-bcde-3836-8739-d0ebaf108d0d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:50:00:00",
+      "ScheduledDuration": "00:04:08:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Walkyrie : Waltz and a bacchiantic gallop",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Walkyrie : Waltz and a bacchiantic gallop",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 999620-2",
+      "ExternalID": "0761203962020-2-10",
+      "AlbumTitle": "La walkyrie op 62",
+      "Rank": 10,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203962020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Peter Emilius Hartmann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Francfort",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michail Jurowski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:50:00+01:00",
+      "composer": "http://data.doremus.org/artist/79163e69-6afa-30bb-86c3-744f4a9d1bb5"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:54:08:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bacchus : Ballet (Acte III) : La Procession des offrandes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bacchus : Ballet (Acte III) : La Procession des offrandes",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.573123",
+      "ExternalID": "0747313312375-1-3",
+      "AlbumTitle": "Jules Massenet : Musique de ballet",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313312375",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jules Massenet",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Barcelone Et National De Catalogne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Patrick Gallois",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T01:54:08+01:00",
+      "composer": "http://data.doremus.org/artist/bb190de9-54d7-3e08-8ec0-d02fc701573f",
+      "best": "http://data.doremus.org/expression/86cc6281-a2e4-3bdd-9163-0934d883f89f",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:57:08:00",
+      "ScheduledDuration": "00:04:54:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Resp. III - vinea mea electa",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Resp. III - vinea mea electa",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 62977",
+      "ExternalID": "5099706297727-1-7",
+      "AlbumTitle": "Office des tenebres du vendredi Saint",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706297727",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carlo Gesualdo",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "David Cordier",
+          "Profession": "Interprète",
+          "InterventionNote": "David Cordier : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Peter Kenny Jonathan",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Kenny Jonathan : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Timothy Wilson",
+          "Profession": "Interprète",
+          "InterventionNote": "Timothy Wilson : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Rogers Covey-Crump",
+          "Profession": "Interprète",
+          "InterventionNote": "Rogers Covey-Crump : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Charles Daniels",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Daniels : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Nicolas Robertson",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicolas Robertson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Richard Wistreich",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Wistreich : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Ben Parry",
+          "Profession": "Interprète",
+          "InterventionNote": "Ben Parry : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Choir": [
+        {
+          "EntityName": "Parrott",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Taverner Consort, Ensemble Vocal A Cappella",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Taverner Choir",
+          "EntityType": "Choeur"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T01:57:08+01:00",
+      "composer": "http://data.doremus.org/artist/818bcd85-aa1b-3ce6-ac18-3577b66f2820"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:02:02:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bacchante endormie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bacchante endormie",
+      "Label": "CONCERTO",
+      "ReferenceLabel": "BOX 2015-5/CD4",
+      "ExternalID": "RF00000035447-1-20",
+      "AlbumTitle": "Reynaldo Hahn : Portraits de peintres et autres oeuvres pour piano / Vol.4",
+      "Rank": 20,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035447",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Reynaldo Hahn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Cristina Ariagno",
+        "Profession": "Interprète",
+        "InterventionNote": "Cristina Ariagno : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2018-01-15T02:02:02+01:00",
+      "composer": "http://data.doremus.org/artist/48cf752f-eba6-3f2e-90e3-ca675277f7f7",
+      "best": "http://data.doremus.org/expression/b8f25e3c-1464-3720-a7dd-5c40bc597fe0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:03:36:00",
+      "ScheduledDuration": "00:04:15:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Missa vinum bonum (intégrale) - pour choeur a 8 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Missa vinum bonum (intégrale) - pour choeur a 8 voix a cappella",
+      "Label": "LONDON",
+      "ReferenceLabel": "444335-2",
+      "ExternalID": "0028944433524-1-15",
+      "AlbumTitle": "Messes madrigal motet et chanson de Roland De Lassus Nicolas Gombert et Jacob Arcadelt",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944433524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Roland De Lassus",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Stephen Cleobury",
+        "Profession": "Interprète",
+        "InterventionNote": "Stephen Cleobury"
+      },
+      "Choir": {
+        "EntityName": "Choeur Du King'S College De Cambridge",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-15T02:03:36+01:00",
+      "composer": "http://data.doremus.org/artist/668c2943-1b38-3f55-9fb7-e7a9964d25c6"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:07:51:00",
+      "ScheduledDuration": "00:01:58:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Der reinsche wein / Pour haute-contre et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Der reinsche wein / Pour haute-contre et ensemble instrumental",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901644",
+      "ExternalID": "0794881417025-2-7",
+      "AlbumTitle": "Jean Sébastien Bach : Cantates BWV 35 54 et 170 par Andreas Scholl et Portrait",
+      "Rank": 7,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881417025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Adam Krieger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Andreas Scholl",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Scholl : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Markus Markl",
+          "Profession": "Interprète",
+          "InterventionNote": "Markus Markl : Clavecin",
+          "mop": "Clavecin"
+        },
+        {
+          "FullName": "Karl Ernst Schroeder",
+          "Profession": "Interprète",
+          "InterventionNote": "Karl Ernst Schroeder : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Alix Verzier",
+          "Profession": "Interprète",
+          "InterventionNote": "Alix Verzier : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Pablo Valetti",
+          "Profession": "Interprète",
+          "InterventionNote": "Pablo Valetti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Stephanie Pfister",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephanie Pfister : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Friederike Heumann",
+          "Profession": "Interprète",
+          "InterventionNote": "Friederike Heumann : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Juan Manuel Quintana",
+          "Profession": "Interprète",
+          "InterventionNote": "Juan Manuel Quintana : Basse",
+          "mop": "Basse"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T02:07:51+01:00",
+      "composer": "http://data.doremus.org/artist/d410029f-e065-368c-a574-45eaea12bbce"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:09:49:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bransle de village",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bransle de village",
+      "Label": "ALPH",
+      "ReferenceLabel": "ALPHA 100",
+      "ExternalID": "3760014191008-1-4",
+      "AlbumTitle": "Charles Tessier : Carnets de voyages",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014191008",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Le Poeme Harmonique",
+        "Profession": "Interprète",
+        "InterventionNote": "Le Poeme Harmonique"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:09:49+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:12:34:00",
+      "ScheduledDuration": "00:01:16:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ein guter Wein ist lobenswerdt - version pour orgue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ein guter Wein ist lobenswerdt - version pour orgue",
+      "Label": "RICERCAR",
+      "ReferenceLabel": "RIC100/3",
+      "ExternalID": "RF00000036177-1-21",
+      "AlbumTitle": "Renaissance / CD 3",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000036177",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernhard Schmid",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Ferrard",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Ferrard : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2018-01-15T02:12:34+01:00",
+      "composer": "http://data.doremus.org/artist/9f3976c2-2a5b-3236-983d-72326745615e"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:13:50:00",
+      "ScheduledDuration": "00:05:08:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fêtes romaines : Epiphanie - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fêtes romaines : Epiphanie - pour orchestre",
+      "Label": "CONIFER",
+      "ReferenceLabel": "75605 51292 2",
+      "ExternalID": "0756055129226-1-4",
+      "AlbumTitle": "Respighi : Fetes romaines fontaines de rome et pins de rome / Gatti",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0756055129226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Academie Sainte Cecile De Rome",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Daniele Gatti",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:13:50+01:00",
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d",
+      "best": "http://data.doremus.org/expression/f968b901-9324-3986-b590-477e6f4ab832",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:19:09:00",
+      "ScheduledDuration": "00:06:49:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cerdaña ( intégrale ) : Les fêtes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cerdaña ( intégrale ) : Les fêtes",
+      "Label": "ARIANE PRODUCTIONS",
+      "ReferenceLabel": "ARI/154",
+      "ExternalID": "3355240115425-1-2",
+      "AlbumTitle": "Déodat de Séverac : Cerdaña et autres oeuvres pour piano",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3355240115425",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Deodat De Severac",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francoise Thinat",
+        "Profession": "Interprète",
+        "InterventionNote": "Francoise Thinat : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2018-01-15T02:19:09+01:00",
+      "composer": "http://data.doremus.org/artist/5dc75a67-7470-3c2b-9703-a804e3a881d5"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:25:58:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Capriol suite : Bransles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Capriol suite : Bransles",
+      "Label": "DECCA",
+      "ReferenceLabel": "452707-2",
+      "ExternalID": "0028945270722-1-10",
+      "AlbumTitle": "Fantasia on Greensleeves",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945270722",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Warlock",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:25:58+01:00",
+      "composer": "http://data.doremus.org/artist/e9dfbaec-d54c-3f8b-a5a6-38a0e44d8e61",
+      "best": "http://data.doremus.org/expression/1709558f-3627-3b14-8005-6175b451c190",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:27:58:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Coppélia : Chanson a boire (Acte II)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Coppélia : Chanson a boire (Acte II)",
+      "Label": "EMI",
+      "ReferenceLabel": "7672102",
+      "ExternalID": "RF00000019099-1-9",
+      "AlbumTitle": "Coppelia",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000019099",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leo Delibes",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jean Pierre Eustache",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Pierre Eustache : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Maurice Gabai",
+          "Profession": "Interprète",
+          "InterventionNote": "Maurice Gabai : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Daniel Sapin",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sapin : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Herve Le Floch",
+          "Profession": "Interprète",
+          "InterventionNote": "Herve Le Floch : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Bruno Pasquier",
+          "Profession": "Interprète",
+          "InterventionNote": "Bruno Pasquier : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Theatre National De L'Opera De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Baptiste Mari",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:27:58+01:00",
+      "composer": "http://data.doremus.org/artist/5e166265-3cbf-3b0c-b7f5-a09b82e3a279",
+      "best": "http://data.doremus.org/expression/4c632ee1-189f-375b-8e1d-6be446ba35f1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:32:23:00",
+      "ScheduledDuration": "00:08:24:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Das trinklied vom jammer der erde",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Das trinklied vom jammer der erde",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "432279-2",
+      "ExternalID": "0028943227926-1-1",
+      "AlbumTitle": "Das lied von der",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943227926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Janet Baker",
+          "Profession": "Interprète",
+          "InterventionNote": "Janet Baker : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "James King",
+          "Profession": "Interprète",
+          "InterventionNote": "James King : Ténor",
+          "mop": "Ténor"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bernard Haitink",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:32:23+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:40:47:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fêtes galantes II L 104 : Le faune - pour flûte traversière et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fêtes galantes II L 104 : Le faune - pour flûte traversière et piano",
+      "Label": "ARS PRODUKTION",
+      "ReferenceLabel": "ARS 38543",
+      "ExternalID": "4260052385432-1-7",
+      "AlbumTitle": "Sofia de Salis : French impressions",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260052385432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sofia De Salis",
+          "Profession": "Interprète",
+          "InterventionNote": "Sofia De Salis : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Elina Kachalova",
+          "Profession": "Interprète",
+          "InterventionNote": "Elina Kachalova : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T02:40:47+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:42:46:00",
+      "ScheduledDuration": "00:02:44:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canticum canticorum : Guttur tuum sicut vinum optimum",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canticum canticorum : Guttur tuum sicut vinum optimum",
+      "Label": "EMI",
+      "ReferenceLabel": "CDC 7490102",
+      "ExternalID": "0077774901086-2-10",
+      "AlbumTitle": "Canticum canticorum et madrigali spirituali",
+      "Rank": 10,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0077774901086",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Pierluigi Da Palestrina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Paul Hillier",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Hillier"
+        },
+        {
+          "FullName": "Ensemble Hilliard",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Hilliard"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T02:42:46+01:00",
+      "composer": "http://data.doremus.org/artist/22a8da9c-5c39-3754-a3bd-0e64dbfcd5e1"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:45:30:00",
+      "ScheduledDuration": "00:03:39:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Christus patris gratie - vineam meam plantavi - offerat ecclesia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Christus patris gratie - vineam meam plantavi - offerat ecclesia",
+      "Label": "OPUS 111",
+      "ReferenceLabel": "O111 OPS 30-170",
+      "ExternalID": "0709861301706-1-12",
+      "AlbumTitle": "Moyen-age : Richard coeur-de-lion / Troubadours et trouveres dans les cours d'alienor d'aquitaine Richard coeur-de-lion Marie de champagne et geoffroy de Bretagne",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0709861301706",
+      "Compositor": {
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Alla Francesca",
+        "Profession": "Interprète",
+        "InterventionNote": "Alla Francesca"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Alla Francesca",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:45:30+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:49:09:00",
+      "ScheduledDuration": "00:03:40:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 motets pour un temps de penitence : Vinea mea electa - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 motets pour un temps de penitence : Vinea mea electa - pour choeur mixte a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901588",
+      "ExternalID": "0794881351329-1-2",
+      "AlbumTitle": "Francis Poulenc : Musique sacree (intégrale)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881351329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre Du Rias De Berlin",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-15T02:49:09+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/1b830a3d-798c-3df2-902b-3fe42d50cc78",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:52:49:00",
+      "ScheduledDuration": "00:00:33:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de danses francaises pour orchestre : bransle de Bourgogne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de danses francaises pour orchestre : bransle de Bourgogne",
+      "Label": "SCHWANN",
+      "ReferenceLabel": "3-1299-2 H1",
+      "ExternalID": "0099923129929-1-15",
+      "AlbumTitle": "Nobilissima visione / Suite de danses francaises",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099923129929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Hindemith",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Bamberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Karl Anton Rickenbacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:52:49+01:00",
+      "composer": "http://data.doremus.org/artist/ce41b86a-08bc-3ddf-8e82-b5ba0a723836"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:53:22:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite francaise FP 80 version pour 9 instruments a vent percussion et clavecin : Bransle de champagne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite francaise FP 80 version pour 9 instruments a vent percussion et clavecin : Bransle de champagne",
+      "Label": "EMI CLASSIC",
+      "ReferenceLabel": "5668382",
+      "ExternalID": "0724356683723-1-14",
+      "AlbumTitle": "Francis Poulenc : Concertos musique symphonique et religieuse / CD 1",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724356683723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gabriel Tacchino",
+        "Profession": "Interprète",
+        "InterventionNote": "Gabriel Tacchino : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:53:22+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:55:21:00",
+      "ScheduledDuration": "00:01:10:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don Giovanni : Fin ch'han dal vino",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don Giovanni : Fin ch'han dal vino",
+      "Label": "ORFEO",
+      "ReferenceLabel": "C 063-841 A",
+      "ExternalID": "RF00000015782-1-9",
+      "AlbumTitle": "Don Giovanni",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000015782",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Academie De Munich",
+        "Profession": "Interprète",
+        "InterventionNote": "Academie De Munich"
+      },
+      "ScheduledDateTime": "2018-01-15T02:55:21+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/2511c676-d062-31ad-8429-f3e93630f6a1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:56:31:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Qui veut chasser une migraine / Pour basse quatuor vocal et theorbe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Qui veut chasser une migraine / Pour basse quatuor vocal et theorbe",
+      "Label": "ARION",
+      "ReferenceLabel": "ARN 68248",
+      "ExternalID": "3325480682483-1-23",
+      "AlbumTitle": "Eloge du vin et de la vigne",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325480682483",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Bataille",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "La Maurache",
+        "Profession": "Interprète",
+        "InterventionNote": "La Maurache"
+      },
+      "ScheduledDateTime": "2018-01-15T02:56:31+01:00",
+      "composer": "http://data.doremus.org/artist/ccb9b2cb-3e4a-3c04-b77b-0829cd404452"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:59:11:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wein bleibt wein",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wein bleibt wein",
+      "Label": "DECCA",
+      "ReferenceLabel": "425200-2",
+      "ExternalID": "0028942520028-1-7",
+      "AlbumTitle": "Orient express",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028942520028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Schrammel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "I Salonisti",
+        "Profession": "Interprète",
+        "InterventionNote": "I Salonisti"
+      },
+      "ScheduledDateTime": "2018-01-15T02:59:11+01:00",
+      "composer": "http://data.doremus.org/artist/0879a7dd-91c3-3ac5-9453-bdec6c1b7424",
+      "best": "http://data.doremus.org/expression/b65434cc-db28-3692-9b8c-dd812d32ff3a",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:01:23:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Album pour la jeunesse op 68 : Supplement : Ein trinklied von C.M. Von Weber",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Album pour la jeunesse op 68 : Supplement : Ein trinklied von C.M. Von Weber",
+      "Label": "NUOVA ERA",
+      "ReferenceLabel": "6790",
+      "ExternalID": "RF00000006188-1-18",
+      "AlbumTitle": "Robert Schumann : Oeuvres completes pour piano volume 10",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000006188",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jorg Demus",
+        "Profession": "Interprète",
+        "InterventionNote": "Jorg Demus : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2018-01-15T03:01:23+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/4d8ce905-02e8-3807-8bfe-df1c74378584",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:02:25:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Put round the bright wine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Put round the bright wine",
+      "Label": "DGG",
+      "ReferenceLabel": "463521-2",
+      "ExternalID": "0028946352120-1-15",
+      "AlbumTitle": "Haydn",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1970-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946352120",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dietrich Fischer-Dieskau",
+          "Profession": "Interprète",
+          "InterventionNote": "Dietrich Fischer-Dieskau : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Karl Engel",
+          "Profession": "Interprète",
+          "InterventionNote": "Karl Engel : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Irmgard Poppen",
+          "Profession": "Interprète",
+          "InterventionNote": "Irmgard Poppen : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Helmut Heller",
+          "Profession": "Interprète",
+          "InterventionNote": "Helmut Heller : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-15T03:02:25+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:04:57:00",
+      "ScheduledDuration": "00:01:35:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trinklied im freien",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trinklied im freien",
+      "Label": "CAPRICCIO",
+      "ReferenceLabel": "CPO 999333-2",
+      "ExternalID": "0761203933327-1-17",
+      "AlbumTitle": "Michael Haydn : Oeuvres pour voix d'hommes",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203933327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Lobhauer",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Lobhauer : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alfons Brandl",
+          "Profession": "Interprète",
+          "InterventionNote": "Alfons Brandl"
+        },
+        {
+          "FullName": "Hubert Nettinger",
+          "Profession": "Interprète",
+          "InterventionNote": "Hubert Nettinger"
+        },
+        {
+          "FullName": "Ludwig Thomas",
+          "Profession": "Interprète",
+          "InterventionNote": "Ludwig Thomas"
+        },
+        {
+          "FullName": "Berno Scharpf",
+          "Profession": "Interprète",
+          "InterventionNote": "Berno Scharpf"
+        },
+        {
+          "FullName": "Gunnar Muhling",
+          "Profession": "Interprète",
+          "InterventionNote": "Gunnar Muhling"
+        },
+        {
+          "FullName": "Max Ciolek",
+          "Profession": "Interprète",
+          "InterventionNote": "Max Ciolek"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Singphoniker (die)",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-15T03:04:57+01:00",
+      "composer": "http://data.doremus.org/artist/0cd5cbd3-6dbc-3bf2-b1d2-90bc7e510078"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:06:32:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "So trinken wir alle - pour haute-contre et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "So trinken wir alle - pour haute-contre et ensemble instrumental",
+      "Label": "CHALLENGE CLASSICS",
+      "ReferenceLabel": "CC72544",
+      "ExternalID": "0608917254426-1-14",
+      "AlbumTitle": "Vinum et musica / Chansons et danses de Nuremberg aux XVème et XVIème siècles",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0608917254426",
+      "Compositor": {
+        "FullName": "Arnold Von Bruck",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Capella De La Torre",
+          "Profession": "Interprète",
+          "InterventionNote": "Capella De La Torre"
+        },
+        {
+          "FullName": "Dominique Visse",
+          "Profession": "Interprète",
+          "InterventionNote": "Dominique Visse : Haute-contre",
+          "mop": "Haute-contre"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Katharina Bauml",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T03:06:32+01:00",
+      "composer": "http://data.doremus.org/artist/60efdd56-263e-329b-b397-12bf08808b8f",
+      "best": "http://data.doremus.org/expression/61940282-e8cc-34b4-a3b0-097322c5be61",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:08:49:00",
+      "ScheduledDuration": "00:01:57:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Métamorphoses d'après Ovide op 49 pour hautbois : Bacchus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Métamorphoses d'après Ovide op 49 pour hautbois : Bacchus",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA 66776",
+      "ExternalID": "0034571167763-1-9",
+      "AlbumTitle": "Benjamin Britten : Music for oboe and for piano",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571167763",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Benjamin Britten",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sarah Francis",
+        "Profession": "Interprète",
+        "InterventionNote": "Sarah Francis : Hautbois",
+        "mop": "Hautbois"
+      },
+      "ScheduledDateTime": "2018-01-15T03:08:49+01:00",
+      "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123",
+      "best": "http://data.doremus.org/expression/76fea576-b428-3fd6-9620-25b46473d1c3",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:10:46:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de danses francaises pour orchestre : bransle simple",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de danses francaises pour orchestre : bransle simple",
+      "Label": "SCHWANN",
+      "ReferenceLabel": "3-1299-2 H1",
+      "ExternalID": "0099923129929-1-14",
+      "AlbumTitle": "Nobilissima visione / Suite de danses francaises",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099923129929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Hindemith",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Bamberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Karl Anton Rickenbacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T03:10:46+01:00",
+      "composer": "http://data.doremus.org/artist/ce41b86a-08bc-3ddf-8e82-b5ba0a723836"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:11:40:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de danses italiennes / Pour 2 dessus de viole 2 bombardes luth et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de danses italiennes / Pour 2 dessus de viole 2 bombardes luth et percussions",
+      "Label": "ARION",
+      "ReferenceLabel": "ARN 68248",
+      "ExternalID": "3325480682483-1-3",
+      "AlbumTitle": "Eloge du vin et de la vigne",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325480682483",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Ambrosio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "La Maurache",
+        "Profession": "Interprète",
+        "InterventionNote": "La Maurache"
+      },
+      "ScheduledDateTime": "2018-01-15T03:11:40+01:00"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "03:14:40:00",
+      "ScheduledDuration": "00:01:31:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de danses francaises pour orchestre : bransle d'Ecosse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de danses francaises pour orchestre : bransle d'Ecosse",
+      "Label": "SCHWANN",
+      "ReferenceLabel": "3-1299-2 H1",
+      "ExternalID": "0099923129929-1-17",
+      "AlbumTitle": "Nobilissima visione / Suite de danses francaises",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099923129929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Hindemith",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Bamberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Karl Anton Rickenbacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T03:14:40+01:00",
+      "composer": "http://data.doremus.org/artist/ce41b86a-08bc-3ddf-8e82-b5ba0a723836"
+    }
+  ],
+  "total": 57,
+  "matched": 19
+}

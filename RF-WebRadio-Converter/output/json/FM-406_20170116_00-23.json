@@ -1,0 +1,2416 @@
+{
+  "id": "FM-406_20170116_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:01:06:00",
+      "ScheduledDuration": "00:11:20:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From ubirr (1994) / Pour 2 didjeridus et quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From ubirr (1994) / Pour 2 didjeridus et quatuor a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559 79504-2/10",
+      "ExternalID": "RF00000003341-1-8",
+      "AlbumTitle": "Kronos quartet 25 years",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000003341",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Sculthorpe",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "David Harrington",
+          "Profession": "Interprète",
+          "InterventionNote": "David Harrington : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "John Sherba",
+          "Profession": "Interprète",
+          "InterventionNote": "John Sherba : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Hank Dutt",
+          "Profession": "Interprète",
+          "InterventionNote": "Hank Dutt : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Joan Jeanrenaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Jeanrenaud : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Michael Brosnan",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Brosnan"
+        },
+        {
+          "FullName": "Mark Nolan",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Nolan"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:01:06+01:00",
+      "composer": "http://data.doremus.org/artist/b30953e8-0620-3a83-9e8e-ae4f09948c62"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:13:29:00",
+      "ScheduledDuration": "00:11:05:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fandangos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fandangos",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8559738",
+      "ISRC": "HK-I19-13-06601",
+      "ExternalID": "0636943973820-1-1",
+      "AlbumTitle": "Roberto Sierra : Sinfonia n°4 fandangos et carnaval",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0636943973820",
+      "EditorialComment": "Import iRF [[ AYD=Roberto Sierra|Profession=4/Author AYD=Roberto Sierra|Profession=10/Composer AYD=Giancarlo Guerrero|Profession=7/Conductor AYD=Nashville Symphony Orchestra|Profession=13/Performer|Instrument=Orchestra ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Roberto Sierra",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Nashville",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Giancarlo Guerrero",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:13:29+01:00",
+      "composer": "http://data.doremus.org/artist/96f99cbd-0dd2-38eb-8601-23e20a9703ea"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:24:38:00",
+      "ScheduledDuration": "00:09:04:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sinfonia Buenos Aires op 15 : Presto marcato - pour bandonéon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sinfonia Buenos Aires op 15 : Presto marcato - pour bandonéon et orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.572271",
+      "ExternalID": "0747313227174-1-3",
+      "AlbumTitle": "Astor Piazzolla : Sinfonia Buenos Aires et autres oeuvres orchestrales",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313227174",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Astor Piazzolla",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Binelli",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Binelli : Bandonéon",
+        "mop": "Bandonéon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Nashville",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Giancarlo Guerrero",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:24:38+01:00",
+      "composer": "http://data.doremus.org/artist/36b10122-ef50-3df3-8bfe-61bb79ddec4f",
+      "best": "http://data.doremus.org/expression/eaca48ec-116e-3edd-add5-e3ecb4a4c51f",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:33:55:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dominica reggae - pour piano et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dominica reggae - pour piano et percussions",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1546",
+      "ExternalID": "3760058360460-1-8",
+      "AlbumTitle": "Thierry Pécou : Les liaisons magnétiques",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360460",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Pecou",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Variances",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Variances"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Thierry Pecou",
+          "Profession": "Interprète",
+          "InterventionNote": "Thierry Pecou : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Karim Toure",
+          "Profession": "Interprète",
+          "InterventionNote": "Karim Toure : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:33:55+01:00",
+      "composer": "http://data.doremus.org/artist/f6b78374-45d2-33d0-b692-cc58d799edfb"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:37:08:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Metaboles : Incantatoire",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Metaboles : Incantatoire",
+      "Label": "SEATTLE SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "SSM1007",
+      "ExternalID": "0855404005072-1-1",
+      "AlbumTitle": "Dutilleux : Métaboles l'arbre des songes et symphonie n°2",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0855404005072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Seattle",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ludovic Morlot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:37:08+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/bbf6375e-a33b-32dd-b617-ddbe0de77690",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:40:28:00",
+      "ScheduledDuration": "00:02:49:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Metaboles : Linéaire",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Metaboles : Linéaire",
+      "Label": "SEATTLE SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "SSM1007",
+      "ExternalID": "0855404005072-1-2",
+      "AlbumTitle": "Dutilleux : Métaboles l'arbre des songes et symphonie n°2",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0855404005072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Seattle",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ludovic Morlot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:40:28+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/bbf6375e-a33b-32dd-b617-ddbe0de77690",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:43:17:00",
+      "ScheduledDuration": "00:03:31:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Metaboles : Obsessionnel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Metaboles : Obsessionnel",
+      "Label": "SEATTLE SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "SSM1007",
+      "ExternalID": "0855404005072-1-3",
+      "AlbumTitle": "Dutilleux : Métaboles l'arbre des songes et symphonie n°2",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0855404005072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Seattle",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ludovic Morlot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:43:17+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/bbf6375e-a33b-32dd-b617-ddbe0de77690",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:46:48:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Metaboles : Torpide",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Metaboles : Torpide",
+      "Label": "SEATTLE SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "SSM1007",
+      "ExternalID": "0855404005072-1-4",
+      "AlbumTitle": "Dutilleux : Métaboles l'arbre des songes et symphonie n°2",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0855404005072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Seattle",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ludovic Morlot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:46:48+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/bbf6375e-a33b-32dd-b617-ddbe0de77690",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:49:36:00",
+      "ScheduledDuration": "00:04:54:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Metaboles : Flamboyant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Metaboles : Flamboyant",
+      "Label": "SEATTLE SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "SSM1007",
+      "ExternalID": "0855404005072-1-5",
+      "AlbumTitle": "Dutilleux : Métaboles l'arbre des songes et symphonie n°2",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0855404005072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Seattle",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ludovic Morlot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:49:36+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/bbf6375e-a33b-32dd-b617-ddbe0de77690",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:55:40:00",
+      "ScheduledDuration": "00:00:43:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : libre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : libre",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-7",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T00:55:40+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:56:23:00",
+      "ScheduledDuration": "00:01:16:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : tres lent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : tres lent",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-8",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T00:56:23+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:57:39:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : rapide",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : rapide",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-9",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T00:57:39+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:00:10:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : lent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : lent",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-10",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T01:00:10+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:02:02:00",
+      "ScheduledDuration": "00:02:06:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : agite",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : agite",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-11",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T01:02:02+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:04:08:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : tres lent (2)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : tres lent (2)",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-12",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T01:04:08+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:05:40:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : allent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : allent",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-13",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T01:05:40+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:08:01:00",
+      "ScheduledDuration": "00:05:20:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : calme, regulier",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : calme, regulier",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-14",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T01:08:01+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:13:21:00",
+      "ScheduledDuration": "00:02:49:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : calme, sans trainer",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Anthemes 2 POUR VIOLON ET DISPOSITIF ELECTRONIQUE : calme, sans trainer",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "dgg 463475-2",
+      "ExternalID": "0028946347522-1-15",
+      "AlbumTitle": "Pierre Boulez : Sur incises Messagesquisse et Anthèmes 2",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946347522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hae Sun Kang",
+        "Profession": "Interprète",
+        "InterventionNote": "Hae Sun Kang : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-01-16T01:13:21+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:16:10:00",
+      "ScheduledDuration": "00:03:06:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "12 psaumes pénitentiels : Plakasya Adamo pred'rayemo sedya",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "12 psaumes pénitentiels : Plakasya Adamo pred'rayemo sedya",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC902225",
+      "ISRC": "FR-Z14-15-06010",
+      "ExternalID": "3149020222522-1-1",
+      "AlbumTitle": "Alfred Schnittke : Psaumes de la pénitence",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020222522",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Anonyme Russie Xvieme Siecle",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Anonyme Russie Xvieme Siecle : Auteur"
+      },
+      "Interpreter": {
+        "FullName": "Hans Christoph Rademann",
+        "Profession": "Interprète",
+        "InterventionNote": "Hans Christoph Rademann"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre Du Rias De Berlin",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-01-16T01:16:10+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:19:22:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Landscape with three people : First love scene - pour soprano contre-ténor hautbois et ensemble",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Landscape with three people : First love scene - pour soprano contre-ténor hautbois et ensemble",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "907669",
+      "ISRC": "US-HM1-14-66902",
+      "ExternalID": "0093046766924-1-2",
+      "AlbumTitle": "Elena Langer : Landscape with three people",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046766924",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Elena Langer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Lee Harwood",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Lee Harwood : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Anna Dennis",
+          "Profession": "Interprète",
+          "InterventionNote": "Anna Dennis : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "William Towers",
+          "Profession": "Interprète",
+          "InterventionNote": "William Towers : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Nicholas Daniel",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicholas Daniel : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Roman Mints",
+          "Profession": "Interprète",
+          "InterventionNote": "Roman Mints : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Meghan Cassidy",
+          "Profession": "Interprète",
+          "InterventionNote": "Meghan Cassidy : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Kristina Blaumane",
+          "Profession": "Interprète",
+          "InterventionNote": "Kristina Blaumane : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Robert Howarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Robert Howarth : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:19:22+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:21:48:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Snow (Nuit) - pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Snow (Nuit) - pour violon et piano",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "907669",
+      "ISRC": "US-HM1-14-66909",
+      "ExternalID": "0093046766924-1-9",
+      "AlbumTitle": "Elena Langer : Landscape with three people",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046766924",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Elena Langer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Roman Mints",
+          "Profession": "Interprète",
+          "InterventionNote": "Roman Mints : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Katya Apekisheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Katya Apekisheva : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:21:48+01:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:25:26:00",
+      "ScheduledDuration": "00:07:01:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Notte oscura",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Notte oscura",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS 2193",
+      "ExternalID": "7318599921938-1-14",
+      "AlbumTitle": "Kenneth Hesketh : Horae (pro Clara)",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921938",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kenneth Hesketh",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Clare Hammond",
+        "Profession": "Interprète",
+        "InterventionNote": "Clare Hammond : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T01:25:26+01:00",
+      "composer": "http://data.doremus.org/artist/d96a6a0d-adbc-3220-90c3-906514fa86e3",
+      "best": "http://data.doremus.org/expression/48c414fb-fff8-3a5b-bd1f-86ea715e4e2d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:33:33:00",
+      "ScheduledDuration": "00:08:29:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nacht und träume : I-III - pour violoncelle piano et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nacht und träume : I-III - pour violoncelle piano et traitement électronique en temps réel",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1648",
+      "ExternalID": "3760058360484-2-1",
+      "AlbumTitle": "Richard Barrett : Musique pour violoncelle et électronique",
+      "Rank": 1,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360484",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Barrett",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Arne Deforce",
+          "Profession": "Interprète",
+          "InterventionNote": "Arne Deforce : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Yutaka Oya",
+          "Profession": "Interprète",
+          "InterventionNote": "Yutaka Oya : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:33:33+01:00",
+      "composer": "http://data.doremus.org/artist/75f76bf9-35be-3ad5-a10b-f47d6dd94628"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:42:02:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nacht und träume : IV-VII - pour violoncelle piano et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nacht und träume : IV-VII - pour violoncelle piano et traitement électronique en temps réel",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1648",
+      "ExternalID": "3760058360484-2-2",
+      "AlbumTitle": "Richard Barrett : Musique pour violoncelle et électronique",
+      "Rank": 2,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360484",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Barrett",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Arne Deforce",
+          "Profession": "Interprète",
+          "InterventionNote": "Arne Deforce : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Yutaka Oya",
+          "Profession": "Interprète",
+          "InterventionNote": "Yutaka Oya : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:42:02+01:00",
+      "composer": "http://data.doremus.org/artist/75f76bf9-35be-3ad5-a10b-f47d6dd94628"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:45:09:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nacht und träume : VIII-IX - pour violoncelle piano et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nacht und träume : VIII-IX - pour violoncelle piano et traitement électronique en temps réel",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1648",
+      "ExternalID": "3760058360484-2-3",
+      "AlbumTitle": "Richard Barrett : Musique pour violoncelle et électronique",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360484",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Barrett",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Arne Deforce",
+          "Profession": "Interprète",
+          "InterventionNote": "Arne Deforce : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Yutaka Oya",
+          "Profession": "Interprète",
+          "InterventionNote": "Yutaka Oya : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:45:09+01:00",
+      "composer": "http://data.doremus.org/artist/75f76bf9-35be-3ad5-a10b-f47d6dd94628"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:48:23:00",
+      "ScheduledDuration": "00:02:34:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nacht und träume : X-XIII - pour violoncelle piano et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nacht und träume : X-XIII - pour violoncelle piano et traitement électronique en temps réel",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1648",
+      "ExternalID": "3760058360484-2-4",
+      "AlbumTitle": "Richard Barrett : Musique pour violoncelle et électronique",
+      "Rank": 4,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360484",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Barrett",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Arne Deforce",
+          "Profession": "Interprète",
+          "InterventionNote": "Arne Deforce : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Yutaka Oya",
+          "Profession": "Interprète",
+          "InterventionNote": "Yutaka Oya : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:48:23+01:00",
+      "composer": "http://data.doremus.org/artist/75f76bf9-35be-3ad5-a10b-f47d6dd94628"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:50:57:00",
+      "ScheduledDuration": "00:05:31:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nacht und träume : XIV-XV - pour violoncelle piano et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nacht und träume : XIV-XV - pour violoncelle piano et traitement électronique en temps réel",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1648",
+      "ExternalID": "3760058360484-2-5",
+      "AlbumTitle": "Richard Barrett : Musique pour violoncelle et électronique",
+      "Rank": 5,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360484",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Barrett",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Arne Deforce",
+          "Profession": "Interprète",
+          "InterventionNote": "Arne Deforce : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Yutaka Oya",
+          "Profession": "Interprète",
+          "InterventionNote": "Yutaka Oya : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:50:57+01:00",
+      "composer": "http://data.doremus.org/artist/75f76bf9-35be-3ad5-a10b-f47d6dd94628"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:57:19:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Three little nocturnes : Andante amabile - pour quatuor à cordes et accordéon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Three little nocturnes : Andante amabile - pour quatuor à cordes et accordéon",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2496",
+      "ExternalID": "0028948128020-1-3",
+      "AlbumTitle": "Air / Frode Haltli interprète Bent Sorensen et Hans Abrahamsen",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Frode Haltli",
+          "Profession": "Interprète",
+          "InterventionNote": "Frode Haltli : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:57:19+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:59:43:00",
+      "ScheduledDuration": "00:02:37:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Three little nocturnes : Allegro appassionato - pour quatuor à cordes et accordéon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Three little nocturnes : Allegro appassionato - pour quatuor à cordes et accordéon",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2496",
+      "ExternalID": "0028948128020-1-4",
+      "AlbumTitle": "Air / Frode Haltli interprète Bent Sorensen et Hans Abrahamsen",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Frode Haltli",
+          "Profession": "Interprète",
+          "InterventionNote": "Frode Haltli : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:59:43+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:02:20:00",
+      "ScheduledDuration": "00:03:51:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Three little nocturnes : Langsam gehend immer zögernd mit unsicheren schleppenden Schritten - pour quatuor à cordes et accordéon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Three little nocturnes : Langsam gehend immer zögernd mit unsicheren schleppenden Schritten - pour quatuor à cordes et accordéon",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2496",
+      "ExternalID": "0028948128020-1-5",
+      "AlbumTitle": "Air / Frode Haltli interprète Bent Sorensen et Hans Abrahamsen",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Frode Haltli",
+          "Profession": "Interprète",
+          "InterventionNote": "Frode Haltli : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T02:02:20+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:06:15:00",
+      "ScheduledDuration": "00:06:02:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Summa - pour 4 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Summa - pour 4 voix a cappella",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2466",
+      "ExternalID": "0028948124497-1-12",
+      "AlbumTitle": "Arvo Pärt : The deer's cry",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948124497",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arvo Part",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jaanika Kuusik",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaanika Kuusik : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Kadri Hunt",
+          "Profession": "Interprète",
+          "InterventionNote": "Kadri Hunt : Contralto",
+          "mop": "Contralto"
+        },
+        {
+          "FullName": "Mikk Uleoja",
+          "Profession": "Interprète",
+          "InterventionNote": "Mikk Uleoja : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Taniel Kirikal",
+          "Profession": "Interprète",
+          "InterventionNote": "Taniel Kirikal : Contre-ténor",
+          "mop": "Contre-ténor"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Vox Clamantis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jaan Eik Tulve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:06:15+01:00",
+      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
+      "best": "http://data.doremus.org/expression/f743fe0f-6dc3-32d5-bcc9-6d7a97ba761e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:12:17:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Psaume 133 : Habitare frates in unum - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Psaume 133 : Habitare frates in unum - pour choeur mixte a cappella",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2466",
+      "ExternalID": "0028948124497-1-11",
+      "AlbumTitle": "Arvo Pärt : The deer's cry",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948124497",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arvo Part",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Vox Clamantis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jaan Eik Tulve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:12:17+01:00",
+      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:14:13:00",
+      "ScheduledDuration": "00:03:57:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Von Angesicht zu Angesicht - pour soprano voix d'hommes clarinette alto et contrebasse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Von Angesicht zu Angesicht - pour soprano voix d'hommes clarinette alto et contrebasse",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2466",
+      "ExternalID": "0028948124497-1-2",
+      "AlbumTitle": "Arvo Pärt : The deer's cry",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948124497",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arvo Part",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jaanika Kilgi",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaanika Kilgi : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Toomas Vavilov",
+          "Profession": "Interprète",
+          "InterventionNote": "Toomas Vavilov : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Johanna Vahermagi",
+          "Profession": "Interprète",
+          "InterventionNote": "Johanna Vahermagi : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Heikko Remmel",
+          "Profession": "Interprète",
+          "InterventionNote": "Heikko Remmel : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Vox Clamantis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jaan Eik Tulve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:14:13+01:00",
+      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:18:23:00",
+      "ScheduledDuration": "00:04:13:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Short ride in a fast machine - pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Short ride in a fast machine - pour grand orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHSA 5129",
+      "ExternalID": "0095115512920-1-4",
+      "AlbumTitle": "John Adams : Doctor atomic symphony et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115512920",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Adrian Wilson",
+          "Profession": "Interprète",
+          "InterventionNote": "Adrian Wilson : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Huw Morgan",
+          "Profession": "Interprète",
+          "InterventionNote": "Huw Morgan : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "John Whitener",
+          "Profession": "Interprète",
+          "InterventionNote": "John Whitener : Tuba",
+          "mop": "Tuba"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre National Royal D'Ecosse",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Oundjian",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:18:23+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/45ff2072-c1cd-39c6-8602-7f02011c2fcd",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:24:04:00",
+      "ScheduledDuration": "00:08:58:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Different trains 1. America - before the war",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Different trains 1. America - before the war",
+      "Label": "NAIVE",
+      "ReferenceLabel": "MO 782167",
+      "ExternalID": "0822186821671-1-1",
+      "AlbumTitle": "Different trains , triple quartet, the four sections",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186821671",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "David Robertson",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:24:04+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:33:02:00",
+      "ScheduledDuration": "00:07:30:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Different trains 2 . Europe - during the war",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Different trains 2 . Europe - during the war",
+      "Label": "NAIVE",
+      "ReferenceLabel": "MO 782167",
+      "ExternalID": "0822186821671-1-2",
+      "AlbumTitle": "Different trains , triple quartet, the four sections",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186821671",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "David Robertson",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:33:02+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:40:32:00",
+      "ScheduledDuration": "00:10:35:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Different trains 3 . After the war",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Different trains 3 . After the war",
+      "Label": "NAIVE",
+      "ReferenceLabel": "MO 782167",
+      "ExternalID": "0822186821671-1-3",
+      "AlbumTitle": "Different trains , triple quartet, the four sections",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186821671",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "David Robertson",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:40:32+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:53:26:00",
+      "ScheduledDuration": "00:01:05:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Dreistimmiges Praeludium - pour soprano trompette et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Dreistimmiges Praeludium - pour soprano trompette et cordes",
+      "Label": "CHANNEL CLASSICS",
+      "ReferenceLabel": "CCS 34516",
+      "ExternalID": "0723385345169-1-10",
+      "AlbumTitle": "Ivan Fischer : Fanfare La Malinconia et autres oeuvres",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0723385345169",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Wim Van Hasselt",
+        "Profession": "Interprète",
+        "InterventionNote": "Wim Van Hasselt : Trompette",
+        "mop": "Trompette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Festival De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:53:26+01:00",
+      "composer": "http://data.doremus.org/artist/91b2943d-5947-3c99-a9aa-0157ed548ceb"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:54:31:00",
+      "ScheduledDuration": "00:02:27:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Wiegenlied - pour soprano trompette et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Wiegenlied - pour soprano trompette et cordes",
+      "Label": "CHANNEL CLASSICS",
+      "ReferenceLabel": "CCS 34516",
+      "ExternalID": "0723385345169-1-11",
+      "AlbumTitle": "Ivan Fischer : Fanfare La Malinconia et autres oeuvres",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0723385345169",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nora Fischer",
+          "Profession": "Interprète",
+          "InterventionNote": "Nora Fischer : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Wim Van Hasselt",
+          "Profession": "Interprète",
+          "InterventionNote": "Wim Van Hasselt : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Festival De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:54:31+01:00",
+      "composer": "http://data.doremus.org/artist/91b2943d-5947-3c99-a9aa-0157ed548ceb"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:56:58:00",
+      "ScheduledDuration": "00:00:43:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Deutsche Arie - pour soprano trompette et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Deutsche Arie - pour soprano trompette et cordes",
+      "Label": "CHANNEL CLASSICS",
+      "ReferenceLabel": "CCS 34516",
+      "ExternalID": "0723385345169-1-12",
+      "AlbumTitle": "Ivan Fischer : Fanfare La Malinconia et autres oeuvres",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0723385345169",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nora Fischer",
+          "Profession": "Interprète",
+          "InterventionNote": "Nora Fischer : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Wim Van Hasselt",
+          "Profession": "Interprète",
+          "InterventionNote": "Wim Van Hasselt : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Festival De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:56:58+01:00",
+      "composer": "http://data.doremus.org/artist/91b2943d-5947-3c99-a9aa-0157ed548ceb"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:57:41:00",
+      "ScheduledDuration": "00:03:37:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Jiddische Arie - pour soprano trompette et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Jiddische Arie - pour soprano trompette et cordes",
+      "Label": "CHANNEL CLASSICS",
+      "ReferenceLabel": "CCS 34516",
+      "ExternalID": "0723385345169-1-13",
+      "AlbumTitle": "Ivan Fischer : Fanfare La Malinconia et autres oeuvres",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0723385345169",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nora Fischer",
+          "Profession": "Interprète",
+          "InterventionNote": "Nora Fischer : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Wim Van Hasselt",
+          "Profession": "Interprète",
+          "InterventionNote": "Wim Van Hasselt : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Festival De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:57:41+01:00",
+      "composer": "http://data.doremus.org/artist/91b2943d-5947-3c99-a9aa-0157ed548ceb"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "03:01:18:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Grabschrift - pour soprano trompette et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eine deutsch-jiddische Kantate Die Stimmen der Geister : Grabschrift - pour soprano trompette et cordes",
+      "Label": "CHANNEL CLASSICS",
+      "ReferenceLabel": "CCS 34516",
+      "ExternalID": "0723385345169-1-14",
+      "AlbumTitle": "Ivan Fischer : Fanfare La Malinconia et autres oeuvres",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0723385345169",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nora Fischer",
+          "Profession": "Interprète",
+          "InterventionNote": "Nora Fischer : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Wim Van Hasselt",
+          "Profession": "Interprète",
+          "InterventionNote": "Wim Van Hasselt : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Festival De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ivan Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T03:01:18+01:00",
+      "composer": "http://data.doremus.org/artist/91b2943d-5947-3c99-a9aa-0157ed548ceb"
+    }
+  ],
+  "total": 42,
+  "matched": 9
+}

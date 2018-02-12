@@ -1,0 +1,3749 @@
+{
+  "id": "FM-401_20170116_00-23",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:01:21:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Prélude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Prélude",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-1",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:00:23+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/63eb0fe2-9c9a-3e40-9dbd-62c7b0833b6a",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:01:44:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Te Deum laudamus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Te Deum laudamus",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-2",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:01:44+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:02:46:00",
+      "ScheduledDuration": "00:04:09:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Te aeternum Patrem",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Te aeternum Patrem",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-3",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:02:46+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/9c8b4b7f-09a7-3588-9c16-0d34fae525dd",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:06:55:00",
+      "ScheduledDuration": "00:04:16:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Te per orbem terrarum",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Te per orbem terrarum",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-4",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:06:55+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/9c8b4b7f-09a7-3588-9c16-0d34fae525dd",
+      "best_matching_score": "0.72"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:11:11:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Tu devicto mortis aculeo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Tu devicto mortis aculeo",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-5",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:11:11+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/9c8b4b7f-09a7-3588-9c16-0d34fae525dd",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:12:24:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Te ergo quaesumus famulis tuis subveni",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Te ergo quaesumus famulis tuis subveni",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-6",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:12:24+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/8f448192-4543-3306-ae00-f97a7197a7af",
+      "best_matching_score": "0.72"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:14:38:00",
+      "ScheduledDuration": "00:02:16:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Aeterna fac cum santis tuis",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Aeterna fac cum santis tuis",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-7",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:14:38+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/9c8b4b7f-09a7-3588-9c16-0d34fae525dd",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:16:54:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : Dignare Domine / Fiat misercordia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : Dignare Domine / Fiat misercordia",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-8",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:16:54+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/9c8b4b7f-09a7-3588-9c16-0d34fae525dd",
+      "best_matching_score": "0.73"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:20:54:00",
+      "ScheduledDuration": "00:02:20:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Te Deum en Ré Maj H 146 : In te Domine speravi",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Te Deum en Ré Maj H 146 : In te Domine speravi",
+      "Label": "RALPH MAIER",
+      "ReferenceLabel": "ALPHA 952",
+      "ExternalID": "3760014199523-1-9",
+      "AlbumTitle": "Marc Antoine Charpentier et Jean Baptiste Lully : Te Deum",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014199523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aurore Bucher",
+          "Profession": "Interprète",
+          "InterventionNote": "Aurore Bucher : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Reinoud Van Mechelen",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinoud Van Mechelen : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jeffery Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeffery Thompson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Benoit Arnould",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Arnould : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Poeme Harmonique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Capella Cracoviensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vincent Dumestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:20:54+01:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/9c8b4b7f-09a7-3588-9c16-0d34fae525dd",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:23:17:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Septuor en Mi bémol Maj op 20 : Scherzo : Allegro molto e vivace - pour violon alto violoncelle contrebasse clarinette cor et basson",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Septuor en Mi bémol Maj op 20 : Scherzo : Allegro molto e vivace - pour violon alto violoncelle contrebasse clarinette cor et basson",
+      "Label": "ARTE NOVA CLASSICS",
+      "ReferenceLabel": "82876 64015 2",
+      "ExternalID": "0828766401523-1-8",
+      "AlbumTitle": "Ludwig van Beethoven : Triple concerto et Septuor",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0828766401523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gil Shaham",
+          "Profession": "Interprète",
+          "InterventionNote": "Gil Shaham : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Truls Mork",
+          "Profession": "Interprète",
+          "InterventionNote": "Truls Mork : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Michel Rouilly",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Rouilly : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michael Reid",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Reid : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Jakob Hefti",
+          "Profession": "Interprète",
+          "InterventionNote": "Jakob Hefti : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Florenz Jenny",
+          "Profession": "Interprète",
+          "InterventionNote": "Florenz Jenny : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Ronald Dangel",
+          "Profession": "Interprète",
+          "InterventionNote": "Ronald Dangel : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:23:17+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:26:28:00",
+      "ScheduledDuration": "00:00:50:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°22",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°22",
+      "Label": "ERATO",
+      "ReferenceLabel": "190295939694",
+      "ExternalID": "0190295939694-1-23",
+      "AlbumTitle": "Beethoven : Variations Diabelli",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295939694",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Barenboim",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Barenboim : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T00:26:28+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:27:18:00",
+      "ScheduledDuration": "00:00:52:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°23",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°23",
+      "Label": "ERATO",
+      "ReferenceLabel": "190295939694",
+      "ExternalID": "0190295939694-1-24",
+      "AlbumTitle": "Beethoven : Variations Diabelli",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295939694",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Barenboim",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Barenboim : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T00:27:18+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:28:10:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°24",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°24",
+      "Label": "ERATO",
+      "ReferenceLabel": "190295939694",
+      "ExternalID": "0190295939694-1-25",
+      "AlbumTitle": "Beethoven : Variations Diabelli",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295939694",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Barenboim",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Barenboim : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T00:28:10+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:31:14:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°25",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "33 variations en Ut Maj sur une valse de Diabelli op 120 : Variation n°25",
+      "Label": "ERATO",
+      "ReferenceLabel": "190295939694",
+      "ExternalID": "0190295939694-1-26",
+      "AlbumTitle": "Beethoven : Variations Diabelli",
+      "Rank": 26,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295939694",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Barenboim",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Barenboim : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T00:31:14+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:32:17:00",
+      "ScheduledDuration": "00:01:39:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don Giovanni K 527 : Notte e giorno faticar (Acte I Sc 1) Air de Leporello",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don Giovanni K 527 : Notte e giorno faticar (Acte I Sc 1) Air de Leporello",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0825646994052",
+      "ExternalID": "0825646994052-1-2",
+      "AlbumTitle": "Don Giovanni K 527",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646994052",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Giuseppe Taddei",
+        "Profession": "Interprète",
+        "InterventionNote": "Giuseppe Taddei : Basse (voix), Leporello",
+        "mop": "Basse (voix), Leporello"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Carlo Maria Giulini",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:32:17+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/2511c676-d062-31ad-8429-f3e93630f6a1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:33:56:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don Giovanni K 527 : Non sperar (Acte I Sc 1) Donna Anna Don Giovanni Leporello",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don Giovanni K 527 : Non sperar (Acte I Sc 1) Donna Anna Don Giovanni Leporello",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0825646994052",
+      "ExternalID": "0825646994052-1-3",
+      "AlbumTitle": "Don Giovanni K 527",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646994052",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eberhard Wachter",
+          "Profession": "Interprète",
+          "InterventionNote": "Eberhard Wachter : Basse (voix), Don Giovanni",
+          "mop": "Basse (voix), Don Giovanni"
+        },
+        {
+          "FullName": "Joan Sutherland",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Sutherland : Soprano, Donna Anna",
+          "mop": "Soprano, Donna Anna"
+        },
+        {
+          "FullName": "Giuseppe Taddei",
+          "Profession": "Interprète",
+          "InterventionNote": "Giuseppe Taddei : Basse (voix), Leporello",
+          "mop": "Basse (voix), Leporello"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Carlo Maria Giulini",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:33:56+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/2511c676-d062-31ad-8429-f3e93630f6a1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:35:14:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don Giovanni K 527 : Lasciala indegno (Acte I Sc 1) Le Commandeur don Giovanni Leporello",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don Giovanni K 527 : Lasciala indegno (Acte I Sc 1) Le Commandeur don Giovanni Leporello",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0825646994052",
+      "ExternalID": "0825646994052-1-4",
+      "AlbumTitle": "Don Giovanni K 527",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646994052",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Roberto Benaglio",
+          "Profession": "Interprète",
+          "InterventionNote": "Roberto Benaglio"
+        },
+        {
+          "FullName": "Eberhard Wachter",
+          "Profession": "Interprète",
+          "InterventionNote": "Eberhard Wachter : Basse (voix), Don Giovanni",
+          "mop": "Basse (voix), Don Giovanni"
+        },
+        {
+          "FullName": "Joan Sutherland",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Sutherland : Soprano, Donna Anna",
+          "mop": "Soprano, Donna Anna"
+        },
+        {
+          "FullName": "Giuseppe Taddei",
+          "Profession": "Interprète",
+          "InterventionNote": "Giuseppe Taddei : Basse (voix), Leporello",
+          "mop": "Basse (voix), Leporello"
+        },
+        {
+          "FullName": "Gottlob Frick",
+          "Profession": "Interprète",
+          "InterventionNote": "Gottlob Frick : Basse (voix), Le Commandeur",
+          "mop": "Basse (voix), Le Commandeur"
+        },
+        {
+          "FullName": "Elisabeth Schwarzkopf",
+          "Profession": "Interprète",
+          "InterventionNote": "Elisabeth Schwarzkopf : Soprano, Donna Elvira",
+          "mop": "Soprano, Donna Elvira"
+        },
+        {
+          "FullName": "Luigi Alva",
+          "Profession": "Interprète",
+          "InterventionNote": "Luigi Alva : Ténor, Don Ottavio",
+          "mop": "Ténor, Don Ottavio"
+        },
+        {
+          "FullName": "Piero Cappuccilli",
+          "Profession": "Interprète",
+          "InterventionNote": "Piero Cappuccilli : Basse (voix), Masetto",
+          "mop": "Basse (voix), Masetto"
+        },
+        {
+          "FullName": "Graziella Sciutti",
+          "Profession": "Interprète",
+          "InterventionNote": "Graziella Sciutti : Soprano, Zerlina",
+          "mop": "Soprano, Zerlina"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Philharmonia",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Carlo Maria Giulini",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:35:14+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/da23dfd4-5b9c-3fe5-a25a-641d2138d71d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:37:21:00",
+      "ScheduledDuration": "00:08:53:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°25 en Ut Maj K 503 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°25 en Ut Maj K 503 : Allegretto",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA243",
+      "ExternalID": "3760014192432-1-9",
+      "AlbumTitle": "Wolfgang Amadeus Mozart : Concertos pour piano",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Olivier Cave",
+        "Profession": "Interprète",
+        "InterventionNote": "Olivier Cave : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Divertissement",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rinaldo Alessandrini",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T00:37:21+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/9ccab496-a3e1-3cf7-af2c-7123490a42dc",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:46:18:00",
+      "ScheduledDuration": "00:01:23:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Winterreise op 89 D 911 : Mut",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Winterreise op 89 D 911 : Mut",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902107",
+      "ExternalID": "3149020210727-1-22",
+      "AlbumTitle": "Franz Schubert : Winterreise",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020210727",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Matthias Goerne",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthias Goerne : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Christoph Eschenbach",
+          "Profession": "Interprète",
+          "InterventionNote": "Christoph Eschenbach : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:46:18+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/0c40dade-a4da-3288-87db-22735863462c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:47:41:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Winterreise op 89 D 911 : Die Nebensonnen",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Winterreise op 89 D 911 : Die Nebensonnen",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902107",
+      "ExternalID": "3149020210727-1-23",
+      "AlbumTitle": "Franz Schubert : Winterreise",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020210727",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Matthias Goerne",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthias Goerne : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Christoph Eschenbach",
+          "Profession": "Interprète",
+          "InterventionNote": "Christoph Eschenbach : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:47:41+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/0b4324b9-b6dd-36de-be1b-e9dc337e1cf4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:50:21:00",
+      "ScheduledDuration": "00:04:12:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Winterreise op 89 D 911 : Der Leiermann",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Winterreise op 89 D 911 : Der Leiermann",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902107",
+      "ExternalID": "3149020210727-1-24",
+      "AlbumTitle": "Franz Schubert : Winterreise",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020210727",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Matthias Goerne",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthias Goerne : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Christoph Eschenbach",
+          "Profession": "Interprète",
+          "InterventionNote": "Christoph Eschenbach : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:50:21+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/0c40dade-a4da-3288-87db-22735863462c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "00:54:56:00",
+      "ScheduledDuration": "00:16:45:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°14 en ré min D 810 : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°14 en ré min D 810 : Allegro",
+      "Label": "LABORIE",
+      "ReferenceLabel": "LC06",
+      "ExternalID": "0810473010013-1-5",
+      "AlbumTitle": "Franz Schubert : Quatuors à cordes",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0810473010013",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Mosaiques",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Mosaiques"
+        },
+        {
+          "FullName": "Erich Hobarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Erich Hobarth : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Andrea Bischof",
+          "Profession": "Interprète",
+          "InterventionNote": "Andrea Bischof : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Anita Mitterer",
+          "Profession": "Interprète",
+          "InterventionNote": "Anita Mitterer : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Christophe Coin",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Coin : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T00:54:56+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/8a4ec714-c44d-3675-9540-1b40ae671b4c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:11:44:00",
+      "ScheduledDuration": "00:03:40:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lachrimae antiquae novae - pavane / version pour consort de violes et luth",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lachrimae antiquae novae - pavane / version pour consort de violes et luth",
+      "Label": "EMI",
+      "ReferenceLabel": "5099998493128",
+      "ExternalID": "5099998493128-2-3",
+      "AlbumTitle": "Vermeer and music / Musique pour consort et consort songs de l'âge d'or",
+      "Rank": 3,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099998493128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Dowland",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Fretwork",
+        "Profession": "Interprète",
+        "InterventionNote": "Fretwork"
+      },
+      "ScheduledDateTime": "2017-01-16T01:11:44+01:00",
+      "composer": "http://data.doremus.org/artist/18436504-bad0-37ea-8f97-63dfbc939fb5"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:15:24:00",
+      "ScheduledDuration": "00:01:12:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Where the bee sucks - pour ténor et luth",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Where the bee sucks - pour ténor et luth",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0190295944735",
+      "ExternalID": "0190295944735-1-10",
+      "AlbumTitle": "Shakespeare songs / Chansons sur des textes de William Shakespeare",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295944735",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Johnson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ian Bostridge",
+          "Profession": "Interprète",
+          "InterventionNote": "Ian Bostridge : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Antonio Pappano",
+          "Profession": "Interprète",
+          "InterventionNote": "Antonio Pappano : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:15:24+01:00",
+      "composer": "http://data.doremus.org/artist/ce8bddb0-00e1-3edd-9108-fe21476a7409"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:16:36:00",
+      "ScheduledDuration": "00:03:27:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Full fathom five - pour ténor et luth",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Full fathom five - pour ténor et luth",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0190295944735",
+      "ExternalID": "0190295944735-1-11",
+      "AlbumTitle": "Shakespeare songs / Chansons sur des textes de William Shakespeare",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295944735",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Johnson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ian Bostridge",
+          "Profession": "Interprète",
+          "InterventionNote": "Ian Bostridge : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Antonio Pappano",
+          "Profession": "Interprète",
+          "InterventionNote": "Antonio Pappano : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:16:36+01:00",
+      "composer": "http://data.doremus.org/artist/ce8bddb0-00e1-3edd-9108-fe21476a7409"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:20:03:00",
+      "ScheduledDuration": "00:01:11:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "O Mistress mine - pour ténor et luth",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "O Mistress mine - pour ténor et luth",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0190295944735",
+      "ExternalID": "0190295944735-1-9",
+      "AlbumTitle": "Shakespeare songs / Chansons sur des textes de William Shakespeare",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295944735",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "William Byrd",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "The Playfords",
+        "Profession": "Bruiteur",
+        "InterventionNote": "The Playfords : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ian Bostridge",
+          "Profession": "Interprète",
+          "InterventionNote": "Ian Bostridge : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Elizabeth Kenny",
+          "Profession": "Interprète",
+          "InterventionNote": "Elizabeth Kenny : Luth",
+          "mop": "Luth"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:20:03+01:00",
+      "composer": "http://data.doremus.org/artist/243918e0-c466-3ad7-adb1-b2fb6019aee7"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:21:25:00",
+      "ScheduledDuration": "00:06:04:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The banks of Green Willow - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The banks of Green Willow - pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS2195",
+      "ExternalID": "7318599921952-1-1",
+      "AlbumTitle": "George Butterworth : Orchestral fantasia",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921952",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Butterworth",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De La Bbc Du Pays De Galles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kriss Russman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T01:21:25+01:00",
+      "composer": "http://data.doremus.org/artist/d2bd4057-77b3-3c8e-9f55-0425268b63fd",
+      "best": "http://data.doremus.org/expression/7438cca9-a448-3552-bd5c-caec21744ef2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:27:29:00",
+      "ScheduledDuration": "00:10:14:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Magnificat op 36 - pour choeur et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Magnificat op 36 - pour choeur et orchestre",
+      "Label": "DECCA",
+      "ReferenceLabel": "4822556",
+      "ExternalID": "0028948225569-1-14",
+      "AlbumTitle": "Gerald Finzi : Choral Music",
+      "Rank": 14,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948225569",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerald Finzi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "City Of London Sinfonia",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Richard Hickox Singers",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Richard Hickox",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T01:27:29+01:00",
+      "composer": "http://data.doremus.org/artist/c6da9431-b2e3-373e-a823-a501fef49d41"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:37:49:00",
+      "ScheduledDuration": "00:09:55:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min FP 146 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min FP 146 : Allegretto",
+      "Label": "RCA",
+      "ReferenceLabel": "88985321992",
+      "ExternalID": "0889853219926-4-4",
+      "AlbumTitle": "Eric Le Sage plays Poulenc",
+      "Rank": 4,
+      "NumVolume": 4,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853219926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eric Le Sage",
+        "Profession": "Interprète",
+        "InterventionNote": "Eric Le Sage : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Royal De Liege",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T01:37:49+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/e17d43e3-71db-340d-b54b-e4fda86bf488",
+      "best_matching_score": "0.77"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:47:44:00",
+      "ScheduledDuration": "00:06:00:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min FP 146 : Andante con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min FP 146 : Andante con moto",
+      "Label": "RCA",
+      "ReferenceLabel": "88985321992",
+      "ExternalID": "0889853219926-4-5",
+      "AlbumTitle": "Eric Le Sage plays Poulenc",
+      "Rank": 5,
+      "NumVolume": 4,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853219926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eric Le Sage",
+        "Profession": "Interprète",
+        "InterventionNote": "Eric Le Sage : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Royal De Liege",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T01:47:44+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/e17d43e3-71db-340d-b54b-e4fda86bf488",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:53:44:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min FP 146 : Rondeau à la française",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min FP 146 : Rondeau à la française",
+      "Label": "RCA",
+      "ReferenceLabel": "88985321992",
+      "ExternalID": "0889853219926-4-6",
+      "AlbumTitle": "Eric Le Sage plays Poulenc",
+      "Rank": 6,
+      "NumVolume": 4,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853219926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eric Le Sage",
+        "Profession": "Interprète",
+        "InterventionNote": "Eric Le Sage : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Royal De Liege",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T01:53:44+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/e17d43e3-71db-340d-b54b-e4fda86bf488",
+      "best_matching_score": "0.76"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "01:57:51:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sicilienne en sol min op 78 - pour violoncelle et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sicilienne en sol min op 78 - pour violoncelle et piano",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA 603",
+      "ExternalID": "3760014196034-1-23",
+      "AlbumTitle": "Gabriel Fauré : Musique de chambre",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014196034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Francois Salque",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Salque : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T01:57:51+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/4f77117e-b8e2-3598-8714-9f781660823d",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:01:17:00",
+      "ScheduledDuration": "00:00:39:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°1 - pour piano à 4 mains",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°1 - pour piano à 4 mains",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA 603",
+      "ExternalID": "3760014196034-1-11",
+      "AlbumTitle": "Gabriel Fauré : Musique de chambre",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014196034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T02:01:17+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/7f7d25d9-839b-3a27-add2-ab68a75df7b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:01:56:00",
+      "ScheduledDuration": "00:00:48:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°2 - pour piano à 4 mains",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°2 - pour piano à 4 mains",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA 603",
+      "ExternalID": "3760014196034-1-12",
+      "AlbumTitle": "Gabriel Fauré : Musique de chambre",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014196034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T02:01:56+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/7f7d25d9-839b-3a27-add2-ab68a75df7b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:02:44:00",
+      "ScheduledDuration": "00:00:35:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°3 - pour piano à 4 mains",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°3 - pour piano à 4 mains",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA 603",
+      "ExternalID": "3760014196034-1-13",
+      "AlbumTitle": "Gabriel Fauré : Musique de chambre",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014196034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T02:02:44+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/7f7d25d9-839b-3a27-add2-ab68a75df7b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:03:19:00",
+      "ScheduledDuration": "00:00:29:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°4 - pour piano à 4 mains",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°4 - pour piano à 4 mains",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA 603",
+      "ExternalID": "3760014196034-1-14",
+      "AlbumTitle": "Gabriel Fauré : Musique de chambre",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014196034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T02:03:19+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/7f7d25d9-839b-3a27-add2-ab68a75df7b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:03:48:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°5 - pour piano à 4 mains",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Souvenirs de Bayreuth op posth : Souvenirs de Bayreuth n°5 - pour piano à 4 mains",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA 603",
+      "ExternalID": "3760014196034-1-15",
+      "AlbumTitle": "Gabriel Fauré : Musique de chambre",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014196034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-16T02:03:48+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/7f7d25d9-839b-3a27-add2-ab68a75df7b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:05:56:00",
+      "ScheduledDuration": "00:04:01:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Damnation de Faust op 24 / 2éme partie / Scene 6 : Chanson de mephistopheles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Damnation de Faust op 24 / 2éme partie / Scene 6 : Chanson de mephistopheles",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 463673-2",
+      "ExternalID": "0028946367322-1-10",
+      "AlbumTitle": "Hector Berlioz : La damnation de Faust et harold en italie/Markevitch",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946367322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Johann Wolfgang Von Goethe",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Johann Wolfgang Von Goethe : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Richard Verreau",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Verreau"
+        },
+        {
+          "FullName": "Michel Roux",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Roux"
+        },
+        {
+          "FullName": "Consuelo Rubio",
+          "Profession": "Interprète",
+          "InterventionNote": "Consuelo Rubio"
+        },
+        {
+          "FullName": "Pierre Mollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Mollet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Elisabeth Brasseur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:05:56+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/670aec0f-b2ac-3b39-88a9-17af624cafb2",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:09:57:00",
+      "ScheduledDuration": "00:02:27:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Damnation de Faust op 24 / 2éme partie / Scene 7 : Air de mephistopheles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Damnation de Faust op 24 / 2éme partie / Scene 7 : Air de mephistopheles",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 463673-2",
+      "ExternalID": "0028946367322-1-11",
+      "AlbumTitle": "Hector Berlioz : La damnation de Faust et harold en italie/Markevitch",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946367322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Johann Wolfgang Von Goethe",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Johann Wolfgang Von Goethe : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Richard Verreau",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Verreau"
+        },
+        {
+          "FullName": "Michel Roux",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Roux"
+        },
+        {
+          "FullName": "Consuelo Rubio",
+          "Profession": "Interprète",
+          "InterventionNote": "Consuelo Rubio"
+        },
+        {
+          "FullName": "Pierre Mollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Mollet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Elisabeth Brasseur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:09:57+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/670aec0f-b2ac-3b39-88a9-17af624cafb2",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:12:24:00",
+      "ScheduledDuration": "00:06:21:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Damnation de Faust op 24 / 2éme partie / Scene 7 : Songe de Faust - choeur de gnomes et de sylph",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Damnation de Faust op 24 / 2éme partie / Scene 7 : Songe de Faust - choeur de gnomes et de sylph",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 463673-2",
+      "ExternalID": "0028946367322-1-12",
+      "AlbumTitle": "Hector Berlioz : La damnation de Faust et harold en italie/Markevitch",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946367322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Johann Wolfgang Von Goethe",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Johann Wolfgang Von Goethe : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Richard Verreau",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Verreau"
+        },
+        {
+          "FullName": "Michel Roux",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Roux"
+        },
+        {
+          "FullName": "Consuelo Rubio",
+          "Profession": "Interprète",
+          "InterventionNote": "Consuelo Rubio"
+        },
+        {
+          "FullName": "Pierre Mollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Mollet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Elisabeth Brasseur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:12:24+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/670aec0f-b2ac-3b39-88a9-17af624cafb2",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:18:45:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Damnation de Faust op 24 / 2éme partie / Scene 7 : Ballet des sylphes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Damnation de Faust op 24 / 2éme partie / Scene 7 : Ballet des sylphes",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 463673-2",
+      "ExternalID": "0028946367322-1-13",
+      "AlbumTitle": "Hector Berlioz : La damnation de Faust et harold en italie/Markevitch",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946367322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Johann Wolfgang Von Goethe",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Johann Wolfgang Von Goethe : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Richard Verreau",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Verreau"
+        },
+        {
+          "FullName": "Michel Roux",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Roux"
+        },
+        {
+          "FullName": "Consuelo Rubio",
+          "Profession": "Interprète",
+          "InterventionNote": "Consuelo Rubio"
+        },
+        {
+          "FullName": "Pierre Mollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Mollet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Elisabeth Brasseur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:18:45+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/670aec0f-b2ac-3b39-88a9-17af624cafb2",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:22:11:00",
+      "ScheduledDuration": "00:04:17:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Damnation de Faust op 24 / 2éme partie / Scene 8 : Choeur des soldats, chanson d'etudiants",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Damnation de Faust op 24 / 2éme partie / Scene 8 : Choeur des soldats, chanson d'etudiants",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 463673-2",
+      "ExternalID": "0028946367322-1-14",
+      "AlbumTitle": "Hector Berlioz : La damnation de Faust et harold en italie/Markevitch",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946367322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Johann Wolfgang Von Goethe",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Johann Wolfgang Von Goethe : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Richard Verreau",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Verreau"
+        },
+        {
+          "FullName": "Michel Roux",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Roux"
+        },
+        {
+          "FullName": "Consuelo Rubio",
+          "Profession": "Interprète",
+          "InterventionNote": "Consuelo Rubio"
+        },
+        {
+          "FullName": "Pierre Mollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Mollet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Elisabeth Brasseur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:22:11+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/670aec0f-b2ac-3b39-88a9-17af624cafb2",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:26:28:00",
+      "ScheduledDuration": "00:00:52:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Damnation de Faust op 24 / Damnation de Faust op 24 / 3éme partie : Tambours et trompottes sonnet la ratraite",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Damnation de Faust op 24 / Damnation de Faust op 24 / 3éme partie : Tambours et trompottes sonnet la ratraite",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 463673-2",
+      "ExternalID": "0028946367322-1-15",
+      "AlbumTitle": "Hector Berlioz : La damnation de Faust et harold en italie/Markevitch",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946367322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Johann Wolfgang Von Goethe",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Johann Wolfgang Von Goethe : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Richard Verreau",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Verreau"
+        },
+        {
+          "FullName": "Michel Roux",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Roux"
+        },
+        {
+          "FullName": "Consuelo Rubio",
+          "Profession": "Interprète",
+          "InterventionNote": "Consuelo Rubio"
+        },
+        {
+          "FullName": "Pierre Mollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Mollet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Elisabeth Brasseur",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:26:28+01:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/670aec0f-b2ac-3b39-88a9-17af624cafb2",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:27:31:00",
+      "ScheduledDuration": "00:13:33:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concertino H 143 - pour violoncelle vents percussions et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concertino H 143 - pour violoncelle vents percussions et piano",
+      "Label": "FONDAMENTA",
+      "ReferenceLabel": "FON1603021",
+      "ExternalID": "0889853494026-4-5",
+      "AlbumTitle": "André Navarra - The Cello",
+      "Rank": 5,
+      "NumVolume": 4,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853494026",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bohuslav Martinu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Andre Navarra",
+        "Profession": "Interprète",
+        "InterventionNote": "Andre Navarra : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "Harmonie De Chambre De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Martin Turnovsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:27:31+01:00",
+      "composer": "http://data.doremus.org/artist/3ed4f326-18a2-3cc1-bc8b-3d5d41d0c1dd",
+      "best": "http://data.doremus.org/expression/b5978465-9dec-39c1-845a-92980ba0bb8e",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:41:10:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Um schlimme Kinder artig zu machen - pour baryton et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Um schlimme Kinder artig zu machen - pour baryton et orchestre",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902180",
+      "ISRC": "FR-Z14-15-26040",
+      "ExternalID": "3149020218020-1-4",
+      "AlbumTitle": "Luciano Berio : Sinfonia et Gustav Mahler : 10 frühe Lieder",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020218020",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Luciano Berio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Luciano Berio : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Matthias Goerne",
+        "Profession": "Interprète",
+        "InterventionNote": "Matthias Goerne : Baryton (voix)",
+        "mop": "Baryton (voix)"
+      },
+      "Orchestra": {
+        "EntityName": "Bbc Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Josep Pons",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:41:10+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/ed4c25b9-839c-3422-b4ee-f9c58286d1ca",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:43:00:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Erinnerung - pour baryton et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Erinnerung - pour baryton et orchestre",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902180",
+      "ISRC": "FR-Z14-15-26050",
+      "ExternalID": "3149020218020-1-5",
+      "AlbumTitle": "Luciano Berio : Sinfonia et Gustav Mahler : 10 frühe Lieder",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020218020",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Luciano Berio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Luciano Berio : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Matthias Goerne",
+        "Profession": "Interprète",
+        "InterventionNote": "Matthias Goerne : Baryton (voix)",
+        "mop": "Baryton (voix)"
+      },
+      "Orchestra": {
+        "EntityName": "Bbc Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Josep Pons",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:43:00+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/676dfaec-55c3-3dc7-a4e1-833d21bd1b78",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:45:48:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hans und Grete - pour baryton et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hans und Grete - pour baryton et orchestre",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902180",
+      "ISRC": "FR-Z14-15-26060",
+      "ExternalID": "3149020218020-1-6",
+      "AlbumTitle": "Luciano Berio : Sinfonia et Gustav Mahler : 10 frühe Lieder",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020218020",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Luciano Berio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Luciano Berio : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Matthias Goerne",
+        "Profession": "Interprète",
+        "InterventionNote": "Matthias Goerne : Baryton (voix)",
+        "mop": "Baryton (voix)"
+      },
+      "Orchestra": {
+        "EntityName": "Bbc Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Josep Pons",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-16T02:45:48+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/15e78bca-b9cc-3fac-b89e-dbbd0f0a2944",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:48:01:00",
+      "ScheduledDuration": "00:00:48:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Introduction - Mouvement n°1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Introduction - Mouvement n°1",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00001",
+      "ExternalID": "3770001901480-1-1",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:48:01+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:48:49:00",
+      "ScheduledDuration": "00:00:22:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°2",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00002",
+      "ExternalID": "3770001901480-1-2",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:48:49+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:49:11:00",
+      "ScheduledDuration": "00:00:44:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°3",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00003",
+      "ExternalID": "3770001901480-1-3",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:49:11+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:49:55:00",
+      "ScheduledDuration": "00:00:52:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°4",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°4",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00004",
+      "ExternalID": "3770001901480-1-4",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:49:55+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "66",
+      "StepID": "66",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:50:47:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 65,
+      "Inclusion": 0,
+      "NumEventCond": 66,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°5",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00005",
+      "ExternalID": "3770001901480-1-5",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:50:47+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/930aa52e-4b21-3601-959f-f54f21b0338e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:51:53:00",
+      "ScheduledDuration": "00:00:59:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°6",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°6",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00006",
+      "ExternalID": "3770001901480-1-6",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:51:53+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/930aa52e-4b21-3601-959f-f54f21b0338e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "68",
+      "StepID": "68",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:52:52:00",
+      "ScheduledDuration": "00:01:01:00",
+      "NumPhase": 67,
+      "Inclusion": 0,
+      "NumEventCond": 68,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°7",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°7",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00007",
+      "ExternalID": "3770001901480-1-7",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:52:52+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/930aa52e-4b21-3601-959f-f54f21b0338e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:53:53:00",
+      "ScheduledDuration": "00:01:11:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°8",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°8",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00008",
+      "ExternalID": "3770001901480-1-8",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:53:53+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "70",
+      "StepID": "70",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:55:04:00",
+      "ScheduledDuration": "00:00:46:00",
+      "NumPhase": 69,
+      "Inclusion": 0,
+      "NumEventCond": 70,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°9",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°9",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00009",
+      "ExternalID": "3770001901480-1-9",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:55:04+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "71",
+      "StepID": "71",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:55:50:00",
+      "ScheduledDuration": "00:01:51:00",
+      "NumPhase": 70,
+      "Inclusion": 0,
+      "NumEventCond": 71,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°10",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°10",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00010",
+      "ExternalID": "3770001901480-1-10",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:55:50+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/930aa52e-4b21-3601-959f-f54f21b0338e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "72",
+      "StepID": "72",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "02:57:41:00",
+      "ScheduledDuration": "00:03:19:00",
+      "NumPhase": 71,
+      "Inclusion": 0,
+      "NumEventCond": 72,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°11",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°11",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00011",
+      "ExternalID": "3770001901480-1-11",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T02:57:41+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/930aa52e-4b21-3601-959f-f54f21b0338e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "73",
+      "StepID": "73",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-16",
+      "ScheduledTime": "03:01:00:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 72,
+      "Inclusion": 0,
+      "NumEventCond": 73,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons op 2 : Mouvement n°12",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons op 2 : Mouvement n°12",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV28",
+      "ISRC": "FR-3Z5-16-00012",
+      "ExternalID": "3770001901480-1-12",
+      "AlbumTitle": "Robert Schumann : Papillons Carnaval et Davidbündlertänze",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001901480",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Philippe Bianconi",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Bianconi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-16T03:01:00+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/899efda1-5361-3821-a2e8-293f2a1af579",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 59,
+  "matched": 48
+}

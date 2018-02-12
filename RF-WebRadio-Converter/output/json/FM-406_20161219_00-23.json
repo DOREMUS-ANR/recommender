@@ -1,0 +1,1696 @@
+{
+  "id": "FM-406_20161219_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:00:51:00",
+      "ScheduledDuration": "00:08:26:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°2 : Allegro molto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°2 : Allegro molto",
+      "Label": "CBS",
+      "ReferenceLabel": "MPK 46732",
+      "ExternalID": "5099704673226-1-2",
+      "AlbumTitle": "William Walton : Symphonie n°2 et autres oeuvres orchestrales",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1959-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704673226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "William Walton",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "George Szell",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:00:51+01:00",
+      "composer": "http://data.doremus.org/artist/8e94bb94-19ee-3247-9795-b956f2244b9e",
+      "best": "http://data.doremus.org/expression/2cd87331-e01a-3a95-ad38-7549c1bbd9ea",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:09:17:00",
+      "ScheduledDuration": "00:10:14:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°2 : Lento assai",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°2 : Lento assai",
+      "Label": "CBS",
+      "ReferenceLabel": "MPK 46732",
+      "ExternalID": "5099704673226-1-3",
+      "AlbumTitle": "William Walton : Symphonie n°2 et autres oeuvres orchestrales",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1959-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704673226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "William Walton",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "George Szell",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:09:17+01:00",
+      "composer": "http://data.doremus.org/artist/8e94bb94-19ee-3247-9795-b956f2244b9e",
+      "best": "http://data.doremus.org/expression/cd313cb7-0185-3efd-91a2-8b0b86694f5b",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:19:31:00",
+      "ScheduledDuration": "00:08:35:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°2 : Passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°2 : Passacaille",
+      "Label": "CBS",
+      "ReferenceLabel": "MPK 46732",
+      "ExternalID": "5099704673226-1-4",
+      "AlbumTitle": "William Walton : Symphonie n°2 et autres oeuvres orchestrales",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1959-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704673226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "William Walton",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "George Szell",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:19:31+01:00",
+      "composer": "http://data.doremus.org/artist/8e94bb94-19ee-3247-9795-b956f2244b9e",
+      "best": "http://data.doremus.org/expression/cd313cb7-0185-3efd-91a2-8b0b86694f5b",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:29:05:00",
+      "ScheduledDuration": "00:02:46:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Under the skin : Creation",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Under the skin : Creation",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 543-2",
+      "ExternalID": "3299039954324-1-1",
+      "AlbumTitle": "BOF / Under the skin",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039954324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mica Levi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-19T00:29:05+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:31:51:00",
+      "ScheduledDuration": "00:06:41:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Under the skin : Lips to void",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Under the skin : Lips to void",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 543-2",
+      "ExternalID": "3299039954324-1-2",
+      "AlbumTitle": "BOF / Under the skin",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039954324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mica Levi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-19T00:31:51+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:39:21:00",
+      "ScheduledDuration": "00:21:46:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Coptic light - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Coptic light - pour orchestre",
+      "Label": "RCO LIVE",
+      "ReferenceLabel": "RCO 11004/12",
+      "ExternalID": "RF00000024569-1-5",
+      "AlbumTitle": "Stravinsky Feldman et Berio : oeuvres pour orchestre et avec musique vocale",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024569",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Feldman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Eotvos",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:39:21+01:00",
+      "composer": "http://data.doremus.org/artist/1a18ac85-9c70-3cb1-94fb-c23628943c69",
+      "best": "http://data.doremus.org/expression/560276a0-73a9-39e3-a46d-02808af3d122",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:01:20:00",
+      "ScheduledDuration": "00:04:16:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate - 1. Fantasia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate - 1. Fantasia",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMN 911699",
+      "ExternalID": "0794881503322-1-13",
+      "AlbumTitle": "Oeuvres pour violoncelle seul",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881503322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emmanuelle Bertrand",
+        "Profession": "Interprète",
+        "InterventionNote": "Emmanuelle Bertrand : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2016-12-19T01:01:20+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/5c360154-ece3-3272-b7b8-d4d14d3b21d5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:05:36:00",
+      "ScheduledDuration": "00:05:02:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate - 2. Tema pastorale con variazioni",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate - 2. Tema pastorale con variazioni",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMN 911699",
+      "ExternalID": "0794881503322-1-14",
+      "AlbumTitle": "Oeuvres pour violoncelle seul",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881503322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emmanuelle Bertrand",
+        "Profession": "Interprète",
+        "InterventionNote": "Emmanuelle Bertrand : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2016-12-19T01:05:36+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/5c360154-ece3-3272-b7b8-d4d14d3b21d5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:10:38:00",
+      "ScheduledDuration": "00:02:35:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate - 3. Toccata",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate - 3. Toccata",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMN 911699",
+      "ExternalID": "0794881503322-1-15",
+      "AlbumTitle": "Oeuvres pour violoncelle seul",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881503322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emmanuelle Bertrand",
+        "Profession": "Interprète",
+        "InterventionNote": "Emmanuelle Bertrand : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2016-12-19T01:10:38+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/5c360154-ece3-3272-b7b8-d4d14d3b21d5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:14:06:00",
+      "ScheduledDuration": "00:04:30:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Electric counterpoint (Fast)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Electric counterpoint (Fast)",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "979176-2",
+      "ExternalID": "0075597917628-1-6",
+      "AlbumTitle": "Different trains - electric counterpoint",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597917628",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pat Metheny",
+        "Profession": "Interprète",
+        "InterventionNote": "Pat Metheny : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2016-12-19T01:14:06+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/358ec945-c4a0-381e-921e-8fba13266007",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:19:07:00",
+      "ScheduledDuration": "00:04:47:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Xème remix : Marche dans le temps",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Xème remix : Marche dans le temps",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "476513-5",
+      "ExternalID": "RF00000035649-1-6",
+      "AlbumTitle": "Pierre Henry : Messe pour le temps présent et La Xème remix / Vol.5",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035649",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-19T01:19:07+01:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:23:54:00",
+      "ScheduledDuration": "00:05:21:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Xème remix : Pas perdus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Xème remix : Pas perdus",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "476513-5",
+      "ExternalID": "RF00000035649-1-7",
+      "AlbumTitle": "Pierre Henry : Messe pour le temps présent et La Xème remix / Vol.5",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035649",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-19T01:23:54+01:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:29:15:00",
+      "ScheduledDuration": "00:02:53:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Xème remix : Beethoven seul",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Xème remix : Beethoven seul",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "476513-5",
+      "ExternalID": "RF00000035649-1-8",
+      "AlbumTitle": "Pierre Henry : Messe pour le temps présent et La Xème remix / Vol.5",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035649",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-19T01:29:15+01:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:32:08:00",
+      "ScheduledDuration": "00:04:48:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Xème remix : Fantaisie flipper",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Xème remix : Fantaisie flipper",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "476513-5",
+      "ExternalID": "RF00000035649-1-9",
+      "AlbumTitle": "Pierre Henry : Messe pour le temps présent et La Xème remix / Vol.5",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035649",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-19T01:32:08+01:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:37:49:00",
+      "ScheduledDuration": "00:12:27:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sinfonia : In ruhig fliessender bewegung",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sinfonia : In ruhig fliessender bewegung",
+      "Label": "ERAT",
+      "ReferenceLabel": "ECD 88151",
+      "ExternalID": "3269658815122-1-3",
+      "AlbumTitle": "Luciano Berio : Sinfonia et Eindrücke",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3269658815122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre National De France",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre National De France"
+        },
+        {
+          "FullName": "Regis Pasquier",
+          "Profession": "Interprète",
+          "InterventionNote": "Regis Pasquier : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Choir": {
+        "EntityName": "New Swingle Singers",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:37:49+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/650bba02-8611-3d52-85f2-ac594c670cff",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:50:16:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sinfonia : 4eme mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sinfonia : 4eme mouvement",
+      "Label": "ERAT",
+      "ReferenceLabel": "ECD 88151",
+      "ExternalID": "3269658815122-1-4",
+      "AlbumTitle": "Luciano Berio : Sinfonia et Eindrücke",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3269658815122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre National De France",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre National De France"
+        },
+        {
+          "FullName": "Regis Pasquier",
+          "Profession": "Interprète",
+          "InterventionNote": "Regis Pasquier : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Choir": {
+        "EntityName": "New Swingle Singers",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:50:16+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/650bba02-8611-3d52-85f2-ac594c670cff",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:54:58:00",
+      "ScheduledDuration": "00:08:01:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concertino d'Autunno : Allegro - pour flûte à bec violon et 5 instrumentistes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concertino d'Autunno : Allegro - pour flûte à bec violon et 5 instrumentistes",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-1",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T01:54:58+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:02:59:00",
+      "ScheduledDuration": "00:02:46:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concertino d'Autunno : Adagio molto - pour flûte à bec violon et 5 instrumentistes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concertino d'Autunno : Adagio molto - pour flûte à bec violon et 5 instrumentistes",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-2",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:02:59+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:05:45:00",
+      "ScheduledDuration": "00:05:02:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concertino d'Autunno : Allegro - pour flûte à bec violon et 5 instrumentistes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concertino d'Autunno : Allegro - pour flûte à bec violon et 5 instrumentistes",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-3",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:05:45+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:11:09:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Acte II : 9eme tableau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Acte II : 9eme tableau",
+      "Label": "ERATO",
+      "ReferenceLabel": "ERAT ECD 755535",
+      "ExternalID": "3269657553520-1-10",
+      "AlbumTitle": "Marcel Landowski : La vieille maison",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3269657553520",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marcel Landowski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre Philharmonique Des Pays De La Loire",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre Philharmonique Des Pays De La Loire"
+        },
+        {
+          "FullName": "Danilo Sanges",
+          "Profession": "Interprète",
+          "InterventionNote": "Danilo Sanges"
+        },
+        {
+          "FullName": "Jean Philippe Lafont",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Lafont : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Catherine Dubosc",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Dubosc : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Michel Senechal",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Senechal : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Francois Ercolani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Francois Ercolani"
+        },
+        {
+          "FullName": "Christian Davesnes",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Davesnes"
+        },
+        {
+          "FullName": "Claude Genelle",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Genelle"
+        },
+        {
+          "FullName": "Yohann Le Goff",
+          "Profession": "Interprète",
+          "InterventionNote": "Yohann Le Goff"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Et Maitrise De L'Opera De Nantes",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Soustrot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:11:09+01:00",
+      "composer": "http://data.doremus.org/artist/47853bbf-24f5-389f-a6ee-6cb155abb63a"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:14:13:00",
+      "ScheduledDuration": "00:08:54:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Acte II : 10eme tableau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Acte II : 10eme tableau",
+      "Label": "ERATO",
+      "ReferenceLabel": "ERAT ECD 755535",
+      "ExternalID": "3269657553520-1-11",
+      "AlbumTitle": "Marcel Landowski : La vieille maison",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3269657553520",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marcel Landowski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre Philharmonique Des Pays De La Loire",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre Philharmonique Des Pays De La Loire"
+        },
+        {
+          "FullName": "Danilo Sanges",
+          "Profession": "Interprète",
+          "InterventionNote": "Danilo Sanges"
+        },
+        {
+          "FullName": "Jean Philippe Lafont",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Lafont : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Catherine Dubosc",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Dubosc : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Michel Senechal",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Senechal : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Francois Ercolani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Francois Ercolani"
+        },
+        {
+          "FullName": "Christian Davesnes",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Davesnes"
+        },
+        {
+          "FullName": "Claude Genelle",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Genelle"
+        },
+        {
+          "FullName": "Yohann Le Goff",
+          "Profession": "Interprète",
+          "InterventionNote": "Yohann Le Goff"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Et Maitrise De L'Opera De Nantes",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Soustrot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:14:13+01:00",
+      "composer": "http://data.doremus.org/artist/47853bbf-24f5-389f-a6ee-6cb155abb63a"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:23:07:00",
+      "ScheduledDuration": "00:03:02:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Acte II : 11eme tableau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Acte II : 11eme tableau",
+      "Label": "ERATO",
+      "ReferenceLabel": "ERAT ECD 755535",
+      "ExternalID": "3269657553520-1-12",
+      "AlbumTitle": "Marcel Landowski : La vieille maison",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3269657553520",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marcel Landowski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre Philharmonique Des Pays De La Loire",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre Philharmonique Des Pays De La Loire"
+        },
+        {
+          "FullName": "Danilo Sanges",
+          "Profession": "Interprète",
+          "InterventionNote": "Danilo Sanges"
+        },
+        {
+          "FullName": "Jean Philippe Lafont",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Lafont : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Catherine Dubosc",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Dubosc : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Michel Senechal",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Senechal : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Francois Ercolani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Francois Ercolani"
+        },
+        {
+          "FullName": "Christian Davesnes",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Davesnes"
+        },
+        {
+          "FullName": "Claude Genelle",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Genelle"
+        },
+        {
+          "FullName": "Yohann Le Goff",
+          "Profession": "Interprète",
+          "InterventionNote": "Yohann Le Goff"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Et Maitrise De L'Opera De Nantes",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Soustrot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:23:07+01:00",
+      "composer": "http://data.doremus.org/artist/47853bbf-24f5-389f-a6ee-6cb155abb63a"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:27:00:00",
+      "ScheduledDuration": "00:03:34:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Allegretto",
+      "Label": "AVIE",
+      "ReferenceLabel": "AV2253",
+      "ExternalID": "0822252225327-1-1",
+      "AlbumTitle": "Chostakovitch et Beethoven : Quatuors à cordes",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822252225327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Valentin Berlinsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Valentin Berlinsky"
+        },
+        {
+          "FullName": "Bartek Niziol",
+          "Profession": "Interprète",
+          "InterventionNote": "Bartek Niziol : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Xiaoming Wang",
+          "Profession": "Interprète",
+          "InterventionNote": "Xiaoming Wang : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Greenlees",
+          "Profession": "Interprète",
+          "InterventionNote": "David Greenlees : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Alexander Neustroev",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Neustroev : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:27:00+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:30:34:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Lento",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Lento",
+      "Label": "AVIE",
+      "ReferenceLabel": "AV2253",
+      "ExternalID": "0822252225327-1-2",
+      "AlbumTitle": "Chostakovitch et Beethoven : Quatuors à cordes",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822252225327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Valentin Berlinsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Valentin Berlinsky"
+        },
+        {
+          "FullName": "Bartek Niziol",
+          "Profession": "Interprète",
+          "InterventionNote": "Bartek Niziol : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Xiaoming Wang",
+          "Profession": "Interprète",
+          "InterventionNote": "Xiaoming Wang : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Greenlees",
+          "Profession": "Interprète",
+          "InterventionNote": "David Greenlees : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Alexander Neustroev",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Neustroev : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:30:34+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:33:54:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Allegro",
+      "Label": "AVIE",
+      "ReferenceLabel": "AV2253",
+      "ExternalID": "0822252225327-1-3",
+      "AlbumTitle": "Chostakovitch et Beethoven : Quatuors à cordes",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822252225327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Valentin Berlinsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Valentin Berlinsky"
+        },
+        {
+          "FullName": "Bartek Niziol",
+          "Profession": "Interprète",
+          "InterventionNote": "Bartek Niziol : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Xiaoming Wang",
+          "Profession": "Interprète",
+          "InterventionNote": "Xiaoming Wang : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Greenlees",
+          "Profession": "Interprète",
+          "InterventionNote": "David Greenlees : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Alexander Neustroev",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Neustroev : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:33:54+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:36:25:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°7 en fa dièse min op 108 : Allegretto",
+      "Label": "AVIE",
+      "ReferenceLabel": "AV2253",
+      "ExternalID": "0822252225327-1-4",
+      "AlbumTitle": "Chostakovitch et Beethoven : Quatuors à cordes",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822252225327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Valentin Berlinsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Valentin Berlinsky"
+        },
+        {
+          "FullName": "Bartek Niziol",
+          "Profession": "Interprète",
+          "InterventionNote": "Bartek Niziol : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Xiaoming Wang",
+          "Profession": "Interprète",
+          "InterventionNote": "Xiaoming Wang : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Greenlees",
+          "Profession": "Interprète",
+          "InterventionNote": "David Greenlees : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Alexander Neustroev",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Neustroev : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:36:25+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:39:23:00",
+      "ScheduledDuration": "00:12:49:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le voyageur ensorcelé - part one : grusha the gypsy",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le voyageur ensorcelé - part one : grusha the gypsy",
+      "Label": "MARIINSKY",
+      "ReferenceLabel": "MAR0504",
+      "ExternalID": "0822231850427-1-9",
+      "AlbumTitle": "Rodion Schedrin : Le voyageur ensorcelé et autres oeuvres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231850427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Rodion Chedrine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Andrei Petrenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Andrei Petrenko"
+        },
+        {
+          "FullName": "Sergei Aleksashkin",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergei Aleksashkin : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Kristina Kapustinskaya",
+          "Profession": "Interprète",
+          "InterventionNote": "Kristina Kapustinskaya : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Evgueni Akimov",
+          "Profession": "Interprète",
+          "InterventionNote": "Evgueni Akimov : Ténor",
+          "mop": "Ténor"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Theatre Mariinsky",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Du Theatre Mariinsky",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Valery Gergiev",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:39:23+01:00",
+      "composer": "http://data.doremus.org/artist/046bda4c-e669-323a-9e36-96709808ba31"
+    }
+  ],
+  "total": 27,
+  "matched": 10
+}

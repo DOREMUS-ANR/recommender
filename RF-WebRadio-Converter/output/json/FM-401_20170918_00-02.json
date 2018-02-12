@@ -1,0 +1,2612 @@
+{
+  "id": "FM-401_20170918_00-02",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:02:55:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Ouverture",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-1",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:00:06+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:03:01:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Maître à danser : Ritournelle - Sarabande - Bourrée - Gaillarde",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Maître à danser : Ritournelle - Sarabande - Bourrée - Gaillarde",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-2",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:03:01+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/849a5ffb-09d4-3eaa-bde0-b6973216b37a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:05:01:00",
+      "ScheduledDuration": "00:01:38:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Maître à danser : Canaries",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Maître à danser : Canaries",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-3",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:05:01+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:06:39:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Céramonie des Turcs : Deuxième air",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Céramonie des Turcs : Deuxième air",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-5",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:06:39+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/849a5ffb-09d4-3eaa-bde0-b6973216b37a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:08:06:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Céramonie des Turcs : Troisième air",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Céramonie des Turcs : Troisième air",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-6",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:08:06+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/849a5ffb-09d4-3eaa-bde0-b6973216b37a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:09:00:00",
+      "ScheduledDuration": "00:01:21:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Céramonie des Turcs : Quatrième air",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Céramonie des Turcs : Quatrième air",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-7",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:09:00+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:10:21:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Entrée de trois importuns",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Entrée de trois importuns",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-8",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:10:21+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:11:27:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Premier air des Espagnols",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Premier air des Espagnols",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-9",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:11:27+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:12:35:00",
+      "ScheduledDuration": "00:01:26:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Deuxième air des Espagnols",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Deuxième air des Espagnols",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-10",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:12:35+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:14:01:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Entrée des Scaramouches Trivelins et Arlequin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Entrée des Scaramouches Trivelins et Arlequin",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-11",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:14:01+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:15:09:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Chaconne des Scaramouches Trivelins et Arlequin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bourgeois gentilhomme LWV 43 : Ballet des nations : Chaconne des Scaramouches Trivelins et Arlequin",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0805",
+      "ExternalID": "0095115080528-1-12",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115080528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Baptiste Lully",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:15:09+02:00",
+      "composer": "http://data.doremus.org/artist/4e21ae31-5390-3843-9236-078f8d4b8c30",
+      "best": "http://data.doremus.org/expression/788791b3-a116-303c-ba74-43fe7d93abe6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:17:19:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les ruines d'Athènes op 113 : Marche turque (Die Ruinen von Athen op 113 : Marche turque) - réduction pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les ruines d'Athènes op 113 : Marche turque (Die Ruinen von Athen op 113 : Marche turque) - réduction pour piano",
+      "Label": "KING INTERNATIONAL INC",
+      "ReferenceLabel": "KKC 2020/1",
+      "ExternalID": "4909346004573-2-7",
+      "AlbumTitle": "L'orchestre de la NHK interprète Mozart Tchaikovsky et autres compositeurs",
+      "Rank": 7,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4909346004573",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Lazar Berman",
+        "Profession": "Interprète",
+        "InterventionNote": "Lazar Berman : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-09-18T00:17:19+02:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:20:30:00",
+      "ScheduledDuration": "00:08:16:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Carl Maria von Weber - overture to preciosa op.78",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Carl Maria von Weber - overture to preciosa op.78",
+      "ExternalID": "0028947758389-6-2",
+      "AlbumTitle": "Rafael Kubelik : Rare recordings / 1963-1974",
+      "Rank": 2,
+      "NumVolume": 6,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947758389",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Maria Von Weber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Bavaroise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rafael Kubelik",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:20:30+02:00",
+      "composer": "http://data.doremus.org/artist/8000025a-e885-3177-99b3-300707faaad7"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:28:59:00",
+      "ScheduledDuration": "00:05:39:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièces pour Kuolema op 44 : Valse triste op 44 n°1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièces pour Kuolema op 44 : Valse triste op 44 n°1",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4795286",
+      "ExternalID": "RF00000050024-1-1",
+      "AlbumTitle": "Jean Sibelius : Oeuvres scéniques / CD 14",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Goteborg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neeme Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:28:59+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/943501e5-7a7f-3839-950d-12e0fd8ce5d2",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:34:38:00",
+      "ScheduledDuration": "00:05:07:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièces pour Kuolema op 44 : Scène avec des grues op 44 n°2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièces pour Kuolema op 44 : Scène avec des grues op 44 n°2",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4795286",
+      "ExternalID": "RF00000050024-1-2",
+      "AlbumTitle": "Jean Sibelius : Oeuvres scéniques / CD 14",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Goteborg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neeme Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:34:38+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/872eda06-0bf4-3403-b9e9-3413c0b9fe3a",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:39:45:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièces d'après Kuolema op 62 : Canzonetta op 62a",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièces d'après Kuolema op 62 : Canzonetta op 62a",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4795286",
+      "ExternalID": "RF00000050024-1-3",
+      "AlbumTitle": "Jean Sibelius : Oeuvres scéniques / CD 14",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Goteborg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neeme Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:39:45+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/f2586394-d5d2-32e9-886f-6edd31582a0b",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:43:07:00",
+      "ScheduledDuration": "00:04:01:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièces d'après Kuolema op 62 : Valse romantique op 62b",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièces d'après Kuolema op 62 : Valse romantique op 62b",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4795286",
+      "ExternalID": "RF00000050024-1-4",
+      "AlbumTitle": "Jean Sibelius : Oeuvres scéniques / CD 14",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Goteborg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neeme Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:43:07+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/8bbe7668-10ea-3a18-9b08-a7608f97efbe",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:47:08:00",
+      "ScheduledDuration": "00:10:14:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Salomé TrV 215 op 54 : Tanz der sieben Schleier",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Salomé TrV 215 op 54 : Tanz der sieben Schleier",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "476 4717",
+      "ExternalID": "0028947647171-1-7",
+      "AlbumTitle": "Dances and waves / Sommernachtskonzert de Schönbrunn 2012",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947647171",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Strauss",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gustavo Dudamel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:47:08+02:00",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
+      "best": "http://data.doremus.org/expression/f27598a9-a069-3d25-8918-306be33ccc70",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "00:57:31:00",
+      "ScheduledDuration": "00:10:50:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antoine et Cleopatre - 1. Antoine et Cleopatre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antoine et Cleopatre - 1. Antoine et Cleopatre",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1139",
+      "ExternalID": "3377891311339-1-1",
+      "AlbumTitle": "Florent Schmitt : Antoine et Cléopâtre et Mirages",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311339",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Florent Schmitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lorraine",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jacques Mercier",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T00:57:31+02:00",
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
+      "best": "http://data.doremus.org/expression/f09bda4e-e316-38f2-b476-cd2db5f2b8df",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:08:21:00",
+      "ScheduledDuration": "00:03:55:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antoine et Cleopatre - 2. Le camp de pompee",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antoine et Cleopatre - 2. Le camp de pompee",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1139",
+      "ExternalID": "3377891311339-1-2",
+      "AlbumTitle": "Florent Schmitt : Antoine et Cléopâtre et Mirages",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311339",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Florent Schmitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lorraine",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jacques Mercier",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:08:21+02:00",
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
+      "best": "http://data.doremus.org/expression/f09bda4e-e316-38f2-b476-cd2db5f2b8df",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:12:16:00",
+      "ScheduledDuration": "00:07:08:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antoine et Cleopatre - 3. La bataille d'atium",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antoine et Cleopatre - 3. La bataille d'atium",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1139",
+      "ExternalID": "3377891311339-1-3",
+      "AlbumTitle": "Florent Schmitt : Antoine et Cléopâtre et Mirages",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311339",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Florent Schmitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lorraine",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jacques Mercier",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:12:16+02:00",
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
+      "best": "http://data.doremus.org/expression/f09bda4e-e316-38f2-b476-cd2db5f2b8df",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:19:24:00",
+      "ScheduledDuration": "00:06:26:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antoine et Cleopatre - 4. Nuit au palais de la reine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antoine et Cleopatre - 4. Nuit au palais de la reine",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1139",
+      "ExternalID": "3377891311339-1-4",
+      "AlbumTitle": "Florent Schmitt : Antoine et Cléopâtre et Mirages",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311339",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Florent Schmitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lorraine",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jacques Mercier",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:19:24+02:00",
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
+      "best": "http://data.doremus.org/expression/f09bda4e-e316-38f2-b476-cd2db5f2b8df",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:25:50:00",
+      "ScheduledDuration": "00:10:03:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antoine et Cleopatre - 5. Orgies et danses",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antoine et Cleopatre - 5. Orgies et danses",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1139",
+      "ExternalID": "3377891311339-1-5",
+      "AlbumTitle": "Florent Schmitt : Antoine et Cléopâtre et Mirages",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311339",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Florent Schmitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lorraine",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jacques Mercier",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:25:50+02:00",
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
+      "best": "http://data.doremus.org/expression/f09bda4e-e316-38f2-b476-cd2db5f2b8df",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:35:53:00",
+      "ScheduledDuration": "00:06:55:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antoine et Cleopatre - 6. Le tombeau de Cleopatre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antoine et Cleopatre - 6. Le tombeau de Cleopatre",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1139",
+      "ExternalID": "3377891311339-1-6",
+      "AlbumTitle": "Florent Schmitt : Antoine et Cléopâtre et Mirages",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311339",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Florent Schmitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lorraine",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jacques Mercier",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:35:53+02:00",
+      "composer": "http://data.doremus.org/artist/e883aa9c-15cb-3700-a6e0-732f8278dd79",
+      "best": "http://data.doremus.org/expression/f09bda4e-e316-38f2-b476-cd2db5f2b8df",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:43:11:00",
+      "ScheduledDuration": "00:05:26:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Athalie op.74 : marche guerriere des pretres",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Athalie op.74 : marche guerriere des pretres",
+      "Label": "DECCA",
+      "ReferenceLabel": "411954-2",
+      "ExternalID": "0028941195425-1-5",
+      "AlbumTitle": "Pomp and circumstance : marches célèbres",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941195425",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Felix Mendelssohn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Christoph Von Dohnanyi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:43:11+02:00",
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:48:37:00",
+      "ScheduledDuration": "00:08:35:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Oedipus tyrannus op 29 : Prélude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Oedipus tyrannus op 29 : Prélude",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10797",
+      "ExternalID": "0095115179727-1-2",
+      "AlbumTitle": "Ouvertures des Iles Britanniques",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115179727",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Villiers Stanford",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De La Bbc Du Pays De Galles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rumon Gamba",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:48:37+02:00",
+      "composer": "http://data.doremus.org/artist/13ac454d-85d5-31d4-8efb-a4de52a2f2fa"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "01:57:12:00",
+      "ScheduledDuration": "00:12:40:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Overture to an unwritten tragedy",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Overture to an unwritten tragedy",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN10898",
+      "ExternalID": "0095115189825-1-8",
+      "AlbumTitle": "Overtures from the british isles / Vol 2",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115189825",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hubert Parry",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De La Bbc Du Pays De Galles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rumon Gamba",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T01:57:12+02:00",
+      "composer": "http://data.doremus.org/artist/40a0b09c-0b77-38dc-ba10-27ed29001273",
+      "best": "http://data.doremus.org/expression/0fda8e04-0493-3638-8b67-e6383b75caff",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:09:56:00",
+      "ScheduledDuration": "00:05:03:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Prélude de l'Acte I : Dans la cour nuptiale (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Prélude de l'Acte I : Dans la cour nuptiale (instrumental)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-1",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:09:56+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/5419172a-1987-3c4e-b01a-c616acba1fe5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:14:59:00",
+      "ScheduledDuration": "00:01:24:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Halling (Acte I) (violon solo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Halling (Acte I) (violon solo)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-2",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:14:59+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/858270de-9531-3acc-b782-a7c63575bda4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:16:23:00",
+      "ScheduledDuration": "00:04:49:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Prélude de l'Acte II : Le rapt de la fiancée : La plainte d'Ingrid (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Prélude de l'Acte II : Le rapt de la fiancée : La plainte d'Ingrid (instrumental)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-3",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:16:23+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/0f8676bd-5c32-38b0-aa7d-377110b44e3c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:21:12:00",
+      "ScheduledDuration": "00:01:57:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Peer Gynt et la femme en vert (Acte II Sc 5) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Peer Gynt et la femme en vert (Acte II Sc 5) (instrumental)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-4",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:21:12+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/5419172a-1987-3c4e-b01a-c616acba1fe5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:23:09:00",
+      "ScheduledDuration": "00:00:22:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : A sa monture on reconnait le noble (Acte II Sc 5) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : A sa monture on reconnait le noble (Acte II Sc 5) (instrumental)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-5",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:23:09+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/5419172a-1987-3c4e-b01a-c616acba1fe5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:23:31:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Springar (Acte I) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Springar (Acte I) (instrumental)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-6",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:23:31+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/d5fa27ed-bad3-3bfd-96fc-cd1588b2342d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:25:43:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Dans le palais du roi de la montagne et choeur des trolls (Acte II Sc 6)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Dans le palais du roi de la montagne et choeur des trolls (Acte II Sc 6)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-7",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Mattei",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Mattei : Baryton (voix), PEER GYNT",
+          "mop": "Baryton (voix), PEER GYNT"
+        },
+        {
+          "FullName": "Camilla Tilling",
+          "Profession": "Interprète",
+          "InterventionNote": "Camilla Tilling : Soprano, SOLVEIG",
+          "mop": "Soprano, SOLVEIG"
+        },
+        {
+          "FullName": "Charlotte Hellekant",
+          "Profession": "Interprète",
+          "InterventionNote": "Charlotte Hellekant : Mezzo-soprano, ANITRA",
+          "mop": "Mezzo-soprano, ANITRA"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "Choeur National D'Hommes D'Estonie",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Choeur De Filles Ellerhein",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:25:43+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/16ddcf0a-d765-3bfd-91a7-e68961b4d74f",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:28:07:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peer Gynt op 23 : Danse de la fille du roi de la montagne (Acte II Sc 6) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peer Gynt op 23 : Danse de la fille du roi de la montagne (Acte II Sc 6) (instrumental)",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5457222",
+      "ExternalID": "0724354572227-1-8",
+      "AlbumTitle": "Edouard grieg : Peer Gynt op 23 (intégrale)",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724354572227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat D'Estonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paavo Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:28:07+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/858270de-9531-3acc-b782-a7c63575bda4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:30:07:00",
+      "ScheduledDuration": "00:08:19:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ramuntcho suite n°1 : Ouverture - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ramuntcho suite n°1 : Ouverture - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10633",
+      "ExternalID": "0095115163320-1-6",
+      "AlbumTitle": "Gabriel Pierné : Oeuvres orchestrales",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115163320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Pierne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juanjo Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:30:07+02:00",
+      "composer": "http://data.doremus.org/artist/cc600189-10ff-3bee-8368-58fa67dc7f95",
+      "best": "http://data.doremus.org/expression/af6741f4-82e1-319f-83de-da97783f3277",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:38:26:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ramuntcho suite n°1 : La chambre de Franchita - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ramuntcho suite n°1 : La chambre de Franchita - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10633",
+      "ExternalID": "0095115163320-1-8",
+      "AlbumTitle": "Gabriel Pierné : Oeuvres orchestrales",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115163320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Pierne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juanjo Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:38:26+02:00",
+      "composer": "http://data.doremus.org/artist/cc600189-10ff-3bee-8368-58fa67dc7f95",
+      "best": "http://data.doremus.org/expression/af6741f4-82e1-319f-83de-da97783f3277",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:42:58:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ramuntcho suite n°1 : Fandango - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ramuntcho suite n°1 : Fandango - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10633",
+      "ExternalID": "0095115163320-1-9",
+      "AlbumTitle": "Gabriel Pierné : Oeuvres orchestrales",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115163320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Pierne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juanjo Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:42:58+02:00",
+      "composer": "http://data.doremus.org/artist/cc600189-10ff-3bee-8368-58fa67dc7f95",
+      "best": "http://data.doremus.org/expression/af6741f4-82e1-319f-83de-da97783f3277",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:44:54:00",
+      "ScheduledDuration": "00:01:36:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ramuntcho suite n°2 : La cidrerie - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ramuntcho suite n°2 : La cidrerie - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10633",
+      "ExternalID": "0095115163320-1-10",
+      "AlbumTitle": "Gabriel Pierné : Oeuvres orchestrales",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115163320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Pierne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juanjo Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:44:54+02:00",
+      "composer": "http://data.doremus.org/artist/cc600189-10ff-3bee-8368-58fa67dc7f95"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:46:30:00",
+      "ScheduledDuration": "00:03:52:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ramuntcho suite n°2 : Le couvent - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ramuntcho suite n°2 : Le couvent - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10633",
+      "ExternalID": "0095115163320-1-11",
+      "AlbumTitle": "Gabriel Pierné : Oeuvres orchestrales",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115163320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Pierne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juanjo Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:46:30+02:00",
+      "composer": "http://data.doremus.org/artist/cc600189-10ff-3bee-8368-58fa67dc7f95"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:50:22:00",
+      "ScheduledDuration": "00:09:20:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ramuntcho suite n°2 : Rapsodie basque - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ramuntcho suite n°2 : Rapsodie basque - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10633",
+      "ExternalID": "0095115163320-1-12",
+      "AlbumTitle": "Gabriel Pierné : Oeuvres orchestrales",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115163320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Pierne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juanjo Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T02:50:22+02:00",
+      "composer": "http://data.doremus.org/artist/cc600189-10ff-3bee-8368-58fa67dc7f95"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "02:59:51:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : I - adagio con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : I - adagio con moto",
+      "Label": "PRAGA DIGITALS",
+      "ReferenceLabel": "PRD 250108",
+      "ExternalID": "0794881415229-1-1",
+      "AlbumTitle": "String quartets - kreutzer sonata, intimate",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881415229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vaclav Remes",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Remes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-18T02:59:51+02:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43",
+      "best": "http://data.doremus.org/expression/64c17523-11c3-334a-a607-18daad40fc03",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:04:01:00",
+      "ScheduledDuration": "00:04:18:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : II - con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : II - con moto",
+      "Label": "PRAGA DIGITALS",
+      "ReferenceLabel": "PRD 250108",
+      "ExternalID": "0794881415229-1-2",
+      "AlbumTitle": "String quartets - kreutzer sonata, intimate",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881415229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vaclav Remes",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Remes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-18T03:04:01+02:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43",
+      "best": "http://data.doremus.org/expression/64c17523-11c3-334a-a607-18daad40fc03",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:08:19:00",
+      "ScheduledDuration": "00:03:55:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : III - con moto vivace andante tempo I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : III - con moto vivace andante tempo I",
+      "Label": "PRAGA DIGITALS",
+      "ReferenceLabel": "PRD 250108",
+      "ExternalID": "0794881415229-1-3",
+      "AlbumTitle": "String quartets - kreutzer sonata, intimate",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881415229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vaclav Remes",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Remes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-18T03:08:19+02:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43",
+      "best": "http://data.doremus.org/expression/64c17523-11c3-334a-a607-18daad40fc03",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:12:14:00",
+      "ScheduledDuration": "00:03:19:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jedermann op 83 : Tanssilautu (Ténor et choeur)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jedermann op 83 : Tanssilautu (Ténor et choeur)",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573340",
+      "ExternalID": "0747313334070-1-5",
+      "AlbumTitle": "Jean Sibelius : Jedermann 2 mélodies sérieuses et In memoriam",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313334070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tuomas Katajala",
+        "Profession": "Interprète",
+        "InterventionNote": "Tuomas Katajala : Ténor",
+        "mop": "Ténor"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Turku",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Chorus Cathedralis Aboensis",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leif Segerstam",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T03:12:14+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:15:33:00",
+      "ScheduledDuration": "00:05:09:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : IV - con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor a cordes n°1 \"\"sonate a kreutzer\"\" (1923) : IV - con moto",
+      "Label": "PRAGA DIGITALS",
+      "ReferenceLabel": "PRD 250108",
+      "ExternalID": "0794881415229-1-4",
+      "AlbumTitle": "String quartets - kreutzer sonata, intimate",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881415229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vaclav Remes",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Remes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-18T03:15:33+02:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43",
+      "best": "http://data.doremus.org/expression/64c17523-11c3-334a-a607-18daad40fc03",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:20:42:00",
+      "ScheduledDuration": "00:00:10:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jedermann op 83 : Largo - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jedermann op 83 : Largo - pour orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573340",
+      "ExternalID": "0747313334070-1-1",
+      "AlbumTitle": "Jean Sibelius : Jedermann 2 mélodies sérieuses et In memoriam",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313334070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Turku",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leif Segerstam",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T03:20:42+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:20:52:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jedermann op 83 : Largo - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jedermann op 83 : Largo - pour orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573340",
+      "ExternalID": "0747313334070-1-2",
+      "AlbumTitle": "Jean Sibelius : Jedermann 2 mélodies sérieuses et In memoriam",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313334070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Turku",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leif Segerstam",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T03:20:52+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:22:24:00",
+      "ScheduledDuration": "00:01:24:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jedermann op 83 : Allegro - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jedermann op 83 : Allegro - pour orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573340",
+      "ExternalID": "0747313334070-1-3",
+      "AlbumTitle": "Jean Sibelius : Jedermann 2 mélodies sérieuses et In memoriam",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313334070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Turku",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leif Segerstam",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T03:22:24+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-18",
+      "ScheduledTime": "03:23:48:00",
+      "ScheduledDuration": "00:00:25:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jedermann op 83 : Allegro comodo - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jedermann op 83 : Allegro comodo - pour orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573340",
+      "ExternalID": "0747313334070-1-4",
+      "AlbumTitle": "Jean Sibelius : Jedermann 2 mélodies sérieuses et In memoriam",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313334070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Turku",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leif Segerstam",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-18T03:23:48+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    }
+  ],
+  "total": 50,
+  "matched": 38
+}

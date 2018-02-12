@@ -1,9 +1,13 @@
-const SparqlClient = require('sparql-client2');
+const SparqlClient = require('virtuoso-sparql-client').Client;
 const levenshtein = require('fast-levenshtein');
 const translitterify = require('translitterify');
+const noop = require('node-noop').noop;
+const util = require('util');
 
-const debug = false;
+var debug = false;
 var client = new SparqlClient('http://data.doremus.org/sparql');
+client.setOptions("application/json");
+
 var catalogs, artists;
 const PROPS = [{
   name: 'opus,opusSub',
@@ -22,22 +26,31 @@ const PROPS = [{
   weight: 10,
   custom: true
 }];
-module.exports = function(composer, title, cb) {
-  getArtists().then(getCatalogs).then(() => {
-    if (!composer) return cb();
 
-    let compPlain = translitterify(composer).replace('-', ' ');
-    let composerUri = artists.find(a => a.label.toLowerCase() == compPlain.toLowerCase());
-    if (!composerUri) {
-      if (debug) console.warn('\n\nArtist not in the db : ' + composer);
-      return cb();
-    }
-    composerUri = composerUri.uri;
+module.exports = function(composer, title, cb = noop) {
+  return getArtists()
+    .then(getCatalogs)
+    .then(() => {
+      if (!title || !composer) {
+        cb();
+        return;
+      }
+      title = title.toLowerCase();
 
-    // extract tokens from title
-    let tokens = extractTokens(title, composerUri);
-    let sparql = `SELECT DISTINCT * WHERE {
-      ?expression mus:U70_has_title ?title.
+      let compPlain = translitterify(composer).replace('-', ' ');
+      let composerUri = artists.find(a => a.label.toLowerCase() == compPlain.toLowerCase());
+      if (!composerUri) {
+        if (debug) console.warn('\n\nArtist not in the db : ' + composer);
+        cb();
+        return;
+      }
+      composerUri = composerUri.uri;
+
+      // extract tokens from title
+      let tokens = extractTokens(title, composerUri);
+      let sparql = `SELECT DISTINCT * WHERE {
+      ?titleProp rdfs:subPropertyOf dc:title .
+      ?expression ?titleProp ?title .
       OPTIONAL {  ?expression mus:U16_has_catalogue_statement  ?catStat.
                   ?catStat mus:U40_has_catalogue_name / modsrdf:identifier ?catLabel;
                            mus:U41_has_catalogue_number ?catNum
@@ -50,105 +63,111 @@ module.exports = function(composer, title, cb) {
       ?expCreation efrbroo:R17_created ?expression;
               ecrm:P9_consists_of / ecrm:P14_carried_out_by <${composerUri}> .
     }`;
-    // console.log(composer, '|', title);
-    sparqlExec(sparql).then((data) => {
 
-      let bindings = data.results.bindings;
-      if (!bindings.length) return cb(null, {
-        composerUri
-      });
-
-      bindings = bindings.map(b => {
-        let obj = {};
-        Object.keys(b).forEach(p => {
-          if (!b.hasOwnProperty(p)) return;
-          obj[p] = b[p].value.toLowerCase();
-        });
-        return obj;
-      });
-      // console.log(bindings[0]);
-      // console.log(tokens);
-
-      let t = tokens;
-
-      bindings.forEach(b => {
-        // compute Extended Jaccard Measure (modified)
-        let matches = [];
-        let shared = [];
-        let unique_t = [];
-        let unique_b = [];
-
-        PROPS.forEach(prop => {
-          if (prop.custom) return;
-
-          let propParts = prop.name.split(',');
-          let p = propParts.slice(0, 1);
-
-          if (!t[p]) return; // unique_b.push({ prop, value: 0.2 });
-          if (!b[p]) return; // unique_t.push({ prop, value: 0.6 });
-
-          let isDiff = propParts.some(p => t[p] != b[p]); // jshint ignore:line
-          if (!isDiff)
-            matches.push({
-              prop,
-              value: 1
-            });
-          shared.push({
-            prop,
-            value: 1
+      return sparqlExec(sparql).then((data) => {
+        // console.log(composer, '|', title);
+        let output = {
+          composerUri
+        };
+        let bindings = data.results.bindings;
+        if (!bindings.length) {
+          cb(null, output);
+          return output;
+        }
+        bindings = bindings.map(b => {
+          let obj = {};
+          Object.keys(b).forEach(p => {
+            if (!b.hasOwnProperty(p)) return;
+            obj[p] = b[p].value.toLowerCase();
           });
+          return obj;
         });
+        // console.log(bindings[0]);
+        // console.log(tokens);
 
-        let titleSimilarity = Math.max(
-          stringSimilarity(t.title, b.title),
-          stringSimilarity(t.title + t.movement, b.title),
-          stringSimilarity(t.title.split(',')[0], b.title),
-          stringSimilarity(title.split(',')[0], b.title),
-          stringSimilarity(title, b.title)
-        );
-        let titleProp = PROPS.find(p => p.name == 'title');
-        matches.push({
-          prop: titleProp,
-          value: titleSimilarity
-        });
-        shared.push({
-          prop: titleProp,
-          value: 1
-        });
+        let t = tokens;
+        bindings.forEach(b => computeSimilarity(b, t, title));
+        bindings.sort((a, b) => b.score - a.score);
+        let bests = bindings.slice(0, 3);
 
-        let s_match = matches.reduce(weightedSum, 0);
-        let s_shared = shared.reduce(weightedSum, 0);
-        let s_unique_t = unique_t.reduce(weightedSum, 0);
-        let s_unique_b = unique_b.reduce(weightedSum, 0);
-
-        b.score = s_match / (s_shared + s_unique_b + s_unique_t);
-        b.matches = matches.map(m => m.value + '|' + m.prop.name);
-        b.shared = shared.map(m => m.prop.name);
-      });
-
-      bindings.sort((a, b) => b.score - a.score);
-      let bests = bindings.slice(0, 3);
-
-      if (debug) {
-        console.log('\n\n***', composer, '|', title);
-        for (let i of [0, 1, 2]) {
-          b = bests[i];
-          if (b) {
-            console.log(b.score, b.title, b.expression);
-            console.log(b.matches, b.shared);
+        if (debug) {
+          console.log('\n\n***', composer, '|', title);
+          for (let i of [0, 1, 2]) {
+            b = bests[i];
+            if (b) {
+              console.log(b.score, b.title, b.expression);
+              console.log(b.matches, b.shared);
+            }
           }
         }
-      }
-      cb(null, {
-        bests,
-        composerUri
+
+        output.bests = bests;
+        cb(null, output);
+        return output;
+      }).catch(err => {
+        throw err;
       });
-    }, (err) => {
-      handleError(err);
-      cb();
+    }).catch(e => {
+      console.error(e);
+      cb(e);
     });
-  }).catch(e => console.error(e));
 };
+
+function computeSimilarity(b, t, fullTitle) {
+  'use strict';
+  // compute Extended Jaccard Measure (modified)
+  let matches = [];
+  let shared = [];
+  let unique_t = [];
+  let unique_b = [];
+
+  PROPS.forEach(prop => {
+    if (prop.custom) return;
+
+    let propParts = prop.name.split(',');
+    let p = propParts.slice(0, 1);
+
+    if (!t[p]) return; // unique_b.push({ prop, value: 0.2 });
+    if (!b[p]) return; // unique_t.push({ prop, value: 0.6 });
+
+    let isDiff = propParts.some(p => t[p] != b[p]); // jshint ignore:line
+    if (!isDiff)
+      matches.push({
+        prop,
+        value: 1
+      });
+    shared.push({
+      prop,
+      value: 1
+    });
+  });
+
+  let titleSimilarity = Math.max(
+    stringSimilarity(t.title, b.title),
+    stringSimilarity(t.title + t.movement, b.title),
+    stringSimilarity(t.title.split(',')[0], b.title),
+    stringSimilarity(fullTitle.split(',')[0], b.title),
+    stringSimilarity(fullTitle, b.title)
+  );
+  let titleProp = PROPS.find(p => p.name == 'title');
+  matches.push({
+    prop: titleProp,
+    value: titleSimilarity
+  });
+  shared.push({
+    prop: titleProp,
+    value: 1
+  });
+
+  let s_match = matches.reduce(weightedSum, 0);
+  let s_shared = shared.reduce(weightedSum, 0);
+  let s_unique_t = unique_t.reduce(weightedSum, 0);
+  let s_unique_b = unique_b.reduce(weightedSum, 0);
+
+  b.score = s_match / (s_shared + s_unique_b + s_unique_t);
+  b.matches = matches.map(m => m.value + '|' + m.prop.name);
+  b.shared = shared.map(m => m.prop.name);
+}
 
 function extractTokens(title, composerUri) {
   // opus number
@@ -248,18 +267,14 @@ function intersection(a, b) {
 var cache = {};
 
 function sparqlExec(query) {
-  return new Promise(function(resolve, reject) {
-    if (cache[query]) return resolve(cache[query]);
-    // console.log(query);
-    client.query(query, function(err, results) {
-      if (err) {
-        reject(err);
-      } else {
-        cache[query] = results;
-        resolve(results);
-      }
+  if (cache[query])
+    return Promise.resolve(cache[query]);
+
+  return client.query(query)
+    .then(result => {
+      cache[query] = result;
+      return result;
     });
-  });
 }
 
 function getArtists() {
@@ -272,12 +287,13 @@ function getArtists() {
     }
     ORDER BY ?artist`;
 
-  return sparqlExec(sparql).then((res) => {
-    artists = res && res.results.bindings.map(b => ({
-      uri: b.artist.value,
-      label: translitterify(b.name.value).replace('-', ' ')
-    }));
-  });
+  return sparqlExec(sparql)
+    .then((res) => {
+      artists = res && res.results.bindings.map(b => ({
+        uri: b.artist.value,
+        label: translitterify(b.name.value).replace('-', ' ')
+      }));
+    });
 }
 
 function getCatalogs() {

@@ -1,0 +1,1856 @@
+{
+  "id": "FM-405_20171204_00-02",
+  "channel": "405",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:04:35:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Little muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Little muse",
+      "Label": "DREYFUS",
+      "ReferenceLabel": "FDM 46050 369712",
+      "ExternalID": "3460503697126-2-10",
+      "AlbumTitle": "The essential",
+      "Rank": 10,
+      "NumVolume": 2,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3460503697126",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Richard Galliano",
+        "Profession": "Interprète",
+        "InterventionNote": "Richard Galliano"
+      },
+      "ScheduledDateTime": "2017-12-04T00:00:06+01:00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:04:41:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Muse",
+      "Label": "LABORIE",
+      "ReferenceLabel": "LJ06",
+      "ExternalID": "0810473014028-1-1",
+      "AlbumTitle": "Muse",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0810473014028",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Yaron Herman",
+          "Profession": "Interprète",
+          "InterventionNote": "Yaron Herman : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Matt Brewer",
+          "Profession": "Interprète",
+          "InterventionNote": "Matt Brewer : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Gerald Cleaver",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerald Cleaver : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T00:04:41+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:08:01:00",
+      "ScheduledDuration": "00:07:34:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vénus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vénus",
+      "Label": "LABEL LA LICHERE",
+      "ReferenceLabel": "LLL 307",
+      "ExternalID": "3561302630724-1-1",
+      "AlbumTitle": "Paris ma muse",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3561302630724",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jean-Charles Capon",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean-Charles Capon : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Christian Escoude",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Escoude : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Pierre Boussaguet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Boussaguet : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T00:08:01+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:15:35:00",
+      "ScheduledDuration": "00:09:41:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ma muse m'amuse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ma muse m'amuse",
+      "Label": "ENJA",
+      "ReferenceLabel": "ENJ-94012",
+      "ExternalID": "0063757940128-1-7",
+      "AlbumTitle": "The cactus of knowledge",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0063757940128",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Rabih Abou-Khalil",
+        "Profession": "Interprète",
+        "InterventionNote": "Rabih Abou-Khalil"
+      },
+      "ScheduledDateTime": "2017-12-04T00:15:35+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:25:16:00",
+      "ScheduledDuration": "00:10:12:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Theatre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Theatre",
+      "Label": "TZADIK",
+      "ReferenceLabel": "TZ 7605",
+      "ExternalID": "0702397760528-1-7",
+      "AlbumTitle": "Clearing",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0702397760528",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Fred Frith",
+        "Profession": "Interprète",
+        "InterventionNote": "Fred Frith : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-12-04T00:25:16+01:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:35:51:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lullaby",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lullaby",
+      "Label": "HIGHNOTE RECORDS",
+      "ReferenceLabel": "HCD 7244",
+      "ExternalID": "0632375724429-1-1",
+      "AlbumTitle": "My muse",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0632375724429",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "George Cables",
+        "Profession": "Interprète",
+        "InterventionNote": "George Cables : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-04T00:35:51+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:37:55:00",
+      "ScheduledDuration": "00:04:22:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Divina comedia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Divina comedia",
+      "Label": "OUTHERE",
+      "ReferenceLabel": "OUT657",
+      "ExternalID": "5400439006577-2-6",
+      "AlbumTitle": "Double live: Aka balkan moon - Alefba",
+      "Rank": 6,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5400439006577",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Aka Moon",
+          "Profession": "Interprète",
+          "InterventionNote": "Aka Moon"
+        },
+        {
+          "FullName": "Fabrizio Cassol",
+          "Profession": "Interprète",
+          "InterventionNote": "Fabrizio Cassol : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Michel Hatzigeorgiou",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Hatzigeorgiou : Basse électrique",
+          "mop": "Basse électrique"
+        },
+        {
+          "FullName": "Stephane Galland",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Galland : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Magik Malik",
+          "Profession": "Interprète",
+          "InterventionNote": "Magik Malik : Flûte, Chant",
+          "mop": "Flûte, Chant"
+        },
+        {
+          "FullName": "Mustafa Said",
+          "Profession": "Interprète",
+          "InterventionNote": "Mustafa Said : Oud (luth), Chant",
+          "mop": "Oud (luth), Chant"
+        },
+        {
+          "FullName": "Amir Elsaffar",
+          "Profession": "Interprète",
+          "InterventionNote": "Amir Elsaffar : Trompette, Santur (cithare), Chant",
+          "mop": "Trompette, Santur (cithare), Chant"
+        },
+        {
+          "FullName": "Khaled Alhafez",
+          "Profession": "Interprète",
+          "InterventionNote": "Khaled Alhafez : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Khaled Aljaramani",
+          "Profession": "Interprète",
+          "InterventionNote": "Khaled Aljaramani : Oud (luth), Chant",
+          "mop": "Oud (luth), Chant"
+        },
+        {
+          "FullName": "Tcha Limberger",
+          "Profession": "Interprète",
+          "InterventionNote": "Tcha Limberger : Violon, Chant",
+          "mop": "Violon, Chant"
+        },
+        {
+          "FullName": "Sheikh Ehab Younes",
+          "Profession": "Interprète",
+          "InterventionNote": "Sheikh Ehab Younes : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Misirli Ahmet",
+          "Profession": "Interprète",
+          "InterventionNote": "Misirli Ahmet : Darabukka (tambour)",
+          "mop": "Darabukka (tambour)"
+        },
+        {
+          "FullName": "Emmanuel Bailly",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Bailly : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T00:37:55+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:42:17:00",
+      "ScheduledDuration": "00:07:53:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Muse",
+      "Label": "CRISTAL RECORDS",
+      "ExternalID": "RF00000055961-1-2",
+      "AlbumTitle": "Joy",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055961",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Pierre Bertrand",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Bertrand : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Minino Garay",
+          "Profession": "Interprète",
+          "InterventionNote": "Minino Garay : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Jerome Regard",
+          "Profession": "Interprète",
+          "InterventionNote": "Jerome Regard : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Alfio Origlio",
+          "Profession": "Interprète",
+          "InterventionNote": "Alfio Origlio : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Xavier Sanchez",
+          "Profession": "Interprète",
+          "InterventionNote": "Xavier Sanchez : Cajon",
+          "mop": "Cajon"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T00:42:17+01:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:50:10:00",
+      "ScheduledDuration": "00:04:09:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prélude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prélude",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP0604",
+      "ExternalID": "5412217006044-1-1",
+      "AlbumTitle": "Pitié",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217006044",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Fabrizio Cassol",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Alain Platel",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Laura Claycomb",
+          "Profession": "Interprète",
+          "InterventionNote": "Laura Claycomb : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Meliss Givens",
+          "Profession": "Interprète",
+          "InterventionNote": "Meliss Givens : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Cristina Zavanolli",
+          "Profession": "Interprète",
+          "InterventionNote": "Cristina Zavanolli : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Serge Kakudji",
+          "Profession": "Interprète",
+          "InterventionNote": "Serge Kakudji : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Airelle Besson",
+          "Profession": "Interprète",
+          "InterventionNote": "Airelle Besson : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Sanne Van Hek",
+          "Profession": "Interprète",
+          "InterventionNote": "Sanne Van Hek : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Alexandre Cavaliere",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Cavaliere : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tcha Limberger",
+          "Profession": "Interprète",
+          "InterventionNote": "Tcha Limberger : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Philippe Thuriot",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Thuriot : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Lode Vercampt",
+          "Profession": "Interprète",
+          "InterventionNote": "Lode Vercampt : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Monica Brett-Crowther",
+          "Profession": "Interprète",
+          "InterventionNote": "Monica Brett-Crowther : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Aka Moon",
+          "Profession": "Interprète",
+          "InterventionNote": "Aka Moon"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T00:50:10+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "00:54:19:00",
+      "ScheduledDuration": "00:11:40:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Terpsicore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Terpsicore",
+      "Label": "FRESH SOUND NEW TALENT",
+      "ReferenceLabel": "FSNT 193",
+      "ExternalID": "8427328421935-2-3",
+      "AlbumTitle": "Sirvent Escué Sergi/9 muses",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8427328421935",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sergi Sirvent Escue",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergi Sirvent Escue : Piano, Piano électrique, Trompette, Voix, Percussions",
+          "mop": "Piano, Piano électrique, Trompette, Voix, Percussions"
+        },
+        {
+          "FullName": "Silvia Perz Cruz",
+          "Profession": "Interprète",
+          "InterventionNote": "Silvia Perz Cruz : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T00:54:19+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:06:14:00",
+      "ScheduledDuration": "00:09:03:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Blue muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Blue muse",
+      "Label": "ENJA",
+      "ReferenceLabel": "ENJ-93182",
+      "ExternalID": "0063757931829-1-1",
+      "AlbumTitle": "Fo deuk revue",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0063757931829",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "David Murray",
+        "Profession": "Interprète",
+        "InterventionNote": "David Murray"
+      },
+      "ScheduledDateTime": "2017-12-04T01:06:14+01:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:15:17:00",
+      "ScheduledDuration": "00:06:40:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'ode à muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'ode à muse",
+      "Label": "IGLOO PRODUCTIONS",
+      "ReferenceLabel": "IGL 130",
+      "ExternalID": "5410547051307-1-8",
+      "AlbumTitle": "Chronaxie",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5410547051307",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fred Wilbaux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Fred Wilbaux",
+          "Profession": "Interprète",
+          "InterventionNote": "Fred Wilbaux : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Manu Hermia",
+          "Profession": "Interprète",
+          "InterventionNote": "Manu Hermia : Saxophone soprano, Saxophone alto",
+          "mop": "Saxophone soprano, Saxophone alto"
+        },
+        {
+          "FullName": "Nicolas Thys",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicolas Thys : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T01:15:17+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:21:57:00",
+      "ScheduledDuration": "00:06:05:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hymne à l'amour",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hymne à l'amour",
+      "Label": "LABEL LA LICHERE",
+      "ReferenceLabel": "LLL 307",
+      "ExternalID": "3561302630724-1-2",
+      "AlbumTitle": "Paris ma muse",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3561302630724",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jean-Charles Capon",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean-Charles Capon : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Christian Escoude",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Escoude : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Pierre Boussaguet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Boussaguet : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T01:21:57+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:28:02:00",
+      "ScheduledDuration": "00:05:48:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Muse",
+      "Label": "CANDID",
+      "ReferenceLabel": "CCD 79789",
+      "ExternalID": "0708857978922-1-3",
+      "AlbumTitle": "Paris blue",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0708857978922",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Kyle Eastwood",
+        "Profession": "Interprète",
+        "InterventionNote": "Kyle Eastwood"
+      },
+      "ScheduledDateTime": "2017-12-04T01:28:02+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:33:59:00",
+      "ScheduledDuration": "00:09:17:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cal.liope",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cal.liope",
+      "Label": "FRESH SOUND NEW TALENT",
+      "ReferenceLabel": "FSNT 193",
+      "ExternalID": "8427328421935-1-1",
+      "AlbumTitle": "Sirvent Escué Sergi/9 muses",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8427328421935",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sergi Sirvent Escue",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergi Sirvent Escue : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T01:33:59+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:43:16:00",
+      "ScheduledDuration": "00:02:05:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A pepper poem (part one)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A pepper poem (part one)",
+      "Label": "TUTU RECORDS",
+      "ReferenceLabel": "888106",
+      "ExternalID": "RF00000022206-1-9",
+      "AlbumTitle": "Art of the duo",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000022206",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jim Pepper",
+          "Profession": "Interprète",
+          "InterventionNote": "Jim Pepper"
+        },
+        {
+          "FullName": "Mal Waldron",
+          "Profession": "Interprète",
+          "InterventionNote": "Mal Waldron : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T01:43:16+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:45:21:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poeme",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poeme",
+      "Label": "MPS",
+      "ReferenceLabel": "06025 1764391",
+      "ExternalID": "0602517643918-1-16",
+      "AlbumTitle": "Big Band Man",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602517643918",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Peter Herbolzheimer",
+        "Profession": "Interprète",
+        "InterventionNote": "Peter Herbolzheimer"
+      },
+      "ScheduledDateTime": "2017-12-04T01:45:21+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:49:53:00",
+      "ScheduledDuration": "00:06:36:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poeme",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poeme",
+      "Label": "PIRANHA",
+      "ExternalID": "RF00000046113-1-13",
+      "AlbumTitle": "Many languages - One soul",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000046113",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "The Balkan Clarinet Summit",
+        "Profession": "Interprète",
+        "InterventionNote": "The Balkan Clarinet Summit"
+      },
+      "ScheduledDateTime": "2017-12-04T01:49:53+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "01:56:29:00",
+      "ScheduledDuration": "00:07:05:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love poem",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love poem",
+      "Label": "PI RECORDINGS",
+      "ReferenceLabel": "PI59",
+      "ExternalID": "0808713005929-1-5",
+      "AlbumTitle": "Crisis",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0808713005929",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Amir Elsaffar Two Rivers Ensemble",
+          "Profession": "Interprète",
+          "InterventionNote": "Amir Elsaffar Two Rivers Ensemble"
+        },
+        {
+          "FullName": "Amir Elsaffar",
+          "Profession": "Interprète",
+          "InterventionNote": "Amir Elsaffar : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Carlo Derosa",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Derosa : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Nasheet Waits",
+          "Profession": "Interprète",
+          "InterventionNote": "Nasheet Waits : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Ole Mathisen",
+          "Profession": "Interprète",
+          "InterventionNote": "Ole Mathisen : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Zafer Tawil",
+          "Profession": "Interprète",
+          "InterventionNote": "Zafer Tawil : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T01:56:29+01:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:03:45:00",
+      "ScheduledDuration": "00:11:02:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Clio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Clio",
+      "Label": "FRESH SOUND NEW TALENT",
+      "ReferenceLabel": "FSNT 193",
+      "ExternalID": "8427328421935-2-2",
+      "AlbumTitle": "Sirvent Escué Sergi/9 muses",
+      "Rank": 2,
+      "NumVolume": 2,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8427328421935",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sergi Sirvent Escue",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergi Sirvent Escue : Piano, Piano électrique, Trompette, Voix, Percussions",
+          "mop": "Piano, Piano électrique, Trompette, Voix, Percussions"
+        },
+        {
+          "FullName": "Silvia Perz Cruz",
+          "Profession": "Interprète",
+          "InterventionNote": "Silvia Perz Cruz : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:03:45+01:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:14:47:00",
+      "ScheduledDuration": "00:05:27:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lady sings the blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lady sings the blues",
+      "Label": "ARTE VERUM",
+      "ReferenceLabel": "ARV-005",
+      "ExternalID": "5425019971052-1-1",
+      "AlbumTitle": "Barbara sings the blues",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5425019971052",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Barbara Hendricks",
+          "Profession": "Interprète",
+          "InterventionNote": "Barbara Hendricks : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Magnus Lindgren",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Magnus Lindgren"
+        },
+        {
+          "FullName": "Magnus Lindgren",
+          "Profession": "Interprète",
+          "InterventionNote": "Magnus Lindgren : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Mathias Algotsson",
+          "Profession": "Interprète",
+          "InterventionNote": "Mathias Algotsson : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Fredrik Jonsson",
+          "Profession": "Interprète",
+          "InterventionNote": "Fredrik Jonsson : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Jonas Holgersson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jonas Holgersson : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:14:47+01:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:20:14:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poem",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poem",
+      "Label": "CREATIVE SOURCES RECORDINGS",
+      "ReferenceLabel": "CS 209 CD",
+      "ExternalID": "5609063402094-1-6",
+      "AlbumTitle": "Dark poetry",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5609063402094",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Bleak House",
+          "Profession": "Interprète",
+          "InterventionNote": "Bleak House"
+        },
+        {
+          "FullName": "Dag-Filip Roaldsnes",
+          "Profession": "Interprète",
+          "InterventionNote": "Dag-Filip Roaldsnes : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Kim-Erik Pedersen",
+          "Profession": "Interprète",
+          "InterventionNote": "Kim-Erik Pedersen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Tore T. Sandbakken",
+          "Profession": "Interprète",
+          "InterventionNote": "Tore T. Sandbakken : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:20:14+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:21:08:00",
+      "ScheduledDuration": "00:02:44:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I want to sing a song",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I want to sing a song",
+      "Label": "VERVE",
+      "ReferenceLabel": "517 065-2",
+      "ExternalID": "0731451706523-1-3",
+      "AlbumTitle": "All the sad young men",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1961-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731451706523",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Anita O' Day",
+        "Profession": "Interprète",
+        "InterventionNote": "Anita O' Day"
+      },
+      "ScheduledDateTime": "2017-12-04T02:21:08+01:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:23:52:00",
+      "ScheduledDuration": "00:03:32:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lady sings the blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lady sings the blues",
+      "Label": "DDB RECORDS",
+      "ReferenceLabel": "0602527241555",
+      "ExternalID": "0602527241555-1-1",
+      "AlbumTitle": "Eleanora Fagan to Billie with love from",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602527241555",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Dee Dee Bridgewater",
+          "Profession": "Interprète",
+          "InterventionNote": "Dee Dee Bridgewater : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Edsel Gomez",
+          "Profession": "Interprète",
+          "InterventionNote": "Edsel Gomez : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Christian Mc Bride",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Mc Bride : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Lewis Nash",
+          "Profession": "Interprète",
+          "InterventionNote": "Lewis Nash : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "James Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "James Carter : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:23:52+01:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:27:24:00",
+      "ScheduledDuration": "00:05:58:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "All of a sudden my heart sings",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "All of a sudden my heart sings",
+      "Label": "VERVE",
+      "ReferenceLabel": "537022-2",
+      "ExternalID": "0731453702226-1-11",
+      "AlbumTitle": "Loving you",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731453702226",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Shirley Horn",
+          "Profession": "Interprète",
+          "InterventionNote": "Shirley Horn : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Steve Novosel",
+          "Profession": "Interprète",
+          "InterventionNote": "Steve Novosel : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Steve Williams",
+          "Profession": "Interprète",
+          "InterventionNote": "Steve Williams : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:27:24+01:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:33:22:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lady sings the blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lady sings the blues",
+      "Label": "MTWN",
+      "ReferenceLabel": "ZD72129",
+      "ExternalID": "0035627212925-1-2",
+      "AlbumTitle": "Lady sings the blues",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035627212925",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Diana Ross",
+        "Profession": "Interprète",
+        "InterventionNote": "Diana Ross"
+      },
+      "ScheduledDateTime": "2017-12-04T02:33:22+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:34:25:00",
+      "ScheduledDuration": "00:03:08:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Evil blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Evil blues",
+      "Label": "RCA",
+      "ReferenceLabel": "88765436862-10",
+      "ExternalID": "RF00000035296-1-8",
+      "AlbumTitle": "The newest sound around / Vol. 10",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035296",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jeanne Lee & Ran Blake",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Lee & Ran Blake"
+        },
+        {
+          "FullName": "Jeanne Lee",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Lee"
+        },
+        {
+          "FullName": "Ran Blake",
+          "Profession": "Interprète",
+          "InterventionNote": "Ran Blake : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:34:25+01:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:37:48:00",
+      "ScheduledDuration": "00:06:44:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Duke Ellington sound of love",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Duke Ellington sound of love",
+      "Label": "FREMEAUX ET ASSOCIES",
+      "ReferenceLabel": "FA 448",
+      "ExternalID": "3448960244824-1-9",
+      "AlbumTitle": "Deep feelings",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3448960244824",
+      "Interpreter": {
+        "FullName": "Jeanne Lee",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeanne Lee"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Orchestre National De Jazz",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Didier Levallet",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-04T02:37:48+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:44:32:00",
+      "ScheduledDuration": "00:03:23:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I can't face the music (without singing the blues)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I can't face the music (without singing the blues)",
+      "Label": "THE VERVE MUSIC GROUP",
+      "ExternalID": "0060249881870-1-11",
+      "AlbumTitle": "I wanna be loved",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0060249881870",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Dinah Washington",
+        "Profession": "Interprète",
+        "InterventionNote": "Dinah Washington"
+      },
+      "ScheduledDateTime": "2017-12-04T02:44:32+01:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:47:55:00",
+      "ScheduledDuration": "00:02:46:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The very last muse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The very last muse",
+      "Label": "TZADIK",
+      "ReferenceLabel": "TZ 7710",
+      "ExternalID": "RF00000010714-1-7",
+      "AlbumTitle": "Thick",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000010714",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Red Pocket",
+        "Profession": "Interprète",
+        "InterventionNote": "Red Pocket"
+      },
+      "ScheduledDateTime": "2017-12-04T02:47:55+01:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:50:41:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Theater piece",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Theater piece",
+      "Label": "GRAMAVISION",
+      "ReferenceLabel": "GCD 79511",
+      "ExternalID": "0798387951120-1-8",
+      "AlbumTitle": "Luminous charms",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0798387951120",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Peter Apfelbaum",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Apfelbaum : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Jeff Cressman",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeff Cressman : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:50:41+01:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:53:45:00",
+      "ScheduledDuration": "00:05:21:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Little theater",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Little theater",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "910082-2",
+      "ExternalID": "0025091008223-1-8",
+      "AlbumTitle": "Astereotypical",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091008223",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Pachora",
+        "Profession": "Interprète",
+        "InterventionNote": "Pachora"
+      },
+      "ScheduledDateTime": "2017-12-04T02:53:45+01:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "02:59:06:00",
+      "ScheduledDuration": "00:06:32:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poem",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poem",
+      "Label": "ACT MUSIC & VISION",
+      "ReferenceLabel": "9622-2",
+      "ExternalID": "0614427962225-1-2",
+      "AlbumTitle": "Duo art : Together again",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0614427962225",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Emil Viklicky",
+          "Profession": "Interprète",
+          "InterventionNote": "Emil Viklicky : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "George Mraz",
+          "Profession": "Interprète",
+          "InterventionNote": "George Mraz : Basse",
+          "mop": "Basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-04T02:59:06+01:00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-04",
+      "ScheduledTime": "03:05:38:00",
+      "ScheduledDuration": "00:05:28:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The Lewinsky march",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The Lewinsky march",
+      "Label": "ENJA",
+      "ReferenceLabel": "ENJ-94012",
+      "ExternalID": "0063757940128-1-1",
+      "AlbumTitle": "The cactus of knowledge",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0063757940128",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Rabih Abou-Khalil",
+        "Profession": "Interprète",
+        "InterventionNote": "Rabih Abou-Khalil"
+      },
+      "ScheduledDateTime": "2017-12-04T03:05:38+01:00"
+    }
+  ],
+  "total": 34,
+  "matched": 0
+}

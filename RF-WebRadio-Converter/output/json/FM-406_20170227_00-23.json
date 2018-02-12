@@ -1,0 +1,2144 @@
+{
+  "id": "FM-406_20170227_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eté : Lamentation du coucou / Pour violon et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eté : Lamentation du coucou / Pour violon et orchestre à cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-4",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T00:00:08+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:02:18:00",
+      "ScheduledDuration": "00:04:26:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eté : Chant pour la Pentecôte / Pour violon soprano et orchestre a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eté : Chant pour la Pentecôte / Pour violon soprano et orchestre a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-5",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julia Korpacheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Korpacheva : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T00:02:18+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:06:44:00",
+      "ScheduledDuration": "00:03:18:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eté : Chant de fertilité / Pour violon et orchestre a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eté : Chant de fertilité / Pour violon et orchestre a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-6",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T00:06:44+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:10:02:00",
+      "ScheduledDuration": "00:12:16:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Organum A-nn-A - pour trio à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Organum A-nn-A - pour trio à cordes",
+      "Label": "CHALLENGE CLASSICS",
+      "ReferenceLabel": "CC72503",
+      "ExternalID": "0608917250329-1-4",
+      "AlbumTitle": "Trios à cordes de l'Est",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0608917250329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Oleg Paiberdin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Goeyvaerts",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Goeyvaerts"
+        },
+        {
+          "FullName": "Kristien Roels",
+          "Profession": "Interprète",
+          "InterventionNote": "Kristien Roels : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Kris Matthynssens",
+          "Profession": "Interprète",
+          "InterventionNote": "Kris Matthynssens : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Pieter Stas",
+          "Profession": "Interprète",
+          "InterventionNote": "Pieter Stas : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-27T00:10:02+01:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:22:27:00",
+      "ScheduledDuration": "00:03:42:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 aphorismes : Moderato assai - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 aphorismes : Moderato assai - pour piano",
+      "Label": "PIANO CLASSICS",
+      "ReferenceLabel": "PCL00731",
+      "ExternalID": "5060385450062-1-1",
+      "AlbumTitle": "Alfred Schnittke : Concerto pour piano 5 aphorismes et Gogol suite",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060385450062",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denys Proshayev",
+        "Profession": "Interprète",
+        "InterventionNote": "Denys Proshayev : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-27T00:22:27+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302",
+      "best": "http://data.doremus.org/expression/182a6999-3700-303e-b9e5-84f8574b7f65",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:26:09:00",
+      "ScheduledDuration": "00:01:54:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 aphorismes : Allegretto - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 aphorismes : Allegretto - pour piano",
+      "Label": "PIANO CLASSICS",
+      "ReferenceLabel": "PCL00731",
+      "ExternalID": "5060385450062-1-2",
+      "AlbumTitle": "Alfred Schnittke : Concerto pour piano 5 aphorismes et Gogol suite",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060385450062",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denys Proshayev",
+        "Profession": "Interprète",
+        "InterventionNote": "Denys Proshayev : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-27T00:26:09+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302",
+      "best": "http://data.doremus.org/expression/182a6999-3700-303e-b9e5-84f8574b7f65",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:28:03:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 aphorismes : Lento - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 aphorismes : Lento - pour piano",
+      "Label": "PIANO CLASSICS",
+      "ReferenceLabel": "PCL00731",
+      "ExternalID": "5060385450062-1-3",
+      "AlbumTitle": "Alfred Schnittke : Concerto pour piano 5 aphorismes et Gogol suite",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060385450062",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denys Proshayev",
+        "Profession": "Interprète",
+        "InterventionNote": "Denys Proshayev : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-27T00:28:03+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302",
+      "best": "http://data.doremus.org/expression/182a6999-3700-303e-b9e5-84f8574b7f65",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:30:11:00",
+      "ScheduledDuration": "00:03:54:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 aphorismes : Senza tempo - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 aphorismes : Senza tempo - pour piano",
+      "Label": "PIANO CLASSICS",
+      "ReferenceLabel": "PCL00731",
+      "ExternalID": "5060385450062-1-4",
+      "AlbumTitle": "Alfred Schnittke : Concerto pour piano 5 aphorismes et Gogol suite",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060385450062",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denys Proshayev",
+        "Profession": "Interprète",
+        "InterventionNote": "Denys Proshayev : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-27T00:30:11+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302",
+      "best": "http://data.doremus.org/expression/182a6999-3700-303e-b9e5-84f8574b7f65",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:34:05:00",
+      "ScheduledDuration": "00:02:46:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 aphorismes : Grave - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 aphorismes : Grave - pour piano",
+      "Label": "PIANO CLASSICS",
+      "ReferenceLabel": "PCL00731",
+      "ExternalID": "5060385450062-1-5",
+      "AlbumTitle": "Alfred Schnittke : Concerto pour piano 5 aphorismes et Gogol suite",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060385450062",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denys Proshayev",
+        "Profession": "Interprète",
+        "InterventionNote": "Denys Proshayev : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-27T00:34:05+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302",
+      "best": "http://data.doremus.org/expression/182a6999-3700-303e-b9e5-84f8574b7f65",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:36:51:00",
+      "ScheduledDuration": "00:05:23:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie de chambre n°2 op 147 : Pesante - pour orchestre à cordes et timbales",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie de chambre n°2 op 147 : Pesante - pour orchestre à cordes et timbales",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2538",
+      "ExternalID": "0028948146048-1-6",
+      "AlbumTitle": "Mieczyslav Weinberg : Symphonies de chambre et quintette pour piano",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948146048",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Moisei Vainberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Andrey Pushkarev",
+          "Profession": "Interprète",
+          "InterventionNote": "Andrey Pushkarev : Timbales",
+          "mop": "Timbales"
+        },
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T00:36:51+01:00",
+      "composer": "http://data.doremus.org/artist/1f3aac34-ca78-3408-aae1-6e9246871fc4"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:42:18:00",
+      "ScheduledDuration": "00:07:33:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poeme kaddisch op 6 pour alto et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poeme kaddisch op 6 pour alto et piano",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.008",
+      "ExternalID": "4010276011163-1-14",
+      "AlbumTitle": "Bloch",
+      "Rank": 14,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276011163",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexander Weprik",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jascha Nemtsov",
+          "Profession": "Interprète",
+          "InterventionNote": "Jascha Nemtsov : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-27T00:42:18+01:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:49:51:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prière de celui qui va à l'église",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prière de celui qui va à l'église",
+      "Label": "CHALLENGE CLASSICS",
+      "ReferenceLabel": "CC72503",
+      "ExternalID": "0608917250329-2-1",
+      "AlbumTitle": "Trios à cordes de l'Est",
+      "Rank": 1,
+      "NumVolume": 2,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0608917250329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Alexandre Knaifel",
+        "Profession": "Interprète",
+        "InterventionNote": "Alexandre Knaifel"
+      },
+      "ScheduledDateTime": "2017-02-27T00:49:51+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "00:50:45:00",
+      "ScheduledDuration": "00:13:44:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Monodia - pour soprano a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Monodia - pour soprano a cappella",
+      "Label": "CHANT DU MONDE",
+      "ReferenceLabel": "LDC 278972/73",
+      "ExternalID": "3149025042552-2-23",
+      "AlbumTitle": "Anthologie de la mélodie russe et soviétique",
+      "Rank": 23,
+      "NumVolume": 2,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025042552",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Knaifel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Elena Vassilieva",
+        "Profession": "Interprète",
+        "InterventionNote": "Elena Vassilieva : Soprano",
+        "mop": "Soprano"
+      },
+      "ScheduledDateTime": "2017-02-27T00:50:45+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:04:29:00",
+      "ScheduledDuration": "00:03:56:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Automne : Chant pour le jour des Cendres / Pour violon soprano et orchestre a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Automne : Chant pour le jour des Cendres / Pour violon soprano et orchestre a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-7",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julia Korpacheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Korpacheva : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:04:29+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:08:25:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Automne : Chant d'automne / Pour violon et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Automne : Chant d'automne / Pour violon et orchestre à cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-8",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:08:25+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:10:29:00",
+      "ScheduledDuration": "00:03:42:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Automne : Chant nuptial / Pour violon soprano et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Automne : Chant nuptial / Pour violon soprano et orchestre à cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-9",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julia Korpacheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Korpacheva : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:10:29+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:14:15:00",
+      "ScheduledDuration": "00:15:25:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Garten von Freuden und Traurigkeit - version pour alto flûte traversière et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Garten von Freuden und Traurigkeit - version pour alto flûte traversière et harpe",
+      "Label": "EXPLICIT RECORDS",
+      "ReferenceLabel": "E!99004",
+      "ExternalID": "5425001270040-1-3",
+      "AlbumTitle": "Oxalys : Kissine Sousline Goubaidoulina Chout",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5425001270040",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Sofia Goubaidoulina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Oxalys",
+        "Profession": "Interprète",
+        "InterventionNote": "Oxalys"
+      },
+      "ScheduledDateTime": "2017-02-27T01:14:15+01:00",
+      "composer": "http://data.doremus.org/artist/6637b898-6036-32ae-9176-2e34928a7453"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:30:03:00",
+      "ScheduledDuration": "00:02:51:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Extraits d'entretiens Ivan Wyschnegradsky",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Extraits d'entretiens Ivan Wyschnegradsky",
+      "Label": "SHIIIN",
+      "ReferenceLabel": "SHIIIN 4",
+      "ExternalID": "3760180730049-1-12",
+      "AlbumTitle": "Journée de l'existence et entretiens avec le compositeur",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760180730049",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Wyschnegradsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Charles",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Charles : Voix",
+        "mop": "Voix"
+      },
+      "ScheduledDateTime": "2017-02-27T01:30:03+01:00",
+      "composer": "http://data.doremus.org/artist/10356c2d-db7b-38e6-8f38-7d5f2f0f4f2b"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:32:54:00",
+      "ScheduledDuration": "00:09:19:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Arc-en-ciel op 37 - pour 6 pianos en 12ème de ton / courant musique microtonale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Arc-en-ciel op 37 - pour 6 pianos en 12ème de ton / courant musique microtonale",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS 11114-17",
+      "ExternalID": "4260063111143-4-2",
+      "AlbumTitle": "Donaueschinger Musiktage 2010",
+      "Rank": 2,
+      "NumVolume": 4,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063111143",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Wyschnegradsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Pi Hsien Chen",
+          "Profession": "Interprète",
+          "InterventionNote": "Pi Hsien Chen : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Christoph Grund",
+          "Profession": "Interprète",
+          "InterventionNote": "Christoph Grund : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Florian Hoelscher",
+          "Profession": "Interprète",
+          "InterventionNote": "Florian Hoelscher : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Akiko Okabe",
+          "Profession": "Interprète",
+          "InterventionNote": "Akiko Okabe : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Kiebler Sven Thomas",
+          "Profession": "Interprète",
+          "InterventionNote": "Kiebler Sven Thomas : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Julia Vogelsanger",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Vogelsanger : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Sylvain Cambreling",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:32:54+01:00",
+      "composer": "http://data.doremus.org/artist/10356c2d-db7b-38e6-8f38-7d5f2f0f4f2b"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:42:13:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hiver : Chant de Noël / Pour violon et orchestre a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hiver : Chant de Noël / Pour violon et orchestre a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-10",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:42:13+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:43:07:00",
+      "ScheduledDuration": "00:01:46:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hiver : Chant pour les jours gras / Pour violon et orchestre a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hiver : Chant pour les jours gras / Pour violon et orchestre a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-11",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:43:07+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:44:53:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hiver : Chant de conclusion / Pour violon soprano et orchestre a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hiver : Chant de conclusion / Pour violon soprano et orchestre a cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-12",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julia Korpacheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Korpacheva : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:44:53+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:49:23:00",
+      "ScheduledDuration": "00:04:31:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "\"\"\"\"",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "\"\"\"\"",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 52495",
+      "ExternalID": "5099705249529-2-6",
+      "AlbumTitle": "La vie avec un idiot",
+      "Rank": 6,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099705249529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dale Duesing",
+          "Profession": "Interprète",
+          "InterventionNote": "Dale Duesing : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Romain Bischoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Romain Bischoff : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Teresa Ringholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Teresa Ringholz : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Howard Haskin",
+          "Profession": "Interprète",
+          "InterventionNote": "Howard Haskin : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Zimnenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Zimnenko : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Robin Leggate",
+          "Profession": "Interprète",
+          "InterventionNote": "Robin Leggate : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Mstislav Rostropovitch",
+          "Profession": "Interprète",
+          "InterventionNote": "Mstislav Rostropovitch : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Rotterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Mstislav Rostropovitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:49:23+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:53:54:00",
+      "ScheduledDuration": "00:01:12:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "\"\"\"\"",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "\"\"\"\"",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 52495",
+      "ExternalID": "5099705249529-2-7",
+      "AlbumTitle": "La vie avec un idiot",
+      "Rank": 7,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099705249529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dale Duesing",
+          "Profession": "Interprète",
+          "InterventionNote": "Dale Duesing : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Romain Bischoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Romain Bischoff : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Teresa Ringholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Teresa Ringholz : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Howard Haskin",
+          "Profession": "Interprète",
+          "InterventionNote": "Howard Haskin : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Zimnenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Zimnenko : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Robin Leggate",
+          "Profession": "Interprète",
+          "InterventionNote": "Robin Leggate : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Mstislav Rostropovitch",
+          "Profession": "Interprète",
+          "InterventionNote": "Mstislav Rostropovitch : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Rotterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Mstislav Rostropovitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:53:54+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "01:55:06:00",
+      "ScheduledDuration": "00:05:50:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Scene two",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Scene two",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 52495",
+      "ExternalID": "5099705249529-2-8",
+      "AlbumTitle": "La vie avec un idiot",
+      "Rank": 8,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099705249529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dale Duesing",
+          "Profession": "Interprète",
+          "InterventionNote": "Dale Duesing : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Romain Bischoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Romain Bischoff : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Teresa Ringholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Teresa Ringholz : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Howard Haskin",
+          "Profession": "Interprète",
+          "InterventionNote": "Howard Haskin : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Zimnenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Zimnenko : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Robin Leggate",
+          "Profession": "Interprète",
+          "InterventionNote": "Robin Leggate : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Mstislav Rostropovitch",
+          "Profession": "Interprète",
+          "InterventionNote": "Mstislav Rostropovitch : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Rotterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Mstislav Rostropovitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T01:55:06+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:00:56:00",
+      "ScheduledDuration": "00:01:54:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "\"\"\"\"",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "\"\"\"\"",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 52495",
+      "ExternalID": "5099705249529-2-9",
+      "AlbumTitle": "La vie avec un idiot",
+      "Rank": 9,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099705249529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dale Duesing",
+          "Profession": "Interprète",
+          "InterventionNote": "Dale Duesing : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Romain Bischoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Romain Bischoff : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Teresa Ringholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Teresa Ringholz : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Howard Haskin",
+          "Profession": "Interprète",
+          "InterventionNote": "Howard Haskin : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Zimnenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Zimnenko : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Robin Leggate",
+          "Profession": "Interprète",
+          "InterventionNote": "Robin Leggate : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Mstislav Rostropovitch",
+          "Profession": "Interprète",
+          "InterventionNote": "Mstislav Rostropovitch : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Rotterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Mstislav Rostropovitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T02:00:56+01:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:02:50:00",
+      "ScheduledDuration": "00:15:11:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°2 op 63 - pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°2 op 63 - pour violon et piano",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1592",
+      "ExternalID": "7318590015926-1-13",
+      "AlbumTitle": "Ballet for a lonely violinist",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Lera Auerbach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Vadim Gluzman",
+          "Profession": "Interprète",
+          "InterventionNote": "Vadim Gluzman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Angela Yoffe",
+          "Profession": "Interprète",
+          "InterventionNote": "Angela Yoffe : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-27T02:02:50+01:00",
+      "composer": "http://data.doremus.org/artist/10892e3a-6646-39e7-b8b2-a9d811677b36",
+      "best": "http://data.doremus.org/expression/361f5eab-38b4-3523-9b84-28ed0a1309b8",
+      "best_matching_score": "0.83"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:18:05:00",
+      "ScheduledDuration": "00:06:26:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trois invocations : 3ème mouvement - pour quatuor à cordes et célesta amplifié",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trois invocations : 3ème mouvement - pour quatuor à cordes et célesta amplifié",
+      "Label": "VDE-GALLO",
+      "ReferenceLabel": "CD-1371",
+      "ExternalID": "7619918137529-1-9",
+      "AlbumTitle": "Alexandre Rabinovitch-Barakovsky : Oeuvres orchestrales et Musique de chambre / Terza Pratica",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619918137529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Rabinovitch-Barakovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Filarmonica Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "Filarmonica Quartet"
+        },
+        {
+          "FullName": "Valery Karchagin",
+          "Profession": "Interprète",
+          "InterventionNote": "Valery Karchagin : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Oxana Anisimova",
+          "Profession": "Interprète",
+          "InterventionNote": "Oxana Anisimova : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vladimir Kopylov",
+          "Profession": "Interprète",
+          "InterventionNote": "Vladimir Kopylov : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Nicolai Girunyan",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicolai Girunyan : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Alexandre Rabinovitch-Barakovsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Rabinovitch-Barakovsky : Célesta",
+          "mop": "Célesta"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-27T02:18:05+01:00",
+      "composer": "http://data.doremus.org/artist/f15b7778-40a7-3be8-9b47-361e5a710f90"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:24:31:00",
+      "ScheduledDuration": "00:22:21:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Introitus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Introitus",
+      "Label": "CLASSICS JAZZ FRANCE",
+      "ReferenceLabel": "4803153",
+      "ExternalID": "0028948031535-1-17",
+      "AlbumTitle": "Sofia Goubaidoulina : portrait",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948031535",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Sofia Goubaidoulina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Claire Marie Le Guay",
+        "Profession": "Interprète",
+        "InterventionNote": "Claire Marie Le Guay : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Lausanne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Jacques Kantorow",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T02:24:31+01:00",
+      "composer": "http://data.doremus.org/artist/6637b898-6036-32ae-9176-2e34928a7453"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:47:03:00",
+      "ScheduledDuration": "00:06:08:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°6",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°6",
+      "Label": "NEOS",
+      "ExternalID": "RF00000039658-1-34",
+      "AlbumTitle": "Galina Oustvolskaia : Intégrale de la musique pour piano",
+      "Rank": 34,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000039658",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Galina Oustvolskaia",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sabine Liebner",
+        "Profession": "Interprète",
+        "InterventionNote": "Sabine Liebner : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-27T02:47:03+01:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:53:11:00",
+      "ScheduledDuration": "00:02:23:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hommage à TS Eliot : 2ème mouvement - pour octet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hommage à TS Eliot : 2ème mouvement - pour octet",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4796509",
+      "ExternalID": "RF00000057198-1-3",
+      "AlbumTitle": "Gidon Kremer : Complete concerto recordings on Deutsche Grammophon / Cd 8",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000057198",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Sofia Goubaidoulina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christine Whittlesey",
+          "Profession": "Interprète",
+          "InterventionNote": "Christine Whittlesey : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Isabelle Van Keulen",
+          "Profession": "Interprète",
+          "InterventionNote": "Isabelle Van Keulen : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "David Geringas",
+          "Profession": "Interprète",
+          "InterventionNote": "David Geringas : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Alois Posch",
+          "Profession": "Interprète",
+          "InterventionNote": "Alois Posch : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Eduard Brunner",
+          "Profession": "Interprète",
+          "InterventionNote": "Eduard Brunner : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Klaus Thunemann",
+          "Profession": "Interprète",
+          "InterventionNote": "Klaus Thunemann : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Radovan Vlatkovic",
+          "Profession": "Interprète",
+          "InterventionNote": "Radovan Vlatkovic : Cor",
+          "mop": "Cor"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-27T02:53:11+01:00",
+      "composer": "http://data.doremus.org/artist/6637b898-6036-32ae-9176-2e34928a7453"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:55:34:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hommage à TS Eliot : 4ème mouvement - pour octet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hommage à TS Eliot : 4ème mouvement - pour octet",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4796509",
+      "ExternalID": "RF00000057198-1-5",
+      "AlbumTitle": "Gidon Kremer : Complete concerto recordings on Deutsche Grammophon / Cd 8",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000057198",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Sofia Goubaidoulina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christine Whittlesey",
+          "Profession": "Interprète",
+          "InterventionNote": "Christine Whittlesey : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Isabelle Van Keulen",
+          "Profession": "Interprète",
+          "InterventionNote": "Isabelle Van Keulen : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "David Geringas",
+          "Profession": "Interprète",
+          "InterventionNote": "David Geringas : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Alois Posch",
+          "Profession": "Interprète",
+          "InterventionNote": "Alois Posch : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Eduard Brunner",
+          "Profession": "Interprète",
+          "InterventionNote": "Eduard Brunner : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Klaus Thunemann",
+          "Profession": "Interprète",
+          "InterventionNote": "Klaus Thunemann : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Radovan Vlatkovic",
+          "Profession": "Interprète",
+          "InterventionNote": "Radovan Vlatkovic : Cor",
+          "mop": "Cor"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-27T02:55:34+01:00",
+      "composer": "http://data.doremus.org/artist/6637b898-6036-32ae-9176-2e34928a7453"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:57:01:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Printemps : Jour du Seigneur / Pour violon soprano et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Printemps : Jour du Seigneur / Pour violon soprano et orchestre à cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-1",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julia Korpacheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Korpacheva : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T02:57:01+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "02:59:43:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Printemps : Berceuse / Pour violon et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Printemps : Berceuse / Pour violon et orchestre à cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-2",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T02:59:43+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-27",
+      "ScheduledTime": "03:02:12:00",
+      "ScheduledDuration": "00:04:27:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Printemps : Chant de la Saint George / Pour violon et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Printemps : Chant de la Saint George / Pour violon et orchestre à cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79803-2",
+      "ExternalID": "0075597980325-1-3",
+      "AlbumTitle": "The russian seasons",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597980325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonid Desyatnikov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Kremerata Baltica",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-27T03:02:12+01:00",
+      "composer": "http://data.doremus.org/artist/f952155c-31f4-340a-9abd-a69261ecc703"
+    }
+  ],
+  "total": 35,
+  "matched": 6
+}

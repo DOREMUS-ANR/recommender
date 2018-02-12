@@ -1,0 +1,2356 @@
+{
+  "id": "FM-401_20171218_00-23",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:00:09:00",
+      "ScheduledDuration": "00:10:55:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en ut dièse min : 4. Adagietto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en ut dièse min : 4. Adagietto",
+      "Label": "PROFIL",
+      "ReferenceLabel": "PH17004",
+      "ExternalID": "0881488170047-3-4",
+      "AlbumTitle": "Klaus Tennstedt Edition",
+      "Rank": 4,
+      "NumVolume": 3,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0881488170047",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique de la NDR de Hambourg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Klaus Tennstedt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:00:09+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:11:08:00",
+      "ScheduledDuration": "00:03:34:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Prélude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Prélude",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-1",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Orchestre De L'Opera De La Rca Italienne",
+        "Profession": "Interprète",
+        "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:11:08+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:14:42:00",
+      "ScheduledDuration": "00:04:45:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Dell'invito trascorsa è già l'ora (Acte I) Ensemble",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Dell'invito trascorsa è già l'ora (Acte I) Ensemble",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-2",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        },
+        {
+          "FullName": "Dorothy Krebill",
+          "Profession": "Interprète",
+          "InterventionNote": "Dorothy Krebill : Mezzo-soprano, Flora",
+          "mop": "Mezzo-soprano, Flora"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur De L'Opera De La Rca Italienne",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:14:42+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/a9dd5b7e-4541-3654-9a45-af2ab36c320c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:19:27:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Libiamo ne'lieti calici (Acte I) Ensemble",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Libiamo ne'lieti calici (Acte I) Ensemble",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-3",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        },
+        {
+          "FullName": "Dorothy Krebill",
+          "Profession": "Interprète",
+          "InterventionNote": "Dorothy Krebill : Mezzo-soprano, Flora",
+          "mop": "Mezzo-soprano, Flora"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur De L'Opera De La Rca Italienne",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:19:27+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/a9dd5b7e-4541-3654-9a45-af2ab36c320c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:22:31:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Che è cio (Acte I) Valse et duo Alfredo Violetta",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Che è cio (Acte I) Valse et duo Alfredo Violetta",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-4",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur De L'Opera De La Rca Italienne",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:22:31+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:24:55:00",
+      "ScheduledDuration": "00:03:18:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Un di felice eterea (Acte I) Alfredo Violetta",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Un di felice eterea (Acte I) Alfredo Violetta",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-5",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:24:55+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/a9dd5b7e-4541-3654-9a45-af2ab36c320c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:28:13:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Ebben che diavol fate (Acte I) Gaston Violetta Alfredo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Ebben che diavol fate (Acte I) Gaston Violetta Alfredo",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-6",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        },
+        {
+          "FullName": "Fernando Iacopucci",
+          "Profession": "Interprète",
+          "InterventionNote": "Fernando Iacopucci : Ténor, Gastone",
+          "mop": "Ténor, Gastone"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:28:13+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:29:30:00",
+      "ScheduledDuration": "00:01:33:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Si ridesta in ciel l'aurora (Acte I) Ensemble",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Si ridesta in ciel l'aurora (Acte I) Ensemble",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-7",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        },
+        {
+          "FullName": "Dorothy Krebill",
+          "Profession": "Interprète",
+          "InterventionNote": "Dorothy Krebill : Mezzo-soprano, Flora",
+          "mop": "Mezzo-soprano, Flora"
+        },
+        {
+          "FullName": "Fernando Iacopucci",
+          "Profession": "Interprète",
+          "InterventionNote": "Fernando Iacopucci : Ténor, Gastone",
+          "mop": "Ténor, Gastone"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur De L'Opera De La Rca Italienne",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:29:30+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:31:03:00",
+      "ScheduledDuration": "00:06:12:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Ah fors'é lui (Acte I) Air de Violetta",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Ah fors'é lui (Acte I) Air de Violetta",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-8",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:31:03+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:37:15:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Follie follie Delirio vano (Acte I) Air de Violetta",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Follie follie Delirio vano (Acte I) Air de Violetta",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-9",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:37:15+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:38:23:00",
+      "ScheduledDuration": "00:03:48:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La Traviata : Sempre libera (Acte I) Violetta Alfredo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La Traviata : Sempre libera (Acte I) Violetta Alfredo",
+      "Label": "RCA",
+      "ReferenceLabel": "RD86180(2)",
+      "ExternalID": "0035628618023-1-10",
+      "AlbumTitle": "Giuseppe Verdi : La Traviata",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628618023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Verdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre De L'Opera De La Rca Italienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre De L'Opera De La Rca Italienne"
+        },
+        {
+          "FullName": "Montserrat Caballe",
+          "Profession": "Interprète",
+          "InterventionNote": "Montserrat Caballe : Soprano, Violetta",
+          "mop": "Soprano, Violetta"
+        },
+        {
+          "FullName": "Carlo Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Bergonzi : Ténor, Alfredo",
+          "mop": "Ténor, Alfredo"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:38:23+01:00",
+      "composer": "http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3",
+      "best": "http://data.doremus.org/expression/1af526ca-f2e4-3a8c-8a72-e2a19b83cbc6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:42:24:00",
+      "ScheduledDuration": "00:08:51:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour piano n°8 en fa dièse min D 571 : 1. Allegro moderato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour piano n°8 en fa dièse min D 571 : 1. Allegro moderato",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "88985395492",
+      "ExternalID": "RF00000064505-1-1",
+      "AlbumTitle": "Badura-Skoda plays Schubert : The complete piano sonatas / CD 4",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064505",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Paul Badura-Skoda : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T00:42:24+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/33e0e068-3aee-33a0-8d1f-6b0b3ee03e1d",
+      "best_matching_score": "0.87"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:51:15:00",
+      "ScheduledDuration": "00:04:14:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour piano n°8 en fa dièse min : 2. Andante D 604",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour piano n°8 en fa dièse min : 2. Andante D 604",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "88985395492",
+      "ExternalID": "RF00000064505-1-2",
+      "AlbumTitle": "Badura-Skoda plays Schubert : The complete piano sonatas / CD 4",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064505",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T00:51:15+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f39d0fae-9205-37c2-82ae-60c7557140ae",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:55:29:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour piano n°8 en fa dièse min : 3. Scherzo D 570",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour piano n°8 en fa dièse min : 3. Scherzo D 570",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "88985395492",
+      "ExternalID": "RF00000064505-1-3",
+      "AlbumTitle": "Badura-Skoda plays Schubert : The complete piano sonatas / CD 4",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064505",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T00:55:29+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f39d0fae-9205-37c2-82ae-60c7557140ae",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:58:36:00",
+      "ScheduledDuration": "00:04:55:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour piano n°8 en fa dièse min : 4. Allegro D 570",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour piano n°8 en fa dièse min : 4. Allegro D 570",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "88985395492",
+      "ExternalID": "RF00000064505-1-4",
+      "AlbumTitle": "Badura-Skoda plays Schubert : The complete piano sonatas / CD 4",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064505",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Paul Badura-Skoda : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T00:58:36+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f39d0fae-9205-37c2-82ae-60c7557140ae",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:03:34:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min op 30 : 1. Moderato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min op 30 : 1. Moderato",
+      "Label": "GRAMOLA",
+      "ReferenceLabel": "99130",
+      "ExternalID": "9003643991309-1-4",
+      "AlbumTitle": "Der andere Badura",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9003643991309",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Promenade De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Artur Rodzinsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:03:34+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:06:35:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min op 30 : 2. Allegretto quasi polacca",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min op 30 : 2. Allegretto quasi polacca",
+      "Label": "GRAMOLA",
+      "ReferenceLabel": "99130",
+      "ExternalID": "9003643991309-1-5",
+      "AlbumTitle": "Der andere Badura",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9003643991309",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Promenade De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Artur Rodzinsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:06:35+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:09:20:00",
+      "ScheduledDuration": "00:03:32:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min op 30 : 3. Andante mosso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min op 30 : 3. Andante mosso",
+      "Label": "GRAMOLA",
+      "ReferenceLabel": "99130",
+      "ExternalID": "9003643991309-1-6",
+      "AlbumTitle": "Der andere Badura",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9003643991309",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Promenade De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Artur Rodzinsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:09:20+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:12:52:00",
+      "ScheduledDuration": "00:03:46:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano en ut dièse min op 30 : 4. Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano en ut dièse min op 30 : 4. Allegro",
+      "Label": "GRAMOLA",
+      "ReferenceLabel": "99130",
+      "ExternalID": "9003643991309-1-7",
+      "AlbumTitle": "Der andere Badura",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9003643991309",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Badura-Skoda",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Badura-Skoda : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Promenade De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Artur Rodzinsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:12:52+01:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:16:47:00",
+      "ScheduledDuration": "00:05:08:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Prélude (Acte I)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Prélude (Acte I)",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-1",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:16:47+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:21:55:00",
+      "ScheduledDuration": "00:12:36:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Einst war ich schön (Acte I Sc 1) Lola et Peter",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Einst war ich schön (Acte I Sc 1) Lola et Peter",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-2",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Monte Pederson",
+          "Profession": "Interprète",
+          "InterventionNote": "Monte Pederson : Basse (voix), Peter",
+          "mop": "Basse (voix), Peter"
+        },
+        {
+          "FullName": "Eva Randova",
+          "Profession": "Interprète",
+          "InterventionNote": "Eva Randova : Contralto, Lola",
+          "mop": "Contralto, Lola"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:21:55+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:34:31:00",
+      "ScheduledDuration": "00:09:50:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Bin wieder da (Acte I Sc 2) Christobald et Peter",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Bin wieder da (Acte I Sc 2) Christobald et Peter",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-3",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Heinz Zednik",
+          "Profession": "Interprète",
+          "InterventionNote": "Heinz Zednik : Ténor, Christobald",
+          "mop": "Ténor, Christobald"
+        },
+        {
+          "FullName": "Monte Pederson",
+          "Profession": "Interprète",
+          "InterventionNote": "Monte Pederson : Basse (voix), Peter",
+          "mop": "Basse (voix), Peter"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:34:31+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:44:21:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Was ist denn (Acte I Sc 3) Lola et Christobald",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Was ist denn (Acte I Sc 3) Lola et Christobald",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-4",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Heinz Zednik",
+          "Profession": "Interprète",
+          "InterventionNote": "Heinz Zednik : Ténor, Christobald",
+          "mop": "Ténor, Christobald"
+        },
+        {
+          "FullName": "Eva Randova",
+          "Profession": "Interprète",
+          "InterventionNote": "Eva Randova : Contralto, Lola",
+          "mop": "Contralto, Lola"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:44:21+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:46:28:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Einst war ich schön einst war ich jung (Acte I Sc 3) Lola et Christobald",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Einst war ich schön einst war ich jung (Acte I Sc 3) Lola et Christobald",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-5",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Heinz Zednik",
+          "Profession": "Interprète",
+          "InterventionNote": "Heinz Zednik : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Eva Randova",
+          "Profession": "Interprète",
+          "InterventionNote": "Eva Randova : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:46:28+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:50:53:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Peter so mach doch auf (Acte I Sc 4) Peter et Eva",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Peter so mach doch auf (Acte I Sc 4) Peter et Eva",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-6",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Monte Pederson",
+          "Profession": "Interprète",
+          "InterventionNote": "Monte Pederson : Basse (voix), Peter",
+          "mop": "Basse (voix), Peter"
+        },
+        {
+          "FullName": "Luana De Vol",
+          "Profession": "Interprète",
+          "InterventionNote": "Luana De Vol : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:50:53+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:55:18:00",
+      "ScheduledDuration": "00:01:21:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Irrelohe : Dies ist das Ende (Acte I Sc 4) Peter",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Irrelohe : Dies ist das Ende (Acte I Sc 4) Peter",
+      "Label": "SONY",
+      "ReferenceLabel": "S2K 66850 ,",
+      "ExternalID": "5099706685029-1-7",
+      "AlbumTitle": "Irrelohe",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706685029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Monte Pederson",
+        "Profession": "Interprète",
+        "InterventionNote": "Monte Pederson : Basse (voix), Peter",
+        "mop": "Basse (voix), Peter"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Gulke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:55:18+01:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37",
+      "best": "http://data.doremus.org/expression/355a44dd-cb14-32b7-a82f-813baec9cde6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:56:43:00",
+      "ScheduledDuration": "00:04:17:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 motets pour le temps de Noël FP 152 : 1. O Magnum Mysterium - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 motets pour le temps de Noël FP 152 : 1. O Magnum Mysterium - pour choeur mixte a cappella",
+      "Label": "DECCA ELOQUENCE",
+      "ReferenceLabel": "4828798",
+      "ExternalID": "0028948287987-1-7",
+      "AlbumTitle": "Poulenc : Gloria et Motets de Noël et Saint-Saëns : Messe à 4 voix",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948287987",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Cathedrale Du Christ D'Oxford",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Preston",
+        "Profession": "Chef de choeur"
+      },
+      "ScheduledDateTime": "2017-12-18T01:56:43+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/1be01ef6-ecfd-30c9-9772-6a32348a9556",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:01:00:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 motets pour le temps de Noël FP 152 : 2. Quem vidistis pastores dicite - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 motets pour le temps de Noël FP 152 : 2. Quem vidistis pastores dicite - pour choeur mixte a cappella",
+      "Label": "DECCA ELOQUENCE",
+      "ReferenceLabel": "4828798",
+      "ExternalID": "0028948287987-1-8",
+      "AlbumTitle": "Poulenc : Gloria et Motets de Noël et Saint-Saëns : Messe à 4 voix",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948287987",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Cathedrale Du Christ D'Oxford",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Preston",
+        "Profession": "Chef de choeur"
+      },
+      "ScheduledDateTime": "2017-12-18T02:01:00+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/1be01ef6-ecfd-30c9-9772-6a32348a9556",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:03:48:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 motets pour le temps de Noël FP 152 : 3. Videntes Stellam - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 motets pour le temps de Noël FP 152 : 3. Videntes Stellam - pour choeur mixte a cappella",
+      "Label": "DECCA ELOQUENCE",
+      "ReferenceLabel": "4828798",
+      "ExternalID": "0028948287987-1-9",
+      "AlbumTitle": "Poulenc : Gloria et Motets de Noël et Saint-Saëns : Messe à 4 voix",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948287987",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Cathedrale Du Christ D'Oxford",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Preston",
+        "Profession": "Chef de choeur"
+      },
+      "ScheduledDateTime": "2017-12-18T02:03:48+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/1be01ef6-ecfd-30c9-9772-6a32348a9556",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:06:55:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 motets pour le temps de Noël FP 152 : 4. Hodie Christus natus est - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 motets pour le temps de Noël FP 152 : 4. Hodie Christus natus est - pour choeur mixte a cappella",
+      "Label": "DECCA ELOQUENCE",
+      "ReferenceLabel": "4828798",
+      "ExternalID": "0028948287987-1-10",
+      "AlbumTitle": "Poulenc : Gloria et Motets de Noël et Saint-Saëns : Messe à 4 voix",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948287987",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Cathedrale Du Christ D'Oxford",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Preston",
+        "Profession": "Chef de choeur"
+      },
+      "ScheduledDateTime": "2017-12-18T02:06:55+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/1be01ef6-ecfd-30c9-9772-6a32348a9556",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:09:11:00",
+      "ScheduledDuration": "00:06:19:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sérénade : Phaedrus - Pausanias - pour violon cordes harpe et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sérénade : Phaedrus - Pausanias - pour violon cordes harpe et percussions",
+      "Label": "COVIELLO",
+      "ReferenceLabel": "COV91711",
+      "ExternalID": "4039956917113-1-1",
+      "AlbumTitle": "Kolja Blacher interprète Bernstein et Haydn",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4039956917113",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kolja Blacher : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Du Wurtemberg De Heilbronn",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:09:11+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/b318bf3d-4929-30ae-89fb-7f4336324b4e",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:15:30:00",
+      "ScheduledDuration": "00:04:05:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sérénade : Aristophanes - pour violon cordes harpe et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sérénade : Aristophanes - pour violon cordes harpe et percussions",
+      "Label": "COVIELLO",
+      "ReferenceLabel": "COV91711",
+      "ExternalID": "4039956917113-1-2",
+      "AlbumTitle": "Kolja Blacher interprète Bernstein et Haydn",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4039956917113",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kolja Blacher : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Du Wurtemberg De Heilbronn",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:15:30+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/b318bf3d-4929-30ae-89fb-7f4336324b4e",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:19:35:00",
+      "ScheduledDuration": "00:01:29:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sérénade : Eryximachus - pour violon cordes harpe et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sérénade : Eryximachus - pour violon cordes harpe et percussions",
+      "Label": "COVIELLO",
+      "ReferenceLabel": "COV91711",
+      "ExternalID": "4039956917113-1-3",
+      "AlbumTitle": "Kolja Blacher interprète Bernstein et Haydn",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4039956917113",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kolja Blacher : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Du Wurtemberg De Heilbronn",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:19:35+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/b318bf3d-4929-30ae-89fb-7f4336324b4e",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:21:04:00",
+      "ScheduledDuration": "00:05:50:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sérénade : Agathon - pour violon cordes harpe et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sérénade : Agathon - pour violon cordes harpe et percussions",
+      "Label": "COVIELLO",
+      "ReferenceLabel": "COV91711",
+      "ExternalID": "4039956917113-1-4",
+      "AlbumTitle": "Kolja Blacher interprète Bernstein et Haydn",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4039956917113",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kolja Blacher : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Du Wurtemberg De Heilbronn",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:21:04+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/b318bf3d-4929-30ae-89fb-7f4336324b4e",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:26:54:00",
+      "ScheduledDuration": "00:10:46:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sérénade : Socrates - Alcibiades - pour violon cordes harpe et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sérénade : Socrates - Alcibiades - pour violon cordes harpe et percussions",
+      "Label": "COVIELLO",
+      "ReferenceLabel": "COV91711",
+      "ExternalID": "4039956917113-1-5",
+      "AlbumTitle": "Kolja Blacher interprète Bernstein et Haydn",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4039956917113",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kolja Blacher : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Du Wurtemberg De Heilbronn",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kolja Blacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:26:54+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/b318bf3d-4929-30ae-89fb-7f4336324b4e",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:37:46:00",
+      "ScheduledDuration": "00:06:53:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 1. Allegro con brio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 1. Allegro con brio",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SU 4221-2",
+      "ExternalID": "0099925422127-3-1",
+      "AlbumTitle": "Vlach Quartet interprète Beethoven et Mozart",
+      "Rank": 1,
+      "NumVolume": 3,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925422127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Josef Vlach",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Vlach : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vaclav Snitil",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Snitil : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kodousek",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kodousek : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Viktor Moucka",
+          "Profession": "Interprète",
+          "InterventionNote": "Viktor Moucka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Vlach",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:37:46+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:44:39:00",
+      "ScheduledDuration": "00:07:07:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 2. Adagio ma non troppo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 2. Adagio ma non troppo",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SU 4221-2",
+      "ExternalID": "0099925422127-3-2",
+      "AlbumTitle": "Vlach Quartet interprète Beethoven et Mozart",
+      "Rank": 2,
+      "NumVolume": 3,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925422127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Josef Vlach",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Vlach : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vaclav Snitil",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Snitil : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kodousek",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kodousek : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Viktor Moucka",
+          "Profession": "Interprète",
+          "InterventionNote": "Viktor Moucka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Vlach",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:44:39+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:51:46:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 3. Scherzo : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 3. Scherzo : Allegro",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SU 4221-2",
+      "ExternalID": "0099925422127-3-3",
+      "AlbumTitle": "Vlach Quartet interprète Beethoven et Mozart",
+      "Rank": 3,
+      "NumVolume": 3,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925422127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Josef Vlach",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Vlach : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vaclav Snitil",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Snitil : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kodousek",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kodousek : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Viktor Moucka",
+          "Profession": "Interprète",
+          "InterventionNote": "Viktor Moucka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Vlach",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:51:46+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:55:35:00",
+      "ScheduledDuration": "00:08:45:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 4. La Malinconia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°6 en Si bémol Maj op 18 n°6 : 4. La Malinconia",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SU 4221-2",
+      "ExternalID": "0099925422127-3-4",
+      "AlbumTitle": "Vlach Quartet interprète Beethoven et Mozart",
+      "Rank": 4,
+      "NumVolume": 3,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925422127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Josef Vlach",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Vlach : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Vaclav Snitil",
+          "Profession": "Interprète",
+          "InterventionNote": "Vaclav Snitil : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kodousek",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kodousek : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Viktor Moucka",
+          "Profession": "Interprète",
+          "InterventionNote": "Viktor Moucka : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Vlach",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:55:35+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    }
+  ],
+  "total": 39,
+  "matched": 31
+}

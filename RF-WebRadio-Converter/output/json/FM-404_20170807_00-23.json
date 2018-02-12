@@ -1,0 +1,492 @@
+{
+  "id": "FM-404_20170807_00-23",
+  "channel": "404",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "00:01:12:00",
+      "ScheduledDuration": "00:10:13:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Improvisation à 6 temps (zarb)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Improvisation à 6 temps (zarb)",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMA 190391",
+      "ExternalID": "RF00000021472-1-1",
+      "AlbumTitle": "Chemirani D.",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000021472",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Djamchid Chemirani",
+        "Profession": "Interprète",
+        "InterventionNote": "Djamchid Chemirani : Zarb (tambour)",
+        "mop": "Zarb (tambour)"
+      },
+      "ScheduledDateTime": "2017-08-07T00:01:12+02:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "00:12:07:00",
+      "ScheduledDuration": "00:10:31:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rapsodie persane : Rapsodie persane n°2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rapsodie persane : Rapsodie persane n°2",
+      "Label": "EDICI",
+      "ReferenceLabel": "ED 52 727",
+      "ExternalID": "RF00000045760-1-2",
+      "AlbumTitle": "André Hossein : Rapsodie persane",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000045760",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Hossein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Andre Hossein",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Hossein : Tar (luth)",
+          "mop": "Tar (luth)"
+        },
+        {
+          "FullName": "Djamchid Chemirani",
+          "Profession": "Interprète",
+          "InterventionNote": "Djamchid Chemirani : Tombak (tambour gobelet)",
+          "mop": "Tombak (tambour gobelet)"
+        },
+        {
+          "FullName": "Jacky Devenais",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacky Devenais : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-08-07T00:12:07+02:00",
+      "composer": "http://data.doremus.org/artist/d540e896-d32b-36b5-8f7c-ac9edd58d801"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "00:23:15:00",
+      "ScheduledDuration": "00:20:38:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mainoon yaar di namaaz parh lainde",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mainoon yaar di namaaz parh lainde",
+      "Label": "WAGRAM",
+      "ReferenceLabel": "3065102",
+      "ExternalID": "3596971651022-1-2",
+      "AlbumTitle": "Khan Nusrat Fateh Ali/-Nusrat forever-Back to Qawwali",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3596971651022",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Nusrat Fateh Ali Khan",
+          "Profession": "Interprète",
+          "InterventionNote": "Nusrat Fateh Ali Khan : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Farrukh Fateh Ali Khan",
+          "Profession": "Interprète",
+          "InterventionNote": "Farrukh Fateh Ali Khan : Voix, Harmonium",
+          "mop": "Voix, Harmonium"
+        },
+        {
+          "FullName": "Rahat Ali",
+          "Profession": "Interprète",
+          "InterventionNote": "Rahat Ali : Voix, Harmonium",
+          "mop": "Voix, Harmonium"
+        },
+        {
+          "FullName": "Ramat Ali",
+          "Profession": "Interprète",
+          "InterventionNote": "Ramat Ali : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Dildar Khan",
+          "Profession": "Interprète",
+          "InterventionNote": "Dildar Khan : Tabla (timbales)",
+          "mop": "Tabla (timbales)"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-08-07T00:23:15+02:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "00:44:16:00",
+      "ScheduledDuration": "00:23:15:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Raga - Tilak Shyam - Sitar Assemble (Trad.)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Raga - Tilak Shyam - Sitar Assemble (Trad.)",
+      "Label": "MEMBRAN MUSIC",
+      "ReferenceLabel": "224078-356",
+      "ExternalID": "4011222240781-2-1",
+      "AlbumTitle": "Shankar Ravi/Live in concert & rare ragas",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4011222240781",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Ravi Shankar",
+        "Profession": "Interprète",
+        "InterventionNote": "Ravi Shankar"
+      },
+      "ScheduledDateTime": "2017-08-07T00:44:16+02:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "01:08:06:00",
+      "ScheduledDuration": "00:20:36:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ayoub",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ayoub",
+      "Label": "HILAL ART",
+      "ReferenceLabel": "HAF 01",
+      "ExternalID": "RF00000011577-1-10",
+      "AlbumTitle": "Egyptian music for baladi dance/Hilal Suraya/Spirit of the Heart",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000011577",
+      "Interpreter": [
+        {
+          "FullName": "Ruh El Fouad",
+          "Profession": "Interprète",
+          "InterventionNote": "Ruh El Fouad : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Mohammad Sabry",
+          "Profession": "Interprète",
+          "InterventionNote": "Mohammad Sabry : Nay (flûte)",
+          "mop": "Nay (flûte)"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Cairo Baladi Ensemble",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-08-07T01:08:06+02:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "01:29:43:00",
+      "ScheduledDuration": "00:21:39:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Maqâm Rest",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Maqâm Rest",
+      "Label": "MAISON DES CULTURES DU MONDE",
+      "ReferenceLabel": "W 260063",
+      "ExternalID": "3298492600632-1-1",
+      "AlbumTitle": "Le maqâm Irakien/Tradition de Bagdad/Hommage à Yusuf Omar",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298492600632",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Yusuf Omar",
+          "Profession": "Interprète",
+          "InterventionNote": "Yusuf Omar"
+        },
+        {
+          "FullName": "Ensemble Al Tchalghi Al Baghdadi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Al Tchalghi Al Baghdadi"
+        },
+        {
+          "FullName": "Ali Abdallah",
+          "Profession": "Interprète",
+          "InterventionNote": "Ali Abdallah"
+        },
+        {
+          "FullName": "Ibrahim Shaoubi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ibrahim Shaoubi"
+        },
+        {
+          "FullName": "Ali Al-Nakib Hassan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ali Al-Nakib Hassan"
+        },
+        {
+          "FullName": "Madjid Abdul Razzak",
+          "Profession": "Interprète",
+          "InterventionNote": "Madjid Abdul Razzak"
+        }
+      ],
+      "ScheduledDateTime": "2017-08-07T01:29:43+02:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "01:52:46:00",
+      "ScheduledDuration": "00:20:48:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mode Bayyât Bêyâti",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mode Bayyât Bêyâti",
+      "Label": "AL SUR",
+      "ReferenceLabel": "ALCD 143",
+      "ExternalID": "RF00000019025-1-1",
+      "AlbumTitle": "Syrie/Adib Dayikh",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000019025",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Adib Dayikh",
+          "Profession": "Interprète",
+          "InterventionNote": "Adib Dayikh : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Julien Jalaleddin Weiss",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Jalaleddin Weiss : Cithare",
+          "mop": "Cithare"
+        }
+      ],
+      "ScheduledDateTime": "2017-08-07T01:52:46+02:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "02:14:21:00",
+      "ScheduledDuration": "00:22:48:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Taksim makam Rast",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Taksim makam Rast",
+      "Label": "PLAYASOUND",
+      "ReferenceLabel": "PS 65078",
+      "ExternalID": "3298490650783-1-5",
+      "AlbumTitle": "Turquie/Le ney",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490650783",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Aka Gunduz Kutbay",
+        "Profession": "Interprète",
+        "InterventionNote": "Aka Gunduz Kutbay : Nay (flûte)",
+        "mop": "Nay (flûte)"
+      },
+      "ScheduledDateTime": "2017-08-07T02:14:21+02:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-07",
+      "ScheduledTime": "02:38:03:00",
+      "ScheduledDuration": "00:26:24:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le foundou",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le foundou",
+      "Label": "AL SUR",
+      "ReferenceLabel": "ALCD 110",
+      "ExternalID": "3356570651027-1-2",
+      "AlbumTitle": "Foundou de Bechar",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3356570651027",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Alla",
+          "Profession": "Interprète",
+          "InterventionNote": "Alla : Oud (luth)",
+          "mop": "Oud (luth)"
+        },
+        {
+          "FullName": "Non Identifie",
+          "Profession": "Interprète",
+          "InterventionNote": "Non Identifie : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-08-07T02:38:03+02:00"
+    }
+  ],
+  "total": 9,
+  "matched": 0
+}

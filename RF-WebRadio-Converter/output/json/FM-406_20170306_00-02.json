@@ -1,0 +1,1385 @@
+{
+  "id": "FM-406_20170306_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:00:14:00",
+      "ScheduledDuration": "00:04:17:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Madame press died last week at ninety - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Madame press died last week at ninety - pour orchestre",
+      "Label": "ELEKTRA",
+      "ReferenceLabel": "7559-79249-2",
+      "ExternalID": "0007559792492-1-8",
+      "AlbumTitle": "American elegies",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0007559792492",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Feldman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Saint Luke De New York",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Adams",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:00:14+01:00",
+      "composer": "http://data.doremus.org/artist/1a18ac85-9c70-3cb1-94fb-c23628943c69",
+      "best": "http://data.doremus.org/expression/4eddb486-b0fe-3f9f-a76c-c23bbb1f82a9",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:05:00:00",
+      "ScheduledDuration": "00:23:14:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rothko chapel - pour soprano contralto choeur mixte alto et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rothko chapel - pour soprano contralto choeur mixte alto et percussions",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 0425",
+      "ExternalID": "3760058364253-1-2",
+      "AlbumTitle": "Christophe Desjardins : Voix d'alto",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058364253",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Feldman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Collegium Novum De Zurich",
+          "Profession": "Interprète",
+          "InterventionNote": "Collegium Novum De Zurich"
+        },
+        {
+          "FullName": "Christophe Desjardins",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Desjardins : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Fritz Naf",
+          "Profession": "Interprète",
+          "InterventionNote": "Fritz Naf"
+        },
+        {
+          "FullName": "Katrin Frauchiger",
+          "Profession": "Interprète",
+          "InterventionNote": "Katrin Frauchiger : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sybille Kamphus",
+          "Profession": "Interprète",
+          "InterventionNote": "Sybille Kamphus : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Madrigalistes De Bale",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jonathan Nott",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:05:00+01:00",
+      "composer": "http://data.doremus.org/artist/1a18ac85-9c70-3cb1-94fb-c23628943c69",
+      "best": "http://data.doremus.org/expression/dc0d45a3-2593-3f53-93d1-d6198e4161f0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:28:44:00",
+      "ScheduledDuration": "00:10:06:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "About the seventh - 15 variations pour ensemble de chambre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "About the seventh - 15 variations pour ensemble de chambre",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782048",
+      "ExternalID": "3298497820486-1-11",
+      "AlbumTitle": "For stefan wolpe",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820486",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Schoellhorn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Recherche",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Recherche"
+      },
+      "ScheduledDateTime": "2017-03-06T00:28:44+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:38:50:00",
+      "ScheduledDuration": "00:13:02:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor - pour trompette, saxophone tenor, percussion et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor - pour trompette, saxophone tenor, percussion et piano",
+      "Label": "HAT HUT RECORDS",
+      "ReferenceLabel": "ART CD 6182",
+      "ExternalID": "0752156618225-1-6",
+      "AlbumTitle": "Stefan Wolpe : passacaglia et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0752156618225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Stefan Wolpe",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jack Maxin",
+          "Profession": "Interprète",
+          "InterventionNote": "Jack Maxin : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Bob Nagel",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Nagel : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Al Cohn",
+          "Profession": "Interprète",
+          "InterventionNote": "Al Cohn : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Al Howard",
+          "Profession": "Interprète",
+          "InterventionNote": "Al Howard : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Samuel Baron",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:38:50+01:00",
+      "composer": "http://data.doremus.org/artist/73f499f4-62f4-3a98-a7d4-1e1fad7f4961"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:52:03:00",
+      "ScheduledDuration": "00:06:23:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "June 1953",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "June 1953",
+      "Label": "TZADIK",
+      "ReferenceLabel": "TZ 8028",
+      "ExternalID": "0702397802822-1-8",
+      "AlbumTitle": "Folio and Four Systems",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0702397802822",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Earle Brown",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ikue Mori",
+          "Profession": "Interprète",
+          "InterventionNote": "Ikue Mori : laptop, electronics",
+          "mop": "laptop, electronics"
+        },
+        {
+          "FullName": "Sylvie Courvoisier",
+          "Profession": "Interprète",
+          "InterventionNote": "Sylvie Courvoisier : piano",
+          "mop": "piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T00:52:03+01:00",
+      "composer": "http://data.doremus.org/artist/318f183a-5231-3825-8153-6f46f9bdab1a"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:58:26:00",
+      "ScheduledDuration": "00:03:17:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonates et interludes : Sonate n°14 - Gemini / Gémeaux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonates et interludes : Sonate n°14 - Gemini / Gémeaux",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6782 2",
+      "ExternalID": "4010228678222-1-18",
+      "AlbumTitle": "John Cage : Sonates et interludes pour piano préparé (intégrale)",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228678222",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Antonis Anissegos",
+        "Profession": "Interprète",
+        "InterventionNote": "Antonis Anissegos : Piano préparé",
+        "mop": "Piano préparé"
+      },
+      "ScheduledDateTime": "2017-03-06T00:58:26+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/a1552e41-588d-3c4f-adb1-53ac13e43a89",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:01:43:00",
+      "ScheduledDuration": "00:03:28:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonates et interludes : Sonate n°15 - Gemini / Gémeau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonates et interludes : Sonate n°15 - Gemini / Gémeau",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6782 2",
+      "ExternalID": "4010228678222-1-19",
+      "AlbumTitle": "John Cage : Sonates et interludes pour piano préparé (intégrale)",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228678222",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Antonis Anissegos",
+        "Profession": "Interprète",
+        "InterventionNote": "Antonis Anissegos : Piano préparé",
+        "mop": "Piano préparé"
+      },
+      "ScheduledDateTime": "2017-03-06T01:01:43+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/a1552e41-588d-3c4f-adb1-53ac13e43a89",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:05:50:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Something Wild in the City: Mary Ann's Theme (1960)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Something Wild in the City: Mary Ann's Theme (1960)",
+      "Label": "KAIROS PRODUCTIONS",
+      "ReferenceLabel": "0012292KAI",
+      "ExternalID": "9120010280023-1-1",
+      "AlbumTitle": "Something wild / Music for film / Ens. Recherche",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010280023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Feldman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-03-06T01:05:50+01:00",
+      "composer": "http://data.doremus.org/artist/1a18ac85-9c70-3cb1-94fb-c23628943c69"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:09:00:00",
+      "ScheduledDuration": "00:21:05:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cello and orchestra",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cello and orchestra",
+      "Label": "ARGO",
+      "ReferenceLabel": "448513-2",
+      "ExternalID": "0028944851328-1-2",
+      "AlbumTitle": "Coptic light",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944851328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Feldman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Robert Cohen",
+        "Profession": "Interprète",
+        "InterventionNote": "Robert Cohen : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "New World Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michael Tilson-Thomas",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:09:00+01:00",
+      "composer": "http://data.doremus.org/artist/1a18ac85-9c70-3cb1-94fb-c23628943c69",
+      "best": "http://data.doremus.org/expression/10f373db-1cd9-3489-a5fc-7c9ea837ef01",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:30:50:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : A woman invented fire - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : A woman invented fire - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-22",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:30:50+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:32:40:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : Drowning - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : Drowning - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-23",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:32:40+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:33:46:00",
+      "ScheduledDuration": "00:00:57:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : The women let the tide go out - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : The women let the tide go out - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-24",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:33:46+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:34:43:00",
+      "ScheduledDuration": "00:00:58:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : Note to the grandparents - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : Note to the grandparents - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-25",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:34:43+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:35:41:00",
+      "ScheduledDuration": "00:02:02:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : Mulberry street ends in good works - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : Mulberry street ends in good works - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-26",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 26,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:35:41+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:37:43:00",
+      "ScheduledDuration": "00:01:26:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : The sad children's song - pour soprano et baryton-basse a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : The sad children's song - pour soprano et baryton-basse a cappella",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-27",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 27,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:37:43+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:39:09:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : this is about the women of that country - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : this is about the women of that country - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-28",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 28,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:39:09+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:42:58:00",
+      "ScheduledDuration": "00:02:16:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From leaning forward : That year - pour soprano baryton-basse clarinettes et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From leaning forward : That year - pour soprano baryton-basse clarinettes et violoncelle",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE133/134",
+      "ExternalID": "0764593013327-1-29",
+      "AlbumTitle": "Christian Wolff : (Re) making music / Vol. 6",
+      "Rank": 29,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593013327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Wolff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barton Workshop",
+          "Profession": "Interprète",
+          "InterventionNote": "Barton Workshop"
+        },
+        {
+          "FullName": "John Anderson",
+          "Profession": "Interprète",
+          "InterventionNote": "John Anderson : Clarinette, Clarinette basse",
+          "mop": "Clarinette, Clarinette basse"
+        },
+        {
+          "FullName": "Judith Van Swaay",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Van Swaay : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Nicola Walker-Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicola Walker-Smith : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Charles Van Tassel",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Van Tassel : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:42:58+01:00",
+      "composer": "http://data.doremus.org/artist/07b51690-0648-3410-94b3-07636d54f701"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:45:23:00",
+      "ScheduledDuration": "00:06:23:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Imaginary landscapes N° I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Imaginary landscapes N° I",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33918",
+      "ExternalID": "8011570339188-1-1",
+      "AlbumTitle": "John Cage : Imaginary landscapes",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570339188",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Prometeo",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Prometeo"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:45:23+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/773ec21a-a2f3-3f86-a826-db89b4f9b9d8",
+      "best_matching_score": "0.84"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:51:46:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Imaginary landscapes N° 3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Imaginary landscapes N° 3",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33918",
+      "ExternalID": "8011570339188-1-2",
+      "AlbumTitle": "John Cage : Imaginary landscapes",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570339188",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Prometeo",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Prometeo"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:51:46+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/bc34b755-be7e-3eb2-b4a1-26ee42c0720d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:54:50:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Imaginary landscapes N° 5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Imaginary landscapes N° 5",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33918",
+      "ExternalID": "8011570339188-1-3",
+      "AlbumTitle": "John Cage : Imaginary landscapes",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570339188",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Prometeo",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Prometeo"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:54:50+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/bc34b755-be7e-3eb2-b4a1-26ee42c0720d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:57:54:00",
+      "ScheduledDuration": "00:05:32:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Imaginary landscapes N° 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Imaginary landscapes N° 2",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33918",
+      "ExternalID": "8011570339188-1-4",
+      "AlbumTitle": "John Cage : Imaginary landscapes",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570339188",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Prometeo",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Prometeo"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:57:54+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/bc34b755-be7e-3eb2-b4a1-26ee42c0720d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:03:26:00",
+      "ScheduledDuration": "00:05:51:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Imaginary landscapes N° 4",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Imaginary landscapes N° 4",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33918",
+      "ExternalID": "8011570339188-1-5",
+      "AlbumTitle": "John Cage : Imaginary landscapes",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570339188",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Prometeo",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Prometeo"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T02:03:26+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/bc34b755-be7e-3eb2-b4a1-26ee42c0720d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:09:54:00",
+      "ScheduledDuration": "00:45:51:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Triadic memories II",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Triadic memories II",
+      "Label": "LA BUISSONNE",
+      "ReferenceLabel": "YAN.001",
+      "ExternalID": "3149028045024-2-1",
+      "AlbumTitle": "Triadic memories / Morton Feldman : Triadic memories et Piano piece 1952",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028045024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Feldman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascale Berthelot",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascale Berthelot : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-06T02:09:54+01:00",
+      "composer": "http://data.doremus.org/artist/1a18ac85-9c70-3cb1-94fb-c23628943c69",
+      "best": "http://data.doremus.org/expression/9d7b45f8-bf9c-33ee-a60a-e8dabc8b3004",
+      "best_matching_score": "0.84"
+    }
+  ],
+  "total": 23,
+  "matched": 11
+}

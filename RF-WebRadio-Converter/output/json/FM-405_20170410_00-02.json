@@ -1,0 +1,2637 @@
+{
+  "id": "FM-405_20170410_00-02",
+  "channel": "405",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:00:05:00",
+      "ScheduledDuration": "00:07:47:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shouara",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shouara",
+      "Label": "CARDIN",
+      "ReferenceLabel": "STEC 119",
+      "ExternalID": "RF00000051421-1-4",
+      "AlbumTitle": "Bernard Lubat and his Mad Ducks",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1971-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000051421",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Bernard Lubat And His Mad Ducks",
+          "Profession": "Interprète",
+          "InterventionNote": "Bernard Lubat And His Mad Ducks"
+        },
+        {
+          "FullName": "Bernard Lubat",
+          "Profession": "Interprète",
+          "InterventionNote": "Bernard Lubat"
+        },
+        {
+          "FullName": "Claude Engel",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Engel"
+        },
+        {
+          "FullName": "Eddy Louiss",
+          "Profession": "Interprète",
+          "InterventionNote": "Eddy Louiss"
+        },
+        {
+          "FullName": "Francois Gimenez",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Gimenez"
+        },
+        {
+          "FullName": "Francis Darizcuren",
+          "Profession": "Interprète",
+          "InterventionNote": "Francis Darizcuren"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T00:00:05+02:00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:07:52:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "1er mouvement : Présentation",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "1er mouvement : Présentation",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "71 430",
+      "ExternalID": "RF00000047467-1-1",
+      "AlbumTitle": "Suite stéréophonique",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Armand Cavalaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Cavalaro : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Georges Grenu",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Grenu : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Raymond Guiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Guiot : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jo Hrasco",
+          "Profession": "Interprète",
+          "InterventionNote": "Jo Hrasco : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:07:52+02:00",
+      "composer": "http://data.doremus.org/artist/ec9411a0-6a17-3d81-8bf5-41897ae2987f"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:09:44:00",
+      "ScheduledDuration": "00:02:22:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "2ème mouvement : Modéré",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "2ème mouvement : Modéré",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "71 430",
+      "ExternalID": "RF00000047467-1-2",
+      "AlbumTitle": "Suite stéréophonique",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Armand Cavalaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Cavalaro : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Georges Grenu",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Grenu : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Raymond Guiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Guiot : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jo Hrasco",
+          "Profession": "Interprète",
+          "InterventionNote": "Jo Hrasco : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:09:44+02:00",
+      "composer": "http://data.doremus.org/artist/ec9411a0-6a17-3d81-8bf5-41897ae2987f"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:12:06:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3ème mouvement : Divertissement pour trompette et bois",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3ème mouvement : Divertissement pour trompette et bois",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "71 430",
+      "ExternalID": "RF00000047467-1-3",
+      "AlbumTitle": "Suite stéréophonique",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Armand Cavalaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Cavalaro : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Georges Grenu",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Grenu : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Raymond Guiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Guiot : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jo Hrasco",
+          "Profession": "Interprète",
+          "InterventionNote": "Jo Hrasco : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:12:06+02:00",
+      "composer": "http://data.doremus.org/artist/ec9411a0-6a17-3d81-8bf5-41897ae2987f"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:14:51:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4ème mouvement : Valse jazz",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4ème mouvement : Valse jazz",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "71 430",
+      "ExternalID": "RF00000047467-1-4",
+      "AlbumTitle": "Suite stéréophonique",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Armand Cavalaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Cavalaro : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Georges Grenu",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Grenu : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Raymond Guiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Guiot : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jo Hrasco",
+          "Profession": "Interprète",
+          "InterventionNote": "Jo Hrasco : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:14:51+02:00",
+      "composer": "http://data.doremus.org/artist/ec9411a0-6a17-3d81-8bf5-41897ae2987f"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:16:50:00",
+      "ScheduledDuration": "00:03:50:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5ème mouvement : Adagio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5ème mouvement : Adagio",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "71 430",
+      "ExternalID": "RF00000047467-1-5",
+      "AlbumTitle": "Suite stéréophonique",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Armand Cavalaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Cavalaro : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Georges Grenu",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Grenu : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Raymond Guiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Guiot : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jo Hrasco",
+          "Profession": "Interprète",
+          "InterventionNote": "Jo Hrasco : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:16:50+02:00",
+      "composer": "http://data.doremus.org/artist/ec9411a0-6a17-3d81-8bf5-41897ae2987f"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:20:40:00",
+      "ScheduledDuration": "00:02:19:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "6ème mouvement : Final",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "6ème mouvement : Final",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "71 430",
+      "ExternalID": "RF00000047467-1-6",
+      "AlbumTitle": "Suite stéréophonique",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Armand Cavalaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Cavalaro : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Georges Grenu",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Grenu : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Raymond Guiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Guiot : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jo Hrasco",
+          "Profession": "Interprète",
+          "InterventionNote": "Jo Hrasco : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Francois Rauber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:20:40+02:00",
+      "composer": "http://data.doremus.org/artist/ec9411a0-6a17-3d81-8bf5-41897ae2987f"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:22:59:00",
+      "ScheduledDuration": "00:06:51:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Elvid Kursong",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Elvid Kursong",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM 1 178",
+      "ExternalID": "RF00000011081-1-7",
+      "AlbumTitle": "Music by ...",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1981-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000011081",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Barre Phillips",
+          "Profession": "Interprète",
+          "InterventionNote": "Barre Phillips : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Aina Kemanis",
+          "Profession": "Interprète",
+          "InterventionNote": "Aina Kemanis"
+        },
+        {
+          "FullName": "John Surman",
+          "Profession": "Interprète",
+          "InterventionNote": "John Surman : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Herve Bourde",
+          "Profession": "Interprète",
+          "InterventionNote": "Herve Bourde : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Claudia Phillips",
+          "Profession": "Interprète",
+          "InterventionNote": "Claudia Phillips"
+        },
+        {
+          "FullName": "Pierre Favre",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Favre : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T00:22:59+02:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:30:05:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The subterraneans (film) / Why are we afraid",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The subterraneans (film) / Why are we afraid",
+      "Label": "MGM",
+      "ReferenceLabel": "SE4186",
+      "ExternalID": "RF00000027279-1-10",
+      "AlbumTitle": "André Previn : Composer arranger conductor pianist",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000027279",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Andre Previn",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Previn : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gerry Mulligan",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerry Mulligan : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Buddy Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "Buddy Clark : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:30:05+02:00",
+      "composer": "http://data.doremus.org/artist/ab1bafce-8aad-3b0f-98ce-d3924bcea5d0"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:32:05:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The subterraneans (film) / Should I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The subterraneans (film) / Should I",
+      "Label": "MGM",
+      "ReferenceLabel": "SE4186",
+      "ExternalID": "RF00000027279-1-11",
+      "AlbumTitle": "André Previn : Composer arranger conductor pianist",
+      "Rank": 11,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000027279",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Andre Previn",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Previn : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gerry Mulligan",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerry Mulligan : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Buddy Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "Buddy Clark : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:32:05+02:00",
+      "composer": "http://data.doremus.org/artist/ab1bafce-8aad-3b0f-98ce-d3924bcea5d0"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:34:36:00",
+      "ScheduledDuration": "00:05:43:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The subterraneans (film) / Things are looking down",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The subterraneans (film) / Things are looking down",
+      "Label": "MGM",
+      "ReferenceLabel": "SE4186",
+      "ExternalID": "RF00000027279-1-12",
+      "AlbumTitle": "André Previn : Composer arranger conductor pianist",
+      "Rank": 12,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000027279",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Andre Previn",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Previn : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gerry Mulligan",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerry Mulligan : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Buddy Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "Buddy Clark : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:34:36+02:00",
+      "composer": "http://data.doremus.org/artist/ab1bafce-8aad-3b0f-98ce-d3924bcea5d0"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:40:19:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The subterraneans (film) / Like blue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The subterraneans (film) / Like blue",
+      "Label": "MGM",
+      "ReferenceLabel": "SE4186",
+      "ExternalID": "RF00000027279-1-13",
+      "AlbumTitle": "André Previn : Composer arranger conductor pianist",
+      "Rank": 13,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000027279",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Andre Previn",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Previn : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gerry Mulligan",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerry Mulligan : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Buddy Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "Buddy Clark : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Andre Previn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:40:19+02:00",
+      "composer": "http://data.doremus.org/artist/ab1bafce-8aad-3b0f-98ce-d3924bcea5d0"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:42:20:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Movie nine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Movie nine",
+      "Label": "WATT RECORDS",
+      "ReferenceLabel": "WATT 10",
+      "ExternalID": "RF00000024650-1-1",
+      "AlbumTitle": "More movies",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024650",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Mantler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Philip Catherine",
+          "Profession": "Interprète",
+          "InterventionNote": "Philip Catherine : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Michael Mantler",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Mantler : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Gary Windo",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Windo : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Carla Bley",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Steve Swallow",
+          "Profession": "Interprète",
+          "InterventionNote": "Steve Swallow : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "D Sharpe",
+          "Profession": "Interprète",
+          "InterventionNote": "D Sharpe : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T00:42:20+02:00",
+      "composer": "http://data.doremus.org/artist/10e3acb3-0299-3b8d-947f-adcbb9aea9f3"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:45:32:00",
+      "ScheduledDuration": "00:04:13:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Valse triste",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Valse triste",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "BB 47",
+      "ExternalID": "RF00000020296-1-6",
+      "AlbumTitle": "Classics in percussion",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000020296",
+      "Author": {
+        "FullName": "Jean Sibelius",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Jean Sibelius : Auteur"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Gene Krupa",
+          "Profession": "Interprète",
+          "InterventionNote": "Gene Krupa : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Joe Venuto",
+          "Profession": "Interprète",
+          "InterventionNote": "Joe Venuto : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Douglas Allen",
+          "Profession": "Interprète",
+          "InterventionNote": "Douglas Allen : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Alexander Mousey",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Mousey : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:45:32+02:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:49:45:00",
+      "ScheduledDuration": "00:05:56:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dialogues : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dialogues : Allegro",
+      "Label": "FONTANA",
+      "ReferenceLabel": "885 124",
+      "ExternalID": "RF00000016584-1-1",
+      "AlbumTitle": "Bernstein plays Brubeck plays Bernstein",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016584",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Leonard Bernstein",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Howard Brubeck",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": [
+        {
+          "EntityName": "Orchestre Philharmonique De New York",
+          "EntityType": "Orchestre"
+        },
+        {
+          "EntityName": "Quatuor Dave Brubeck",
+          "EntityType": "Orchestre"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:49:45+02:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "00:55:41:00",
+      "ScheduledDuration": "00:05:17:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dialogues : Andante - Ballade",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dialogues : Andante - Ballade",
+      "Label": "FONTANA",
+      "ReferenceLabel": "885 124",
+      "ExternalID": "RF00000016584-1-2",
+      "AlbumTitle": "Bernstein plays Brubeck plays Bernstein",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016584",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Leonard Bernstein",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Howard Brubeck",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": [
+        {
+          "EntityName": "Orchestre Philharmonique De New York",
+          "EntityType": "Orchestre"
+        },
+        {
+          "EntityName": "Quatuor Dave Brubeck",
+          "EntityType": "Orchestre"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T00:55:41+02:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:00:58:00",
+      "ScheduledDuration": "00:04:52:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dialogues : Adagio - Ballade",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dialogues : Adagio - Ballade",
+      "Label": "FONTANA",
+      "ReferenceLabel": "885 124",
+      "ExternalID": "RF00000016584-1-3",
+      "AlbumTitle": "Bernstein plays Brubeck plays Bernstein",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016584",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Leonard Bernstein",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Howard Brubeck",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": [
+        {
+          "EntityName": "Orchestre Philharmonique De New York",
+          "EntityType": "Orchestre"
+        },
+        {
+          "EntityName": "Quatuor Dave Brubeck",
+          "EntityType": "Orchestre"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:00:58+02:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:05:50:00",
+      "ScheduledDuration": "00:05:39:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dialogues : Allegro - Blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dialogues : Allegro - Blues",
+      "Label": "FONTANA",
+      "ReferenceLabel": "885 124",
+      "ExternalID": "RF00000016584-1-4",
+      "AlbumTitle": "Bernstein plays Brubeck plays Bernstein",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016584",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Leonard Bernstein",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Howard Brubeck",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": [
+        {
+          "EntityName": "Orchestre Philharmonique De New York",
+          "EntityType": "Orchestre"
+        },
+        {
+          "EntityName": "Quatuor Dave Brubeck",
+          "EntityType": "Orchestre"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:05:50+02:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:11:41:00",
+      "ScheduledDuration": "00:15:02:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "El vito",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "El vito",
+      "Label": "SABA",
+      "ReferenceLabel": "SB 15 143",
+      "ExternalID": "RF00000020293-1-3",
+      "AlbumTitle": "Flamenco jazz",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000020293",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Pedro Iturralde Quintet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pedro Iturralde Quintet"
+        },
+        {
+          "FullName": "Pedro Iturralde",
+          "Profession": "Interprète",
+          "InterventionNote": "Pedro Iturralde : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dino Piana",
+          "Profession": "Interprète",
+          "InterventionNote": "Dino Piana : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Paul Grassi",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Grassi : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Peer Wyboris",
+          "Profession": "Interprète",
+          "InterventionNote": "Peer Wyboris : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Paco De Lucia",
+          "Profession": "Interprète",
+          "InterventionNote": "Paco De Lucia : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T01:11:41+02:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:26:43:00",
+      "ScheduledDuration": "00:07:24:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tarara",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tarara",
+      "Label": "NUBA RECORDS",
+      "ReferenceLabel": "NUBA 7756",
+      "ExternalID": "RF00000008172-1-10",
+      "AlbumTitle": "Chano",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000008172",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Chano Dominguez",
+          "Profession": "Interprète",
+          "InterventionNote": "Chano Dominguez : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Javier Colina",
+          "Profession": "Interprète",
+          "InterventionNote": "Javier Colina : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Guillermo Mac Gill",
+          "Profession": "Interprète",
+          "InterventionNote": "Guillermo Mac Gill : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T01:26:43+02:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:34:16:00",
+      "ScheduledDuration": "00:08:03:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tantra (vocal)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tantra (vocal)",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-1",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:34:16+02:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:42:19:00",
+      "ScheduledDuration": "00:05:38:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mali Doussn’gouni (vocal)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mali Doussn’gouni (vocal)",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-2",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:42:19+02:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:47:57:00",
+      "ScheduledDuration": "00:01:28:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Desireless",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Desireless",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-3",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:47:57+02:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:49:25:00",
+      "ScheduledDuration": "00:04:35:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The queen of Tung-Ting lake",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The queen of Tung-Ting lake",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-4",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:49:25+02:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "01:54:00:00",
+      "ScheduledDuration": "00:06:53:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trans-love airways (vocal)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trans-love airways (vocal)",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-5",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T01:54:00+02:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:00:53:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Infinite gentleness",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Infinite gentleness",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-6",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T02:00:53+02:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:04:19:00",
+      "ScheduledDuration": "00:03:50:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "March of the hobbits",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "March of the hobbits",
+      "Label": "JCOA RECORDS",
+      "ReferenceLabel": "LP 1006",
+      "ExternalID": "RF00000024581-1-7",
+      "AlbumTitle": "Relativity suite",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1973-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024581",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Don Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Cherry"
+        },
+        {
+          "FullName": "Charles Brackeen",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Brackeen : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Carlos Ward",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Ward : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Frank Lowe",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Lowe : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Dewey Redman",
+          "Profession": "Interprète",
+          "InterventionNote": "Dewey Redman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Jazz Composer'S Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-04-10T02:04:19+02:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:08:13:00",
+      "ScheduledDuration": "00:07:14:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Unpk X Composition No. 40B",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Unpk X Composition No. 40B",
+      "Label": "ANTILLES",
+      "ReferenceLabel": "AN 1 005",
+      "ExternalID": "RF00000053124-1-1",
+      "AlbumTitle": "Six compositions: Quartet",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1982-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000053124",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Anthony Braxton",
+          "Profession": "Interprète",
+          "InterventionNote": "Anthony Braxton : Saxophone soprano",
+          "mop": "Saxophone soprano"
+        },
+        {
+          "FullName": "Helias Mark",
+          "Profession": "Interprète",
+          "InterventionNote": "Helias Mark : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Edward Blackwell",
+          "Profession": "Interprète",
+          "InterventionNote": "Edward Blackwell : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Anthony Davis",
+          "Profession": "Interprète",
+          "InterventionNote": "Anthony Davis : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:08:13+02:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:15:27:00",
+      "ScheduledDuration": "00:09:48:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musique mécanique I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musique mécanique I",
+      "Label": "WATT RECORDS",
+      "ReferenceLabel": "6 313 151",
+      "ExternalID": "RF00000024452-1-3",
+      "AlbumTitle": "Musique mécanique",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1979-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024452",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Carla Bley Band",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley Band"
+        },
+        {
+          "FullName": "Carla Bley",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley : Orgue Hammond",
+          "mop": "Orgue Hammond"
+        },
+        {
+          "FullName": "Michael Mantler",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Mantler : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "John Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "John Clark : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Roswell Rudd",
+          "Profession": "Interprète",
+          "InterventionNote": "Roswell Rudd : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Bob Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Stewart : Tuba",
+          "mop": "Tuba"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:15:27+02:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:25:15:00",
+      "ScheduledDuration": "00:07:04:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musique mécanique II. At midnight",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musique mécanique II. At midnight",
+      "Label": "WATT RECORDS",
+      "ReferenceLabel": "6 313 151",
+      "ExternalID": "RF00000024452-1-4",
+      "AlbumTitle": "Musique mécanique",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1979-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024452",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Carla Bley Band",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley Band"
+        },
+        {
+          "FullName": "Carla Bley",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley : Orgue Hammond",
+          "mop": "Orgue Hammond"
+        },
+        {
+          "FullName": "Michael Mantler",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Mantler : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "John Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "John Clark : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Roswell Rudd",
+          "Profession": "Interprète",
+          "InterventionNote": "Roswell Rudd : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Bob Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Stewart : Tuba",
+          "mop": "Tuba"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:25:15+02:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:32:19:00",
+      "ScheduledDuration": "00:06:36:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musique mécanique III",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musique mécanique III",
+      "Label": "WATT RECORDS",
+      "ReferenceLabel": "6 313 151",
+      "ExternalID": "RF00000024452-1-5",
+      "AlbumTitle": "Musique mécanique",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1979-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024452",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Carla Bley Band",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley Band"
+        },
+        {
+          "FullName": "Carla Bley",
+          "Profession": "Interprète",
+          "InterventionNote": "Carla Bley : Orgue Hammond",
+          "mop": "Orgue Hammond"
+        },
+        {
+          "FullName": "Michael Mantler",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Mantler : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "John Clark",
+          "Profession": "Interprète",
+          "InterventionNote": "John Clark : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Roswell Rudd",
+          "Profession": "Interprète",
+          "InterventionNote": "Roswell Rudd : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Bob Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Stewart : Tuba",
+          "mop": "Tuba"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:32:19+02:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:39:10:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Linger awhile",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Linger awhile",
+      "Label": "HIFIRECORD",
+      "ReferenceLabel": "R 604",
+      "ExternalID": "RF00000057739-1-7",
+      "AlbumTitle": "Jazz erotica",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000057739",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Richie Kamuca",
+          "Profession": "Interprète",
+          "InterventionNote": "Richie Kamuca : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Monty Budwig",
+          "Profession": "Interprète",
+          "InterventionNote": "Monty Budwig : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Bill Holman",
+          "Profession": "Interprète",
+          "InterventionNote": "Bill Holman : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Vince Guaraldi",
+          "Profession": "Interprète",
+          "InterventionNote": "Vince Guaraldi : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Frank Rosolino",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Rosolino : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Conte Candoli",
+          "Profession": "Interprète",
+          "InterventionNote": "Conte Candoli : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Ed Leddy",
+          "Profession": "Interprète",
+          "InterventionNote": "Ed Leddy : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Stan Levey",
+          "Profession": "Interprète",
+          "InterventionNote": "Stan Levey : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:39:10+02:00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:42:57:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Isn't it romantic",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Isn't it romantic",
+      "Label": "( SWING",
+      "ReferenceLabel": "M 33 308",
+      "ExternalID": "RF00000048727-1-1",
+      "AlbumTitle": "The Chet Baker quartet",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1953-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048727",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "The Chet Baker Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "The Chet Baker Quartet"
+        },
+        {
+          "FullName": "Chet Baker",
+          "Profession": "Interprète",
+          "InterventionNote": "Chet Baker"
+        },
+        {
+          "FullName": "Bob Whitlock",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Whitlock"
+        },
+        {
+          "FullName": "Russ Freeman",
+          "Profession": "Interprète",
+          "InterventionNote": "Russ Freeman"
+        },
+        {
+          "FullName": "Bobby White",
+          "Profession": "Interprète",
+          "InterventionNote": "Bobby White"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:42:57+02:00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:46:11:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rhumbanella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rhumbanella",
+      "Label": "PRESIDENT",
+      "ReferenceLabel": "KVP 1 018",
+      "ExternalID": "RF00000020455-1-5",
+      "AlbumTitle": "Mimi Warren \"\"pops\"\" the classics",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000020455",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Mimi Warren",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Franz Liszt",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Mimi Warren Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Mimi Warren Trio"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Mimi Warren",
+          "Profession": "Interprète",
+          "InterventionNote": "Mimi Warren : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Abie Baker",
+          "Profession": "Interprète",
+          "InterventionNote": "Abie Baker : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Bob Livingston",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Livingston : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:46:11+02:00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:48:28:00",
+      "ScheduledDuration": "00:04:33:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Slow boat",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Slow boat",
+      "Label": "TRIP JAZZ",
+      "ReferenceLabel": "TLP 5 528",
+      "ExternalID": "RF00000026337-1-3",
+      "AlbumTitle": "Swahili",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1955-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000026337",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Clark Terry",
+          "Profession": "Interprète",
+          "InterventionNote": "Clark Terry : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Jimmy Cleveland",
+          "Profession": "Interprète",
+          "InterventionNote": "Jimmy Cleveland : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Cecil Payne",
+          "Profession": "Interprète",
+          "InterventionNote": "Cecil Payne : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Horace Silver",
+          "Profession": "Interprète",
+          "InterventionNote": "Horace Silver : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Oscar Pettiford",
+          "Profession": "Interprète",
+          "InterventionNote": "Oscar Pettiford : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Wendell Marshall",
+          "Profession": "Interprète",
+          "InterventionNote": "Wendell Marshall : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Art Blakey",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:48:28+02:00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-10",
+      "ScheduledTime": "02:53:01:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sun dance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sun dance",
+      "Label": "BARCLAY",
+      "ReferenceLabel": "3 579",
+      "ExternalID": "RF00000048790-1-5",
+      "AlbumTitle": "The modern jazz society",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1956-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048790",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "The The Modern Jazz Society",
+          "Profession": "Interprète",
+          "InterventionNote": "The The Modern Jazz Society"
+        },
+        {
+          "FullName": "Lucky Thompson",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucky Thompson"
+        },
+        {
+          "FullName": "Aaron Sachs",
+          "Profession": "Interprète",
+          "InterventionNote": "Aaron Sachs"
+        },
+        {
+          "FullName": "Janet Putnam",
+          "Profession": "Interprète",
+          "InterventionNote": "Janet Putnam"
+        },
+        {
+          "FullName": "Jay Jay Johnson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jay Jay Johnson"
+        },
+        {
+          "FullName": "James Politis",
+          "Profession": "Interprète",
+          "InterventionNote": "James Politis"
+        },
+        {
+          "FullName": "Manuel Zegler",
+          "Profession": "Interprète",
+          "InterventionNote": "Manuel Zegler"
+        },
+        {
+          "FullName": "Kay Connie",
+          "Profession": "Interprète",
+          "InterventionNote": "Kay Connie"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-10T02:53:01+02:00"
+    }
+  ],
+  "total": 36,
+  "matched": 0
+}

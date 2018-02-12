@@ -1,0 +1,1101 @@
+{
+  "id": "FM-406_20171120_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:06:29:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die Stücke der Windrose (La rose des vents) : Nordosten - pour orchestre de salon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die Stücke der Windrose (La rose des vents) : Nordosten - pour orchestre de salon",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD030",
+      "ExternalID": "3149028092127-1-3",
+      "AlbumTitle": "Mauricio Kagel : Die Stücke der Windrose (intégrale)",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028092127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mauricio Kagel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Aleph",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michel Pozmanter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:00:08+01:00",
+      "composer": "http://data.doremus.org/artist/2f67d628-8476-3090-9553-6669437787d0"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:06:37:00",
+      "ScheduledDuration": "00:04:31:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trame XII : Prélude - concerto pour trompette et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trame XII : Prélude - concerto pour trompette et orchestre à cordes",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP103",
+      "ExternalID": "3149028059526-1-9",
+      "AlbumTitle": "Romain Leleu interprète des concertos pour trompette",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028059526",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Martin Matalon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Romain Leleu",
+        "Profession": "Interprète",
+        "InterventionNote": "Romain Leleu : Trompette",
+        "mop": "Trompette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre D'Auvergne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roberto Fores Veses",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:06:37+01:00",
+      "composer": "http://data.doremus.org/artist/650d5cf2-a6d3-3191-862e-70ab55cdac39",
+      "best": "http://data.doremus.org/expression/4a975735-50c4-3a28-b9bd-13144305c7b0",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:11:08:00",
+      "ScheduledDuration": "00:04:15:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trame XII : Interlude I - concerto pour trompette et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trame XII : Interlude I - concerto pour trompette et orchestre à cordes",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP103",
+      "ExternalID": "3149028059526-1-10",
+      "AlbumTitle": "Romain Leleu interprète des concertos pour trompette",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028059526",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Martin Matalon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Romain Leleu",
+        "Profession": "Interprète",
+        "InterventionNote": "Romain Leleu : Trompette",
+        "mop": "Trompette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre D'Auvergne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roberto Fores Veses",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:11:08+01:00",
+      "composer": "http://data.doremus.org/artist/650d5cf2-a6d3-3191-862e-70ab55cdac39",
+      "best": "http://data.doremus.org/expression/4a975735-50c4-3a28-b9bd-13144305c7b0",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:15:23:00",
+      "ScheduledDuration": "00:07:18:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trame XII : Interlude II - concerto pour trompette et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trame XII : Interlude II - concerto pour trompette et orchestre à cordes",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP103",
+      "ExternalID": "3149028059526-1-11",
+      "AlbumTitle": "Romain Leleu interprète des concertos pour trompette",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028059526",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Martin Matalon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Romain Leleu",
+        "Profession": "Interprète",
+        "InterventionNote": "Romain Leleu : Trompette",
+        "mop": "Trompette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre D'Auvergne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roberto Fores Veses",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:15:23+01:00",
+      "composer": "http://data.doremus.org/artist/650d5cf2-a6d3-3191-862e-70ab55cdac39",
+      "best": "http://data.doremus.org/expression/4a975735-50c4-3a28-b9bd-13144305c7b0",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:22:45:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dark : Solennel sans rigueur - pour piano et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dark : Solennel sans rigueur - pour piano et orchestre à cordes",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP108",
+      "ExternalID": "3770001902050-1-4",
+      "AlbumTitle": "Into the dark",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001902050",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Karol Beffa",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Contraste",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Contraste"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Karol Beffa",
+          "Profession": "Interprète",
+          "InterventionNote": "Karol Beffa : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johan Farjot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:22:45+01:00",
+      "composer": "http://data.doremus.org/artist/025a6ee1-d93f-3ec7-b9c3-32aadbda9513"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:25:06:00",
+      "ScheduledDuration": "00:04:39:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dark : Flottant - pour piano et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dark : Flottant - pour piano et orchestre à cordes",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP108",
+      "ExternalID": "3770001902050-1-5",
+      "AlbumTitle": "Into the dark",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001902050",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Karol Beffa",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Contraste",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Contraste"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Karol Beffa",
+          "Profession": "Interprète",
+          "InterventionNote": "Karol Beffa : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johan Farjot",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:25:06+01:00",
+      "composer": "http://data.doremus.org/artist/025a6ee1-d93f-3ec7-b9c3-32aadbda9513"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:29:45:00",
+      "ScheduledDuration": "00:22:57:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In l'istesso tempo - quatuor pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In l'istesso tempo - quatuor pour piano",
+      "Label": "ODRADEK RECORDS",
+      "ReferenceLabel": "ODRCD341",
+      "ExternalID": "0855317003417-1-7",
+      "AlbumTitle": "Light over darkness",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0855317003417",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giya Kancheli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Erato Alakiozidou",
+        "Profession": "Interprète",
+        "InterventionNote": "Erato Alakiozidou : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Quatuor Lutoslawski",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-11-20T00:29:45+01:00",
+      "composer": "http://data.doremus.org/artist/ed4dc965-5c1d-3fb0-b4ad-7adea9b299dc"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:52:46:00",
+      "ScheduledDuration": "00:08:46:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Face à face - pour alto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Face à face - pour alto",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP014",
+      "ExternalID": "0794881993123-1-4",
+      "AlbumTitle": "Pierre Bartholomée : Oeuvres pour instruments solo",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881993123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Bartholomee",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dominica Eyckmans",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominica Eyckmans : Alto (instrument)",
+        "mop": "Alto (instrument)"
+      },
+      "ScheduledDateTime": "2017-11-20T00:52:46+01:00",
+      "composer": "http://data.doremus.org/artist/a0b89b9d-cb66-370d-91b4-5c9fd6d01656",
+      "best": "http://data.doremus.org/expression/b390ba56-d2e7-347d-bf8b-e4a80ed26098",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:01:32:00",
+      "ScheduledDuration": "00:07:50:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die Stücke der Windrose (La rose des vents) : Nordwesten - pour orchestre de salon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die Stücke der Windrose (La rose des vents) : Nordwesten - pour orchestre de salon",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD030",
+      "ExternalID": "3149028092127-1-4",
+      "AlbumTitle": "Mauricio Kagel : Die Stücke der Windrose (intégrale)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028092127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mauricio Kagel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Aleph",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michel Pozmanter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:01:32+01:00",
+      "composer": "http://data.doremus.org/artist/2f67d628-8476-3090-9553-6669437787d0"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:09:25:00",
+      "ScheduledDuration": "00:09:33:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Zamyad - pour violoncelle sons de synthèse et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Zamyad - pour violoncelle sons de synthèse et traitement électronique en temps réel",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD016",
+      "ExternalID": "3149028078824-1-1",
+      "AlbumTitle": "Le geste augmenté",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alireza Farhang",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Ythier",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Ythier : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-11-20T01:09:25+01:00",
+      "composer": "http://data.doremus.org/artist/1fa8eec2-d03e-3faf-ad9d-ab8ed2821dd1"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:18:58:00",
+      "ScheduledDuration": "00:08:21:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "El afilador - pour violoncelle et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "El afilador - pour violoncelle et dispositif électroacoustique",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD016",
+      "ExternalID": "3149028078824-1-2",
+      "AlbumTitle": "Le geste augmenté",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Antonio Juan-Marcos",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Ythier",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Ythier : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-11-20T01:18:58+01:00",
+      "composer": "http://data.doremus.org/artist/58db5648-8438-3f64-a396-44c46a20353f"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:27:19:00",
+      "ScheduledDuration": "00:11:54:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Je t'attendrai là où je sais que tu ne seras pas et m'effondrerai de ne pas t'y voir venir - pour violoncelle sons fixés et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Je t'attendrai là où je sais que tu ne seras pas et m'effondrerai de ne pas t'y voir venir - pour violoncelle sons fixés et traitement électronique en temps réel",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD016",
+      "ExternalID": "3149028078824-1-3",
+      "AlbumTitle": "Le geste augmenté",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Aurelien Maestracci",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Ythier",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Ythier : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-11-20T01:27:19+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:39:17:00",
+      "ScheduledDuration": "00:04:55:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Macchina crudele - pour violoncelle et dispositif électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Macchina crudele - pour violoncelle et dispositif électronique",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD016",
+      "ExternalID": "3149028078824-1-4",
+      "AlbumTitle": "Le geste augmenté",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vittorio Montalti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Ythier",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Ythier : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-11-20T01:39:17+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:44:12:00",
+      "ScheduledDuration": "00:07:10:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Naissance des mots - pour violoncelle et traitement électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Naissance des mots - pour violoncelle et traitement électronique en temps réel",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD016",
+      "ExternalID": "3149028078824-1-5",
+      "AlbumTitle": "Le geste augmenté",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nuria Gimenez-Comas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Ythier",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Ythier : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-11-20T01:44:12+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:51:22:00",
+      "ScheduledDuration": "00:06:45:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Narada - pour violoncelle et sons de synthèse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Narada - pour violoncelle et sons de synthèse",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD016",
+      "ExternalID": "3149028078824-1-6",
+      "AlbumTitle": "Le geste augmenté",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Francois Ducher",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Ythier",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Ythier : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-11-20T01:51:22+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:58:11:00",
+      "ScheduledDuration": "00:10:33:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die Stücke der Windrose (La rose des vents) : Südosten - pour orchestre de salon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die Stücke der Windrose (La rose des vents) : Südosten - pour orchestre de salon",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD030",
+      "ExternalID": "3149028092127-1-5",
+      "AlbumTitle": "Mauricio Kagel : Die Stücke der Windrose (intégrale)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028092127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mauricio Kagel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Aleph",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michel Pozmanter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:58:11+01:00",
+      "composer": "http://data.doremus.org/artist/2f67d628-8476-3090-9553-6669437787d0"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:08:44:00",
+      "ScheduledDuration": "00:06:15:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "2 études ( Intégrale) : Zigzag - pour harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "2 études ( Intégrale) : Zigzag - pour harpe",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP014",
+      "ExternalID": "0794881993123-1-2",
+      "AlbumTitle": "Pierre Bartholomée : Oeuvres pour instruments solo",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881993123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Bartholomee",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francette Bartholomee",
+        "Profession": "Interprète",
+        "InterventionNote": "Francette Bartholomee : Harpe",
+        "mop": "Harpe"
+      },
+      "ScheduledDateTime": "2017-11-20T02:08:44+01:00",
+      "composer": "http://data.doremus.org/artist/a0b89b9d-cb66-370d-91b4-5c9fd6d01656"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:14:59:00",
+      "ScheduledDuration": "00:05:58:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "2 études ( Intégrale) : Wintry day - pour harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "2 études ( Intégrale) : Wintry day - pour harpe",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP014",
+      "ExternalID": "0794881993123-1-3",
+      "AlbumTitle": "Pierre Bartholomée : Oeuvres pour instruments solo",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881993123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Bartholomee",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francette Bartholomee",
+        "Profession": "Interprète",
+        "InterventionNote": "Francette Bartholomee : Harpe",
+        "mop": "Harpe"
+      },
+      "ScheduledDateTime": "2017-11-20T02:14:59+01:00",
+      "composer": "http://data.doremus.org/artist/a0b89b9d-cb66-370d-91b4-5c9fd6d01656"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:21:00:00",
+      "ScheduledDuration": "00:14:17:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mais les images restent - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mais les images restent - pour piano",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1754",
+      "ExternalID": "3760058360545-1-3",
+      "AlbumTitle": "Michael Jarrell : Mais les images restent",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360545",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Jarrell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marino Formenti",
+        "Profession": "Interprète",
+        "InterventionNote": "Marino Formenti : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-11-20T02:21:00+01:00",
+      "composer": "http://data.doremus.org/artist/2267aa34-8eb3-378f-bc51-c84c006ecd1d"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:35:17:00",
+      "ScheduledDuration": "00:11:41:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trame I - pour hautbois et 5 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trame I - pour hautbois et 5 instruments",
+      "Label": "EDITIONS HORTUS",
+      "ReferenceLabel": "104",
+      "ExternalID": "3487720001048-1-4",
+      "AlbumTitle": "Martin Matalon Philippe Hurel et Bernard Cavanna : Tramages",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3487720001048",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Martin Matalon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Mesostics",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Mesostics"
+        },
+        {
+          "FullName": "Julien Weber",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Weber : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Guillaume Tetu",
+          "Profession": "Interprète",
+          "InterventionNote": "Guillaume Tetu : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Adrien Ramon",
+          "Profession": "Interprète",
+          "InterventionNote": "Adrien Ramon : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Galdric Subirana",
+          "Profession": "Interprète",
+          "InterventionNote": "Galdric Subirana : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Yann Dubost",
+          "Profession": "Interprète",
+          "InterventionNote": "Yann Dubost : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Dafne Vicente Sandoval",
+          "Profession": "Interprète",
+          "InterventionNote": "Dafne Vicente Sandoval : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Jean Geoffroy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:35:17+01:00",
+      "composer": "http://data.doremus.org/artist/650d5cf2-a6d3-3191-862e-70ab55cdac39",
+      "best": "http://data.doremus.org/expression/ca1e5c18-09ef-380e-a4b5-deaf4dc174ca",
+      "best_matching_score": "0.86"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:47:02:00",
+      "ScheduledDuration": "00:18:57:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die Stücke der Windrose (La rose des vents) : Südwesten - pour orchestre de salon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die Stücke der Windrose (La rose des vents) : Südwesten - pour orchestre de salon",
+      "Label": "EVIDENCE",
+      "ReferenceLabel": "EVCD030",
+      "ExternalID": "3149028092127-1-6",
+      "AlbumTitle": "Mauricio Kagel : Die Stücke der Windrose (intégrale)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028092127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mauricio Kagel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Aleph",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michel Pozmanter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:47:02+01:00",
+      "composer": "http://data.doremus.org/artist/2f67d628-8476-3090-9553-6669437787d0"
+    }
+  ],
+  "total": 21,
+  "matched": 5
+}

@@ -1,0 +1,1606 @@
+{
+  "id": "FM-406_20170710_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:02:36:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mark Twain sez : Night",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mark Twain sez : Night",
+      "Label": "PENTATONE",
+      "ReferenceLabel": "PTC 5186542",
+      "ExternalID": "0827949054266-1-37",
+      "AlbumTitle": "Orbit : Music for solo cello",
+      "Rank": 37,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0827949054266",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Moravec",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Matt Haimovitz",
+        "Profession": "Interprète",
+        "InterventionNote": "Matt Haimovitz : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-07-10T00:00:06+02:00",
+      "composer": "http://data.doremus.org/artist/066d37ba-9da1-3c97-9265-689bf563739b"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:03:08:00",
+      "ScheduledDuration": "00:08:17:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hypnos linea V - pour flûte à bec ténor",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hypnos linea V - pour flûte à bec ténor",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT090101",
+      "ExternalID": "3760009291829-1-1",
+      "AlbumTitle": "Hypnos",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009291829",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Schoeller",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pierre Hamon",
+        "Profession": "Interprète",
+        "InterventionNote": "Pierre Hamon : Flûte à bec",
+        "mop": "Flûte à bec"
+      },
+      "ScheduledDateTime": "2017-07-10T00:03:08+02:00",
+      "composer": "http://data.doremus.org/artist/6fd5d8f8-7960-3fd1-a359-ba0551a3cac0",
+      "best": "http://data.doremus.org/expression/d6ce8a63-ff30-349a-9692-35c9709bed11",
+      "best_matching_score": "0.86"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:12:03:00",
+      "ScheduledDuration": "00:06:15:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Il sonno di Atys : Sangaride - Il faut laisser suspendre - pour alto et traitements électroniques en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Il sonno di Atys : Sangaride - Il faut laisser suspendre - pour alto et traitements électroniques en temps réel",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33869",
+      "ExternalID": "8011570338693-1-2",
+      "AlbumTitle": "Xylocopa violacea / Lucia Ronchetti : Oeuvres pour alto et traitements électroniques et pour bande",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570338693",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Lucia Ronchetti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barbara Maurer",
+          "Profession": "Interprète",
+          "InterventionNote": "Barbara Maurer : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Reinhold Braig",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinhold Braig"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T00:12:03+02:00",
+      "composer": "http://data.doremus.org/artist/c1611cab-ac67-31aa-afb2-453cd4933347"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:18:18:00",
+      "ScheduledDuration": "00:03:23:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Il sonno di Atys : Troubler le silence - pour alto et traitements électroniques en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Il sonno di Atys : Troubler le silence - pour alto et traitements électroniques en temps réel",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33869",
+      "ExternalID": "8011570338693-1-1",
+      "AlbumTitle": "Xylocopa violacea / Lucia Ronchetti : Oeuvres pour alto et traitements électroniques et pour bande",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570338693",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Lucia Ronchetti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barbara Maurer",
+          "Profession": "Interprète",
+          "InterventionNote": "Barbara Maurer : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Reinhold Braig",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinhold Braig"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T00:18:18+02:00",
+      "composer": "http://data.doremus.org/artist/c1611cab-ac67-31aa-afb2-453cd4933347"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:21:41:00",
+      "ScheduledDuration": "00:07:05:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Il sonno di Atys : Le sommeil - pour alto et traitements électroniques en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Il sonno di Atys : Le sommeil - pour alto et traitements électroniques en temps réel",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33869",
+      "ExternalID": "8011570338693-1-3",
+      "AlbumTitle": "Xylocopa violacea / Lucia Ronchetti : Oeuvres pour alto et traitements électroniques et pour bande",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570338693",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Lucia Ronchetti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Barbara Maurer",
+          "Profession": "Interprète",
+          "InterventionNote": "Barbara Maurer : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Reinhold Braig",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinhold Braig"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T00:21:41+02:00",
+      "composer": "http://data.doremus.org/artist/c1611cab-ac67-31aa-afb2-453cd4933347"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:29:27:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variations pour une porte et un soupir : Sommeil",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variations pour une porte et un soupir : Sommeil",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "476513-1",
+      "ExternalID": "RF00000035637-1-2",
+      "AlbumTitle": "Pierre Henry : La noire à soixante + Granulométrie et Variations pour porte et un soupir / Vol.2",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035637",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-07-10T00:29:27+02:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:32:07:00",
+      "ScheduledDuration": "00:04:56:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hypnosis - pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hypnosis - pour 2 pianos",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "9171/5",
+      "ExternalID": "RF00000017779-1-9",
+      "AlbumTitle": "Minimal piano collection : CD 6 : Volume XV",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000017779",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Chiel Meijering",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeroen Van Veen",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeroen Van Veen : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Tamara Rumiantsev",
+          "Profession": "Interprète",
+          "InterventionNote": "Tamara Rumiantsev : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T00:32:07+02:00",
+      "composer": "http://data.doremus.org/artist/7ffc2271-fb2f-3a07-92fb-699eb3ed5fb3",
+      "best": "http://data.doremus.org/expression/c9c446c4-5610-39f3-bb30-818293dfad4f",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:37:03:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonata of sleep (sonnaia sonata)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonata of sleep (sonnaia sonata)",
+      "Label": "RER",
+      "ReferenceLabel": "RER RAG1&2",
+      "ExternalID": "9780956018403-1-14",
+      "AlbumTitle": "Avant garde Russe / Baku symphonie of sirene / Avraamov - Vertov",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9780956018403",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Konstantin Melnikov",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Konstantin Melnikov : Auteur"
+      },
+      "ScheduledDateTime": "2017-07-10T00:37:03+02:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:39:13:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Truman sleeps",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Truman sleeps",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "8551/2",
+      "ExternalID": "5029365551229-1-12",
+      "AlbumTitle": "Minimal Piano Collection (Volume 2) / Philip glass : The hours et autres oeuvres pour piano",
+      "Rank": 12,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5029365551229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philip Glass",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeroen Van Veen",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeroen Van Veen : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-10T00:39:13+02:00",
+      "composer": "http://data.doremus.org/artist/f34cfadd-5092-3ecb-aa9b-fd267838efb9"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:41:24:00",
+      "ScheduledDuration": "00:02:44:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sleepless night - pour piano / version de Kay Swift de 1946",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sleepless night - pour piano / version de Kay Swift de 1946",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-1",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Gershwin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-10T00:41:24+02:00",
+      "composer": "http://data.doremus.org/artist/5b2ec204-a456-3aa2-8ac7-25305464add8"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:44:08:00",
+      "ScheduledDuration": "00:04:05:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Son vitesse-lumière : IV Le sommeil d'Euclide : 1ère partie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Son vitesse-lumière : IV Le sommeil d'Euclide : 1ère partie",
+      "Label": "INA",
+      "ReferenceLabel": "INA G 6033/6047/9",
+      "ExternalID": "RF00000032066-1-5",
+      "AlbumTitle": "François Bayle : Oeuvres de 1981 à 1983",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032066",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Bayle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-07-10T00:44:08+02:00",
+      "composer": "http://data.doremus.org/artist/6d88fda2-4b62-31fc-b595-0a817fc3d9c4",
+      "best": "http://data.doremus.org/expression/7c3a0829-32c8-3b39-b8d8-c143ea0aa6ae",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:48:13:00",
+      "ScheduledDuration": "00:03:50:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Son vitesse-lumière : IV Le sommeil d'Euclide",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Son vitesse-lumière : IV Le sommeil d'Euclide",
+      "Label": "INA",
+      "ReferenceLabel": "INA G 6033/6047/9",
+      "ExternalID": "RF00000032066-1-6",
+      "AlbumTitle": "François Bayle : Oeuvres de 1981 à 1983",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032066",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Bayle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-07-10T00:48:13+02:00",
+      "composer": "http://data.doremus.org/artist/6d88fda2-4b62-31fc-b595-0a817fc3d9c4",
+      "best": "http://data.doremus.org/expression/7c3a0829-32c8-3b39-b8d8-c143ea0aa6ae",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "00:52:39:00",
+      "ScheduledDuration": "00:13:20:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shelter : The boy sleeps",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shelter : The boy sleeps",
+      "Label": "CANTALOUPE",
+      "ReferenceLabel": "CA21083",
+      "ExternalID": "0713746308322-1-3",
+      "AlbumTitle": "Gordon Lang et Wolfe : Shelter",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0713746308322",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Michael Gordon",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "David Lang",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Julia Wolfe",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Martha Cluver",
+          "Profession": "Interprète",
+          "InterventionNote": "Martha Cluver : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Mellissa Hughes",
+          "Profession": "Interprète",
+          "InterventionNote": "Mellissa Hughes : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Caroline Shaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Shaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ensemble Signal",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Signal"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-10T00:52:39+02:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "01:06:30:00",
+      "ScheduledDuration": "00:14:54:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The last dream of the beast - pour soprano amplifiée 2 violoncelles sons générés par ordinateur et dispositif électronique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The last dream of the beast - pour soprano amplifiée 2 violoncelles sons générés par ordinateur et dispositif électronique en temps réel",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER73122",
+      "ExternalID": "4010228731224-1-3",
+      "AlbumTitle": "Morton Subotnick : Music for The double life of amphibians",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228731224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Morton Subotnick",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Joan Labarbara",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Labarbara : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Erika Duke",
+          "Profession": "Interprète",
+          "InterventionNote": "Erika Duke : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Dane Little",
+          "Profession": "Interprète",
+          "InterventionNote": "Dane Little : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Morton Subotnick",
+          "Profession": "Interprète",
+          "InterventionNote": "Morton Subotnick : Instrument électronique",
+          "mop": "Instrument électronique"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Stephen L Mosko",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-10T01:06:30+02:00",
+      "composer": "http://data.doremus.org/artist/b4a47d10-2ebe-32ee-a865-79e500f61f11"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "01:21:27:00",
+      "ScheduledDuration": "00:00:28:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I had a dream about that (diction)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I had a dream about that (diction)",
+      "Label": "ZAPPA RECORDS",
+      "ReferenceLabel": "CDDZAP 56",
+      "ExternalID": "5016583605629-2-12",
+      "AlbumTitle": "Civilization phaze III",
+      "Rank": 12,
+      "NumVolume": 2,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5016583605629",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frank Zappa",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Modern"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Frank Zappa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-10T01:21:27+02:00",
+      "composer": "http://data.doremus.org/artist/73247f3a-a7b6-364b-b106-543ef55887fc"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "01:21:55:00",
+      "ScheduledDuration": "00:06:06:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ruth Is Sleeping",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ruth Is Sleeping",
+      "Label": "ZAPPA RECORDS",
+      "ReferenceLabel": "CDZAP 57",
+      "ExternalID": "5016583605728-1-9",
+      "AlbumTitle": "The yellow shark",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5016583605728",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Frank Zappa",
+        "Profession": "Interprète",
+        "InterventionNote": "Frank Zappa"
+      },
+      "ScheduledDateTime": "2017-07-10T01:21:55+02:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "01:28:01:00",
+      "ScheduledDuration": "00:01:36:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The plot thickens : Groan men",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The plot thickens : Groan men",
+      "Label": "INTAKT",
+      "ReferenceLabel": "INTAKT CD 504",
+      "ExternalID": "7619942505424-1-16",
+      "AlbumTitle": "Time stories",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619942505424",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "David Moss",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Frank Schulte",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Schulte : Instrument électronique",
+          "mop": "Instrument électronique"
+        },
+        {
+          "FullName": "Makigami, Koichi",
+          "Profession": "Interprète",
+          "InterventionNote": "Makigami, Koichi : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Phil Minton",
+          "Profession": "Interprète",
+          "InterventionNote": "Phil Minton : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Catherine Jauniaux",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Jauniaux : Voix",
+          "mop": "Voix"
+        },
+        {
+          "Highlight": true,
+          "FullName": "David Moss",
+          "Profession": "Interprète",
+          "InterventionNote": "David Moss : Instrument électronique",
+          "mop": "Instrument électronique"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T01:28:01+02:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "01:29:37:00",
+      "ScheduledDuration": "00:12:55:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "As the watchers sleep the carnivorous awaken from under the sheets of",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "As the watchers sleep the carnivorous awaken from under the sheets of",
+      "Label": "TZADIK",
+      "ReferenceLabel": "TZ 7086",
+      "ExternalID": "0702397708629-1-3",
+      "AlbumTitle": "Resurrections for Goatskin",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0702397708629",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Raz Mesinai",
+          "Profession": "Interprète",
+          "InterventionNote": "Raz Mesinai"
+        },
+        {
+          "FullName": "Marcus Rojas",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcus Rojas : Tuba",
+          "mop": "Tuba"
+        },
+        {
+          "FullName": "Lee Okkyung",
+          "Profession": "Interprète",
+          "InterventionNote": "Lee Okkyung : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T01:29:37+02:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "01:43:01:00",
+      "ScheduledDuration": "00:32:54:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le songe de lluc alcari op 10 pour violoncelle et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le songe de lluc alcari op 10 pour violoncelle et orchestre",
+      "Label": "COMPACTS RADIO FRANCE",
+      "ReferenceLabel": "MFA 216023",
+      "ExternalID": "0794881431625-1-2",
+      "AlbumTitle": "Jean Louis florentz : Les jardins d'amenta le songe de lluc alcari et l'ange du tamaris",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881431625",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Louis Florentz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Yvan Chiffoleau",
+        "Profession": "Interprète",
+        "InterventionNote": "Yvan Chiffoleau : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gunther Herbig",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-10T01:43:01+02:00",
+      "composer": "http://data.doremus.org/artist/a895b8f9-e3aa-369d-b62f-5f7c0ba00e92",
+      "best": "http://data.doremus.org/expression/7bcbb7ea-917f-3423-b33e-fb6324b4fad7",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:16:16:00",
+      "ScheduledDuration": "00:06:25:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I saw a dream (Daniel variation)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I saw a dream (Daniel variation)",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-7949-4",
+      "ExternalID": "0075597994940-1-1",
+      "AlbumTitle": "Daniel variation",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597994940",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Los Angeles Master Chorale",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Garnt Gershon",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-10T02:16:16+02:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:22:41:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Deep sleep playing",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Deep sleep playing",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "8551/5",
+      "ExternalID": "5029365551526-1-15",
+      "AlbumTitle": "Minimal piano collection (volume 5) / Yann Tiersen et Michael Nyman : Musiques de films",
+      "Rank": 15,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5029365551526",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Nyman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeroen Van Veen",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeroen Van Veen : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-10T02:22:41+02:00",
+      "composer": "http://data.doremus.org/artist/283ef3c8-5ca2-336f-9774-6c2ce2010699"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:25:06:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "White man sleeps I - quatuor a cordes nº1 / 5 danses pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "White man sleeps I - quatuor a cordes nº1 / 5 danses pour quatuor a cordes",
+      "Label": "ELEKTRA",
+      "ReferenceLabel": "7559-79275-2",
+      "ExternalID": "0075597927528-1-7",
+      "AlbumTitle": "Pieces d'afrique",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597927528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kevin Volans",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "David Harrington",
+          "Profession": "Interprète",
+          "InterventionNote": "David Harrington : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "John Sherba",
+          "Profession": "Interprète",
+          "InterventionNote": "John Sherba : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Hank Dutt",
+          "Profession": "Interprète",
+          "InterventionNote": "Hank Dutt : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Joan Jeanrenaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Jeanrenaud : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T02:25:06+02:00",
+      "composer": "http://data.doremus.org/artist/b53e9729-affc-3023-8727-6ec41eeb441c",
+      "best": "http://data.doremus.org/expression/e4585722-6b6e-32bc-9df9-be8856188704",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:29:09:00",
+      "ScheduledDuration": "00:05:06:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "White man sleeps II - quatuor a cordes nº2 / 5 danses pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "White man sleeps II - quatuor a cordes nº2 / 5 danses pour quatuor a cordes",
+      "Label": "ELEKTRA",
+      "ReferenceLabel": "7559-79275-2",
+      "ExternalID": "0075597927528-1-8",
+      "AlbumTitle": "Pieces d'afrique",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597927528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kevin Volans",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "David Harrington",
+          "Profession": "Interprète",
+          "InterventionNote": "David Harrington : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "John Sherba",
+          "Profession": "Interprète",
+          "InterventionNote": "John Sherba : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Hank Dutt",
+          "Profession": "Interprète",
+          "InterventionNote": "Hank Dutt : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Joan Jeanrenaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Jeanrenaud : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T02:29:09+02:00",
+      "composer": "http://data.doremus.org/artist/b53e9729-affc-3023-8727-6ec41eeb441c",
+      "best": "http://data.doremus.org/expression/b101a64e-a22c-3de2-b80d-0070a45ef2a6",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:34:15:00",
+      "ScheduledDuration": "00:03:25:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "White man sleeps III - quatuor a cordes nº3 / 5 danses pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "White man sleeps III - quatuor a cordes nº3 / 5 danses pour quatuor a cordes",
+      "Label": "ELEKTRA",
+      "ReferenceLabel": "7559-79275-2",
+      "ExternalID": "0075597927528-1-9",
+      "AlbumTitle": "Pieces d'afrique",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597927528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kevin Volans",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "David Harrington",
+          "Profession": "Interprète",
+          "InterventionNote": "David Harrington : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "John Sherba",
+          "Profession": "Interprète",
+          "InterventionNote": "John Sherba : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Hank Dutt",
+          "Profession": "Interprète",
+          "InterventionNote": "Hank Dutt : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Joan Jeanrenaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Jeanrenaud : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T02:34:15+02:00",
+      "composer": "http://data.doremus.org/artist/b53e9729-affc-3023-8727-6ec41eeb441c",
+      "best": "http://data.doremus.org/expression/dea36cf5-5aee-3c5e-8dac-8c46c87e0ecc",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:37:40:00",
+      "ScheduledDuration": "00:06:18:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "White man sleeps IV - quatuor a cordes nº4 / 5 danses pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "White man sleeps IV - quatuor a cordes nº4 / 5 danses pour quatuor a cordes",
+      "Label": "ELEKTRA",
+      "ReferenceLabel": "7559-79275-2",
+      "ExternalID": "0075597927528-1-10",
+      "AlbumTitle": "Pieces d'afrique",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597927528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kevin Volans",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "David Harrington",
+          "Profession": "Interprète",
+          "InterventionNote": "David Harrington : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "John Sherba",
+          "Profession": "Interprète",
+          "InterventionNote": "John Sherba : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Hank Dutt",
+          "Profession": "Interprète",
+          "InterventionNote": "Hank Dutt : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Joan Jeanrenaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Jeanrenaud : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T02:37:40+02:00",
+      "composer": "http://data.doremus.org/artist/b53e9729-affc-3023-8727-6ec41eeb441c"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:43:58:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "White man sleeps V - quatuor a cordes nº5 / 5 danses pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "White man sleeps V - quatuor a cordes nº5 / 5 danses pour quatuor a cordes",
+      "Label": "ELEKTRA",
+      "ReferenceLabel": "7559-79275-2",
+      "ExternalID": "0075597927528-1-11",
+      "AlbumTitle": "Pieces d'afrique",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597927528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kevin Volans",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "David Harrington",
+          "Profession": "Interprète",
+          "InterventionNote": "David Harrington : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "John Sherba",
+          "Profession": "Interprète",
+          "InterventionNote": "John Sherba : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Hank Dutt",
+          "Profession": "Interprète",
+          "InterventionNote": "Hank Dutt : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Joan Jeanrenaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Joan Jeanrenaud : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-10T02:43:58+02:00",
+      "composer": "http://data.doremus.org/artist/b53e9729-affc-3023-8727-6ec41eeb441c"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:47:38:00",
+      "ScheduledDuration": "00:11:41:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dreamtime - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dreamtime - pour orchestre",
+      "Label": "AUSTRALIAN BROADCASTING CORPORATION",
+      "ReferenceLabel": "8.770006",
+      "ExternalID": "0730099700627-1-1",
+      "AlbumTitle": "Iwaky conduit Takemitsu",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0730099700627",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Toru Takemitsu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Melbourne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hiroyuki Iwaki",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-10T02:47:38+02:00",
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "02:59:19:00",
+      "ScheduledDuration": "00:04:49:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mark Twain sez : Day-dreaming",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mark Twain sez : Day-dreaming",
+      "Label": "PENTATONE",
+      "ReferenceLabel": "PTC 5186542",
+      "ExternalID": "0827949054266-1-39",
+      "AlbumTitle": "Orbit : Music for solo cello",
+      "Rank": 39,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0827949054266",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Moravec",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Matt Haimovitz",
+        "Profession": "Interprète",
+        "InterventionNote": "Matt Haimovitz : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-07-10T02:59:19+02:00",
+      "composer": "http://data.doremus.org/artist/066d37ba-9da1-3c97-9265-689bf563739b"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-10",
+      "ScheduledTime": "03:04:08:00",
+      "ScheduledDuration": "00:03:48:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierres réfléchies : Rêverie des roches perforées",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierres réfléchies : Rêverie des roches perforées",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "476513-6",
+      "ExternalID": "RF00000035685-1-8",
+      "AlbumTitle": "Pierre Henry : Messe de Liverpool et Pierres réfléchies / Vol.6",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035685",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Pierre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-07-10T03:04:08+02:00",
+      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+    }
+  ],
+  "total": 29,
+  "matched": 8
+}

@@ -1,0 +1,722 @@
+{
+  "id": "FM-401_20170828_00-23",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "00:00:09:00",
+      "ScheduledDuration": "00:02:49:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le clavier bien tempéré BWV 846 à 865 Livre I : Prélude et fugue pour piano en ut min BWV 847",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le clavier bien tempéré BWV 846 à 865 Livre I : Prélude et fugue pour piano en ut min BWV 847",
+      "Label": "DGG",
+      "ReferenceLabel": "4797362",
+      "ExternalID": "0028947973621-3-2",
+      "AlbumTitle": "Walter Gieseking : Complete Bach Recordings 1950 on Deutsche Grammophon",
+      "Rank": 2,
+      "NumVolume": 3,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947973621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Walter Gieseking",
+        "Profession": "Interprète",
+        "InterventionNote": "Walter Gieseking : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-08-28T00:00:09+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/5faed167-a083-3d74-918c-238c47f70ae2",
+      "best_matching_score": "0.74"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "00:02:58:00",
+      "ScheduledDuration": "00:15:17:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min WAB 108 : 1. Allegro moderato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min WAB 108 : 1. Allegro moderato",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD350133",
+      "ExternalID": "RF00000062387-1-1",
+      "AlbumTitle": "Wilhelm Furtwängler dirige la Symphonie n°8 de Bruckner (enreg 1944 et 1949)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000062387",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Bruckner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wilhelm Furtwangler",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T00:02:58+02:00",
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
+      "best": "http://data.doremus.org/expression/5aad564e-0b51-3209-ba1e-cd5eab7c26c4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "00:18:15:00",
+      "ScheduledDuration": "00:14:13:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min WAB 108 : 2. Scherzo - Trio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min WAB 108 : 2. Scherzo - Trio",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD350133",
+      "ExternalID": "RF00000062387-1-2",
+      "AlbumTitle": "Wilhelm Furtwängler dirige la Symphonie n°8 de Bruckner (enreg 1944 et 1949)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000062387",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Bruckner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wilhelm Furtwangler",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T00:18:15+02:00",
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
+      "best": "http://data.doremus.org/expression/5aad564e-0b51-3209-ba1e-cd5eab7c26c4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "00:32:28:00",
+      "ScheduledDuration": "00:25:12:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min WAB 108 : 3. Adagio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min WAB 108 : 3. Adagio",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD350133",
+      "ExternalID": "RF00000062387-1-3",
+      "AlbumTitle": "Wilhelm Furtwängler dirige la Symphonie n°8 de Bruckner (enreg 1944 et 1949)",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000062387",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Bruckner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wilhelm Furtwangler",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T00:32:28+02:00",
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
+      "best": "http://data.doremus.org/expression/5aad564e-0b51-3209-ba1e-cd5eab7c26c4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "00:57:40:00",
+      "ScheduledDuration": "00:22:22:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min WAB 108 : 4. Finale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min WAB 108 : 4. Finale",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD350133",
+      "ExternalID": "RF00000062387-1-4",
+      "AlbumTitle": "Wilhelm Furtwängler dirige la Symphonie n°8 de Bruckner (enreg 1944 et 1949)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000062387",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Bruckner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wilhelm Furtwangler",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T00:57:40+02:00",
+      "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
+      "best": "http://data.doremus.org/expression/5aad564e-0b51-3209-ba1e-cd5eab7c26c4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "01:20:25:00",
+      "ScheduledDuration": "00:05:54:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Parsifal WWV 111 : Ich sah das Kind an seiner Mutter Brust (Acte II) Air de Kundry",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Parsifal WWV 111 : Ich sah das Kind an seiner Mutter Brust (Acte II) Air de Kundry",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD 350140",
+      "ExternalID": "3149028117929-1-5",
+      "AlbumTitle": "Hans Knappertsbusch dirige Bruckner et Wagner",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028117929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Wagner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kirsten Flagstad",
+        "Profession": "Interprète",
+        "InterventionNote": "Kirsten Flagstad : Soprano, Kundry",
+        "mop": "Soprano, Kundry"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Knappertsbusch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T01:20:25+02:00",
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
+      "best": "http://data.doremus.org/expression/ae962407-d57f-35ce-bf30-06c77f04f5bf",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "01:26:19:00",
+      "ScheduledDuration": "00:10:15:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tristan et Isolde WWV 90 : Prélude (Acte 1) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tristan et Isolde WWV 90 : Prélude (Acte 1) (instrumental)",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD 350140",
+      "ExternalID": "3149028117929-1-6",
+      "AlbumTitle": "Hans Knappertsbusch dirige Bruckner et Wagner",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028117929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Wagner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Knappertsbusch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T01:26:19+02:00",
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
+      "best": "http://data.doremus.org/expression/d08bdedc-8943-3fc4-a8c0-a5d53191471f",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "01:36:34:00",
+      "ScheduledDuration": "00:07:03:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tristan et Isolde WWV 90 : Mild und leise (Acte III Sc 3) Air d'Isolde",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tristan et Isolde WWV 90 : Mild und leise (Acte III Sc 3) Air d'Isolde",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD 350140",
+      "ExternalID": "3149028117929-1-7",
+      "AlbumTitle": "Hans Knappertsbusch dirige Bruckner et Wagner",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028117929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Wagner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Birgit Nilsson",
+        "Profession": "Interprète",
+        "InterventionNote": "Birgit Nilsson : Soprano, Isolde",
+        "mop": "Soprano, Isolde"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Knappertsbusch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T01:36:34+02:00",
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
+      "best": "http://data.doremus.org/expression/763b73d7-efcf-3175-8488-63a179c37f52",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "01:43:41:00",
+      "ScheduledDuration": "00:20:08:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poème de l'extase op 54",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poème de l'extase op 54",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD350120",
+      "ExternalID": "3149028039320-1-6",
+      "AlbumTitle": "Dimitri chostakovith et Alexandre Scriabine : Symphonie op 65 et Poème de L'extase op 54",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028039320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Scriabine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Leningrad",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Mravinski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T01:43:41+02:00",
+      "composer": "http://data.doremus.org/artist/0607b9fe-c6fe-38c1-aa5a-c2cf957bee74",
+      "best": "http://data.doremus.org/expression/2df73b1e-19e6-3f34-acde-c55df0c0e17a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "02:03:52:00",
+      "ScheduledDuration": "00:24:37:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min op 65 : Adagio - Allegro non troppo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min op 65 : Adagio - Allegro non troppo",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD350120",
+      "ExternalID": "3149028039320-1-1",
+      "AlbumTitle": "Dimitri chostakovith et Alexandre Scriabine : Symphonie op 65 et Poème de L'extase op 54",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028039320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Leningrad",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Mravinski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T02:03:52+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "02:28:29:00",
+      "ScheduledDuration": "00:06:03:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min op 65 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min op 65 : Allegretto",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD350120",
+      "ExternalID": "3149028039320-1-2",
+      "AlbumTitle": "Dimitri chostakovith et Alexandre Scriabine : Symphonie op 65 et Poème de L'extase op 54",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028039320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Leningrad",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Mravinski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T02:28:29+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "02:34:32:00",
+      "ScheduledDuration": "00:06:08:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min op 65 : Allegro non troppo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min op 65 : Allegro non troppo",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD350120",
+      "ExternalID": "3149028039320-1-3",
+      "AlbumTitle": "Dimitri chostakovith et Alexandre Scriabine : Symphonie op 65 et Poème de L'extase op 54",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028039320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Leningrad",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Mravinski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T02:34:32+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "02:40:40:00",
+      "ScheduledDuration": "00:09:23:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min op 65 : Largo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min op 65 : Largo",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD350120",
+      "ExternalID": "3149028039320-1-4",
+      "AlbumTitle": "Dimitri chostakovith et Alexandre Scriabine : Symphonie op 65 et Poème de L'extase op 54",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028039320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Leningrad",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Mravinski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T02:40:40+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-08-28",
+      "ScheduledTime": "02:50:03:00",
+      "ScheduledDuration": "00:12:42:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en ut min op 65 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en ut min op 65 : Allegretto",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD350120",
+      "ExternalID": "3149028039320-1-5",
+      "AlbumTitle": "Dimitri chostakovith et Alexandre Scriabine : Symphonie op 65 et Poème de L'extase op 54",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028039320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Leningrad",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Mravinski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-08-28T02:50:03+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    }
+  ],
+  "total": 14,
+  "matched": 9
+}

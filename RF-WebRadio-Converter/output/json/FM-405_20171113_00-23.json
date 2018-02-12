@@ -1,0 +1,2070 @@
+{
+  "id": "FM-405_20171113_00-23",
+  "channel": "405",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:00:04:00",
+      "ScheduledDuration": "00:05:17:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Es ist Vollbracht",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Es ist Vollbracht",
+      "Label": "ALPHA",
+      "ReferenceLabel": "172314",
+      "ISRC": "FR-50X-17-29801",
+      "ExternalID": "3760014192982-1-1",
+      "AlbumTitle": "Aïrés",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192982",
+      "EditorialComment": "Import iRF [[ Fournisseur=idol ]]",
+      "Compositor": {
+        "FullName": "Edouard Ferlet",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Airelle Besson",
+          "Profession": "Interprète",
+          "InterventionNote": "Airelle Besson : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Edouard Ferlet",
+          "Profession": "Interprète",
+          "InterventionNote": "Edouard Ferlet : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Stephane Kerecki",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Kerecki : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:00:04+01:00",
+      "composer": "http://data.doremus.org/artist/de737b14-323d-3421-94e6-998140fb4384"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:05:21:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bayaka..ka..ka..ka",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bayaka..ka..ka..ka",
+      "Label": "BUDAPEST MUSIC CENTER RECORDS",
+      "ReferenceLabel": "BMCCD245",
+      "ExternalID": "5998309302459-1-12",
+      "AlbumTitle": "Bayachrimae",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5998309302459",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Estafest",
+          "Profession": "Interprète",
+          "InterventionNote": "Estafest"
+        },
+        {
+          "FullName": "Anton Goudsmit",
+          "Profession": "Interprète",
+          "InterventionNote": "Anton Goudsmit : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Jeroen Van Vliet",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeroen Van Vliet : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Oene Van Geel",
+          "Profession": "Interprète",
+          "InterventionNote": "Oene Van Geel : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Mete Erker",
+          "Profession": "Interprète",
+          "InterventionNote": "Mete Erker : Saxophone",
+          "mop": "Saxophone"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:05:21+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:09:42:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pasteis de nata (Live)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pasteis de nata (Live)",
+      "Label": "BUDAPEST MUSIC CENTER RECORDS",
+      "ReferenceLabel": "BMCCD245",
+      "ExternalID": "5998309302459-1-13",
+      "AlbumTitle": "Bayachrimae",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5998309302459",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Estafest",
+          "Profession": "Interprète",
+          "InterventionNote": "Estafest"
+        },
+        {
+          "FullName": "Anton Goudsmit",
+          "Profession": "Interprète",
+          "InterventionNote": "Anton Goudsmit : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Jeroen Van Vliet",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeroen Van Vliet : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Oene Van Geel",
+          "Profession": "Interprète",
+          "InterventionNote": "Oene Van Geel : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Mete Erker",
+          "Profession": "Interprète",
+          "InterventionNote": "Mete Erker : Saxophone",
+          "mop": "Saxophone"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:09:42+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:12:11:00",
+      "ScheduledDuration": "00:05:13:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Man from South Africa",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Man from South Africa",
+      "Label": "INTENSE MEDIA",
+      "ReferenceLabel": "4053796003942",
+      "ExternalID": "RF00000063739-1-6",
+      "AlbumTitle": "Drums / Milestones of jazz legends / CD 2",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000063739",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Max Roach",
+          "Profession": "Interprète",
+          "InterventionNote": "Max Roach : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Booker Little",
+          "Profession": "Interprète",
+          "InterventionNote": "Booker Little : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Julian Prester",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Prester : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Eric Dolphy",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Dolphy : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Clifford Jordan",
+          "Profession": "Interprète",
+          "InterventionNote": "Clifford Jordan : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Mal Waldron",
+          "Profession": "Interprète",
+          "InterventionNote": "Mal Waldron : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Art Davis",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Davis : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Carlos \"\"patato\"\" Valdez",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos \"\"patato\"\" Valdez : Conga (tambour)",
+          "mop": "Conga (tambour)"
+        },
+        {
+          "FullName": "Carlos Totico Eugenio",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlos Totico Eugenio : Cloches",
+          "mop": "Cloches"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:12:11+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:17:24:00",
+      "ScheduledDuration": "00:03:54:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Now's the time",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Now's the time",
+      "Label": "INTENSE MEDIA",
+      "ReferenceLabel": "4053796003942",
+      "ExternalID": "RF00000063739-1-11",
+      "AlbumTitle": "Drums / Milestones of jazz legends / CD 2",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000063739",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Art Blakey & Charlie Persip & Elvin Jones & Philly",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey & Charlie Persip & Elvin Jones & Philly : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Art Blakey",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Charlie Persip",
+          "Profession": "Interprète",
+          "InterventionNote": "Charlie Persip : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Elvin Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Elvin Jones : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Philly Joe Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Philly Joe Jones : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Charles Greenlee",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Greenlee : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Sylvester Kyner",
+          "Profession": "Interprète",
+          "InterventionNote": "Sylvester Kyner : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Tommy Flanagan",
+          "Profession": "Interprète",
+          "InterventionNote": "Tommy Flanagan : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ron Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ron Carter : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:17:24+01:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:21:18:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Philly Joe Jones' solo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Philly Joe Jones' solo",
+      "Label": "INTENSE MEDIA",
+      "ReferenceLabel": "4053796003942",
+      "ExternalID": "RF00000063739-1-12",
+      "AlbumTitle": "Drums / Milestones of jazz legends / CD 2",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000063739",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Art Blakey & Charlie Persip & Elvin Jones & Philly",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey & Charlie Persip & Elvin Jones & Philly : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Art Blakey",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Charlie Persip",
+          "Profession": "Interprète",
+          "InterventionNote": "Charlie Persip : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Elvin Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Elvin Jones : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Philly Joe Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Philly Joe Jones : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Charles Greenlee",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Greenlee : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Sylvester Kyner",
+          "Profession": "Interprète",
+          "InterventionNote": "Sylvester Kyner : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Tommy Flanagan",
+          "Profession": "Interprète",
+          "InterventionNote": "Tommy Flanagan : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ron Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ron Carter : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:21:18+01:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:22:21:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Art Blakey's solo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Art Blakey's solo",
+      "Label": "INTENSE MEDIA",
+      "ReferenceLabel": "4053796003942",
+      "ExternalID": "RF00000063739-1-13",
+      "AlbumTitle": "Drums / Milestones of jazz legends / CD 2",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000063739",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Art Blakey & Charlie Persip & Elvin Jones & Philly",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey & Charlie Persip & Elvin Jones & Philly : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Art Blakey",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Charlie Persip",
+          "Profession": "Interprète",
+          "InterventionNote": "Charlie Persip : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Elvin Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Elvin Jones : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Philly Joe Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Philly Joe Jones : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Charles Greenlee",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Greenlee : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Sylvester Kyner",
+          "Profession": "Interprète",
+          "InterventionNote": "Sylvester Kyner : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Tommy Flanagan",
+          "Profession": "Interprète",
+          "InterventionNote": "Tommy Flanagan : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ron Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ron Carter : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:22:21+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:24:36:00",
+      "ScheduledDuration": "00:09:35:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Moanin'",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Moanin'",
+      "Label": "INTENSE MEDIA",
+      "ReferenceLabel": "4053796003959",
+      "ExternalID": "RF00000063742-1-1",
+      "AlbumTitle": "Milestones of a legend / CD 10",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1958-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000063742",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Art Blakey And The Jazz Messengers",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey And The Jazz Messengers"
+        },
+        {
+          "FullName": "Art Blakey",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Lee Morgan",
+          "Profession": "Interprète",
+          "InterventionNote": "Lee Morgan : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Benny Golson",
+          "Profession": "Interprète",
+          "InterventionNote": "Benny Golson : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Bobby Timmons",
+          "Profession": "Interprète",
+          "InterventionNote": "Bobby Timmons : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jymie Merritt",
+          "Profession": "Interprète",
+          "InterventionNote": "Jymie Merritt : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:24:36+01:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:34:11:00",
+      "ScheduledDuration": "00:05:30:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wasteland",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wasteland",
+      "Label": "STORYVILLE",
+      "ReferenceLabel": "1014308",
+      "ExternalID": "0717101430826-1-11",
+      "AlbumTitle": "Green moss black sand",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0717101430826",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sigurour Flosason",
+          "Profession": "Interprète",
+          "InterventionNote": "Sigurour Flosason : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Lars Jansson",
+          "Profession": "Interprète",
+          "InterventionNote": "Lars Jansson : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Thomas Fonnesbaek",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Fonnesbaek : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Paul Svanberg",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Svanberg : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:34:11+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:39:41:00",
+      "ScheduledDuration": "00:08:00:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Puccini",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Puccini",
+      "Label": "PROVA RECORDS",
+      "ReferenceLabel": "PR1703CD30",
+      "ExternalID": "9008798231881-1-6",
+      "AlbumTitle": "20 years recordings",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9008798231881",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Michel Bisceglia Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Bisceglia Trio"
+        },
+        {
+          "FullName": "Michel Bisceglia",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Bisceglia : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Werner Lauscher",
+          "Profession": "Interprète",
+          "InterventionNote": "Werner Lauscher : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Marc Lehan",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Lehan : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:39:41+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:47:44:00",
+      "ScheduledDuration": "00:06:02:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bachianas brasileiras n°5 : Aria -Cantilena",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bachianas brasileiras n°5 : Aria -Cantilena",
+      "Label": "TRATORE",
+      "ReferenceLabel": "AA0003000",
+      "ExternalID": "7898515692475-1-5",
+      "AlbumTitle": "Villa-Lobos superstar",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7898515692475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heitor Villa-Lobos",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Pau Brasil",
+          "Profession": "Interprète",
+          "InterventionNote": "Pau Brasil"
+        },
+        {
+          "FullName": "Nelson Ayres",
+          "Profession": "Interprète",
+          "InterventionNote": "Nelson Ayres : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Rodolfo Stroeter",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodolfo Stroeter : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Paulo Bellinati",
+          "Profession": "Interprète",
+          "InterventionNote": "Paulo Bellinati : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Teco Cardoso",
+          "Profession": "Interprète",
+          "InterventionNote": "Teco Cardoso : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Ricardo Mosca",
+          "Profession": "Interprète",
+          "InterventionNote": "Ricardo Mosca : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Ensemble Sp",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Sp"
+        },
+        {
+          "FullName": "Betina Stegmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Betina Stegmann : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Nelson Rios",
+          "Profession": "Interprète",
+          "InterventionNote": "Nelson Rios : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Marcelo Jaffe",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcelo Jaffe : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Bob Suetholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Suetholz : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:47:44+01:00",
+      "composer": "http://data.doremus.org/artist/c51a1b01-5682-33da-a15a-67d7f36c8308",
+      "best": "http://data.doremus.org/expression/c104d66f-0c51-30a0-a587-f192e971a77e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:53:46:00",
+      "ScheduledDuration": "00:04:24:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bachianas brasileiras n°5 : Danca - Martelo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bachianas brasileiras n°5 : Danca - Martelo",
+      "Label": "TRATORE",
+      "ReferenceLabel": "AA0003000",
+      "ExternalID": "7898515692475-1-6",
+      "AlbumTitle": "Villa-Lobos superstar",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7898515692475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heitor Villa-Lobos",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Pau Brasil",
+          "Profession": "Interprète",
+          "InterventionNote": "Pau Brasil"
+        },
+        {
+          "FullName": "Nelson Ayres",
+          "Profession": "Interprète",
+          "InterventionNote": "Nelson Ayres : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Rodolfo Stroeter",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodolfo Stroeter : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Paulo Bellinati",
+          "Profession": "Interprète",
+          "InterventionNote": "Paulo Bellinati : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Teco Cardoso",
+          "Profession": "Interprète",
+          "InterventionNote": "Teco Cardoso : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Ricardo Mosca",
+          "Profession": "Interprète",
+          "InterventionNote": "Ricardo Mosca : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Ensemble Sp",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Sp"
+        },
+        {
+          "FullName": "Betina Stegmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Betina Stegmann : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Nelson Rios",
+          "Profession": "Interprète",
+          "InterventionNote": "Nelson Rios : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Marcelo Jaffe",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcelo Jaffe : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Bob Suetholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Suetholz : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T00:53:46+01:00",
+      "composer": "http://data.doremus.org/artist/c51a1b01-5682-33da-a15a-67d7f36c8308",
+      "best": "http://data.doremus.org/expression/c104d66f-0c51-30a0-a587-f192e971a77e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:58:10:00",
+      "ScheduledDuration": "00:02:06:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rosa morena (brunette rose)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rosa morena (brunette rose)",
+      "Label": "DOXY RECORDS",
+      "ReferenceLabel": "DOT501",
+      "ExternalID": "8013252885013-1-8",
+      "AlbumTitle": "Brazil's brilliant/Joao Gilberto pops in portuguese with Carlos Jobim's orchestra",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8013252885013",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joao Gilberto",
+        "Profession": "Interprète",
+        "InterventionNote": "Joao Gilberto"
+      },
+      "ScheduledDateTime": "2017-11-13T00:58:10+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:00:16:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Morena boca de ouro (brunette with a mouth of gold)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Morena boca de ouro (brunette with a mouth of gold)",
+      "Label": "DOXY RECORDS",
+      "ReferenceLabel": "DOT501",
+      "ExternalID": "8013252885013-1-9",
+      "AlbumTitle": "Brazil's brilliant/Joao Gilberto pops in portuguese with Carlos Jobim's orchestra",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8013252885013",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joao Gilberto",
+        "Profession": "Interprète",
+        "InterventionNote": "Joao Gilberto"
+      },
+      "ScheduledDateTime": "2017-11-13T01:00:16+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:02:16:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bip bip",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bip bip",
+      "Label": "SONY",
+      "ReferenceLabel": "520522-2/1",
+      "ExternalID": "RF00000001152-1-8",
+      "AlbumTitle": "Bip bip",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Variété francophone",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000001152",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joe Dassin",
+        "Profession": "Interprète",
+        "InterventionNote": "Joe Dassin"
+      },
+      "ScheduledDateTime": "2017-11-13T01:02:16+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:04:28:00",
+      "ScheduledDuration": "00:04:38:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tu t'laisses aller (avec Eddy Louiss & Michel Petrucciani)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tu t'laisses aller (avec Eddy Louiss & Michel Petrucciani)",
+      "Label": "UNIVERSAL MUSIC",
+      "ReferenceLabel": "3793438",
+      "ExternalID": "RF00000045729-1-4",
+      "AlbumTitle": "Jazznavour / CD 39",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Variété francophone",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000045729",
+      "Author": {
+        "FullName": "Andre Manoukian",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Andre Manoukian : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Charles Aznavour",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Aznavour"
+        },
+        {
+          "FullName": "Eddy Louiss",
+          "Profession": "Interprète",
+          "InterventionNote": "Eddy Louiss"
+        },
+        {
+          "FullName": "Michel Petrucciani",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Petrucciani"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:04:28+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:09:15:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Docteur (fever)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Docteur (fever)",
+      "Label": "UNIVERSAL",
+      "ExternalID": "RF00000039619-1-13",
+      "AlbumTitle": "Quand le jazz est là (cd promo)",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000039619",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Claude Nougaro",
+        "Profession": "Interprète",
+        "InterventionNote": "Claude Nougaro"
+      },
+      "ScheduledDateTime": "2017-11-13T01:09:15+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:12:16:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sing sing song",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sing sing song",
+      "Label": "MERCURY",
+      "ReferenceLabel": "9820239-3",
+      "ExternalID": "0602498223932-1-2",
+      "AlbumTitle": "Sa majesté le jazz / Integrale vol. 3 / Versions inedites",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Variété francophone",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498223932",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Claude Nougaro",
+        "Profession": "Interprète",
+        "InterventionNote": "Claude Nougaro"
+      },
+      "ScheduledDateTime": "2017-11-13T01:12:16+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:15:16:00",
+      "ScheduledDuration": "00:05:25:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Three to get ready",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Three to get ready",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "88883735352-10",
+      "ExternalID": "RF00000040950-1-4",
+      "AlbumTitle": "Columbia jazz : Time out / CD 10",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000040950",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "The Dave Brubeck Quartet",
+        "Profession": "Interprète",
+        "InterventionNote": "The Dave Brubeck Quartet"
+      },
+      "ScheduledDateTime": "2017-11-13T01:15:16+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:20:41:00",
+      "ScheduledDuration": "00:03:59:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Time in",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Time in",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "COL 5128942/3",
+      "ExternalID": "5099751289425-1-3",
+      "AlbumTitle": "Time in",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099751289425",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Dave Brubeck",
+          "Profession": "Interprète",
+          "InterventionNote": "Dave Brubeck : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Paul Desmond",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Desmond : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Eugene Wright",
+          "Profession": "Interprète",
+          "InterventionNote": "Eugene Wright : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Joe Morello",
+          "Profession": "Interprète",
+          "InterventionNote": "Joe Morello : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:20:41+01:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:24:40:00",
+      "ScheduledDuration": "00:02:02:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Unsquare dance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Unsquare dance",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "CK 64668",
+      "ExternalID": "5099706466826-1-7",
+      "AlbumTitle": "Time further out",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706466826",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "The Dave Brubeck Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "The Dave Brubeck Quartet"
+        },
+        {
+          "FullName": "Dave Brubeck",
+          "Profession": "Interprète",
+          "InterventionNote": "Dave Brubeck : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Paul Desmond",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Desmond : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Joe Morello",
+          "Profession": "Interprète",
+          "InterventionNote": "Joe Morello : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Eugene Wright",
+          "Profession": "Interprète",
+          "InterventionNote": "Eugene Wright : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:24:40+01:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:26:42:00",
+      "ScheduledDuration": "00:03:59:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "St. thomas",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "St. thomas",
+      "Label": "RCA",
+      "ReferenceLabel": "82876 55540 2/1",
+      "ExternalID": "0828765554022-1-5",
+      "AlbumTitle": "Now's the time",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0828765554022",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sonny Rollins",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonny Rollins : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Herbie Hancock",
+          "Profession": "Interprète",
+          "InterventionNote": "Herbie Hancock : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ron Carter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ron Carter : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Roy Mac Curdy",
+          "Profession": "Interprète",
+          "InterventionNote": "Roy Mac Curdy : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:26:42+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:30:50:00",
+      "ScheduledDuration": "00:12:19:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The night has a thousand eyes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The night has a thousand eyes",
+      "Label": "TIMELESS",
+      "ReferenceLabel": "CDSJP 326",
+      "ExternalID": "3365420132623-1-3",
+      "AlbumTitle": "Moon child",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3365420132623",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Pharoah Sanders",
+        "Profession": "Interprète",
+        "InterventionNote": "Pharoah Sanders"
+      },
+      "ScheduledDateTime": "2017-11-13T01:30:50+01:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:43:09:00",
+      "ScheduledDuration": "00:07:40:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ecars",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ecars",
+      "Label": "ATLANTIC",
+      "ReferenceLabel": "P 6 105 A",
+      "ExternalID": "RF00000048493-1-5",
+      "AlbumTitle": "Ornette on tenor",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1972-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048493",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ornette Coleman",
+          "Profession": "Interprète",
+          "InterventionNote": "Ornette Coleman : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Jimmy Garrison",
+          "Profession": "Interprète",
+          "InterventionNote": "Jimmy Garrison : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Ed Blackwell",
+          "Profession": "Interprète",
+          "InterventionNote": "Ed Blackwell : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Donald Cherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Donald Cherry : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:43:09+01:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:51:04:00",
+      "ScheduledDuration": "00:05:48:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bunny",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bunny",
+      "Label": "VERVE",
+      "ReferenceLabel": "827436-2",
+      "ExternalID": "0042282743626-1-3",
+      "AlbumTitle": "Mulligan Gerry/silver collection",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1960-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042282743626",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Gerry Mulligan",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerry Mulligan : Saxophone baryton",
+          "mop": "Saxophone baryton"
+        },
+        {
+          "FullName": "Johnny Hodges",
+          "Profession": "Interprète",
+          "InterventionNote": "Johnny Hodges : Saxophone",
+          "mop": "Saxophone"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:51:04+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:56:52:00",
+      "ScheduledDuration": "00:05:17:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "18 carrots for baby rabbit",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "18 carrots for baby rabbit",
+      "Label": "VERVE",
+      "ReferenceLabel": "827436-2",
+      "ExternalID": "0042282743626-1-4",
+      "AlbumTitle": "Mulligan Gerry/silver collection",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1960-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042282743626",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Gerry Mulligan",
+        "Profession": "Interprète",
+        "InterventionNote": "Gerry Mulligan : Saxophone baryton",
+        "mop": "Saxophone baryton"
+      },
+      "ScheduledDateTime": "2017-11-13T01:56:52+01:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:02:09:00",
+      "ScheduledDuration": "00:05:23:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fragile growth",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fragile growth",
+      "Label": "STORYVILLE",
+      "ReferenceLabel": "1014308",
+      "ExternalID": "0717101430826-1-1",
+      "AlbumTitle": "Green moss black sand",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0717101430826",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Sigurour Flosason",
+          "Profession": "Interprète",
+          "InterventionNote": "Sigurour Flosason : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Lars Jansson",
+          "Profession": "Interprète",
+          "InterventionNote": "Lars Jansson : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Thomas Fonnesbaek",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Fonnesbaek : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Paul Svanberg",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Svanberg : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T02:02:09+01:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:07:32:00",
+      "ScheduledDuration": "00:04:22:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Kyrie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Kyrie",
+      "Label": "ACT MUSIC & VISION",
+      "ReferenceLabel": "ACT98232",
+      "ExternalID": "0614427982322-1-8",
+      "AlbumTitle": "How long is now?",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0614427982322",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Iiro Rantala",
+          "Profession": "Interprète",
+          "InterventionNote": "Iiro Rantala : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Lars Danielsson",
+          "Profession": "Interprète",
+          "InterventionNote": "Lars Danielsson : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Peter Erskine",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Erskine : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T02:07:32+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:11:54:00",
+      "ScheduledDuration": "00:03:41:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stranger on earth",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stranger on earth",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 61463 2",
+      "ExternalID": "0743216146321-1-1",
+      "AlbumTitle": "Back to earth",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216146321",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Lisa Ekdahl",
+          "Profession": "Interprète",
+          "InterventionNote": "Lisa Ekdahl"
+        },
+        {
+          "FullName": "Peter Nordahl Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Nordahl Trio"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T02:11:54+01:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:15:35:00",
+      "ScheduledDuration": "00:04:43:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "From gagarin's point of view",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "From gagarin's point of view",
+      "Label": "ACT MUSIC",
+      "ExternalID": "RF00000055927-1-2",
+      "AlbumTitle": "E.S.T. symphony",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055927",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Esbjorn Svenson Trio",
+        "Profession": "Interprète",
+        "InterventionNote": "Esbjorn Svenson Trio"
+      },
+      "ScheduledDateTime": "2017-11-13T02:15:35+01:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:20:22:00",
+      "ScheduledDuration": "00:27:47:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mirrors (dedicated to the my teachers)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mirrors (dedicated to the my teachers)",
+      "Label": "ECM",
+      "ReferenceLabel": "825592-2",
+      "ExternalID": "0042282559227-1-3",
+      "AlbumTitle": "Arbour zena",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1976-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042282559227",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Keith Jarrett",
+          "Profession": "Interprète",
+          "InterventionNote": "Keith Jarrett : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jan Garbarek",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan Garbarek : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Charlie Haden",
+          "Profession": "Interprète",
+          "InterventionNote": "Charlie Haden : Basse",
+          "mop": "Basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T02:20:22+01:00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:48:12:00",
+      "ScheduledDuration": "00:06:55:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Switch",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Switch",
+      "Label": "OKEH",
+      "ReferenceLabel": "88883747742",
+      "ExternalID": "0888837477420-1-1",
+      "AlbumTitle": "Switch",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888837477420",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Nils Petter Molvær",
+        "Profession": "Interprète"
+      },
+      "ScheduledDateTime": "2017-11-13T02:48:12+01:00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:55:07:00",
+      "ScheduledDuration": "00:05:20:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The kit",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The kit",
+      "Label": "OKEH",
+      "ReferenceLabel": "88883747742",
+      "ExternalID": "0888837477420-1-2",
+      "AlbumTitle": "Switch",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888837477420",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Nils Petter Molvær",
+        "Profession": "Interprète"
+      },
+      "ScheduledDateTime": "2017-11-13T02:55:07+01:00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "03:00:27:00",
+      "ScheduledDuration": "00:02:33:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Heroines (Variation)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Heroines (Variation)",
+      "Label": "ECM",
+      "ExternalID": "RF00000055767-1-6",
+      "AlbumTitle": "Streams",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055767",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jakob Bro",
+          "Profession": "Interprète",
+          "InterventionNote": "Jakob Bro : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Thomas Morgan",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Morgan : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Joey Baron",
+          "Profession": "Interprète",
+          "InterventionNote": "Joey Baron : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T03:00:27+01:00"
+    }
+  ],
+  "total": 34,
+  "matched": 2
+}

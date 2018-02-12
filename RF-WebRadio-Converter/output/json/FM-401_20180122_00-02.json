@@ -1,0 +1,1111 @@
+{
+  "id": "FM-401_20180122_00-02",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:00:09:00",
+      "ScheduledDuration": "00:14:45:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Till Eulenspiegels lustige Streiche op 28 TrV 171",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Till Eulenspiegels lustige Streiche op 28 TrV 171",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.299304",
+      "ExternalID": "4010276026020-1-1",
+      "AlbumTitle": "Richard Strauss : Till l'espiègle Don Quichotte et Macbeth",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276026020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Strauss",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:00:09+01:00",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
+      "best": "http://data.doremus.org/expression/2ece87f2-5edc-3320-a01d-fc3b8ea2e6e3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:15:00:00",
+      "ScheduledDuration": "00:07:09:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 Rückert Lieder : Ich bin der Welt abhanden gekommen",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 Rückert Lieder : Ich bin der Welt abhanden gekommen",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "459335-2",
+      "ExternalID": "0028945933528-1-8",
+      "AlbumTitle": "Christa Ludwig : A tribute - 70 ans",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945933528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christa Ludwig",
+        "Profession": "Interprète",
+        "InterventionNote": "Christa Ludwig : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Von Karajan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:15:00+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/a0192a69-92f0-3875-9273-c771a50e807c",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:22:09:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 Rückert Lieder : Liebst du um Schönheit",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 Rückert Lieder : Liebst du um Schönheit",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "459335-2",
+      "ExternalID": "0028945933528-1-9",
+      "AlbumTitle": "Christa Ludwig : A tribute - 70 ans",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945933528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christa Ludwig",
+        "Profession": "Interprète",
+        "InterventionNote": "Christa Ludwig : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Von Karajan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:22:09+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/a0192a69-92f0-3875-9273-c771a50e807c",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:24:41:00",
+      "ScheduledDuration": "00:01:31:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 Rückert Lieder : Blicke mir nicht in die Lieder",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 Rückert Lieder : Blicke mir nicht in die Lieder",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "459335-2",
+      "ExternalID": "0028945933528-1-10",
+      "AlbumTitle": "Christa Ludwig : A tribute - 70 ans",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945933528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christa Ludwig",
+        "Profession": "Interprète",
+        "InterventionNote": "Christa Ludwig : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Von Karajan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:24:41+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/3c11a1b9-f77d-3de6-8493-06906f42e2c0",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:26:12:00",
+      "ScheduledDuration": "00:02:38:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 Rückert Lieder : Ich atmet' einen linden Duft",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 Rückert Lieder : Ich atmet' einen linden Duft",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "459335-2",
+      "ExternalID": "0028945933528-1-11",
+      "AlbumTitle": "Christa Ludwig : A tribute - 70 ans",
+      "Rank": 11,
+      "NumVolume": 1,
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945933528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christa Ludwig",
+        "Profession": "Interprète",
+        "InterventionNote": "Christa Ludwig : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Von Karajan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:26:12+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/a0192a69-92f0-3875-9273-c771a50e807c",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:28:50:00",
+      "ScheduledDuration": "00:06:02:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 Rückert Lieder : Um Mitternacht",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 Rückert Lieder : Um Mitternacht",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "459335-2",
+      "ExternalID": "0028945933528-1-12",
+      "AlbumTitle": "Christa Ludwig : A tribute - 70 ans",
+      "Rank": 12,
+      "NumVolume": 1,
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945933528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christa Ludwig",
+        "Profession": "Interprète",
+        "InterventionNote": "Christa Ludwig : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Von Karajan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:28:50+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1f80a6d9-6a31-33fa-980d-a814fcff5f9e",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:35:15:00",
+      "ScheduledDuration": "00:17:30:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en la min op 102 : 1. Allegro / Pour violon violoncelle et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en la min op 102 : 1. Allegro / Pour violon violoncelle et orchestre",
+      "Label": "TELDEC",
+      "ReferenceLabel": "0630-13137-2",
+      "ExternalID": "0706301313725-1-4",
+      "AlbumTitle": "Concerto pour violon et double concerto",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0706301313725",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Clemens Hagen",
+          "Profession": "Interprète",
+          "InterventionNote": "Clemens Hagen : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Nikolaus Harnoncourt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:35:15+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/74552986-d1ab-3e46-bb9b-d90230b3de74",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:52:45:00",
+      "ScheduledDuration": "00:06:06:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en la min op 102 : 2. Andante / Pour violon violoncelle et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en la min op 102 : 2. Andante / Pour violon violoncelle et orchestre",
+      "Label": "TELDEC",
+      "ReferenceLabel": "0630-13137-2",
+      "ExternalID": "0706301313725-1-5",
+      "AlbumTitle": "Concerto pour violon et double concerto",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0706301313725",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Clemens Hagen",
+          "Profession": "Interprète",
+          "InterventionNote": "Clemens Hagen : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Nikolaus Harnoncourt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:52:45+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/74552986-d1ab-3e46-bb9b-d90230b3de74",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "00:58:51:00",
+      "ScheduledDuration": "00:08:43:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en la min op 102 : 3. Vivace non troppo / Pour violon violoncelle et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en la min op 102 : 3. Vivace non troppo / Pour violon violoncelle et orchestre",
+      "Label": "TELDEC",
+      "ReferenceLabel": "0630-13137-2",
+      "ExternalID": "0706301313725-1-6",
+      "AlbumTitle": "Concerto pour violon et double concerto",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0706301313725",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gidon Kremer",
+          "Profession": "Interprète",
+          "InterventionNote": "Gidon Kremer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Clemens Hagen",
+          "Profession": "Interprète",
+          "InterventionNote": "Clemens Hagen : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Nikolaus Harnoncourt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T00:58:51+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/74552986-d1ab-3e46-bb9b-d90230b3de74",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:07:43:00",
+      "ScheduledDuration": "00:04:22:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La romance d'Ariel L 54 - pour soprano et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La romance d'Ariel L 54 - pour soprano et piano",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295767723",
+      "ExternalID": "0190295767723-1-8",
+      "AlbumTitle": "Sabine Devieilhe : Mirages",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295767723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sabine Devieilhe",
+          "Profession": "Interprète",
+          "InterventionNote": "Sabine Devieilhe : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-22T01:07:43+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/38d9caa5-a5b6-3eb8-b992-2e1ff288f2c2",
+      "best_matching_score": "0.78"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:12:05:00",
+      "ScheduledDuration": "00:10:50:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Orpheus S 98 - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Orpheus S 98 - pour orchestre",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM 07",
+      "ExternalID": "3149028009828-1-8",
+      "AlbumTitle": "Franz Liszt : Dante symphonie et Orpheus",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028009828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Liszt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Les Siecles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T01:12:05+01:00",
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
+      "best": "http://data.doremus.org/expression/0d9c75ae-ec0d-3803-a3b4-8560ee3e5c44",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:22:55:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pelleas et Melisande L 88 : Mes longs cheveux descendent (Acte III Sc 1) Air de Mélisande",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pelleas et Melisande L 88 : Mes longs cheveux descendent (Acte III Sc 1) Air de Mélisande",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295767723",
+      "ExternalID": "0190295767723-1-2",
+      "AlbumTitle": "Sabine Devieilhe : Mirages",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295767723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sabine Devieilhe",
+        "Profession": "Interprète",
+        "InterventionNote": "Sabine Devieilhe : Soprano, Melisande",
+        "mop": "Soprano, Melisande"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Les Siecles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T01:22:55+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/c0fe724f-8c61-3448-b714-64da13c89737",
+      "best_matching_score": "0.72"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:25:19:00",
+      "ScheduledDuration": "00:08:50:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La mer L 109 : De l'aube à midi sur la mer",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La mer L 109 : De l'aube à midi sur la mer",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM 10",
+      "ExternalID": "3149028023220-1-5",
+      "AlbumTitle": "Claude Debussy : Suite n°1 et La mer",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028023220",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Les Siecles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T01:25:19+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:34:09:00",
+      "ScheduledDuration": "00:06:40:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La mer L 109 : Jeux de vagues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La mer L 109 : Jeux de vagues",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM 10",
+      "ExternalID": "3149028023220-1-6",
+      "AlbumTitle": "Claude Debussy : Suite n°1 et La mer",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028023220",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Les Siecles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T01:34:09+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:40:49:00",
+      "ScheduledDuration": "00:07:48:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La mer L 109 : Dialogue du vent et de la mer",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La mer L 109 : Dialogue du vent et de la mer",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM 10",
+      "ExternalID": "3149028023220-1-7",
+      "AlbumTitle": "Claude Debussy : Suite n°1 et La mer",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028023220",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Les Siecles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T01:40:49+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "01:48:46:00",
+      "ScheduledDuration": "00:12:19:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en ut dièse min : 1. Trauermarsch",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en ut dièse min : 1. Trauermarsch",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "905285DI",
+      "ISRC": "FR-7JM-17-63010",
+      "ExternalID": "3149020931523-1-1",
+      "AlbumTitle": "Mahler : Symphonie n°5",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020931523",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Du Gurzenich De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T01:48:46+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "02:01:05:00",
+      "ScheduledDuration": "00:14:19:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en ut dièse min : 2. Stürmisch bewegt",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en ut dièse min : 2. Stürmisch bewegt",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "905285DI",
+      "ISRC": "FR-7JM-17-63020",
+      "ExternalID": "3149020931523-1-2",
+      "AlbumTitle": "Mahler : Symphonie n°5",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020931523",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Du Gurzenich De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T02:01:05+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "02:15:24:00",
+      "ScheduledDuration": "00:18:09:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en ut dièse min : 3. Scherzo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en ut dièse min : 3. Scherzo",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "905285DI",
+      "ISRC": "FR-7JM-17-63030",
+      "ExternalID": "3149020931523-1-3",
+      "AlbumTitle": "Mahler : Symphonie n°5",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020931523",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Du Gurzenich De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T02:15:24+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "02:33:33:00",
+      "ScheduledDuration": "00:10:46:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en ut dièse min : 4. Adagietto sehr langsam",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en ut dièse min : 4. Adagietto sehr langsam",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "905285DI",
+      "ISRC": "FR-7JM-17-63040",
+      "ExternalID": "3149020931523-1-4",
+      "AlbumTitle": "Mahler : Symphonie n°5",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020931523",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Du Gurzenich De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T02:33:33+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-22",
+      "ScheduledTime": "02:44:19:00",
+      "ScheduledDuration": "00:15:10:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en ut dièse min : 5. Rondo-Finale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en ut dièse min : 5. Rondo-Finale",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "905285DI",
+      "ISRC": "FR-7JM-17-63050",
+      "ExternalID": "3149020931523-1-5",
+      "AlbumTitle": "Mahler : Symphonie n°5",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020931523",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Du Gurzenich De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-22T02:44:19+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.99"
+    }
+  ],
+  "total": 20,
+  "matched": 17
+}

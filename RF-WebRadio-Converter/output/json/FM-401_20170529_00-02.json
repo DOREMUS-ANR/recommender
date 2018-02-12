@@ -1,0 +1,3211 @@
+{
+  "id": "FM-401_20170529_00-02",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:23:37:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempête op 18 : Ouverture \"\"Burya op 18\"\" - fantaisie symphonique pour orchestre / d'après \"\"The Tempest\"\" de Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempête op 18 : Ouverture \"\"Burya op 18\"\" - fantaisie symphonique pour orchestre / d'après \"\"The Tempest\"\" de Shakespeare",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "477 9226",
+      "ExternalID": "RF00000016346-1-1",
+      "AlbumTitle": "Peter Illich Tchaikovsky : La tempête et Symphonie n°6",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016346",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:00:06+02:00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:23:43:00",
+      "ScheduledDuration": "00:05:02:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite Shakespeare op 76 pour orchestre : II viola. Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite Shakespeare op 76 pour orchestre : II viola. Andante",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SPHN SU 3041-2",
+      "ExternalID": "0099925304126-1-8",
+      "AlbumTitle": "Josef Bohuslav foerster : Suites pour orchestre",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925304126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Josef Bohuslav Foerster",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vaclav Smetacek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:23:43+02:00",
+      "composer": "http://data.doremus.org/artist/183b8f11-30db-3530-9edb-eb1bc5a04e51"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:28:45:00",
+      "ScheduledDuration": "00:06:53:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite Shakespeare op 76 pour orchestre : IV catherina petruchio et eros. Allegro energico",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite Shakespeare op 76 pour orchestre : IV catherina petruchio et eros. Allegro energico",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SPHN SU 3041-2",
+      "ExternalID": "0099925304126-1-10",
+      "AlbumTitle": "Josef Bohuslav foerster : Suites pour orchestre",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925304126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Josef Bohuslav Foerster",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vaclav Smetacek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:28:45+02:00",
+      "composer": "http://data.doremus.org/artist/183b8f11-30db-3530-9edb-eb1bc5a04e51"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:35:47:00",
+      "ScheduledDuration": "00:01:23:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le pantomime des acteurs (hamlet)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le pantomime des acteurs (hamlet)",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 9907",
+      "ExternalID": "0095115990728-1-21",
+      "AlbumTitle": "Musique pour le theatre",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115990728",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Rustem Hayroudinoff",
+        "Profession": "Interprète",
+        "InterventionNote": "Rustem Hayroudinoff : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-05-29T00:35:47+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:37:10:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Berceuse (hamlet)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Berceuse (hamlet)",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 9907",
+      "ExternalID": "0095115990728-1-20",
+      "AlbumTitle": "Musique pour le theatre",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115990728",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Rustem Hayroudinoff",
+        "Profession": "Interprète",
+        "InterventionNote": "Rustem Hayroudinoff : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-05-29T00:37:10+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:38:18:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Marche de fortinbras (hamlet)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Marche de fortinbras (hamlet)",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 9907",
+      "ExternalID": "0095115990728-1-24",
+      "AlbumTitle": "Musique pour le theatre",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115990728",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Rustem Hayroudinoff",
+        "Profession": "Interprète",
+        "InterventionNote": "Rustem Hayroudinoff : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-05-29T00:38:18+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:40:35:00",
+      "ScheduledDuration": "00:02:02:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La chasse (hamlet)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La chasse (hamlet)",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 9907",
+      "ExternalID": "0095115990728-1-25",
+      "AlbumTitle": "Musique pour le theatre",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115990728",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Rustem Hayroudinoff",
+        "Profession": "Interprète",
+        "InterventionNote": "Rustem Hayroudinoff : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-05-29T00:40:35+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:42:37:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 Shakespeare choruses op 39 : Come unto these yellow sands - pour ensemble vocal à 4 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 Shakespeare choruses op 39 : Come unto these yellow sands - pour ensemble vocal à 4 voix a cappella",
+      "Label": "DELOS",
+      "ReferenceLabel": "DE 3431",
+      "ExternalID": "0013491343129-1-9",
+      "AlbumTitle": "L'ensemble vocal Etherea interprète des oeuvres de divers compositeurs / Hymn to the dawn",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0013491343129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Amy Beach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Vocal Etherea",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Vocal Etherea"
+      },
+      "OrchestraLeader": {
+        "FullName": "Derek Greten-Harrison",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:42:37+02:00",
+      "composer": "http://data.doremus.org/artist/07dca5ba-c85e-3423-9a43-3a5f750d8940"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:44:47:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 Shakespeare choruses op 39 : Over hill over dale - pour ensemble vocal à 4 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 Shakespeare choruses op 39 : Over hill over dale - pour ensemble vocal à 4 voix a cappella",
+      "Label": "DELOS",
+      "ReferenceLabel": "DE 3431",
+      "ExternalID": "0013491343129-1-8",
+      "AlbumTitle": "L'ensemble vocal Etherea interprète des oeuvres de divers compositeurs / Hymn to the dawn",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0013491343129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Amy Beach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Vocal Etherea",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Vocal Etherea"
+      },
+      "OrchestraLeader": {
+        "FullName": "Derek Greten-Harrison",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:44:47+02:00",
+      "composer": "http://data.doremus.org/artist/07dca5ba-c85e-3423-9a43-3a5f750d8940"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:46:37:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 Shakespeare choruses op 39 : Through the house give glimmering light - pour ensemble vocal à 4 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 Shakespeare choruses op 39 : Through the house give glimmering light - pour ensemble vocal à 4 voix a cappella",
+      "Label": "DELOS",
+      "ReferenceLabel": "DE 3431",
+      "ExternalID": "0013491343129-1-10",
+      "AlbumTitle": "L'ensemble vocal Etherea interprète des oeuvres de divers compositeurs / Hymn to the dawn",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0013491343129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Amy Beach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Vocal Etherea",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Vocal Etherea"
+      },
+      "OrchestraLeader": {
+        "FullName": "Derek Greten-Harrison",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:46:37+02:00",
+      "composer": "http://data.doremus.org/artist/07dca5ba-c85e-3423-9a43-3a5f750d8940"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:49:36:00",
+      "ScheduledDuration": "00:07:41:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tristia op 18 : Marche funèbre pour la dernière scène d'hamlet op 18 n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tristia op 18 : Marche funèbre pour la dernière scène d'hamlet op 18 n°3",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.210",
+      "ExternalID": "4010276020493-1-8",
+      "AlbumTitle": "Oeuvres vocales avec orchestre/cambreling",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276020493",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hector Berlioz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Till Aly",
+        "Profession": "Interprète",
+        "InterventionNote": "Till Aly"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Vocal De La Radio De Stuttgart",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sylvain Cambreling",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:49:36+02:00",
+      "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
+      "best": "http://data.doremus.org/expression/f81a106c-d82a-3846-9462-8d4cb9039e42",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:57:17:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de shakespeare op 28 : Chanson d'Ophelie op 28 n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de shakespeare op 28 : Chanson d'Ophelie op 28 n°3",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0017582BC",
+      "ExternalID": "0782124175825-1-5",
+      "AlbumTitle": "Voyage à Paris : Chansons françaises",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124175825",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ernest Chausson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Lynne Dawson",
+          "Profession": "Interprète",
+          "InterventionNote": "Lynne Dawson : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Julius Drake",
+          "Profession": "Interprète",
+          "InterventionNote": "Julius Drake : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T00:57:17+02:00",
+      "composer": "http://data.doremus.org/artist/c15d6849-cfbc-368c-9c8b-3c564c3b8fcf",
+      "best": "http://data.doremus.org/expression/c2225d48-b10d-3c5c-9246-43b44f7ec857",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "00:59:29:00",
+      "ScheduledDuration": "00:03:31:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Prelude / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Prelude / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-1",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T00:59:29+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:03:00:00",
+      "ScheduledDuration": "00:02:51:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - le chene / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - le chene / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-2",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:03:00+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:05:51:00",
+      "ScheduledDuration": "00:01:01:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - humoresque / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - humoresque / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-3",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:05:51+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:06:52:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - la chanson de caliban / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - la chanson de caliban / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-4",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:06:52+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:08:05:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - les moissonneurs / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - les moissonneurs / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-5",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:08:05+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:10:15:00",
+      "ScheduledDuration": "00:01:28:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - canon / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - canon / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-6",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:10:15+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:11:43:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - scene / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - scene / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-7",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:11:43+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:13:23:00",
+      "ScheduledDuration": "00:02:05:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - intrada/Berceuse / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - intrada/Berceuse / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-8",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:13:23+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:15:28:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - l'entracte/Chanson d' ariel / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - l'entracte/Chanson d' ariel / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-9",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:15:28+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:18:50:00",
+      "ScheduledDuration": "00:02:53:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°1 - la tempete / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°1 - la tempete / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-10",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:18:50+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:21:43:00",
+      "ScheduledDuration": "00:03:16:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - choeur des vents / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - choeur des vents / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-11",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:21:43+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:24:59:00",
+      "ScheduledDuration": "00:01:42:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - intermede / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - intermede / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-12",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:24:59+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:26:41:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - danse des nymphes / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - danse des nymphes / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-13",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:26:41+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:28:48:00",
+      "ScheduledDuration": "00:01:11:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - prospero / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - prospero / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-14",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:28:48+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:29:59:00",
+      "ScheduledDuration": "00:01:57:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - chanson I/Chanson II / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - chanson I/Chanson II / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-15",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:29:59+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:31:56:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - miranda / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - miranda / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-16",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:31:56+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:33:26:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - les naiades / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - les naiades / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-17",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:33:26+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:34:43:00",
+      "ScheduledDuration": "00:02:18:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempete op 109 : Suite n°2 - danse / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempete op 109 : Suite n°2 - danse / Pour orchestre / Musique de scene pour la piece de William Shakespeare",
+      "Label": "HAENSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.353",
+      "ExternalID": "4010276010500-1-18",
+      "AlbumTitle": "La tempete & concerto pour violon",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276010500",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:34:43+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/de9b5ad9-4bf9-393c-a522-a2a584d41eb4",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:37:14:00",
+      "ScheduledDuration": "00:04:34:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lady Macbeth du district de Mtsensk op 29 : Adagio (Elegie) - réduction pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lady Macbeth du district de Mtsensk op 29 : Adagio (Elegie) - réduction pour quatuor à cordes",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "463284-2",
+      "ExternalID": "0028946328422-4-1",
+      "AlbumTitle": "Dimitri Chostakovitch : Les 15 quatuors à cordes",
+      "Rank": 1,
+      "NumVolume": 4,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946328422",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Emerson",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Emerson"
+        },
+        {
+          "FullName": "Eugene Drucker",
+          "Profession": "Interprète",
+          "InterventionNote": "Eugene Drucker : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Philip Setzer",
+          "Profession": "Interprète",
+          "InterventionNote": "Philip Setzer : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Lawrence Dutton",
+          "Profession": "Interprète",
+          "InterventionNote": "Lawrence Dutton : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "David Finckel",
+          "Profession": "Interprète",
+          "InterventionNote": "David Finckel : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T01:37:14+02:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:41:48:00",
+      "ScheduledDuration": "00:02:03:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "As you like it : Petite ouverture - suite dans le style ancien pour violon alto et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "As you like it : Petite ouverture - suite dans le style ancien pour violon alto et harpe",
+      "Label": "HUNGAROTON",
+      "ReferenceLabel": "HCD 32651",
+      "ExternalID": "5991813265128-1-14",
+      "AlbumTitle": "Ferenc Farkas : Musique avec harpe",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5991813265128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ferenc Farkas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Somogyi",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Somogyi : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Balazs Toth",
+          "Profession": "Interprète",
+          "InterventionNote": "Balazs Toth : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Melinda Felletar",
+          "Profession": "Interprète",
+          "InterventionNote": "Melinda Felletar : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T01:41:48+02:00",
+      "composer": "http://data.doremus.org/artist/03bac218-e596-376b-82b9-db96589317bb"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:43:51:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "As you like it : Chanson I - suite dans le style ancien pour violon alto et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "As you like it : Chanson I - suite dans le style ancien pour violon alto et harpe",
+      "Label": "HUNGAROTON",
+      "ReferenceLabel": "HCD 32651",
+      "ExternalID": "5991813265128-1-15",
+      "AlbumTitle": "Ferenc Farkas : Musique avec harpe",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5991813265128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ferenc Farkas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Somogyi",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Somogyi : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Balazs Toth",
+          "Profession": "Interprète",
+          "InterventionNote": "Balazs Toth : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Melinda Felletar",
+          "Profession": "Interprète",
+          "InterventionNote": "Melinda Felletar : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T01:43:51+02:00",
+      "composer": "http://data.doremus.org/artist/03bac218-e596-376b-82b9-db96589317bb"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:46:12:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "As you like it : Chanson II - suite dans le style ancien pour violon alto et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "As you like it : Chanson II - suite dans le style ancien pour violon alto et harpe",
+      "Label": "HUNGAROTON",
+      "ReferenceLabel": "HCD 32651",
+      "ExternalID": "5991813265128-1-16",
+      "AlbumTitle": "Ferenc Farkas : Musique avec harpe",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5991813265128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ferenc Farkas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Somogyi",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Somogyi : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Balazs Toth",
+          "Profession": "Interprète",
+          "InterventionNote": "Balazs Toth : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Melinda Felletar",
+          "Profession": "Interprète",
+          "InterventionNote": "Melinda Felletar : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T01:46:12+02:00",
+      "composer": "http://data.doremus.org/artist/03bac218-e596-376b-82b9-db96589317bb"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:47:06:00",
+      "ScheduledDuration": "00:01:54:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "As you like it : Intermezzo - suite dans le style ancien pour violon alto et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "As you like it : Intermezzo - suite dans le style ancien pour violon alto et harpe",
+      "Label": "HUNGAROTON",
+      "ReferenceLabel": "HCD 32651",
+      "ExternalID": "5991813265128-1-17",
+      "AlbumTitle": "Ferenc Farkas : Musique avec harpe",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5991813265128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ferenc Farkas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Somogyi",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Somogyi : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Balazs Toth",
+          "Profession": "Interprète",
+          "InterventionNote": "Balazs Toth : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Melinda Felletar",
+          "Profession": "Interprète",
+          "InterventionNote": "Melinda Felletar : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T01:47:06+02:00",
+      "composer": "http://data.doremus.org/artist/03bac218-e596-376b-82b9-db96589317bb"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:49:00:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "As you like it : Madrigal - suite dans le style ancien pour violon alto et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "As you like it : Madrigal - suite dans le style ancien pour violon alto et harpe",
+      "Label": "HUNGAROTON",
+      "ReferenceLabel": "HCD 32651",
+      "ExternalID": "5991813265128-1-18",
+      "AlbumTitle": "Ferenc Farkas : Musique avec harpe",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5991813265128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ferenc Farkas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Somogyi",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Somogyi : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Balazs Toth",
+          "Profession": "Interprète",
+          "InterventionNote": "Balazs Toth : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Melinda Felletar",
+          "Profession": "Interprète",
+          "InterventionNote": "Melinda Felletar : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T01:49:00+02:00",
+      "composer": "http://data.doremus.org/artist/03bac218-e596-376b-82b9-db96589317bb"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:51:15:00",
+      "ScheduledDuration": "00:02:20:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Roméo et Juliette - trauermusik / Marche funebre / Musique imprevue sur Roméo et Juliette de Shakespeare / Pour soprano mezzo-soprano contralto tenor choeur et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Roméo et Juliette - trauermusik / Marche funebre / Musique imprevue sur Roméo et Juliette de Shakespeare / Pour soprano mezzo-soprano contralto tenor choeur et orchestre",
+      "Label": "SCHWANN",
+      "ReferenceLabel": "70802",
+      "ExternalID": "0099923654025-1-8",
+      "AlbumTitle": "Oeuvres orchestrales de jeunesse",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099923654025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Strauss",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Bodil Arnesen",
+          "Profession": "Interprète",
+          "InterventionNote": "Bodil Arnesen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jennifer Crohns",
+          "Profession": "Interprète",
+          "InterventionNote": "Jennifer Crohns : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Christa Mayer",
+          "Profession": "Interprète",
+          "InterventionNote": "Christa Mayer : Contralto",
+          "mop": "Contralto"
+        },
+        {
+          "FullName": "Michael Suttner",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Suttner : Ténor",
+          "mop": "Ténor"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Munich",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "Suttner",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Choeur Via Nova",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Karl Anton Rickenbacher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:51:15+02:00",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "01:53:35:00",
+      "ScheduledDuration": "00:10:50:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hamlet : Ouverture - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hamlet : Ouverture - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10504",
+      "ExternalID": "0095115150429-1-10",
+      "AlbumTitle": "Symphonies ouvertures et ballets",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115150429",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Joseph Vogler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "London Mozart Players",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matthias Bamert",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T01:53:35+02:00",
+      "composer": "http://data.doremus.org/artist/edd4c290-23ae-34cb-901f-8d39cbdac499"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:04:25:00",
+      "ScheduledDuration": "00:05:51:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Marche pour le festival Shakespeare op 20 B 129",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Marche pour le festival Shakespeare op 20 B 129",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10413",
+      "ExternalID": "0095115141328-1-9",
+      "AlbumTitle": "Bedrich Smetana : Oeuvres orchestrales / vol.1",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115141328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bedrich Smetana",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gianandrea Noseda",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:04:25+02:00",
+      "composer": "http://data.doremus.org/artist/9dbaadc5-e795-3306-982c-8b2bd5187340"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:10:39:00",
+      "ScheduledDuration": "00:05:31:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Ouverture",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-1",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:10:39+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/e222c842-0a00-3837-bb25-c07bb7125080",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:16:10:00",
+      "ScheduledDuration": "00:00:18:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Don Juan (Acte I Sc 2)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Don Juan (Acte I Sc 2)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-2",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:16:10+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/e222c842-0a00-3837-bb25-c07bb7125080",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:16:28:00",
+      "ScheduledDuration": "00:02:28:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Mummenschanz (Acte II Prélude) - Mascarade",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Mummenschanz (Acte II Prélude) - Mascarade",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-3",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mati Turi",
+        "Profession": "Interprète",
+        "InterventionNote": "Mati Turi : Ténor",
+        "mop": "Ténor"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:16:28+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:18:56:00",
+      "ScheduledDuration": "00:04:44:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Festmusik (Acte II Sc 1)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Festmusik (Acte II Sc 1)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-4",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mati Turi",
+        "Profession": "Interprète",
+        "InterventionNote": "Mati Turi : Ténor",
+        "mop": "Ténor"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:18:56+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:23:40:00",
+      "ScheduledDuration": "00:03:58:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Lied des Balthasar (Acte II Jardin)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Lied des Balthasar (Acte II Jardin)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-5",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mati Turi",
+        "Profession": "Interprète",
+        "InterventionNote": "Mati Turi : Ténor",
+        "mop": "Ténor"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:23:40+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/e222c842-0a00-3837-bb25-c07bb7125080",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:27:38:00",
+      "ScheduledDuration": "00:05:56:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Gartenszene (Acte III Prélude)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Gartenszene (Acte III Prélude)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-6",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:27:38+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:33:34:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Intermezzo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Intermezzo",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-7",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:33:34+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:35:44:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Holzapfel und Schlehwein (Acte III Sc 2)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Holzapfel und Schlehwein (Acte III Sc 2)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-8",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:35:44+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:38:19:00",
+      "ScheduledDuration": "00:00:26:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Verhaftung (Acte III Fin)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Verhaftung (Acte III Fin)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-9",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:38:19+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:38:45:00",
+      "ScheduledDuration": "00:03:35:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Mädchen im Brautgemach (Acte IV Prélude)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Mädchen im Brautgemach (Acte IV Prélude)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-10",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:38:45+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:42:20:00",
+      "ScheduledDuration": "00:01:05:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Kirchenszene (Acte IV Sc 2)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Kirchenszene (Acte IV Sc 2)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-11",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:42:20+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/e222c842-0a00-3837-bb25-c07bb7125080",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:43:25:00",
+      "ScheduledDuration": "00:01:29:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Holzapfel und Schlehwein",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Holzapfel und Schlehwein",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-12",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:43:25+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:44:54:00",
+      "ScheduledDuration": "00:04:43:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Trauermusik (Acte V Prélude)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Trauermusik (Acte V Prélude)",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-13",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:44:54+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:49:37:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Intermezzo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Intermezzo",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-14",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:49:37+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:51:48:00",
+      "ScheduledDuration": "00:02:37:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Much ado about nothing op 11 : Schlusstanz",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Much ado about nothing op 11 : Schlusstanz",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1191-2D",
+      "ExternalID": "0761195119129-1-15",
+      "AlbumTitle": "Erich Wolgang Korngold : Much ado about nothing et Sinfonietta",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195119129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erich Wolfgang Korngold",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:51:48+02:00",
+      "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
+      "best": "http://data.doremus.org/expression/63a30614-de62-36a2-b644-8643556837b2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:54:31:00",
+      "ScheduledDuration": "00:03:38:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shakespeare songs : Orpheus with his lute - pour mezzo-soprano et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shakespeare songs : Orpheus with his lute - pour mezzo-soprano et piano",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "9038062",
+      "ExternalID": "RF00000043888-1-12",
+      "AlbumTitle": "Janet Baker interprète Parry Stanford Vaughan Williams et autres compositeurs / CD 18",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000043888",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arthur Sullivan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Janet Baker",
+          "Profession": "Interprète",
+          "InterventionNote": "Janet Baker : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Gerald Moore",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerald Moore : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T02:54:31+02:00",
+      "composer": "http://data.doremus.org/artist/9bc77229-e7ca-3a33-ae0b-1d5f705d5a7f"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:58:09:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lied von Shakespeare op 17 n°2 - pour voix de femmes 2 cors et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lied von Shakespeare op 17 n°2 - pour voix de femmes 2 cors et harpe",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC902239",
+      "ExternalID": "3149020223925-1-19",
+      "AlbumTitle": "Rheinmädchen",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020223925",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Pygmalion",
+          "Profession": "Interprète",
+          "InterventionNote": "Pygmalion"
+        },
+        {
+          "FullName": "Emmanuel Ceysson",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Ceysson : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Pygmalion",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Raphael Pichon",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-05-29T02:58:09+02:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d"
+    },
+    {
+      "id": "66",
+      "StepID": "66",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "02:59:49:00",
+      "ScheduledDuration": "00:02:37:00",
+      "NumPhase": 65,
+      "Inclusion": 0,
+      "NumEventCond": 66,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shakespeare songs (set 2) : It was a lover and his lass op 23 n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shakespeare songs (set 2) : It was a lover and his lass op 23 n°3",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "9038062",
+      "ExternalID": "RF00000043888-1-15",
+      "AlbumTitle": "Janet Baker interprète Parry Stanford Vaughan Williams et autres compositeurs / CD 18",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000043888",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Roger Quilter",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Janet Baker",
+          "Profession": "Interprète",
+          "InterventionNote": "Janet Baker : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Gerald Moore",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerald Moore : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T02:59:49+02:00",
+      "composer": "http://data.doremus.org/artist/3057a13d-2ac4-3739-aa12-e7850d51ca0f"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "03:02:26:00",
+      "ScheduledDuration": "00:01:43:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Shakespeare op 28 : Chanson d'Ophèlie - pour Baryton et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Shakespeare op 28 : Chanson d'Ophèlie - pour Baryton et piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA 67321/2",
+      "ExternalID": "0034571173214-2-19",
+      "AlbumTitle": "Ernest Chausson : Les mélodies",
+      "Rank": 19,
+      "NumVolume": 2,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571173214",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ernest Chausson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Chris Pedro Trakas",
+          "Profession": "Interprète",
+          "InterventionNote": "Chris Pedro Trakas : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Johnson Graham",
+          "Profession": "Interprète",
+          "InterventionNote": "Johnson Graham : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T03:02:26+02:00",
+      "composer": "http://data.doremus.org/artist/c15d6849-cfbc-368c-9c8b-3c564c3b8fcf",
+      "best": "http://data.doremus.org/expression/c2225d48-b10d-3c5c-9246-43b44f7ec857",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "68",
+      "StepID": "68",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "03:04:09:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 67,
+      "Inclusion": 0,
+      "NumEventCond": 68,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Shakespeare op 28 : Chanson d'amour - pour Baryton et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Shakespeare op 28 : Chanson d'amour - pour Baryton et piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA 67321/2",
+      "ExternalID": "0034571173214-2-18",
+      "AlbumTitle": "Ernest Chausson : Les mélodies",
+      "Rank": 18,
+      "NumVolume": 2,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571173214",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ernest Chausson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Chris Pedro Trakas",
+          "Profession": "Interprète",
+          "InterventionNote": "Chris Pedro Trakas : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Johnson Graham",
+          "Profession": "Interprète",
+          "InterventionNote": "Johnson Graham : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T03:04:09+02:00",
+      "composer": "http://data.doremus.org/artist/c15d6849-cfbc-368c-9c8b-3c564c3b8fcf",
+      "best": "http://data.doremus.org/expression/c2225d48-b10d-3c5c-9246-43b44f7ec857",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-05-29",
+      "ScheduledTime": "03:06:21:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Shakespeare op 28 : Chanson de clown - pour Baryton et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Shakespeare op 28 : Chanson de clown - pour Baryton et piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA 67321/2",
+      "ExternalID": "0034571173214-2-17",
+      "AlbumTitle": "Ernest Chausson : Les mélodies",
+      "Rank": 17,
+      "NumVolume": 2,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571173214",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ernest Chausson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Chris Pedro Trakas",
+          "Profession": "Interprète",
+          "InterventionNote": "Chris Pedro Trakas : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Johnson Graham",
+          "Profession": "Interprète",
+          "InterventionNote": "Johnson Graham : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-05-29T03:06:21+02:00",
+      "composer": "http://data.doremus.org/artist/c15d6849-cfbc-368c-9c8b-3c564c3b8fcf",
+      "best": "http://data.doremus.org/expression/c2225d48-b10d-3c5c-9246-43b44f7ec857",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 60,
+  "matched": 38
+}

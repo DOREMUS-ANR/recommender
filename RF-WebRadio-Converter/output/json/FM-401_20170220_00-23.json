@@ -1,0 +1,2213 @@
+{
+  "id": "FM-401_20170220_00-23",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:00:12:00",
+      "ScheduledDuration": "00:04:27:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°3 en ré min : Lustig im Tempo und keck im Ausdruck (vocal)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°3 en ré min : Lustig im Tempo und keck im Ausdruck (vocal)",
+      "Label": "BR KLASSIK",
+      "ReferenceLabel": "900149",
+      "ExternalID": "4035719001495-2-4",
+      "AlbumTitle": "Gustav Mahler : Symphonie n°3",
+      "Rank": 4,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4035719001495",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gerhild Romberger",
+        "Profession": "Interprète",
+        "InterventionNote": "Gerhild Romberger : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Bavaroise",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "Choeur De Femmes De La Radio Bavaroise",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Choeur D'Enfants De La Cathedrale D'Augsbourg",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Bernard Haitink",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:00:12+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/beb6049d-8cd4-3f0a-8485-c85abfab2323",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:04:39:00",
+      "ScheduledDuration": "00:02:33:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Capriccio pour piano en ré min op 116 n°7",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Capriccio pour piano en ré min op 116 n°7",
+      "Label": "PENTATONE",
+      "ReferenceLabel": "PTC5186568",
+      "ExternalID": "0827949056864-1-12",
+      "AlbumTitle": "Denis Kozhukhin interprète Brahms",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0827949056864",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denis Kozhukhin",
+        "Profession": "Interprète",
+        "InterventionNote": "Denis Kozhukhin : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T00:04:39+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/209a313d-3e18-3ff9-9c5a-2f3ea215b283",
+      "best_matching_score": "0.80"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:07:12:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ballade pour piano en si min op 10 n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ballade pour piano en si min op 10 n°3",
+      "Label": "PENTATONE",
+      "ReferenceLabel": "PTC5186568",
+      "ExternalID": "0827949056864-1-4",
+      "AlbumTitle": "Denis Kozhukhin interprète Brahms",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0827949056864",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Denis Kozhukhin",
+        "Profession": "Interprète",
+        "InterventionNote": "Denis Kozhukhin : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T00:07:12+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/6235bb55-43ea-38cd-b7f3-5b8a5452b7fb",
+      "best_matching_score": "0.77"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:11:33:00",
+      "ScheduledDuration": "00:04:23:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nocturne en ut dièse min op 19 n°4 - Version pour violoncelle et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nocturne en ut dièse min op 19 n°4 - Version pour violoncelle et orchestre",
+      "Label": "PENTATONE",
+      "ReferenceLabel": "PTC5186570",
+      "ExternalID": "0827949057069-1-15",
+      "AlbumTitle": "Johannes Moser interprète Elgar et Tchaikovsky",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0827949057069",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Johannes Moser",
+        "Profession": "Interprète",
+        "InterventionNote": "Johannes Moser : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Suisse Romande",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andrew Manze",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:11:33+01:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:16:02:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trio pour violon violoncelle et piano n°4 en mi min op 90 B 166 : Lento maestoso - Allegro quasi doppio movimento",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trio pour violon violoncelle et piano n°4 en mi min op 90 B 166 : Lento maestoso - Allegro quasi doppio movimento",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902248",
+      "ISRC": "FR-7JM-16-14010",
+      "ExternalID": "3149020224823-1-1",
+      "AlbumTitle": "Anton Dvorak : Trios pour piano op 65 et 90",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020224823",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Trio Wanderer",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:16:02+01:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e",
+      "best": "http://data.doremus.org/expression/70bdeb54-42c8-3806-9896-2fc8333d1544",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:19:49:00",
+      "ScheduledDuration": "00:06:05:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°8 en Sol Maj op 88 B 163 : Allegretto grazioso - Molto vivace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°8 en Sol Maj op 88 B 163 : Allegretto grazioso - Molto vivace",
+      "Label": "DECCA",
+      "ReferenceLabel": "4830744",
+      "ExternalID": "0028948307449-5-3",
+      "AlbumTitle": "Anton Dvorak : Intégrale des symphonies dirigée par Istvan Kertesz",
+      "Rank": 3,
+      "NumVolume": 5,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948307449",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Istvan Kertesz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:19:49+01:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e",
+      "best": "http://data.doremus.org/expression/61c4b433-f0e4-3661-927c-0a57cc764d47",
+      "best_matching_score": "0.98"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:25:54:00",
+      "ScheduledDuration": "00:07:46:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le prince Igor : Zdorov-li knjaz (Acte I) Air de Kontchak (Est-ce que tu vas bien prince)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le prince Igor : Zdorov-li knjaz (Acte I) Air de Kontchak (Est-ce que tu vas bien prince)",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "9 28034 2",
+      "ExternalID": "5099992803428-2-2",
+      "AlbumTitle": "Voices of Russian Opera / Voix de la tradition lyrique Russe",
+      "Rank": 2,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099992803428",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Borodine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Boris Christoff",
+        "Profession": "Interprète",
+        "InterventionNote": "Boris Christoff : Basse (voix), Kontchak",
+        "mop": "Basse (voix), Kontchak"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jerzy Semkov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:25:54+01:00",
+      "composer": "http://data.doremus.org/artist/65842a4d-bb30-3495-b0f7-84edf9a4c96d"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:33:44:00",
+      "ScheduledDuration": "00:07:27:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano n°2 en Fa Maj op 102 : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano n°2 en Fa Maj op 102 : Allegro",
+      "Label": "NAXOS",
+      "ReferenceLabel": "538248822",
+      "ExternalID": "0747313366675-1-6",
+      "AlbumTitle": "Dimitri Chostakovitch : Concertos pour piano n°1 et n°2",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313366675",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Boris Giltburg",
+        "Profession": "Interprète",
+        "InterventionNote": "Boris Giltburg : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Royal De Liverpool",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vasily Petrenko",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:33:44+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:41:11:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°16 en Fa Maj op 135 : Vivace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°16 en Fa Maj op 135 : Vivace",
+      "Label": "MDG",
+      "ReferenceLabel": "MDG 307 0820-2",
+      "ExternalID": "0760623082028-1-2",
+      "AlbumTitle": "Ludwig van Beethoven : Quatuor à cordes op 135 et op 131",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0760623082028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor De Leipzig",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor De Leipzig"
+        },
+        {
+          "FullName": "Andreas Seidel",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Seidel : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tilman Buning",
+          "Profession": "Interprète",
+          "InterventionNote": "Tilman Buning : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ivo Bauer",
+          "Profession": "Interprète",
+          "InterventionNote": "Ivo Bauer : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Matthias Moosdorf",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthias Moosdorf : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T00:41:11+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:44:33:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prélude en Fa Maj op 28 n°23",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prélude en Fa Maj op 28 n°23",
+      "Label": "CLAVES",
+      "ReferenceLabel": "50-1602",
+      "ExternalID": "7619931160221-1-23",
+      "AlbumTitle": "Cristian Budu : Chopin et Beethoven",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619931160221",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederic Chopin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Cristian Budu",
+        "Profession": "Interprète",
+        "InterventionNote": "Cristian Budu : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T00:44:33+01:00",
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "best": "http://data.doremus.org/expression/83c47dd3-4815-3c5e-be94-16b159e89bd7",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:45:36:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prélude en ré min op 28 n°24",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prélude en ré min op 28 n°24",
+      "Label": "CLAVES",
+      "ReferenceLabel": "50-1602",
+      "ExternalID": "7619931160221-1-24",
+      "AlbumTitle": "Cristian Budu : Chopin et Beethoven",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619931160221",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederic Chopin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Cristian Budu",
+        "Profession": "Interprète",
+        "InterventionNote": "Cristian Budu : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T00:45:36+01:00",
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "best": "http://data.doremus.org/expression/c9a35bb4-0bfa-3309-9d7a-0f24290f282a",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:48:18:00",
+      "ScheduledDuration": "00:05:42:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour violon n°28 en mi min K 304 : Tempo di menuetto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour violon n°28 en mi min K 304 : Tempo di menuetto",
+      "Label": "CLAVES",
+      "ReferenceLabel": "50-1701",
+      "ExternalID": "7619931170121-1-4",
+      "AlbumTitle": "Mozart et Poulenc : Oeuvres pour violon et piano",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619931170121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Esther Hoppe",
+          "Profession": "Interprète",
+          "InterventionNote": "Esther Hoppe : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Alasdair Beatson",
+          "Profession": "Interprète",
+          "InterventionNote": "Alasdair Beatson : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T00:48:18+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/cd03eb74-1e98-380f-a860-4037eab0dd06",
+      "best_matching_score": "0.79"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "00:54:11:00",
+      "ScheduledDuration": "00:06:49:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour harpe en Ut Maj : Rondeau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour harpe en Ut Maj : Rondeau",
+      "Label": "CLAVES",
+      "ReferenceLabel": "CD501613",
+      "ExternalID": "7619931161327-1-8",
+      "AlbumTitle": "Ginastera Debussy et Boieldieu : Oeuvres pour harpe et orchestre",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619931161327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Adrien Boieldieu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anais Gaudemard",
+        "Profession": "Interprète",
+        "InterventionNote": "Anais Gaudemard : Harpe",
+        "mop": "Harpe"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Opera De Rouen Normandie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leo Hussain",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T00:54:11+01:00",
+      "composer": "http://data.doremus.org/artist/8d7cdfa3-7e61-3e29-90c8-92249e5541bf"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:01:00:00",
+      "ScheduledDuration": "00:04:15:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Sol Maj RV 532 P 133 : Andante - version pour 2 guitares cordes et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Sol Maj RV 532 P 133 : Andante - version pour 2 guitares cordes et basse continue",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985342182",
+      "ExternalID": "0889853421824-1-11",
+      "AlbumTitle": "The Vivaldi album",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853421824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Antonio Vivaldi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Thibault Cauvin",
+          "Profession": "Interprète",
+          "InterventionNote": "Thibault Cauvin : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Yang Xuefei",
+          "Profession": "Interprète",
+          "InterventionNote": "Yang Xuefei : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Julien Masmondet",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:01:00+01:00",
+      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:05:15:00",
+      "ScheduledDuration": "00:09:29:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Madrigaux Livre VII : Tirsi e Clori SV 145",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Madrigaux Livre VII : Tirsi e Clori SV 145",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "5278DI",
+      "ISRC": "FR-7JM-16-01707",
+      "ExternalID": "3149020925706-1-7",
+      "AlbumTitle": "Monteverdi: Madrigali / Vol 3 : Venezia",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020925706",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claudio Monteverdi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Mhairi Lawson",
+          "Profession": "Interprète",
+          "InterventionNote": "Mhairi Lawson : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Miriam Allan",
+          "Profession": "Interprète",
+          "InterventionNote": "Miriam Allan : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Contralto",
+          "mop": "Contralto"
+        },
+        {
+          "FullName": "Paul Agnew",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Agnew : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Zachary Wilder",
+          "Profession": "Interprète",
+          "InterventionNote": "Zachary Wilder : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Lisandro Abadie",
+          "Profession": "Interprète",
+          "InterventionNote": "Lisandro Abadie : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Les Arts Florissants",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paul Agnew",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:05:15+01:00",
+      "composer": "http://data.doremus.org/artist/b0ae695c-4198-39f2-a615-9098899d59b3",
+      "best": "http://data.doremus.org/expression/4e0c7437-5e23-3ed6-993d-141608384c34",
+      "best_matching_score": "0.84"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:14:53:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantigas de Santa Maria : Santa Maria strela do dia - pour solistes choeur et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantigas de Santa Maria : Santa Maria strela do dia - pour solistes choeur et orchestre",
+      "Label": "ALPHA",
+      "ReferenceLabel": "136888",
+      "ISRC": "FR-50X-16-26101",
+      "ExternalID": "3760014192616-1-1",
+      "AlbumTitle": "Azahar",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192616",
+      "EditorialComment": "Import iRF [[ Fournisseur=idol ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alphonse X Le Sage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Claire Lefilliatre",
+          "Profession": "Interprète",
+          "InterventionNote": "Claire Lefilliatre : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Anna Reinhold",
+          "Profession": "Interprète",
+          "InterventionNote": "Anna Reinhold : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Francisco Manalich",
+          "Profession": "Interprète",
+          "InterventionNote": "Francisco Manalich : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Lisandro Abadie",
+          "Profession": "Interprète",
+          "InterventionNote": "Lisandro Abadie : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "La Tempete",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "La Tempetre",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Pierre Bestion",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:14:53+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:17:07:00",
+      "ScheduledDuration": "00:01:37:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Tsar Saltan : Le Vol du bourdon - arrangement pour orgue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Tsar Saltan : Le Vol du bourdon - arrangement pour orgue",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295888503",
+      "ExternalID": "0190295888503-1-8",
+      "AlbumTitle": "Voyages",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295888503",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Leonce De Saint Martin",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Leonce De Saint Martin : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Olivier Latry",
+        "Profession": "Interprète",
+        "InterventionNote": "Olivier Latry : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-02-20T01:17:07+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:18:44:00",
+      "ScheduledDuration": "00:05:17:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Thaïs : Méditation (Acte II) - arrangement pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Thaïs : Méditation (Acte II) - arrangement pour piano",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0190295908485",
+      "ExternalID": "0190295908485-1-8",
+      "AlbumTitle": "Saint-Saëns Ravel et Gershwin : Concertos pour piano",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295908485",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jules Massenet",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Andrew Von Oeyen",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Andrew Von Oeyen : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Andrew Von Oeyen",
+        "Profession": "Interprète",
+        "InterventionNote": "Andrew Von Oeyen : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T01:18:44+01:00",
+      "composer": "http://data.doremus.org/artist/bb190de9-54d7-3e08-8ec0-d02fc701573f",
+      "best": "http://data.doremus.org/expression/6989cea2-160b-3e57-b519-2c68ddea5215",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:24:01:00",
+      "ScheduledDuration": "00:10:48:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°4 en Sol Maj : Sehr behaglich (Das himmlische Leben)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°4 en Sol Maj : Sehr behaglich (Das himmlische Leben)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985381362-09",
+      "ExternalID": "RF00000058105-1-16",
+      "AlbumTitle": "Kathleen Battle : The complete Sony recordings / CD 9",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000058105",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kathleen Battle",
+        "Profession": "Interprète",
+        "InterventionNote": "Kathleen Battle : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lorin Maazel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:24:01+01:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/8eb7c14d-1c07-350b-904f-56eca878d467",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:34:52:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gianni Schicchi : O mio babbino caro (Air de Lauretta)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gianni Schicchi : O mio babbino caro (Air de Lauretta)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985381362-09",
+      "ExternalID": "RF00000058105-1-1",
+      "AlbumTitle": "Kathleen Battle : The complete Sony recordings / CD 9",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000058105",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giacomo Puccini",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Kathleen Battle",
+          "Profession": "Interprète",
+          "InterventionNote": "Kathleen Battle : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ken Noda",
+          "Profession": "Interprète",
+          "InterventionNote": "Ken Noda : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T01:34:52+01:00",
+      "composer": "http://data.doremus.org/artist/5bcd515f-354f-30f8-ae0a-c42b65536d9f",
+      "best": "http://data.doremus.org/expression/11e3014e-c5b2-31a4-80c4-cf27fa835976",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:37:23:00",
+      "ScheduledDuration": "00:03:19:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Danses et airs antiques : Suite n°3 : Italiana",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Danses et airs antiques : Suite n°3 : Italiana",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "420485 -2",
+      "ExternalID": "0028942048522-1-1",
+      "AlbumTitle": "Ottorino Respighi : Oeuvres symphoniques",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028942048522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of St Martin In The Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:37:23+01:00",
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:40:42:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Danses et airs antiques : Suite n°3 : Siciliana",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Danses et airs antiques : Suite n°3 : Siciliana",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "420485 -2",
+      "ExternalID": "0028942048522-1-3",
+      "AlbumTitle": "Ottorino Respighi : Oeuvres symphoniques",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028942048522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of St Martin In The Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:40:42+01:00",
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:43:49:00",
+      "ScheduledDuration": "00:05:33:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°4 en fa min op 36 : Scherzo : Pizzicato ostinato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°4 en fa min op 36 : Scherzo : Pizzicato ostinato",
+      "Label": "MARIINSKY",
+      "ReferenceLabel": "MAR0593",
+      "ExternalID": "0822231859321-2-10",
+      "AlbumTitle": "Tchaikovsky : Casse-Noisette et Symphonie n°4",
+      "Rank": 10,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231859321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Theatre Mariinsky",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Valery Gergiev",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:43:49+01:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:49:31:00",
+      "ScheduledDuration": "00:06:34:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour violoncelle et piano n°1 en Fa Maj op 5 n°1 : 2. Rondo : Allegro vivace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour violoncelle et piano n°1 en Fa Maj op 5 n°1 : 2. Rondo : Allegro vivace",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985406832",
+      "ExternalID": "0889854068325-1-2",
+      "AlbumTitle": "Beethoven : Intégrale des Sonates pour violoncelle et piano",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889854068325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Francois Salque",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Salque : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Eric Le Sage",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Le Sage : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T01:49:31+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:56:05:00",
+      "ScheduledDuration": "00:03:50:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Widmung S 566 - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Widmung S 566 - pour piano",
+      "Label": "LA DOLCE VOLTA",
+      "ReferenceLabel": "LDV30",
+      "ISRC": "FR-3Z5-16-00131",
+      "ExternalID": "3770001902272-1-12",
+      "AlbumTitle": "Schumann : Fantasie et Kreisleriana",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770001902272",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Robert Schumann",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Franz Liszt",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Jean-Philippe Collard",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean-Philippe Collard : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T01:56:05+01:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "01:59:55:00",
+      "ScheduledDuration": "00:07:09:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantate BWV 53 : Schlage doch gewünschte Stunde - pour contre-ténor cordes cloches et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantate BWV 53 : Schlage doch gewünschte Stunde - pour contre-ténor cordes cloches et basse continue",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS2181",
+      "ExternalID": "7318599921815-1-11",
+      "AlbumTitle": "Jean-Sébastien Bach : Cantates profanes",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Masaaki Suzuki",
+          "Profession": "Interprète",
+          "InterventionNote": "Masaaki Suzuki : Cloches",
+          "mop": "Cloches"
+        },
+        {
+          "FullName": "Masato Suzuki",
+          "Profession": "Interprète",
+          "InterventionNote": "Masato Suzuki : Cloches",
+          "mop": "Cloches"
+        },
+        {
+          "FullName": "Robin Blaze",
+          "Profession": "Interprète",
+          "InterventionNote": "Robin Blaze : Contre-ténor",
+          "mop": "Contre-ténor"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Bach Collegium Du Japon",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Bach Collegium Du Japon",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Masaaki Suzuki",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T01:59:55+01:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:07:08:00",
+      "ScheduledDuration": "00:03:45:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°2 en La Maj BWV 1015 : Andante - pour violon et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°2 en La Maj BWV 1015 : Andante - pour violon et clavecin",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295930448/18",
+      "ExternalID": "RF00000057727-1-18",
+      "AlbumTitle": "Zuzana Ruzickova : Bach the complete keyboard works / CD 18",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000057727",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Zuzana Ruzickova",
+          "Profession": "Interprète",
+          "InterventionNote": "Zuzana Ruzickova : Clavecin",
+          "mop": "Clavecin"
+        },
+        {
+          "FullName": "Josef Suk",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Suk : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T02:07:08+01:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/dd4e77a1-c98a-3f66-a70c-085030232b5d",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:10:53:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Messe en si min BWV 232 : Dona nobis pacem (Choeur)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Messe en si min BWV 232 : Dona nobis pacem (Choeur)",
+      "Label": "BR KLASSIK",
+      "ReferenceLabel": "900513-06-07",
+      "ExternalID": "RF00000056454-2-17",
+      "AlbumTitle": "Jean Sébastien Bach : Messe en si min BWV 232",
+      "Rank": 17,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056454",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Concerto Koln",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Radio Bavaroise",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Dijkstra",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:10:53+01:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/ab955e2d-3981-36ff-92b5-51cfdb56d64b",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:13:57:00",
+      "ScheduledDuration": "00:04:56:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour piano n°62 en Mi bémol Maj HOB XVI : 52 : Finale : Presto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour piano n°62 en Mi bémol Maj HOB XVI : 52 : Finale : Presto",
+      "Label": "RCA",
+      "ReferenceLabel": "88985301502-05",
+      "ExternalID": "RF00000057516-1-3",
+      "AlbumTitle": "Alexis Weissenberg : The complete RCA album collection / Cd 5",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000057516",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Alexis Weissenberg",
+        "Profession": "Interprète",
+        "InterventionNote": "Alexis Weissenberg : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T02:13:57+01:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/2f770fc1-c9e1-3c36-a4c5-13980eb55521",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:18:53:00",
+      "ScheduledDuration": "00:09:33:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie écossaise op 46 : Finale : Allegro guerriero - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie écossaise op 46 : Finale : Allegro guerriero - pour violon et orchestre",
+      "Label": "DGG",
+      "ReferenceLabel": "479 6805",
+      "ExternalID": "RF00000058307-1-4",
+      "AlbumTitle": "The David Oistrakh Edition / CD 16",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1962-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000058307",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Max Bruch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "David Oistrakh",
+        "Profession": "Interprète",
+        "InterventionNote": "David Oistrakh : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jascha Horenstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:18:53+01:00",
+      "composer": "http://data.doremus.org/artist/5cfa483a-c509-3e82-a96a-4d2b90bc13c8",
+      "best": "http://data.doremus.org/expression/f4500d29-24f1-3d77-8732-e5e29e0dadcd",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:28:37:00",
+      "ScheduledDuration": "00:04:20:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le songe d'une nuit d'été op 61 : Allegro appassionato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le songe d'une nuit d'été op 61 : Allegro appassionato",
+      "Label": "LSO",
+      "ReferenceLabel": "LSO0795",
+      "ExternalID": "0822231179528-1-8",
+      "AlbumTitle": "Felix Mendelssohn :Le songe d'une nuit d'été",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231179528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Felix Mendelssohn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ceri-Lyn Cissone",
+          "Profession": "Interprète",
+          "InterventionNote": "Ceri-Lyn Cissone"
+        },
+        {
+          "FullName": "Alexander Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Knox"
+        },
+        {
+          "FullName": "Frankie Wakefield",
+          "Profession": "Interprète",
+          "InterventionNote": "Frankie Wakefield"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Eliot Gardiner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:28:37+01:00",
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:32:57:00",
+      "ScheduledDuration": "00:06:12:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le songe d'une nuit d'été op 61 : Nocturne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le songe d'une nuit d'été op 61 : Nocturne",
+      "Label": "LSO",
+      "ReferenceLabel": "LSO0795",
+      "ExternalID": "0822231179528-1-9",
+      "AlbumTitle": "Felix Mendelssohn :Le songe d'une nuit d'été",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231179528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Felix Mendelssohn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Eliot Gardiner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:32:57+01:00",
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:39:09:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite 1922 pour piano op 26 : Ragtime",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite 1922 pour piano op 26 : Ragtime",
+      "Label": "PASSAVANT",
+      "ReferenceLabel": "PAS116190",
+      "ExternalID": "3770002366127-1-8",
+      "AlbumTitle": "Paul Hindemith : Oeuvres pour piano",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770002366127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Hindemith",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Montag",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Montag : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T02:39:09+01:00",
+      "composer": "http://data.doremus.org/artist/ce41b86a-08bc-3ddf-8e82-b5ba0a723836",
+      "best": "http://data.doremus.org/expression/8caea669-6220-32eb-b085-041bc553ad87",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:41:30:00",
+      "ScheduledDuration": "00:03:06:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Duo pour violon et violoncelle : Zingaresca",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Duo pour violon et violoncelle : Zingaresca",
+      "Label": "ORFEO",
+      "ReferenceLabel": "C902161A",
+      "ExternalID": "4011790902128-1-5",
+      "AlbumTitle": "Julia Fischer et Daniel Müller-Schott : Duo sessions",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4011790902128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erwin Schulhoff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Julia Fischer",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Fischer : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Daniel Muller Schott",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Muller Schott : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T02:41:30+01:00",
+      "composer": "http://data.doremus.org/artist/bbd4ff6f-5d2c-388d-b321-e46c947633a4"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:44:36:00",
+      "ScheduledDuration": "00:05:59:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaille arrangement pour violon et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaille arrangement pour violon et violoncelle",
+      "Label": "ORFEO",
+      "ReferenceLabel": "C902161A",
+      "ExternalID": "4011790902128-1-12",
+      "AlbumTitle": "Julia Fischer et Daniel Müller-Schott : Duo sessions",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4011790902128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johan Halvorsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Julia Fischer",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Fischer : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Daniel Muller Schott",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Muller Schott : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T02:44:36+01:00",
+      "composer": "http://data.doremus.org/artist/9b38007d-a65b-3d4c-a0b3-fae58c9ca0fe"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:50:40:00",
+      "ScheduledDuration": "00:02:41:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Messie : Why do the nations so furiously rage together (2ème partie) Air de basse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Messie : Why do the nations so furiously rage together (2ème partie) Air de basse",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901498/99",
+      "ExternalID": "3149025062956-2-10",
+      "AlbumTitle": "Georg Friedrich Haendel : Le Messie (intégrale) - Christie",
+      "Rank": 10,
+      "NumVolume": 2,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025062956",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Nathan Berg",
+        "Profession": "Interprète",
+        "InterventionNote": "Nathan Berg : Basse (voix)",
+        "mop": "Basse (voix)"
+      },
+      "Orchestra": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "William Christie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:50:40+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/57dbb9b5-68cf-3124-a988-9c07e904d863",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:53:21:00",
+      "ScheduledDuration": "00:01:47:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Messie : Let us break their bonds asunder (2ème partie) Choeur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Messie : Let us break their bonds asunder (2ème partie) Choeur",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901498/99",
+      "ExternalID": "3149025062956-2-11",
+      "AlbumTitle": "Georg Friedrich Haendel : Le Messie (intégrale) - Christie",
+      "Rank": 11,
+      "NumVolume": 2,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025062956",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "William Christie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:53:21+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/57dbb9b5-68cf-3124-a988-9c07e904d863",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:55:08:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Messie : He that dwelleth in heaven (2ème partie) Récitatif de ténor / Thou shalt break them (2ème partie) Air de ténor",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Messie : He that dwelleth in heaven (2ème partie) Récitatif de ténor / Thou shalt break them (2ème partie) Air de ténor",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901498/99",
+      "ExternalID": "3149025062956-2-12",
+      "AlbumTitle": "Georg Friedrich Haendel : Le Messie (intégrale) - Christie",
+      "Rank": 12,
+      "NumVolume": 2,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025062956",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mark Padmore",
+        "Profession": "Interprète",
+        "InterventionNote": "Mark Padmore : Ténor",
+        "mop": "Ténor"
+      },
+      "Orchestra": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "William Christie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:55:08+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/57dbb9b5-68cf-3124-a988-9c07e904d863",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "02:57:25:00",
+      "ScheduledDuration": "00:03:35:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Messie : Hallelujah / Alleluia (2ème partie) Choeur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Messie : Hallelujah / Alleluia (2ème partie) Choeur",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901498/99",
+      "ExternalID": "3149025062956-2-13",
+      "AlbumTitle": "Georg Friedrich Haendel : Le Messie (intégrale) - Christie",
+      "Rank": 13,
+      "NumVolume": 2,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025062956",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "William Christie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T02:57:25+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/57dbb9b5-68cf-3124-a988-9c07e904d863",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 39,
+  "matched": 21
+}

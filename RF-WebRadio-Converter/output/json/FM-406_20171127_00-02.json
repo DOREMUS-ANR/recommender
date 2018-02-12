@@ -1,0 +1,1324 @@
+{
+  "id": "FM-406_20171127_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "00:00:40:00",
+      "ScheduledDuration": "00:11:40:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The Hands of Caravaggio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The Hands of Caravaggio",
+      "Label": "ERSTWHILE RECORDS",
+      "ReferenceLabel": "ERST021",
+      "ExternalID": "RF00000004022-1-5",
+      "AlbumTitle": "The hands of caravaggio",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004022",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Mimeo",
+          "Profession": "Interprète",
+          "InterventionNote": "Mimeo"
+        },
+        {
+          "FullName": "John Tilbury",
+          "Profession": "Interprète",
+          "InterventionNote": "John Tilbury : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T00:00:40+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "00:12:23:00",
+      "ScheduledDuration": "00:17:46:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mémoire / Erosion pour cor et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mémoire / Erosion pour cor et ensemble instrumental",
+      "Label": "ACCORD",
+      "ReferenceLabel": "ACCD 202122",
+      "ExternalID": "3229262021227-1-1",
+      "AlbumTitle": "Tristan murail : Mémoire/ Erosion - ethers - c'est un jardin secret...",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262021227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Alain Noel",
+        "Profession": "Interprète",
+        "InterventionNote": "Alain Noel : Cor",
+        "mop": "Cor"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble L'Itineraire",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Charles Bruck",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T00:12:23+01:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "00:30:54:00",
+      "ScheduledDuration": "00:11:13:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La mécanique et les agents de l'érosion",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La mécanique et les agents de l'érosion",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER73382",
+      "ExternalID": "4010228733822-1-4",
+      "AlbumTitle": "Georg Katzer : Les paysages fleurissants",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228733822",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Katzer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-11-27T00:30:54+01:00",
+      "composer": "http://data.doremus.org/artist/cb891fcb-1dfd-3699-96d8-d77827b536d8"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "00:42:18:00",
+      "ScheduledDuration": "00:04:40:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Une esquisse de paysage imaginaire (1)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Une esquisse de paysage imaginaire (1)",
+      "Label": "SIGNATURE",
+      "ReferenceLabel": "SIG 11007",
+      "ExternalID": "0794881632428-1-4",
+      "AlbumTitle": "Dans le souffle des ombres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881632428",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Dominique Vasseur",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominique Vasseur"
+      },
+      "ScheduledDateTime": "2017-11-27T00:42:18+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "00:46:58:00",
+      "ScheduledDuration": "00:03:32:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Une esquisse de paysage imaginaire (2)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Une esquisse de paysage imaginaire (2)",
+      "Label": "SIGNATURE",
+      "ReferenceLabel": "SIG 11007",
+      "ExternalID": "0794881632428-1-9",
+      "AlbumTitle": "Dans le souffle des ombres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881632428",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Dominique Vasseur",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominique Vasseur"
+      },
+      "ScheduledDateTime": "2017-11-27T00:46:58+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "00:51:14:00",
+      "ScheduledDuration": "00:12:25:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonvexxon - Erosion 5 - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonvexxon - Erosion 5 - pour orchestre",
+      "Label": "COL LEGNO",
+      "ReferenceLabel": "WWE 1CD 20082",
+      "ExternalID": "4099702008229-1-3",
+      "AlbumTitle": "Musica Viva 02 : Mundry Birkenkotter Koch Neuwirth",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4099702008229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henry Koch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Bavaroise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jan Krenz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T00:51:14+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:03:43:00",
+      "ScheduledDuration": "00:03:52:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "Label": "BLUE CHOPSTICKS",
+      "ReferenceLabel": "BC16",
+      "ExternalID": "0781484701620-1-1",
+      "AlbumTitle": "Ferrari Luc / Far-West news / Episodes 2 & 3 / 1998-1999",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0781484701620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luc Ferrari",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dan Warburton",
+          "Profession": "Interprète",
+          "InterventionNote": "Dan Warburton : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Gerard Pape",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerard Pape : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Stephane Kim",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Kim : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:03:43+01:00",
+      "composer": "http://data.doremus.org/artist/a8e53835-c5ae-32cb-84cf-db159a2931f6",
+      "best": "http://data.doremus.org/expression/15c89bac-a3ee-345b-989a-dfac5e0ef98f",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:07:35:00",
+      "ScheduledDuration": "00:08:11:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "Label": "BLUE CHOPSTICKS",
+      "ReferenceLabel": "BC16",
+      "ExternalID": "0781484701620-1-2",
+      "AlbumTitle": "Ferrari Luc / Far-West news / Episodes 2 & 3 / 1998-1999",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0781484701620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luc Ferrari",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dan Warburton",
+          "Profession": "Interprète",
+          "InterventionNote": "Dan Warburton : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Gerard Pape",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerard Pape : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Stephane Kim",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Kim : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:07:35+01:00",
+      "composer": "http://data.doremus.org/artist/a8e53835-c5ae-32cb-84cf-db159a2931f6",
+      "best": "http://data.doremus.org/expression/15c89bac-a3ee-345b-989a-dfac5e0ef98f",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:15:46:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "Label": "BLUE CHOPSTICKS",
+      "ReferenceLabel": "BC16",
+      "ExternalID": "0781484701620-1-3",
+      "AlbumTitle": "Ferrari Luc / Far-West news / Episodes 2 & 3 / 1998-1999",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0781484701620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luc Ferrari",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dan Warburton",
+          "Profession": "Interprète",
+          "InterventionNote": "Dan Warburton : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Gerard Pape",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerard Pape : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Stephane Kim",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Kim : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:15:46+01:00",
+      "composer": "http://data.doremus.org/artist/a8e53835-c5ae-32cb-84cf-db159a2931f6",
+      "best": "http://data.doremus.org/expression/15c89bac-a3ee-345b-989a-dfac5e0ef98f",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:20:18:00",
+      "ScheduledDuration": "00:06:31:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Far-West news episode n°2 : Plage non titree / Piece radiophonique / Paysage sonore",
+      "Label": "BLUE CHOPSTICKS",
+      "ReferenceLabel": "BC16",
+      "ExternalID": "0781484701620-1-4",
+      "AlbumTitle": "Ferrari Luc / Far-West news / Episodes 2 & 3 / 1998-1999",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0781484701620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luc Ferrari",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dan Warburton",
+          "Profession": "Interprète",
+          "InterventionNote": "Dan Warburton : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Gerard Pape",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerard Pape : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Stephane Kim",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Kim : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:20:18+01:00",
+      "composer": "http://data.doremus.org/artist/a8e53835-c5ae-32cb-84cf-db159a2931f6",
+      "best": "http://data.doremus.org/expression/15c89bac-a3ee-345b-989a-dfac5e0ef98f",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:27:35:00",
+      "ScheduledDuration": "00:12:02:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Holzwege kronos - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Holzwege kronos - pour quatuor à cordes",
+      "Label": "EDITION MODERN",
+      "ReferenceLabel": "ED.MN.1008",
+      "ExternalID": "RF00000018721-1-3",
+      "AlbumTitle": "Ana Maria Avram et Iancu Dumitrescu : Musique de chambre et musique electroacoustique",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000018721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Iancu Dumitrescu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quatuor Ioan Marius Lacraru",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Ioan Marius Lacraru"
+      },
+      "ScheduledDateTime": "2017-11-27T01:27:35+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:39:46:00",
+      "ScheduledDuration": "00:03:42:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les enormes et pourtant invisibles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les enormes et pourtant invisibles",
+      "Label": "MADE TO MEASURE",
+      "ReferenceLabel": "MTM 16 CD",
+      "ExternalID": "RF00000032556-1-2",
+      "AlbumTitle": "A propos d'un paysage",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032556",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Benjamin Lew",
+          "Profession": "Interprète",
+          "InterventionNote": "Benjamin Lew : Synthétiseur",
+          "mop": "Synthétiseur"
+        },
+        {
+          "FullName": "Steven Brown",
+          "Profession": "Interprète",
+          "InterventionNote": "Steven Brown"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:39:46+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:43:28:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Face a ce qui se derobe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Face a ce qui se derobe",
+      "Label": "MADE TO MEASURE",
+      "ReferenceLabel": "MTM 16 CD",
+      "ExternalID": "RF00000032556-1-8",
+      "AlbumTitle": "A propos d'un paysage",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032556",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Benjamin Lew",
+          "Profession": "Interprète",
+          "InterventionNote": "Benjamin Lew : Synthétiseur",
+          "mop": "Synthétiseur"
+        },
+        {
+          "FullName": "Steven Brown",
+          "Profession": "Interprète",
+          "InterventionNote": "Steven Brown"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:43:28+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:47:28:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Etendue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Etendue",
+      "Label": "MADE TO MEASURE",
+      "ReferenceLabel": "MTM 16 CD",
+      "ExternalID": "RF00000032556-1-11",
+      "AlbumTitle": "A propos d'un paysage",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032556",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Benjamin Lew",
+          "Profession": "Interprète",
+          "InterventionNote": "Benjamin Lew : Synthétiseur",
+          "mop": "Synthétiseur"
+        },
+        {
+          "FullName": "Steven Brown",
+          "Profession": "Interprète",
+          "InterventionNote": "Steven Brown"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-27T01:47:28+01:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:52:39:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The encompassing",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The encompassing",
+      "Label": "CORPUS HERMETICUM",
+      "ReferenceLabel": "HERMES 014",
+      "ExternalID": "RF00000011726-1-7",
+      "AlbumTitle": "Le Jazz Non",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000011726",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Omit",
+        "Profession": "Interprète",
+        "InterventionNote": "Omit"
+      },
+      "ScheduledDateTime": "2017-11-27T01:52:39+01:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "01:57:18:00",
+      "ScheduledDuration": "00:09:45:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les saisons (intégrale) : paysage blanc - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les saisons (intégrale) : paysage blanc - pour piano",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6734 2",
+      "ExternalID": "4010228673425-1-1",
+      "AlbumTitle": "Peteris Vasks : Les saisons",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228673425",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peteris Vasks",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Vestard Shimkus",
+        "Profession": "Interprète",
+        "InterventionNote": "Vestard Shimkus : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-11-27T01:57:18+01:00",
+      "composer": "http://data.doremus.org/artist/6fa4a6d9-40af-3e76-97b1-2fe114399891"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:07:03:00",
+      "ScheduledDuration": "00:08:18:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les saisons (intégrale) : paysage vert - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les saisons (intégrale) : paysage vert - pour piano",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6734 2",
+      "ExternalID": "4010228673425-1-3",
+      "AlbumTitle": "Peteris Vasks : Les saisons",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228673425",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peteris Vasks",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Vestard Shimkus",
+        "Profession": "Interprète",
+        "InterventionNote": "Vestard Shimkus : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-11-27T02:07:03+01:00",
+      "composer": "http://data.doremus.org/artist/6fa4a6d9-40af-3e76-97b1-2fe114399891"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:16:38:00",
+      "ScheduledDuration": "00:02:33:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Landschaften : pour grand orchestre / enregistrements de 1975 et 1976 : Paysage I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Landschaften : pour grand orchestre / enregistrements de 1975 et 1976 : Paysage I",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 73512 2",
+      "ExternalID": "0743217351229-1-4",
+      "AlbumTitle": "Allemagne/20e s./klangkomposition/vol.1",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743217351229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Friedrich Schenker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Kegel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T02:16:38+01:00",
+      "composer": "http://data.doremus.org/artist/ba860fea-af7c-344f-ac4b-3bb75807d07e"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:19:11:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Landschaften : Pour grand orchestre / enregistrements de 1975 et 1976 : Paysage II",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Landschaften : Pour grand orchestre / enregistrements de 1975 et 1976 : Paysage II",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 73512 2",
+      "ExternalID": "0743217351229-1-5",
+      "AlbumTitle": "Allemagne/20e s./klangkomposition/vol.1",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743217351229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Friedrich Schenker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Kegel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T02:19:11+01:00",
+      "composer": "http://data.doremus.org/artist/ba860fea-af7c-344f-ac4b-3bb75807d07e"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:21:12:00",
+      "ScheduledDuration": "00:03:24:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Landschaften : Pour grand orchestre / enregistrements de 1975 et 1976 : Paysage III",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Landschaften : Pour grand orchestre / enregistrements de 1975 et 1976 : Paysage III",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 73512 2",
+      "ExternalID": "0743217351229-1-6",
+      "AlbumTitle": "Allemagne/20e s./klangkomposition/vol.1",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743217351229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Friedrich Schenker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Kegel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T02:21:12+01:00",
+      "composer": "http://data.doremus.org/artist/ba860fea-af7c-344f-ac4b-3bb75807d07e"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:24:36:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Landschaften : Pour grand orchestre / enregistrements de 1975 et 1976 : Paysage IV",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Landschaften : Pour grand orchestre / enregistrements de 1975 et 1976 : Paysage IV",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 73512 2",
+      "ExternalID": "0743217351229-1-7",
+      "AlbumTitle": "Allemagne/20e s./klangkomposition/vol.1",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743217351229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Friedrich Schenker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herbert Kegel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T02:24:36+01:00",
+      "composer": "http://data.doremus.org/artist/ba860fea-af7c-344f-ac4b-3bb75807d07e"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:29:06:00",
+      "ScheduledDuration": "00:27:10:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Estratos / Pour percussions et instruments a vent aymara / En forme de paysage sonore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Estratos / Pour percussions et instruments a vent aymara / En forme de paysage sonore",
+      "Label": "COL LEGNO",
+      "ReferenceLabel": "WWE 2CD 20075",
+      "ExternalID": "5099702007528-2-1",
+      "AlbumTitle": "Festival de musique de Donaueschingen 1999",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099702007528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tato Taborda",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Experimental D'Instruments Originaires De La Paz",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Cergio Prudencio",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T02:29:06+01:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "02:56:46:00",
+      "ScheduledDuration": "00:09:42:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In a Landscape - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In a Landscape - pour piano",
+      "Label": "ECM NEW SERIES",
+      "ReferenceLabel": "4811796",
+      "ExternalID": "RF00000049354-1-10",
+      "AlbumTitle": "Rothko Chapel",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000049354",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sarah Rothenberg",
+        "Profession": "Interprète",
+        "InterventionNote": "Sarah Rothenberg : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-11-27T02:56:46+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/eabd002a-7b81-3c29-915a-94df8b2b11bc",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "03:07:10:00",
+      "ScheduledDuration": "00:06:54:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poemes pour mi version pour soprano et orchestre : Action de graces",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poemes pour mi version pour soprano et orchestre : Action de graces",
+      "Label": "DEUTSCHE GRAMOPHON",
+      "ReferenceLabel": "453478-2",
+      "ExternalID": "0028945347820-1-1",
+      "AlbumTitle": "Olivier Messiaen : Poemes pour mi sept haikai et reveil des oiseaux",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945347820",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Olivier Messiaen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francoise Pollet",
+        "Profession": "Interprète",
+        "InterventionNote": "Francoise Pollet : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T03:07:10+01:00",
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "03:14:04:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poemes pour mi version pour soprano et orchestre : Paysage",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poemes pour mi version pour soprano et orchestre : Paysage",
+      "Label": "DEUTSCHE GRAMOPHON",
+      "ReferenceLabel": "453478-2",
+      "ExternalID": "0028945347820-1-2",
+      "AlbumTitle": "Olivier Messiaen : Poemes pour mi sept haikai et reveil des oiseaux",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945347820",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Olivier Messiaen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francoise Pollet",
+        "Profession": "Interprète",
+        "InterventionNote": "Francoise Pollet : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T03:14:04+01:00",
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-27",
+      "ScheduledTime": "03:15:53:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poemes pour mi version pour soprano et orchestre : La maison",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poemes pour mi version pour soprano et orchestre : La maison",
+      "Label": "DEUTSCHE GRAMOPHON",
+      "ReferenceLabel": "453478-2",
+      "ExternalID": "0028945347820-1-3",
+      "AlbumTitle": "Olivier Messiaen : Poemes pour mi sept haikai et reveil des oiseaux",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945347820",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Olivier Messiaen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francoise Pollet",
+        "Profession": "Interprète",
+        "InterventionNote": "Francoise Pollet : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-27T03:15:53+01:00",
+      "composer": "http://data.doremus.org/artist/0967bc95-6977-3863-aca4-fc197b65d06c"
+    }
+  ],
+  "total": 26,
+  "matched": 5
+}

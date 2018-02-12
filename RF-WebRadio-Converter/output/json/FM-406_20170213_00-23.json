@@ -1,0 +1,2536 @@
+{
+  "id": "FM-406_20170213_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:18:33:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les espaces acoustiques : Les espaces acoustiques : Partiels - pour 18 musiciens",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les espaces acoustiques : Les espaces acoustiques : Partiels - pour 18 musiciens",
+      "Label": "ACCORD",
+      "ReferenceLabel": "206532",
+      "ExternalID": "3229262065320-1-3",
+      "AlbumTitle": "Gérard Grisey : Les espaces acoustiques",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262065320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerard Grisey",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Court Circuit",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Andre Valade",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T00:00:08+01:00",
+      "composer": "http://data.doremus.org/artist/c4ef4da5-5668-36b4-8f95-6aca037d04d8",
+      "best": "http://data.doremus.org/expression/610742b9-1dd7-35ad-9d35-4b402c8a42b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:18:45:00",
+      "ScheduledDuration": "00:08:52:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Odeur / Pour flute et sons electroniques",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Odeur / Pour flute et sons electroniques",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 906-2",
+      "ExternalID": "0761195090626-1-5",
+      "AlbumTitle": "Kaija Saariaho : Private gardens",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195090626",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kaija Saariaho",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jean Baptiste Barriere",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Baptiste Barriere"
+        },
+        {
+          "FullName": "Camilla Hoitenga",
+          "Profession": "Interprète",
+          "InterventionNote": "Camilla Hoitenga : Flûte",
+          "mop": "Flûte"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T00:18:45+01:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:27:37:00",
+      "ScheduledDuration": "00:05:14:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Loisto op 12 - pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Loisto op 12 - pour violon et piano",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS2192",
+      "ExternalID": "7318599921921-1-4",
+      "AlbumTitle": "Glow",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921921",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jaakko Kuusisto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jaakko Kuusisto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaakko Kuusisto : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Heini Karkkainen",
+          "Profession": "Interprète",
+          "InterventionNote": "Heini Karkkainen : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T00:27:37+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:32:51:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "False memories I-III : Review - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "False memories I-III : Review - pour orchestre",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1166-2",
+      "ExternalID": "0761195116623-1-9",
+      "AlbumTitle": "Jukka Tiensuu : Oeuvres orchestrales",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195116623",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jukka Tiensuu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T00:32:51+01:00",
+      "composer": "http://data.doremus.org/artist/6b65044d-0da1-3823-ad96-256b960447e3"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:37:56:00",
+      "ScheduledDuration": "00:07:24:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les chants de l'amour : Partie II - pour 12 voix mixtes et bande magnétique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les chants de l'amour : Partie II - pour 12 voix mixtes et bande magnétique",
+      "Label": "KAIROS",
+      "ReferenceLabel": "0012752KAI",
+      "ExternalID": "9120010281327-1-3",
+      "AlbumTitle": "Gérard Grisey : Les chants de l'amour et Le temps et l'écume",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerard Grisey",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Schola Heidelberg",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Walter Nussbaum",
+        "Profession": "Chef de choeur"
+      },
+      "ScheduledDateTime": "2017-02-13T00:37:56+01:00",
+      "composer": "http://data.doremus.org/artist/c4ef4da5-5668-36b4-8f95-6aca037d04d8",
+      "best": "http://data.doremus.org/expression/95b3013c-20d2-34fc-b69d-6f62d9251f63",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:45:20:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Parking Schubert - pour clarinette en Si bémol et clarinette basse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Parking Schubert - pour clarinette en Si bémol et clarinette basse",
+      "Label": "CLARINET CLASSICS",
+      "ReferenceLabel": "CC0071",
+      "ExternalID": "5023581007126-1-6",
+      "AlbumTitle": "French clarinet exports",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5023581007126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Cavanna",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Beatrice Berne",
+          "Profession": "Interprète",
+          "InterventionNote": "Beatrice Berne : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Jean Marc Fessard",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Marc Fessard : Clarinette",
+          "mop": "Clarinette"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T00:45:20+01:00",
+      "composer": "http://data.doremus.org/artist/3126716c-bb24-361e-b973-eabad4e3ef5e",
+      "best": "http://data.doremus.org/expression/2a8b6d44-6734-3a28-8455-8679ea288f53",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:49:03:00",
+      "ScheduledDuration": "00:08:48:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Futuristie : Schisme",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Futuristie : Schisme",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "6 510 020",
+      "ExternalID": "RF00000056715-1-5",
+      "AlbumTitle": "Futuristie",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056715",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Henry",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-02-13T00:49:03+01:00",
+      "composer": "http://data.doremus.org/artist/3c9303ba-36a6-3ffe-b615-3aaa36447ab3",
+      "best": "http://data.doremus.org/expression/7059db18-bfad-3089-8a58-12f967af3fd1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "00:58:04:00",
+      "ScheduledDuration": "00:04:17:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musica ricercata, II (Mesto, rigido e cerimoniale)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musica ricercata, II (Mesto, rigido e cerimoniale)",
+      "Label": "REPRISE RECORDS",
+      "ReferenceLabel": "9362-47450-2",
+      "ExternalID": "0093624745020-1-1",
+      "AlbumTitle": "Bof/Eyes wide shut",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093624745020",
+      "Compositor": {
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Dominic Harlan,",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominic Harlan, : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-13T00:58:04+01:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:02:21:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "2001 l'odyssée de l'espace : Requiem : Kyrie - pour 2 choeurs mixtes et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "2001 l'odyssée de l'espace : Requiem : Kyrie - pour 2 choeurs mixtes et orchestre",
+      "Label": "CBS",
+      "ReferenceLabel": "CDCBS 70275",
+      "ExternalID": "5099707027521-1-2",
+      "AlbumTitle": "Bof : 2001 l'odyssée de l'espace",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1968-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099707027521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Bavaroise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francis Travis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:02:21+01:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:06:42:00",
+      "ScheduledDuration": "00:06:22:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vêpres de la Vierge Marie : Toccata I et Invitatoire",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vêpres de la Vierge Marie : Toccata I et Invitatoire",
+      "Label": "MUSIQUE SACREE A NOTRE-DAME DE PARIS",
+      "ReferenceLabel": "004",
+      "ExternalID": "3775000058746-1-1",
+      "AlbumTitle": "Philippe Hersant : Vêpres de la Vierge Marie",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3775000058746",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Hersant",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alain Buet",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Buet : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Robert Getchell",
+          "Profession": "Interprète",
+          "InterventionNote": "Robert Getchell : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Les Sacqueboutiers",
+          "Profession": "Interprète",
+          "InterventionNote": "Les Sacqueboutiers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Maitrise De La Cathedrale Notre Dame De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lionel Sow",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:06:42+01:00",
+      "composer": "http://data.doremus.org/artist/d0048d94-3869-3eae-a305-7a0773f22ab1"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:13:13:00",
+      "ScheduledDuration": "00:18:41:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Horizontes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Horizontes",
+      "Label": "SONIDO MEXICO",
+      "ReferenceLabel": "1",
+      "ExternalID": "RF00000056969-1-3",
+      "AlbumTitle": "Julian Carrillo : Oeuvres musicales / Disque 1",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1965-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056969",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Julian Carrillo",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gabrielle Devries",
+          "Profession": "Interprète",
+          "InterventionNote": "Gabrielle Devries : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Reine Flachot",
+          "Profession": "Interprète",
+          "InterventionNote": "Reine Flachot : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Monique Rollin",
+          "Profession": "Interprète",
+          "InterventionNote": "Monique Rollin : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Des Concerts Lamoureux",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Julian Carrillo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:13:13+01:00",
+      "composer": "http://data.doremus.org/artist/1ce74e08-a4ee-3cf9-b61c-7b6d789f22a3"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:31:54:00",
+      "ScheduledDuration": "00:11:24:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Kreuzspiel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Kreuzspiel",
+      "Label": "DGG",
+      "ReferenceLabel": "2 530 443",
+      "ExternalID": "RF00000056768-1-1",
+      "AlbumTitle": "Karlheinz Stockhausen : Kreuzspiel / Kontra-Punkte / Zeitmasze et Adieu",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1974-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056768",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Karlheinz Stockhausen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Roger Fallows",
+          "Profession": "Interprète",
+          "InterventionNote": "Roger Fallows : Clarinette basse",
+          "mop": "Clarinette basse"
+        },
+        {
+          "FullName": "John Constable",
+          "Profession": "Interprète",
+          "InterventionNote": "John Constable : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "James Holland",
+          "Profession": "Interprète",
+          "InterventionNote": "James Holland : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Peter Britton",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Britton : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "David Corkhill",
+          "Profession": "Interprète",
+          "InterventionNote": "David Corkhill : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Sinfonietta De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Karlheinz Stockhausen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:31:54+01:00",
+      "composer": "http://data.doremus.org/artist/a8009434-ef08-30f7-820a-134008b221f3",
+      "best": "http://data.doremus.org/expression/db2c7070-4b55-3007-859f-e6f57b4badc8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:43:22:00",
+      "ScheduledDuration": "00:12:13:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lovemusic pour flute traversiere et clarinette basse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lovemusic pour flute traversiere et clarinette basse",
+      "Label": "ACCORD",
+      "ReferenceLabel": "442 8449",
+      "ExternalID": "0028944284492-1-4",
+      "AlbumTitle": "Jolas betsy / Ventosum vocant / Ens. Accroche note",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944284492",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Betsy Jolas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Mario Caroli",
+          "Profession": "Interprète",
+          "InterventionNote": "Mario Caroli : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Armand Angster",
+          "Profession": "Interprète",
+          "InterventionNote": "Armand Angster : Clarinette basse",
+          "mop": "Clarinette basse"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Accroche Note",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:43:22+01:00",
+      "composer": "http://data.doremus.org/artist/4d3b2969-e018-396d-8bfb-494781cfbb66"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:55:35:00",
+      "ScheduledDuration": "00:02:28:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 chansons populaires : The keel row",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 chansons populaires : The keel row",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP1326",
+      "ExternalID": "3760087530261-1-2",
+      "AlbumTitle": "Marc André Dalbavie : Sonnets Sextine Cyclus et 3 chansons populaires",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530261",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Yuriy Mynenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Yuriy Mynenko : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jean Paul Fouchecourt",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Paul Fouchecourt : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Coral Tinoco",
+          "Profession": "Interprète",
+          "InterventionNote": "Coral Tinoco : Harpe",
+          "mop": "Harpe"
+        },
+        {
+          "FullName": "Felipe Rodriguez",
+          "Profession": "Interprète",
+          "InterventionNote": "Felipe Rodriguez : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Alexandra",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandra : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Gulbenkian De Lisbonne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Andre Dalbavie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:55:35+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "01:58:03:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 chansons populaires : Nous n'irons plus au bois",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 chansons populaires : Nous n'irons plus au bois",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP1326",
+      "ExternalID": "3760087530261-1-3",
+      "AlbumTitle": "Marc André Dalbavie : Sonnets Sextine Cyclus et 3 chansons populaires",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530261",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Yuriy Mynenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Yuriy Mynenko : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jean Paul Fouchecourt",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Paul Fouchecourt : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Coral Tinoco",
+          "Profession": "Interprète",
+          "InterventionNote": "Coral Tinoco : Harpe",
+          "mop": "Harpe"
+        },
+        {
+          "FullName": "Felipe Rodriguez",
+          "Profession": "Interprète",
+          "InterventionNote": "Felipe Rodriguez : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Alexandra",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandra : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Gulbenkian De Lisbonne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Andre Dalbavie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T01:58:03+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:01:10:00",
+      "ScheduledDuration": "00:02:43:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 chansons populaires : Do do l'enfant do",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 chansons populaires : Do do l'enfant do",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP1326",
+      "ExternalID": "3760087530261-1-4",
+      "AlbumTitle": "Marc André Dalbavie : Sonnets Sextine Cyclus et 3 chansons populaires",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530261",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Yuriy Mynenko",
+          "Profession": "Interprète",
+          "InterventionNote": "Yuriy Mynenko : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Jean Paul Fouchecourt",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Paul Fouchecourt : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Coral Tinoco",
+          "Profession": "Interprète",
+          "InterventionNote": "Coral Tinoco : Harpe",
+          "mop": "Harpe"
+        },
+        {
+          "FullName": "Felipe Rodriguez",
+          "Profession": "Interprète",
+          "InterventionNote": "Felipe Rodriguez : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Alexandra",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandra : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Gulbenkian De Lisbonne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Andre Dalbavie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T02:01:10+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:04:16:00",
+      "ScheduledDuration": "00:12:43:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Okho pour 3 djembes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Okho pour 3 djembes",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT 040901",
+      "ExternalID": "3760009290679-1-1",
+      "AlbumTitle": "Xenakis / Mus. pour djembés & percussions/ Carneiro",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009290679",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Iannis Xenakis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pedro Carneiro",
+        "Profession": "Interprète",
+        "InterventionNote": "Pedro Carneiro : Percussions",
+        "mop": "Percussions"
+      },
+      "ScheduledDateTime": "2017-02-13T02:04:16+01:00",
+      "composer": "http://data.doremus.org/artist/af8d601a-21f0-3a0f-af45-210b5c57c4f6"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:16:59:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cadenze : Cadenza IX . Tumultuoso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cadenze : Cadenza IX . Tumultuoso",
+      "Label": "LA BUISSONNE",
+      "ReferenceLabel": "YAN.002",
+      "ExternalID": "3149028045123-2-10",
+      "AlbumTitle": "Musica della luce / Ivan Fedele : Oeuvres pour piano",
+      "Rank": 10,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028045123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ivan Fedele",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascale Berthelot",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascale Berthelot : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-13T02:16:59+01:00",
+      "composer": "http://data.doremus.org/artist/ec31caf2-6c49-3ab1-bac4-7b247e3b4e8c"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:19:11:00",
+      "ScheduledDuration": "00:01:31:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Comme disait Machiavel (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Comme disait Machiavel (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-4",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:19:11+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:20:42:00",
+      "ScheduledDuration": "00:01:04:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Ouverture delle Cornacchie - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Ouverture delle Cornacchie - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-5",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:20:42+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:21:46:00",
+      "ScheduledDuration": "00:01:19:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Cette histoire d'amour (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Cette histoire d'amour (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-6",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:21:46+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:23:05:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Recitaivo dell' Uccellino - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Recitaivo dell' Uccellino - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-7",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:23:05+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:24:45:00",
+      "ScheduledDuration": "00:01:19:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Ceux parmi vous (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Ceux parmi vous (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-8",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble 2e2m",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble 2e2m"
+      },
+      "ScheduledDateTime": "2017-02-13T02:24:45+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:26:04:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Aria del Pesce - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Aria del Pesce - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-9",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:26:04+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:27:44:00",
+      "ScheduledDuration": "00:01:16:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : L'arc-en-ciel (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : L'arc-en-ciel (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-10",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:27:44+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:29:00:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Duetto d'amore - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Duetto d'amore - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-11",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:29:00+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:30:18:00",
+      "ScheduledDuration": "00:01:07:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Les danses nuptiales (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Les danses nuptiales (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-12",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:30:18+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:31:25:00",
+      "ScheduledDuration": "00:02:35:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Cabaletta del Pescatore - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Cabaletta del Pescatore - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-13",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:31:25+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:34:00:00",
+      "ScheduledDuration": "00:01:09:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Le chasseur possède (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Le chasseur possède (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-14",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:34:00+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:35:09:00",
+      "ScheduledDuration": "00:00:57:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Ronda del Cacciatore - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Ronda del Cacciatore - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-15",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:35:09+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:36:06:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : En présence de la mort (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : En présence de la mort (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-16",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:36:06+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:37:09:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Preghiera (instruments et diction) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Preghiera (instruments et diction) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-17",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:37:09+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:39:19:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Gélinotte au mulet pour 6 (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Gélinotte au mulet pour 6 (diction à blanc) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-18",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:39:19+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:40:25:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'opera (Forse) : Brindisi (percussions et voix) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'opera (Forse) : Brindisi (percussions et voix) - pour flûte à bec violon 6 instrumentistes et récitant",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-19",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Eric Crambes",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Crambes : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Philippe Grometto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Grometto : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Pierre Senges",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Senges : Récitant",
+          "mop": "Récitant"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-13T02:40:25+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-13",
+      "ScheduledTime": "02:42:22:00",
+      "ScheduledDuration": "00:15:59:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'esprit des dunes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'esprit des dunes",
+      "Label": "ADES",
+      "ReferenceLabel": "ADES 205212",
+      "ExternalID": "3229262052122-1-2",
+      "AlbumTitle": "Tristan murail : Serendib desintegrations et l'esprit des dunes",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262052122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "David Robertson",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-13T02:42:22+01:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    }
+  ],
+  "total": 35,
+  "matched": 5
+}

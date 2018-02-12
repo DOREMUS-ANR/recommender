@@ -1,0 +1,2031 @@
+{
+  "id": "FM-401_20170130_00-23",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:06:32:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour violon en mi min D 56 : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour violon en mi min D 56 : Allegro",
+      "Label": "DECCA",
+      "ReferenceLabel": "4825080",
+      "ExternalID": "0028948250790-2-1",
+      "AlbumTitle": "Giuseppe Tartini : Concertos pour violon",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948250790",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Tartini",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Salvatore Accardo",
+        "Profession": "Interprète",
+        "InterventionNote": "Salvatore Accardo : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Anglais",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Salvatore Accardo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T00:00:23+01:00",
+      "composer": "http://data.doremus.org/artist/ba9f1667-b6bc-3bfd-877a-7b3acfb6bdf3"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:06:55:00",
+      "ScheduledDuration": "00:08:08:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Double concerto pour violon et violoncelle en la min op 102 : Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Double concerto pour violon et violoncelle en la min op 102 : Andante",
+      "Label": "DECCA",
+      "ReferenceLabel": "4825085",
+      "ExternalID": "0028948250851-1-5",
+      "AlbumTitle": "Johannes Brahms : Concertos",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948250851",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Salvatore Accardo",
+          "Profession": "Interprète",
+          "InterventionNote": "Salvatore Accardo : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Heinrich Schiff",
+          "Profession": "Interprète",
+          "InterventionNote": "Heinrich Schiff : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Gewandhaus De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kurt Masur",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T00:06:55+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/74552986-d1ab-3e46-bb9b-d90230b3de74",
+      "best_matching_score": "0.98"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:15:03:00",
+      "ScheduledDuration": "00:04:39:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour violon n°1 en ré min MWV O 4 : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour violon n°1 en ré min MWV O 4 : Allegro",
+      "Label": "DECCA",
+      "ReferenceLabel": "4825073",
+      "ExternalID": "0028948250738-1-6",
+      "AlbumTitle": "Felix Mendelssohn : Concertos pour violon",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948250738",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Felix Mendelssohn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Salvatore Accardo",
+        "Profession": "Interprète",
+        "InterventionNote": "Salvatore Accardo : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Charles Dutoit",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T00:15:03+01:00",
+      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:19:51:00",
+      "ScheduledDuration": "00:09:18:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les maîtres chanteurs de Nuremberg WWV 96 : Prélude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les maîtres chanteurs de Nuremberg WWV 96 : Prélude",
+      "Label": "DECCA",
+      "ReferenceLabel": "4613562",
+      "ExternalID": "0028946135624-1-1",
+      "AlbumTitle": "Richard Wagner Anton Bruckner : Die Meistersinger von Nürnberg et Symphonie n°4",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946135624",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Wagner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Zubin Mehta",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T00:19:51+01:00",
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
+      "best": "http://data.doremus.org/expression/de15f478-333e-30e1-be14-110604795526",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:29:12:00",
+      "ScheduledDuration": "00:11:41:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en Mi bémol Maj op 18 : Allegro ma non troppo - pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en Mi bémol Maj op 18 : Allegro ma non troppo - pour violon et piano",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "9 47639 2",
+      "ExternalID": "5099994763928-1-8",
+      "AlbumTitle": "Bartok Grieg et Strauss : Sonates pour violon",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099994763928",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Strauss",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Vilde Frang",
+          "Profession": "Interprète",
+          "InterventionNote": "Vilde Frang : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Michail Lifits",
+          "Profession": "Interprète",
+          "InterventionNote": "Michail Lifits : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T00:29:12+01:00",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
+      "best": "http://data.doremus.org/expression/7c541cff-4ce3-32f8-9f4b-378c0d899aca",
+      "best_matching_score": "0.82"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:40:59:00",
+      "ScheduledDuration": "00:07:02:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°2 en si min op 61 : Allegretto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°2 en si min op 61 : Allegretto",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875177312-05",
+      "ExternalID": "RF00000055585-1-1",
+      "AlbumTitle": "Emil Gilels : The complete RCA and Columbia album collection CD 5",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055585",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emil Gilels",
+        "Profession": "Interprète",
+        "InterventionNote": "Emil Gilels : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-30T00:40:59+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:48:01:00",
+      "ScheduledDuration": "00:08:03:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°2 en si min op 61 : Largo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°2 en si min op 61 : Largo",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875177312-05",
+      "ExternalID": "RF00000055585-1-2",
+      "AlbumTitle": "Emil Gilels : The complete RCA and Columbia album collection CD 5",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055585",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emil Gilels",
+        "Profession": "Interprète",
+        "InterventionNote": "Emil Gilels : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-30T00:48:01+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "00:56:04:00",
+      "ScheduledDuration": "00:13:22:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°2 en si min op 61 : Moderato con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°2 en si min op 61 : Moderato con moto",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875177312-05",
+      "ExternalID": "RF00000055585-1-3",
+      "AlbumTitle": "Emil Gilels : The complete RCA and Columbia album collection CD 5",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055585",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emil Gilels",
+        "Profession": "Interprète",
+        "InterventionNote": "Emil Gilels : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-01-30T00:56:04+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:09:39:00",
+      "ScheduledDuration": "00:10:00:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en Si bémol Maj op 100 : Allegro giocoso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en Si bémol Maj op 100 : Allegro giocoso",
+      "Label": "ROYAL CONCERTGEBOUW ORCHESTRA",
+      "ReferenceLabel": "RCO16002",
+      "ExternalID": "0814337019235-1-4",
+      "AlbumTitle": "Serge Prokofiev : Symphonie n°5",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0814337019235",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Prokofiev",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Mariss Jansons",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:09:39+01:00",
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
+      "best": "http://data.doremus.org/expression/a1045886-ee07-3ad8-a379-db633378c2fc",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:19:45:00",
+      "ScheduledDuration": "00:08:44:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Sol Maj : Allegramente - pour piano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Sol Maj : Allegramente - pour piano et orchestre",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "449213-2",
+      "ExternalID": "0028944921328-1-1",
+      "AlbumTitle": "Maurice Ravel : Concertos pour piano et Valses nobles et sentimentales",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944921328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Krystian Zimerman",
+        "Profession": "Interprète",
+        "InterventionNote": "Krystian Zimerman : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:19:45+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/720d7dd5-b4c5-349f-a665-0dde0ba99002",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:28:29:00",
+      "ScheduledDuration": "00:09:23:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Sol Maj : Adagio assai - pour piano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Sol Maj : Adagio assai - pour piano et orchestre",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "449213-2",
+      "ExternalID": "0028944921328-1-2",
+      "AlbumTitle": "Maurice Ravel : Concertos pour piano et Valses nobles et sentimentales",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944921328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Krystian Zimerman",
+        "Profession": "Interprète",
+        "InterventionNote": "Krystian Zimerman : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:28:29+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/720d7dd5-b4c5-349f-a665-0dde0ba99002",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:37:52:00",
+      "ScheduledDuration": "00:04:06:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Sol Maj : Presto - pour piano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Sol Maj : Presto - pour piano et orchestre",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "449213-2",
+      "ExternalID": "0028944921328-1-3",
+      "AlbumTitle": "Maurice Ravel : Concertos pour piano et Valses nobles et sentimentales",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944921328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Krystian Zimerman",
+        "Profession": "Interprète",
+        "InterventionNote": "Krystian Zimerman : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:37:52+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/720d7dd5-b4c5-349f-a665-0dde0ba99002",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:42:01:00",
+      "ScheduledDuration": "00:02:43:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'Aiglon : Voici l'heure (Acte II) Flambeau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'Aiglon : Voici l'heure (Acte II) Flambeau",
+      "Label": "DECCA",
+      "ReferenceLabel": "4789502",
+      "ExternalID": "0028947895022-1-7",
+      "AlbumTitle": "Arthur Honegger et Jacques Ibert : L'Aiglon",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947895022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arthur Honegger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marc Barrard",
+        "Profession": "Interprète",
+        "InterventionNote": "Marc Barrard : Baryton (voix), Séraphin Flambeau",
+        "mop": "Baryton (voix), Séraphin Flambeau"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Montreal",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kent Nagano",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:42:01+01:00",
+      "composer": "http://data.doremus.org/artist/e3f0fc72-7967-39a4-888b-823b46576174",
+      "best": "http://data.doremus.org/expression/b5aff62f-238a-3ea1-8166-24cafc6cfced",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:44:44:00",
+      "ScheduledDuration": "00:05:47:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'Aiglon : Oui ce soir lui parler (Acte II) Metternich Flambeau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'Aiglon : Oui ce soir lui parler (Acte II) Metternich Flambeau",
+      "Label": "DECCA",
+      "ReferenceLabel": "4789502",
+      "ExternalID": "0028947895022-1-8",
+      "AlbumTitle": "Arthur Honegger et Jacques Ibert : L'Aiglon",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947895022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arthur Honegger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Etienne Dupuis",
+          "Profession": "Interprète",
+          "InterventionNote": "Etienne Dupuis : Alto (voix), Prince de Metternich",
+          "mop": "Alto (voix), Prince de Metternich"
+        },
+        {
+          "FullName": "Marc Barrard",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Barrard : Baryton (voix), Séraphin Flambeau",
+          "mop": "Baryton (voix), Séraphin Flambeau"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Montreal",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kent Nagano",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:44:44+01:00",
+      "composer": "http://data.doremus.org/artist/e3f0fc72-7967-39a4-888b-823b46576174",
+      "best": "http://data.doremus.org/expression/b5aff62f-238a-3ea1-8166-24cafc6cfced",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:50:31:00",
+      "ScheduledDuration": "00:05:56:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'Aiglon : L'Empereur (Acte II) Flambeau Metternich le Duc",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'Aiglon : L'Empereur (Acte II) Flambeau Metternich le Duc",
+      "Label": "DECCA",
+      "ReferenceLabel": "4789502",
+      "ExternalID": "0028947895022-1-9",
+      "AlbumTitle": "Arthur Honegger et Jacques Ibert : L'Aiglon",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947895022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arthur Honegger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marc Barrard",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Barrard : Baryton (voix), Séraphin Flambeau",
+          "mop": "Baryton (voix), Séraphin Flambeau"
+        },
+        {
+          "FullName": "Etienne Dupuis",
+          "Profession": "Interprète",
+          "InterventionNote": "Etienne Dupuis : Alto (voix), Prince de Metternich",
+          "mop": "Alto (voix), Prince de Metternich"
+        },
+        {
+          "FullName": "Anne Catherine Gillet",
+          "Profession": "Interprète",
+          "InterventionNote": "Anne Catherine Gillet : Soprano, L'Aiglon, duc de Reichstadt",
+          "mop": "Soprano, L'Aiglon, duc de Reichstadt"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Montreal",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kent Nagano",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:50:31+01:00",
+      "composer": "http://data.doremus.org/artist/e3f0fc72-7967-39a4-888b-823b46576174",
+      "best": "http://data.doremus.org/expression/b5aff62f-238a-3ea1-8166-24cafc6cfced",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "01:56:38:00",
+      "ScheduledDuration": "00:08:25:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wellingtons Sieg oder die Schlacht bei Vittoria op 91 : La bataille - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wellingtons Sieg oder die Schlacht bei Vittoria op 91 : La bataille - pour orchestre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA473",
+      "ExternalID": "3760014194733-1-7",
+      "AlbumTitle": "Resound Beethoven / Vol 2",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014194733",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academie De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Martin Haselbock",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T01:56:38+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:05:03:00",
+      "ScheduledDuration": "00:04:48:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Giulio Cesare in Egitto : Vanni sono i lamenti / Svegliatevi nel core (Acte I Sc 4) Récitatif et air de Sextus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Giulio Cesare in Egitto : Vanni sono i lamenti / Svegliatevi nel core (Acte I Sc 4) Récitatif et air de Sextus",
+      "Label": "WARNER MUSIC",
+      "ReferenceLabel": "0190295928469",
+      "ExternalID": "0190295928469-1-3",
+      "AlbumTitle": "Joyce Di Donato : In War and Peace",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295928469",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Joyce Di Donato",
+        "Profession": "Interprète",
+        "InterventionNote": "Joyce Di Donato : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Il Pomo D'Oro",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Maxim Emelyanychev",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T02:05:03+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/e326d2f4-afbb-3d9c-bb8a-d30d7476a2a6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:09:51:00",
+      "ScheduledDuration": "00:06:02:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Giulio Cesare in Egitto : Da tempeste il legno infranto (Acte III Sc 7) Air de Cleopatra",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Giulio Cesare in Egitto : Da tempeste il legno infranto (Acte III Sc 7) Air de Cleopatra",
+      "Label": "WARNER MUSIC",
+      "ReferenceLabel": "0190295928469",
+      "ExternalID": "0190295928469-1-15",
+      "AlbumTitle": "Joyce Di Donato : In War and Peace",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295928469",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Joyce Di Donato",
+        "Profession": "Interprète",
+        "InterventionNote": "Joyce Di Donato : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Il Pomo D'Oro",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Maxim Emelyanychev",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T02:09:51+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/e326d2f4-afbb-3d9c-bb8a-d30d7476a2a6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:16:02:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Amoroso e Largo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Amoroso e Largo",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902253",
+      "ISRC": "FR-7JM-16-13170",
+      "ExternalID": "3149020225325-1-17",
+      "AlbumTitle": "Souvenirs d'Italie",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique baroque",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020225325",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicola Fiorenza",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Maurice Steger",
+        "Profession": "Interprète",
+        "InterventionNote": "Maurice Steger : Flûte à bec",
+        "mop": "Flûte à bec"
+      },
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T02:16:02+01:00",
+      "composer": "http://data.doremus.org/artist/1fcf9a75-317a-31cd-b002-0d6cf75a0c1e"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:18:10:00",
+      "ScheduledDuration": "00:01:28:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Allegro",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902253",
+      "ISRC": "FR-7JM-16-13180",
+      "ExternalID": "3149020225325-1-18",
+      "AlbumTitle": "Souvenirs d'Italie",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique baroque",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020225325",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicola Fiorenza",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Maurice Steger",
+        "Profession": "Interprète",
+        "InterventionNote": "Maurice Steger : Flûte à bec",
+        "mop": "Flûte à bec"
+      },
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T02:18:10+01:00",
+      "composer": "http://data.doremus.org/artist/1fcf9a75-317a-31cd-b002-0d6cf75a0c1e"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:19:38:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Largo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Largo",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902253",
+      "ISRC": "FR-7JM-16-13190",
+      "ExternalID": "3149020225325-1-19",
+      "AlbumTitle": "Souvenirs d'Italie",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique baroque",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020225325",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicola Fiorenza",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Maurice Steger",
+        "Profession": "Interprète",
+        "InterventionNote": "Maurice Steger : Flûte à bec",
+        "mop": "Flûte à bec"
+      },
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T02:19:38+01:00",
+      "composer": "http://data.doremus.org/artist/1fcf9a75-317a-31cd-b002-0d6cf75a0c1e"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:21:52:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en la min - pour flûte à bec alto et basse continue : Allegro",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902253",
+      "ISRC": "FR-7JM-16-13200",
+      "ExternalID": "3149020225325-1-20",
+      "AlbumTitle": "Souvenirs d'Italie",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique baroque",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020225325",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicola Fiorenza",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Maurice Steger",
+        "Profession": "Interprète",
+        "InterventionNote": "Maurice Steger : Flûte à bec",
+        "mop": "Flûte à bec"
+      },
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-01-30T02:21:52+01:00",
+      "composer": "http://data.doremus.org/artist/1fcf9a75-317a-31cd-b002-0d6cf75a0c1e"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:22:57:00",
+      "ScheduledDuration": "00:04:08:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Stabat mater dolorosa (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Stabat mater dolorosa (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-1",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:22:57+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:27:05:00",
+      "ScheduledDuration": "00:02:09:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Cujus animam gementem (Air de soprano)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Cujus animam gementem (Air de soprano)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-2",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sonya Yoncheva",
+        "Profession": "Interprète",
+        "InterventionNote": "Sonya Yoncheva : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:27:05+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/b6368e48-7c78-3648-bd8f-06d960acd0c7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:29:14:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : O quam tristis et afflicta (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : O quam tristis et afflicta (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-3",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:29:14+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:31:10:00",
+      "ScheduledDuration": "00:02:06:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Quae moerebat et dolebat (Air de mezzo-soprano)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Quae moerebat et dolebat (Air de mezzo-soprano)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-4",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Karine Deshayes",
+        "Profession": "Interprète",
+        "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:31:10+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:33:16:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Quis est homo (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Quis est homo (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-5",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:33:16+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:35:56:00",
+      "ScheduledDuration": "00:03:37:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Vidit suum dulcem natum (Air de soprano)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Vidit suum dulcem natum (Air de soprano)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-6",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sonya Yoncheva",
+        "Profession": "Interprète",
+        "InterventionNote": "Sonya Yoncheva : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:35:56+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/b6368e48-7c78-3648-bd8f-06d960acd0c7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:39:33:00",
+      "ScheduledDuration": "00:01:57:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Eja mater fons amoris (Air de mezzo-soprano)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Eja mater fons amoris (Air de mezzo-soprano)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-7",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Karine Deshayes",
+        "Profession": "Interprète",
+        "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:39:33+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:41:30:00",
+      "ScheduledDuration": "00:02:02:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Fac ut ardeat cor meum (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Fac ut ardeat cor meum (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-8",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:41:30+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:43:32:00",
+      "ScheduledDuration": "00:05:27:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Sancta Mater istud agas (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Sancta Mater istud agas (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-9",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:43:32+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:48:59:00",
+      "ScheduledDuration": "00:03:21:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Fac ut portem Christi mortem (Air de mezzo-soprano)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Fac ut portem Christi mortem (Air de mezzo-soprano)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-10",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Karine Deshayes",
+        "Profession": "Interprète",
+        "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:48:59+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:52:20:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Inflammatus et accensus (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Inflammatus et accensus (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-11",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:52:20+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-30",
+      "ScheduledTime": "02:54:34:00",
+      "ScheduledDuration": "00:04:40:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stabat mater en fa min : Quando corpus morietur (Duo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stabat mater en fa min : Quando corpus morietur (Duo)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985369642",
+      "ExternalID": "0889853696420-1-12",
+      "AlbumTitle": "Pergolese : Stabat Mater",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853696420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Battista Pergolese",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonya Yoncheva",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonya Yoncheva : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Karine Deshayes",
+          "Profession": "Interprète",
+          "InterventionNote": "Karine Deshayes : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Amarillis",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Heloise Gaillard",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Violaine Cocharad",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-30T02:54:34+01:00",
+      "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 34,
+  "matched": 24
+}

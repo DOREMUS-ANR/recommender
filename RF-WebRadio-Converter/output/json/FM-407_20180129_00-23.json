@@ -1,0 +1,3734 @@
+{
+  "id": "FM-407_20180129_00-23",
+  "channel": "407",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:00:03:00",
+      "ScheduledDuration": "00:01:42:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cendrillon : Bibbidi bobbidi boo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cendrillon : Bibbidi bobbidi boo",
+      "Label": "DISNEYLAND",
+      "ReferenceLabel": "CD-003",
+      "ExternalID": "0050086000326-1-10",
+      "AlbumTitle": "The Disney collection / Vol 2 / Plus belles chansons d'amour des films séries tv et thèmes de Dsney",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050086000326",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Mack David",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Al Hoffman",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Verna Felton",
+          "Profession": "Interprète",
+          "InterventionNote": "Verna Felton"
+        },
+        {
+          "FullName": "Ilene Woods",
+          "Profession": "Interprète",
+          "InterventionNote": "Ilene Woods"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Disney Studio Chorus",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": [
+        {
+          "FullName": "Oliver Wallace",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "Paul J Smith",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T12:00:03+01:00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:01:45:00",
+      "ScheduledDuration": "00:02:56:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peter Pan : Arrivée de Peter Pan",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peter Pan : Arrivée de Peter Pan",
+      "Label": "VOIX DE SON MAITRE",
+      "ReferenceLabel": "SP 3",
+      "ExternalID": "RF00000035764-1-1",
+      "AlbumTitle": "BOF / Peter Pan",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1953-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035764",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Frank Churchill",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "S Fain",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "O Wallace",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Louis Sauvat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "V Young",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "T Laurence",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Mathe Altery",
+          "Profession": "Interprète",
+          "InterventionNote": "Mathe Altery"
+        },
+        {
+          "FullName": "Claude Dupuy",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Dupuy"
+        },
+        {
+          "FullName": "Pierre Hiegel",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Hiegel"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Jacques Metehen & Son Orchestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:01:45+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:04:41:00",
+      "ScheduledDuration": "00:02:51:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peter Pan : Voyage dans le ciel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peter Pan : Voyage dans le ciel",
+      "Label": "VOIX DE SON MAITRE",
+      "ReferenceLabel": "SP 3",
+      "ExternalID": "RF00000035764-1-2",
+      "AlbumTitle": "BOF / Peter Pan",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1953-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035764",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Frank Churchill",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "S Fain",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "O Wallace",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Louis Sauvat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "V Young",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "T Laurence",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Mathe Altery",
+          "Profession": "Interprète",
+          "InterventionNote": "Mathe Altery"
+        },
+        {
+          "FullName": "Claude Dupuy",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Dupuy"
+        },
+        {
+          "FullName": "Pierre Hiegel",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Hiegel"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Jacques Metehen & Son Orchestre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:04:41+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:07:32:00",
+      "ScheduledDuration": "00:00:58:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les fétiches arrivent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les fétiches arrivent",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD 399 463-2",
+      "ExternalID": "3299039946329-1-6",
+      "AlbumTitle": "BOF / Kirikou et les hommes et les femmes",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039946329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thibault Agyeman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:07:32+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:08:30:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le vieux grincheux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le vieux grincheux",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD 399 463-2",
+      "ExternalID": "3299039946329-1-10",
+      "AlbumTitle": "BOF / Kirikou et les hommes et les femmes",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039946329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thibault Agyeman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:08:30+01:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:10:00:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dingele",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dingele",
+      "Label": "UNIVERSAL LICENSING MUSIC",
+      "ReferenceLabel": "983418-5",
+      "ExternalID": "0602498341858-1-10",
+      "AlbumTitle": "Kirikou et les bêtes sauvages",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498341858",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Ismael Lo",
+        "Profession": "Interprète",
+        "InterventionNote": "Ismael Lo"
+      },
+      "ScheduledDateTime": "2018-01-29T12:10:00+01:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:13:49:00",
+      "ScheduledDuration": "00:06:26:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Poursuite",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Poursuite",
+      "Label": "DELABEL",
+      "ReferenceLabel": "5903462",
+      "ExternalID": "724359034621-1-18",
+      "AlbumTitle": "Les triplettes de Belleville/ Bande originale de film",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "724359034621",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Benoit Charest",
+        "Profession": "Interprète",
+        "InterventionNote": "Benoit Charest"
+      },
+      "ScheduledDateTime": "2018-01-29T12:13:49+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:20:15:00",
+      "ScheduledDuration": "00:03:10:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Belleville rendez-vous (version francaise)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Belleville rendez-vous (version francaise)",
+      "Label": "DELABEL",
+      "ReferenceLabel": "5903462",
+      "ExternalID": "724359034621-1-2",
+      "AlbumTitle": "Les triplettes de Belleville/ Bande originale de film",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "724359034621",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "M",
+        "Profession": "Interprète",
+        "InterventionNote": "M"
+      },
+      "ScheduledDateTime": "2018-01-29T12:20:15+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:23:25:00",
+      "ScheduledDuration": "00:01:24:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Life's incredible again",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Life's incredible again",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "61100-7",
+      "ExternalID": "0050086110070-1-6",
+      "AlbumTitle": "Les indestructibles (film)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050086110070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Giacchino",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Michael Giacchino",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:23:25+01:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:24:49:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "New and improved",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "New and improved",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "61100-7",
+      "ExternalID": "0050086110070-1-8",
+      "AlbumTitle": "Les indestructibles (film)",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050086110070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Giacchino",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Michael Giacchino",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:24:49+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:27:04:00",
+      "ScheduledDuration": "00:05:06:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cell bound",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cell bound",
+      "Label": "MILAN",
+      "ReferenceLabel": "74321 12470 2",
+      "ExternalID": "0743211247023-1-1",
+      "AlbumTitle": "Bof / Tex avery cartoons",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743211247023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Bradley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:27:04+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:32:13:00",
+      "ScheduledDuration": "00:05:18:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Un endroit merveilleux (Instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Un endroit merveilleux (Instrumental)",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36086-2",
+      "ExternalID": "3418153608627-1-12",
+      "AlbumTitle": "B.O.F. / Tarzan",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153608627",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mark Mancina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:32:13+01:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:37:31:00",
+      "ScheduledDuration": "00:02:57:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le singe est un homme comme les autres (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le singe est un homme comme les autres (instrumental)",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36086-2",
+      "ExternalID": "3418153608627-1-13",
+      "AlbumTitle": "B.O.F. / Tarzan",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153608627",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mark Mancina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:37:31+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:40:28:00",
+      "ScheduledDuration": "00:03:05:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Minion mambo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Minion mambo",
+      "Label": "ESP",
+      "ReferenceLabel": "B001446702",
+      "ExternalID": "0602527426730-1-4",
+      "AlbumTitle": "BOF / Moi moche et méchant (Despicable me)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602527426730",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "The Minions",
+        "Profession": "Interprète",
+        "InterventionNote": "The Minions"
+      },
+      "ScheduledDateTime": "2018-01-29T12:40:28+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:43:33:00",
+      "ScheduledDuration": "00:00:47:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Minions : Orlando",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Minions : Orlando",
+      "Label": "BACK LOT MUSIC",
+      "ReferenceLabel": "BLM0607",
+      "ExternalID": "0851147006079-1-14",
+      "AlbumTitle": "BOF / Minions",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0851147006079",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heitor Pereira",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:43:33+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:44:20:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Main title",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Main title",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 792 2",
+      "ExternalID": "0030206679229-1-1",
+      "AlbumTitle": "BOF / Robotech the shadow chronicles",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206679229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Glasgow",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:44:20+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:46:16:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The sdf-3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The sdf-3",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 792 2",
+      "ExternalID": "0030206679229-1-10",
+      "AlbumTitle": "BOF / Robotech the shadow chronicles",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206679229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Glasgow",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:46:16+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:48:04:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Robots overture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Robots overture",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 640 2",
+      "ExternalID": "0030206664027-1-1",
+      "AlbumTitle": "Robots (film)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206664027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Powell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Blue Man Group",
+        "Profession": "Interprète",
+        "InterventionNote": "Blue Man Group : Percussions",
+        "mop": "Percussions"
+      },
+      "Orchestra": {
+        "EntityName": "Hollywood Studio Symphony",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pete Anthony",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:48:04+01:00",
+      "composer": "http://data.doremus.org/artist/2c405fc3-8223-39a1-bf43-a6cda898db99"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:52:07:00",
+      "ScheduledDuration": "00:01:25:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dad's dream",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dad's dream",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 640 2",
+      "ExternalID": "0030206664027-1-19",
+      "AlbumTitle": "Robots (film)",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206664027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Powell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Blue Man Group",
+        "Profession": "Interprète",
+        "InterventionNote": "Blue Man Group : Percussions",
+        "mop": "Percussions"
+      },
+      "Orchestra": {
+        "EntityName": "Hollywood Studio Symphony",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pete Anthony",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:52:07+01:00",
+      "composer": "http://data.doremus.org/artist/2c405fc3-8223-39a1-bf43-a6cda898db99"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:53:32:00",
+      "ScheduledDuration": "00:03:38:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le magasin des suicides : Les enfants conspirateurs",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le magasin des suicides : Les enfants conspirateurs",
+      "Label": "DIABOLO FILM",
+      "ReferenceLabel": "849A004020",
+      "ExternalID": "3700551737819-1-26",
+      "AlbumTitle": "Bof / Le magasin des suicides",
+      "Rank": 26,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700551737819",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Etienne Perruchon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Kacey Mottet Klein",
+          "Profession": "Interprète",
+          "InterventionNote": "Kacey Mottet Klein"
+        },
+        {
+          "FullName": "Choeur Des Enfants",
+          "Profession": "Interprète",
+          "InterventionNote": "Choeur Des Enfants"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T12:53:32+01:00",
+      "composer": "http://data.doremus.org/artist/c72eda72-696e-3ad3-afe2-551543fb1664"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:57:14:00",
+      "ScheduledDuration": "00:00:24:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le magasin des suicides : Un enfant joyeux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le magasin des suicides : Un enfant joyeux",
+      "Label": "DIABOLO FILM",
+      "ReferenceLabel": "849A004020",
+      "ExternalID": "3700551737819-1-9",
+      "AlbumTitle": "Bof / Le magasin des suicides",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700551737819",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Etienne Perruchon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T12:57:14+01:00",
+      "composer": "http://data.doremus.org/artist/c72eda72-696e-3ad3-afe2-551543fb1664"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:57:38:00",
+      "ScheduledDuration": "00:00:27:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les dessins animes : Tex Avery Cartoon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les dessins animes : Tex Avery Cartoon",
+      "Label": "DAXA PRODUCTION",
+      "ExternalID": "RF00000041935-1-3",
+      "AlbumTitle": "Les génériques cultes de l'O.R.T.F",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000041935",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Bradley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Scott Bradley",
+        "Profession": "Interprète",
+        "InterventionNote": "Scott Bradley"
+      },
+      "ScheduledDateTime": "2018-01-29T12:57:38+01:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:58:05:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The antz marching band",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The antz marching band",
+      "Label": "ANGEL",
+      "ReferenceLabel": "56782",
+      "ExternalID": "0724355678225-1-11",
+      "AlbumTitle": "Bof / Fourmiz",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355678225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Powell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nicole Tibbles",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicole Tibbles : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Janet Mooney",
+          "Profession": "Interprète",
+          "InterventionNote": "Janet Mooney : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Gregson-Williams",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gavin Greenaway",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:58:05+01:00",
+      "composer": "http://data.doremus.org/artist/2c405fc3-8223-39a1-bf43-a6cda898db99"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "12:59:22:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Into the pie machine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Into the pie machine",
+      "Label": "RCA",
+      "ReferenceLabel": "09026-63702-2",
+      "ExternalID": "0090266370221-1-14",
+      "AlbumTitle": "Bof / Chicken run",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266370221",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "John Powell",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Harry Gregson-Williams",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Non Identifie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T12:59:22+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:02:33:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le livre de la jungle : Monkey chase",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le livre de la jungle : Monkey chase",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "60950-2",
+      "ExternalID": "0050086095070-1-6",
+      "AlbumTitle": "BOF / Le livre de la jungle",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050086095070",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Bruns",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:02:33+01:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:03:39:00",
+      "ScheduledDuration": "00:06:33:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "TV of tomorrow",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "TV of tomorrow",
+      "Label": "MILAN",
+      "ReferenceLabel": "74321 12470 2",
+      "ExternalID": "0743211247023-1-3",
+      "AlbumTitle": "Bof / Tex avery cartoons",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743211247023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Bradley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:03:39+01:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:10:12:00",
+      "ScheduledDuration": "00:00:14:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "American empirical pictures",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "American empirical pictures",
+      "Label": "TWENTIETH CENTURY FOX",
+      "ReferenceLabel": "1877102562",
+      "ExternalID": "0018771025627-1-1",
+      "AlbumTitle": "BOF / Fantastic Mr. Fox",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0018771025627",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Alexandre Desplat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jarvis Cocker (chansons Du Film)",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:10:12+01:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:10:26:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The ballad of Davy Crockett",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The ballad of Davy Crockett",
+      "Label": "TWENTIETH CENTURY FOX",
+      "ReferenceLabel": "1877102562",
+      "ExternalID": "0018771025627-1-2",
+      "AlbumTitle": "BOF / Fantastic Mr. Fox",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0018771025627",
+      "Compositor": [
+        {
+          "FullName": "Alexandre Desplat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jarvis Cocker (chansons Du Film)",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "The Wellington",
+        "Profession": "Interprète",
+        "InterventionNote": "The Wellington"
+      },
+      "ScheduledDateTime": "2018-01-29T13:10:26+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:12:06:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mr. Fox in the fields",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mr. Fox in the fields",
+      "Label": "TWENTIETH CENTURY FOX",
+      "ReferenceLabel": "1877102562",
+      "ExternalID": "0018771025627-1-3",
+      "AlbumTitle": "BOF / Fantastic Mr. Fox",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0018771025627",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Alexandre Desplat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jarvis Cocker (chansons Du Film)",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:12:06+01:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:13:08:00",
+      "ScheduledDuration": "00:01:26:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "High-speed french train",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "High-speed french train",
+      "Label": "TWENTIETH CENTURY FOX",
+      "ReferenceLabel": "1877102562",
+      "ExternalID": "0018771025627-1-10",
+      "AlbumTitle": "BOF / Fantastic Mr. Fox",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0018771025627",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Alexandre Desplat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jarvis Cocker (chansons Du Film)",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:13:08+01:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:14:34:00",
+      "ScheduledDuration": "00:02:27:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stunt expo 2004",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stunt expo 2004",
+      "Label": "TWENTIETH CENTURY FOX",
+      "ReferenceLabel": "1877102562",
+      "ExternalID": "0018771025627-1-22",
+      "AlbumTitle": "BOF / Fantastic Mr. Fox",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0018771025627",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Alexandre Desplat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jarvis Cocker (chansons Du Film)",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:14:34+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:17:01:00",
+      "ScheduledDuration": "00:01:25:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les pierrafeu (The flintstones)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les pierrafeu (The flintstones)",
+      "Label": "TV RECORDS",
+      "ReferenceLabel": "TVCD 3",
+      "ExternalID": "RF00000039512-1-6",
+      "AlbumTitle": "BOFTV / L'histoire des séries américaines / Vol. 3",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1988-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000039512",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Hoyt Curtin",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Joseph Barbera",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "William Hanna",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:17:01+01:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:18:26:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The minimoys ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The minimoys ouverture",
+      "Label": "EUROPACORP",
+      "ReferenceLabel": "984551-3",
+      "ExternalID": "0602498455135-1-1",
+      "AlbumTitle": "Arthur et le minimoys",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498455135",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Eric Serra",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:18:26+01:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:20:47:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Third ring for the soul",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Third ring for the soul",
+      "Label": "EUROPACORP",
+      "ReferenceLabel": "984551-3",
+      "ExternalID": "0602498455135-1-12",
+      "AlbumTitle": "Arthur et le minimoys",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498455135",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Eric Serra",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:20:47+01:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:22:17:00",
+      "ScheduledDuration": "00:01:41:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Retrouvailles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Retrouvailles",
+      "Label": "POMME MUSIC",
+      "ReferenceLabel": "951292",
+      "ExternalID": "3436949512927-1-2",
+      "AlbumTitle": "Asterix chez les bretons/La surprise de Cesar",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3436949512927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vladimir Cosma",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:22:17+01:00",
+      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:23:58:00",
+      "ScheduledDuration": "00:01:16:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Idéfix et la grenouille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Idéfix et la grenouille",
+      "Label": "POMME MUSIC",
+      "ReferenceLabel": "951292",
+      "ExternalID": "3436949512927-1-3",
+      "AlbumTitle": "Asterix chez les bretons/La surprise de Cesar",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3436949512927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vladimir Cosma",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:23:58+01:00",
+      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:25:14:00",
+      "ScheduledDuration": "00:02:09:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Expéridion Gauloise",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Expéridion Gauloise",
+      "Label": "POMME MUSIC",
+      "ReferenceLabel": "951292",
+      "ExternalID": "3436949512927-1-8",
+      "AlbumTitle": "Asterix chez les bretons/La surprise de Cesar",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3436949512927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vladimir Cosma",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:25:14+01:00",
+      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:27:23:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I love robots / hamegg's story",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I love robots / hamegg's story",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "VSD-6989",
+      "ExternalID": "4005939698928-1-9",
+      "AlbumTitle": "BOF / Astro boy",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4005939698928",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Ottman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:27:23+01:00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:29:44:00",
+      "ScheduledDuration": "00:00:51:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Undercover robots",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Undercover robots",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "VSD-6989",
+      "ExternalID": "4005939698928-1-14",
+      "AlbumTitle": "BOF / Astro boy",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4005939698928",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Ottman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T13:29:44+01:00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:30:39:00",
+      "ScheduledDuration": "00:02:28:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Our house below(version instrumentale)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Our house below(version instrumentale)",
+      "Label": "WASABI RECORDS",
+      "ReferenceLabel": "9102231",
+      "ExternalID": "3700091022314-1-3",
+      "AlbumTitle": "BOF : Arrietty,le petit monde des chapardeurs",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700091022314",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Cecil Corbel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Corbel",
+        "Profession": "Interprète",
+        "InterventionNote": "Corbel : Harpe",
+        "mop": "Harpe"
+      },
+      "ScheduledDateTime": "2018-01-29T13:30:39+01:00"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:33:07:00",
+      "ScheduledDuration": "00:02:55:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dolls' polyphony",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dolls' polyphony",
+      "Label": "MILAN",
+      "ReferenceLabel": "399857-2",
+      "ExternalID": "3299039985724-1-5",
+      "AlbumTitle": "BOF / Akira",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039985724",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Yamashiro Shoji",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Geinoh Yamashirogumi",
+        "Profession": "Interprète",
+        "InterventionNote": "Geinoh Yamashirogumi"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Yamashiro Shoji",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T13:33:07+01:00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:36:02:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Capture the flag : Capture the flag (Main theme)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Capture the flag : Capture the flag (Main theme)",
+      "Label": "QUARTET RECORDS",
+      "ReferenceLabel": "91716",
+      "ISRC": "ES-13C-11-82202",
+      "ExternalID": "8436560842132-1-2",
+      "AlbumTitle": "BOF / Capture the flag",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8436560842132",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Diego Navarro",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orquestra Sinfonica De Tenerife",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Diego Navarro",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T13:36:02+01:00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:40:23:00",
+      "ScheduledDuration": "00:01:54:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Capture the flag : Fighting for the flag",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Capture the flag : Fighting for the flag",
+      "Label": "QUARTET RECORDS",
+      "ReferenceLabel": "91716",
+      "ISRC": "ES-13C-11-82204",
+      "ExternalID": "8436560842132-1-4",
+      "AlbumTitle": "BOF / Capture the flag",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8436560842132",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Diego Navarro",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orquestra Sinfonica De Tenerife",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Diego Navarro",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T13:40:23+01:00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:42:17:00",
+      "ScheduledDuration": "00:03:03:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The wild waltz",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The wild waltz",
+      "Label": "WASABI RECORDS",
+      "ReferenceLabel": "9102231",
+      "ExternalID": "3700091022314-1-11",
+      "AlbumTitle": "BOF : Arrietty,le petit monde des chapardeurs",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700091022314",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Cecil Corbel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Corbel",
+        "Profession": "Interprète",
+        "InterventionNote": "Corbel : Harpe",
+        "mop": "Harpe"
+      },
+      "ScheduledDateTime": "2018-01-29T13:42:17+01:00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:45:20:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Robinson Crusoe : Paradise Just Got Better",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Robinson Crusoe : Paradise Just Got Better",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0060254782365-1-2",
+      "AlbumTitle": "BOF / Robinson Crusoe",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0060254782365",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Ramin Djawadi",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Marina Kaye",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:45:20+01:00"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:47:49:00",
+      "ScheduledDuration": "00:02:47:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sho's lament(version instrumentale n°1)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sho's lament(version instrumentale n°1)",
+      "Label": "WASABI RECORDS",
+      "ReferenceLabel": "9102231",
+      "ExternalID": "3700091022314-1-5",
+      "AlbumTitle": "BOF : Arrietty,le petit monde des chapardeurs",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700091022314",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Cecil Corbel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Corbel",
+        "Profession": "Interprète",
+        "InterventionNote": "Corbel : Harpe",
+        "mop": "Harpe"
+      },
+      "ScheduledDateTime": "2018-01-29T13:47:49+01:00"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:50:36:00",
+      "ScheduledDuration": "00:04:04:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Thème de béryl",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Thème de béryl",
+      "Label": "MK2 MUSIC",
+      "ReferenceLabel": "8345106072",
+      "ExternalID": "3283451060725-1-1",
+      "AlbumTitle": "Bof : Les Enfants de la pluie",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3283451060725",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Didier Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Lockwood : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Vocal Patrick Foucher",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-29T13:50:36+01:00"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:54:40:00",
+      "ScheduledDuration": "00:03:18:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Robinson Crusoe : Building a shelter",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Robinson Crusoe : Building a shelter",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0060254782365-1-11",
+      "AlbumTitle": "BOF / Robinson Crusoe",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0060254782365",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Ramin Djawadi",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Marina Kaye",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:54:40+01:00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:57:58:00",
+      "ScheduledDuration": "00:00:47:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ouverture (générique de début)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ouverture (générique de début)",
+      "Label": "MK2 MUSIC",
+      "ReferenceLabel": "8345106072",
+      "ExternalID": "3283451060725-1-3",
+      "AlbumTitle": "Bof : Les Enfants de la pluie",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3283451060725",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Didier Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Lockwood : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Vocal Patrick Foucher",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-29T13:57:58+01:00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:58:45:00",
+      "ScheduledDuration": "00:00:59:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Orfalaise",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Orfalaise",
+      "Label": "MK2 MUSIC",
+      "ReferenceLabel": "8345106072",
+      "ExternalID": "3283451060725-1-4",
+      "AlbumTitle": "Bof : Les Enfants de la pluie",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3283451060725",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Didier Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Lockwood : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Vocal Patrick Foucher",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-29T13:58:45+01:00"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "13:59:44:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Robinson Crusoe : The other world",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Robinson Crusoe : The other world",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0060254782365-1-3",
+      "AlbumTitle": "BOF / Robinson Crusoe",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0060254782365",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Ramin Djawadi",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Marina Kaye",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T13:59:44+01:00"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:01:00:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Robinson Crusoe : Going home",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Robinson Crusoe : Going home",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0060254782365-1-19",
+      "AlbumTitle": "BOF / Robinson Crusoe",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0060254782365",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Ramin Djawadi",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Marina Kaye",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T14:01:00+01:00"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:04:00:00",
+      "ScheduledDuration": "00:04:51:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Home after rain",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Home after rain",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 434-2",
+      "ExternalID": "3299039943427-1-23",
+      "AlbumTitle": "BOF / Les enfants loups",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039943427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Takagi Masakatsu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:04:00+01:00"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:08:51:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le joyau de la grèce (instr.)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le joyau de la grèce (instr.)",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36053-2",
+      "ExternalID": "3418153605329-1-20",
+      "AlbumTitle": "Bof / Hercule",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153605329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alan Menken",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:08:51+01:00",
+      "composer": "http://data.doremus.org/artist/41019c14-edf3-3153-a650-6bc51c887a64"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:09:57:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La destruction du forum (instr.)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La destruction du forum (instr.)",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36053-2",
+      "ExternalID": "3418153605329-1-22",
+      "AlbumTitle": "Bof / Hercule",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153605329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alan Menken",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:09:57+01:00",
+      "composer": "http://data.doremus.org/artist/41019c14-edf3-3153-a650-6bc51c887a64"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:12:04:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tani Eno Michi",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tani Eno Michi",
+      "Label": "EVER ANIME",
+      "ReferenceLabel": "ANG-216/217",
+      "ExternalID": "RF00000000765-1-9",
+      "AlbumTitle": "Bof / Nausicaa",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000000765",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joe Hisaishi",
+        "Profession": "Interprète",
+        "InterventionNote": "Joe Hisaishi"
+      },
+      "ScheduledDateTime": "2018-01-29T14:12:04+01:00"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:15:08:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'enfant qui voulait etre un ours (vo)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'enfant qui voulait etre un ours (vo)",
+      "Label": "FRANCE TELEVISIONS DISTRIBUTION",
+      "ReferenceLabel": "5807072",
+      "ExternalID": "0724358070729-1-1",
+      "AlbumTitle": "Bof / L'enfant qui voulait etre un ours",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724358070729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Coulais",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marc Chantereau",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Chantereau : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Raoul Duflot Verez",
+          "Profession": "Interprète",
+          "InterventionNote": "Raoul Duflot Verez"
+        },
+        {
+          "FullName": "Marie Boine",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Boine : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Bulgarian Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T14:15:08+01:00",
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:17:39:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Transformation",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Transformation",
+      "Label": "FRANCE TELEVISIONS DISTRIBUTION",
+      "ReferenceLabel": "5807072",
+      "ExternalID": "0724358070729-1-9",
+      "AlbumTitle": "Bof / L'enfant qui voulait etre un ours",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724358070729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Coulais",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marc Chantereau",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Chantereau : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Raoul Duflot Verez",
+          "Profession": "Interprète",
+          "InterventionNote": "Raoul Duflot Verez"
+        },
+        {
+          "FullName": "Marie Boine",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Boine : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Bulgarian Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T14:17:39+01:00",
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:20:19:00",
+      "ScheduledDuration": "00:01:22:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'attaque des loups",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'attaque des loups",
+      "Label": "FRANCE TELEVISIONS DISTRIBUTION",
+      "ReferenceLabel": "5807072",
+      "ExternalID": "0724358070729-1-13",
+      "AlbumTitle": "Bof / L'enfant qui voulait etre un ours",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724358070729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Coulais",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marc Chantereau",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Chantereau : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Raoul Duflot Verez",
+          "Profession": "Interprète",
+          "InterventionNote": "Raoul Duflot Verez"
+        },
+        {
+          "FullName": "Marie Boine",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Boine : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Bulgarian Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T14:20:19+01:00",
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
+    },
+    {
+      "id": "66",
+      "StepID": "66",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:21:41:00",
+      "ScheduledDuration": "00:03:29:00",
+      "NumPhase": 65,
+      "Inclusion": 0,
+      "NumEventCond": 66,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Recovery of the god soldier",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Recovery of the god soldier",
+      "Label": "EVER ANIME",
+      "ReferenceLabel": "ANG-216/217",
+      "ExternalID": "RF00000000765-2-11",
+      "AlbumTitle": "Bof / Nausicaa",
+      "Rank": 11,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000000765",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joe Hisaish",
+        "Profession": "Interprète",
+        "InterventionNote": "Joe Hisaish"
+      },
+      "ScheduledDateTime": "2018-01-29T14:21:41+01:00"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:25:10:00",
+      "ScheduledDuration": "00:01:19:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les monts roses",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les monts roses",
+      "Label": "FRANCE TELEVISIONS DISTRIBUTION",
+      "ReferenceLabel": "5807072",
+      "ExternalID": "0724358070729-1-14",
+      "AlbumTitle": "Bof / L'enfant qui voulait etre un ours",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724358070729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Coulais",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marc Chantereau",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Chantereau : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Raoul Duflot Verez",
+          "Profession": "Interprète",
+          "InterventionNote": "Raoul Duflot Verez"
+        },
+        {
+          "FullName": "Marie Boine",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Boine : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Bulgarian Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T14:25:10+01:00",
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
+    },
+    {
+      "id": "68",
+      "StepID": "68",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:26:29:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 67,
+      "Inclusion": 0,
+      "NumEventCond": 68,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Duo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Duo",
+      "Label": "MK2 MUSIC",
+      "ReferenceLabel": "8345106072",
+      "ExternalID": "3283451060725-1-44",
+      "AlbumTitle": "Bof : Les Enfants de la pluie",
+      "Rank": 44,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3283451060725",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Didier Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Lockwood : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Vocal Patrick Foucher",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-29T14:26:29+01:00"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:27:56:00",
+      "ScheduledDuration": "00:04:46:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La passion Van Gogh : The yellow house",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La passion Van Gogh : The yellow house",
+      "Label": "EDITIONS MILAN MUSIC",
+      "ReferenceLabel": "399 941-2",
+      "ISRC": "FR-Z81-17-07121",
+      "ExternalID": "3299039994122-1-2",
+      "AlbumTitle": "BOF / La passion Van Gogh (Loving vincent)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039994122",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Clint Mansell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matt Dunkley",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T14:27:56+01:00"
+    },
+    {
+      "id": "70",
+      "StepID": "70",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:32:42:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 69,
+      "Inclusion": 0,
+      "NumEventCond": 70,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La passion Van Gogh : Starry night over the Rhone",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La passion Van Gogh : Starry night over the Rhone",
+      "Label": "EDITIONS MILAN MUSIC",
+      "ReferenceLabel": "399 941-2",
+      "ISRC": "FR-Z81-17-07132",
+      "ExternalID": "3299039994122-1-13",
+      "AlbumTitle": "BOF / La passion Van Gogh (Loving vincent)",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039994122",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Clint Mansell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matt Dunkley",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-29T14:32:42+01:00"
+    },
+    {
+      "id": "72",
+      "StepID": "72",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:34:03:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 71,
+      "Inclusion": 0,
+      "NumEventCond": 72,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Kito kito - Dance of your nature",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Kito kito - Dance of your nature",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 434-2",
+      "ExternalID": "3299039943427-1-12",
+      "AlbumTitle": "BOF / Les enfants loups",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039943427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Takagi Masakatsu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:34:03+01:00"
+    },
+    {
+      "id": "73",
+      "StepID": "73",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:36:11:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 72,
+      "Inclusion": 0,
+      "NumEventCond": 73,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vaiana : Prologue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vaiana : Prologue",
+      "Label": "WALT DISNEY RECORDS",
+      "ExternalID": "0050087354282-1-16",
+      "AlbumTitle": "BOF / Vaiana, la légende du bout du monde",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050087354282",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mark Mancina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:36:11+01:00"
+    },
+    {
+      "id": "74",
+      "StepID": "74",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:38:37:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 73,
+      "Inclusion": 0,
+      "NumEventCond": 74,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vaiana : Si j'étais l'océan",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vaiana : Si j'étais l'océan",
+      "Label": "WALT DISNEY RECORDS",
+      "ExternalID": "0050087354282-1-28",
+      "AlbumTitle": "BOF / Vaiana, la légende du bout du monde",
+      "Rank": 28,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050087354282",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mark Mancina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:38:37+01:00"
+    },
+    {
+      "id": "75",
+      "StepID": "75",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:41:38:00",
+      "ScheduledDuration": "00:01:12:00",
+      "NumPhase": 74,
+      "Inclusion": 0,
+      "NumEventCond": 75,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bosomed string",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bosomed string",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 434-2",
+      "ExternalID": "3299039943427-1-16",
+      "AlbumTitle": "BOF / Les enfants loups",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039943427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Takagi Masakatsu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:41:38+01:00"
+    },
+    {
+      "id": "76",
+      "StepID": "76",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:42:50:00",
+      "ScheduledDuration": "00:00:47:00",
+      "NumPhase": 75,
+      "Inclusion": 0,
+      "NumEventCond": 76,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vaiana : Le retour",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vaiana : Le retour",
+      "Label": "WALT DISNEY RECORDS",
+      "ExternalID": "0050087354282-1-39",
+      "AlbumTitle": "BOF / Vaiana, la légende du bout du monde",
+      "Rank": 39,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050087354282",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mark Mancina",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2018-01-29T14:42:50+01:00"
+    },
+    {
+      "id": "77",
+      "StepID": "77",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:43:37:00",
+      "ScheduledDuration": "00:04:15:00",
+      "NumPhase": 76,
+      "Inclusion": 0,
+      "NumEventCond": 77,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Harukanaru Daichi E",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Harukanaru Daichi E",
+      "Label": "EVER ANIME",
+      "ReferenceLabel": "ANG-216/217",
+      "ExternalID": "RF00000000765-1-3",
+      "AlbumTitle": "Bof / Nausicaa",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000000765",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joe Hisaishi",
+        "Profession": "Interprète",
+        "InterventionNote": "Joe Hisaishi"
+      },
+      "ScheduledDateTime": "2018-01-29T14:43:37+01:00"
+    },
+    {
+      "id": "78",
+      "StepID": "78",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:47:52:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 77,
+      "Inclusion": 0,
+      "NumEventCond": 78,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les retrouvailles d'ernest et célestine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les retrouvailles d'ernest et célestine",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD 399 447-2",
+      "ExternalID": "3299039944721-1-13",
+      "AlbumTitle": "B.O.F./ Ernest & Celestine",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039944721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vincent Courtois",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Benjamin Moussay",
+          "Profession": "Interprète",
+          "InterventionNote": "Benjamin Moussay : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Louis Sclavis",
+          "Profession": "Interprète",
+          "InterventionNote": "Louis Sclavis : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Dominique Pifarely",
+          "Profession": "Interprète",
+          "InterventionNote": "Dominique Pifarely : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Claude Tchamichian",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Tchamichian : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Francois Merville",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Merville : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T14:47:52+01:00",
+      "composer": "http://data.doremus.org/artist/2ab83b28-5c47-3c1b-a22e-82fbbb714497"
+    },
+    {
+      "id": "79",
+      "StepID": "79",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:50:02:00",
+      "ScheduledDuration": "00:02:23:00",
+      "NumPhase": 78,
+      "Inclusion": 0,
+      "NumEventCond": 79,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variation du temps, de l'hiver au printemps...",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variation du temps, de l'hiver au printemps...",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD 399 447-2",
+      "ExternalID": "3299039944721-1-9",
+      "AlbumTitle": "B.O.F./ Ernest & Celestine",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039944721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vincent Courtois",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Benjamin Moussay",
+          "Profession": "Interprète",
+          "InterventionNote": "Benjamin Moussay : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Louis Sclavis",
+          "Profession": "Interprète",
+          "InterventionNote": "Louis Sclavis : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Dominique Pifarely",
+          "Profession": "Interprète",
+          "InterventionNote": "Dominique Pifarely : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Claude Tchamichian",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Tchamichian : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Francois Merville",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Merville : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T14:50:02+01:00",
+      "composer": "http://data.doremus.org/artist/2ab83b28-5c47-3c1b-a22e-82fbbb714497"
+    },
+    {
+      "id": "80",
+      "StepID": "80",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:52:25:00",
+      "ScheduledDuration": "00:02:51:00",
+      "NumPhase": 79,
+      "Inclusion": 0,
+      "NumEventCond": 80,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Flynn wanted",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Flynn wanted",
+      "Label": "WALT DISNEY RECORDING",
+      "ReferenceLabel": "D000650802",
+      "ExternalID": "0050087169138-1-9",
+      "AlbumTitle": "BOF / Raiponce",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050087169138",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alan Menken",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:52:25+01:00",
+      "composer": "http://data.doremus.org/artist/41019c14-edf3-3153-a650-6bc51c887a64"
+    },
+    {
+      "id": "81",
+      "StepID": "81",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:55:16:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 80,
+      "Inclusion": 0,
+      "NumEventCond": 81,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'ile de phil (instr.)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'ile de phil (instr.)",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36053-2",
+      "ExternalID": "3418153605329-1-23",
+      "AlbumTitle": "Bof / Hercule",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153605329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alan Menken",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:55:16+01:00",
+      "composer": "http://data.doremus.org/artist/41019c14-edf3-3153-a650-6bc51c887a64"
+    },
+    {
+      "id": "82",
+      "StepID": "82",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "14:57:42:00",
+      "ScheduledDuration": "00:05:50:00",
+      "NumPhase": 81,
+      "Inclusion": 0,
+      "NumEventCond": 82,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Realization and escape",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Realization and escape",
+      "Label": "WALT DISNEY RECORDING",
+      "ReferenceLabel": "D000650802",
+      "ExternalID": "0050087169138-1-17",
+      "AlbumTitle": "BOF / Raiponce",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0050087169138",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alan Menken",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T14:57:42+01:00",
+      "composer": "http://data.doremus.org/artist/41019c14-edf3-3153-a650-6bc51c887a64"
+    },
+    {
+      "id": "83",
+      "StepID": "83",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "15:03:32:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 82,
+      "Inclusion": 0,
+      "NumEventCond": 83,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'incendie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'incendie",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD 399 447-2",
+      "ExternalID": "3299039944721-1-12",
+      "AlbumTitle": "B.O.F./ Ernest & Celestine",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039944721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vincent Courtois",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Benjamin Moussay",
+          "Profession": "Interprète",
+          "InterventionNote": "Benjamin Moussay : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Louis Sclavis",
+          "Profession": "Interprète",
+          "InterventionNote": "Louis Sclavis : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Dominique Pifarely",
+          "Profession": "Interprète",
+          "InterventionNote": "Dominique Pifarely : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Claude Tchamichian",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Tchamichian : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Francois Merville",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Merville : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-29T15:03:32+01:00",
+      "composer": "http://data.doremus.org/artist/2ab83b28-5c47-3c1b-a22e-82fbbb714497"
+    },
+    {
+      "id": "84",
+      "StepID": "84",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-29",
+      "ScheduledTime": "15:05:43:00",
+      "ScheduledDuration": "00:00:55:00",
+      "NumPhase": 83,
+      "Inclusion": 0,
+      "NumEventCond": 84,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La prophétie (instr.)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La prophétie (instr.)",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36053-2",
+      "ExternalID": "3418153605329-1-21",
+      "AlbumTitle": "Bof / Hercule",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153605329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alan Menken",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2018-01-29T15:05:43+01:00",
+      "composer": "http://data.doremus.org/artist/41019c14-edf3-3153-a650-6bc51c887a64"
+    }
+  ],
+  "total": 77,
+  "matched": 0
+}

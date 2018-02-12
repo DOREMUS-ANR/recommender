@@ -1,0 +1,1006 @@
+{
+  "id": "FM-406_20171211_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:01:12:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lithuanian night - 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lithuanian night - 2",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 68066 2",
+      "ExternalID": "0090266806621-1-6",
+      "AlbumTitle": "Fighting the waves",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266806621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Antheil",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T00:00:08+01:00",
+      "composer": "http://data.doremus.org/artist/af524c52-dfe6-335c-ad14-8ad170d9f839",
+      "best": "http://data.doremus.org/expression/d5942bea-d2ef-3f49-bb41-a4ac123c6f40",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:01:37:00",
+      "ScheduledDuration": "00:14:25:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ballet mécanique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ballet mécanique",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 68066 2",
+      "ExternalID": "0090266806621-1-2",
+      "AlbumTitle": "Fighting the waves",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266806621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Antheil",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hk Gruber",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T00:01:37+01:00",
+      "composer": "http://data.doremus.org/artist/af524c52-dfe6-335c-ad14-8ad170d9f839",
+      "best": "http://data.doremus.org/expression/916f1a08-5d1f-34f6-8ffc-a8a2493a6c91",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:16:05:00",
+      "ScheduledDuration": "00:14:27:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le contredésir - pour clarinette cor et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le contredésir - pour clarinette cor et violoncelle",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6578 2",
+      "ExternalID": "4010228657821-1-1",
+      "AlbumTitle": "Saed Haddad : Oeuvres instrumentales",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228657821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Saed Haddad",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Modern",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Modern"
+        },
+        {
+          "FullName": "Nina Janssen",
+          "Profession": "Interprète",
+          "InterventionNote": "Nina Janssen : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Saar Berger",
+          "Profession": "Interprète",
+          "InterventionNote": "Saar Berger : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Michael Kasper",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Kasper : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-11T00:16:05+01:00",
+      "composer": "http://data.doremus.org/artist/6175219c-654e-3cbd-b9bb-f844b0391635"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:30:53:00",
+      "ScheduledDuration": "00:10:32:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sextuor",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sextuor",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS11507",
+      "ExternalID": "4260063115073-1-10",
+      "AlbumTitle": "Marcus Antonius Wesselmann : Oeuvres pour ensemble / Vol. 1",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063115073",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marcus Antonius Wesselmann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Modern"
+      },
+      "OrchestraLeader": {
+        "FullName": "Franck Ollu",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T00:30:53+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:41:25:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fiktive Tänze : Auszeit - pour orchestre de 17 musiciens",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fiktive Tänze : Auszeit - pour orchestre de 17 musiciens",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS 10942",
+      "ExternalID": "4260063109423-1-4",
+      "AlbumTitle": "Donaueschinger Musiktage 2008 / Vol 2",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063109423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnulf Herrmann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Ollu",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T00:41:25+01:00",
+      "composer": "http://data.doremus.org/artist/484c56f5-c1ef-3d97-ab44-3e793fae6312",
+      "best": "http://data.doremus.org/expression/9aa1ec74-e5cc-3cf2-892c-df549ca88e0a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:42:45:00",
+      "ScheduledDuration": "00:07:37:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Revised music for low budget orchestra",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Revised music for low budget orchestra",
+      "Label": "RCA",
+      "ReferenceLabel": "82876 56061 2",
+      "ExternalID": "0828765606127-1-4",
+      "AlbumTitle": "Greggery peccary and other persuasions /Ensemble Modern plays Zappa",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0828765606127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frank Zappa",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Modern"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jonathan Stockhammer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T00:42:45+01:00",
+      "composer": "http://data.doremus.org/artist/73247f3a-a7b6-364b-b106-543ef55887fc"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "00:50:41:00",
+      "ScheduledDuration": "00:09:48:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Labyrinth - pour voix flûte traversière trompette saxophone et contrebasse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Labyrinth - pour voix flûte traversière trompette saxophone et contrebasse",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0013362KAI ,",
+      "ExternalID": "9120010281976-1-1",
+      "AlbumTitle": "Agata Zubel : Not I",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281976",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Agata Zubel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Klangforum De Vienne",
+          "Profession": "Interprète",
+          "InterventionNote": "Klangforum De Vienne"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Agata Zubel",
+          "Profession": "Interprète",
+          "InterventionNote": "Agata Zubel"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Clement Power",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T00:50:41+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "01:00:29:00",
+      "ScheduledDuration": "00:15:38:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wunderblock \"\"nebenstück II\"\" - pour accordéon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wunderblock \"\"nebenstück II\"\" - pour accordéon et orchestre",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 0976",
+      "ExternalID": "3760058368763-1-7",
+      "AlbumTitle": "Aggravations et final",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058368763",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerard Pesson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Teodoro Anzellotti",
+        "Profession": "Interprète",
+        "InterventionNote": "Teodoro Anzellotti : Chant",
+        "mop": "Chant"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Du Wdr De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Johannes Kalitzke",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T01:00:29+01:00",
+      "composer": "http://data.doremus.org/artist/441ada62-3e3f-3df1-8e9c-8f79ee77bf99"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "01:16:30:00",
+      "ScheduledDuration": "00:22:57:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mouvement (vor der Erstarrung) - pour 15 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mouvement (vor der Erstarrung) - pour 15 instruments",
+      "Label": "ECM",
+      "ReferenceLabel": "461949-2",
+      "ExternalID": "RF00000052481-1-2",
+      "AlbumTitle": "Helmut Lachenmann : Schwankungen am Rand et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000052481",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Helmut Lachenmann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Modern Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Eotvos",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T01:16:30+01:00",
+      "composer": "http://data.doremus.org/artist/eabac351-4e52-392c-8c23-08237c59b938",
+      "best": "http://data.doremus.org/expression/ca4b9e89-8ddf-33c2-b905-0285631329dc",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "01:39:30:00",
+      "ScheduledDuration": "00:08:41:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Blood on the floor",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Blood on the floor",
+      "Label": "ARGO",
+      "ReferenceLabel": "455282-2",
+      "ExternalID": "0028945529226-1-1",
+      "AlbumTitle": "Mark Anthony Turnage : Blood on the floor",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945529226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Mark-Anthony Turnage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "John Scofield",
+          "Profession": "Interprète",
+          "InterventionNote": "John Scofield : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Peter Erskine",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Erskine : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Martin Robertson",
+          "Profession": "Interprète",
+          "InterventionNote": "Martin Robertson : Saxophone",
+          "mop": "Saxophone"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Rundel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T01:39:30+01:00",
+      "composer": "http://data.doremus.org/artist/6be5c3f6-d661-35d5-8b74-029d65729830",
+      "best": "http://data.doremus.org/expression/eaae1170-9f3d-3c4a-92f0-2bc1edc2dbcb",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "01:48:42:00",
+      "ScheduledDuration": "00:07:00:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Get Whitey",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Get Whitey",
+      "Label": "ZAPPA RECORDS",
+      "ReferenceLabel": "CDZAP 57",
+      "ExternalID": "5016583605728-1-18",
+      "AlbumTitle": "The yellow shark",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5016583605728",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Frank Zappa",
+        "Profession": "Interprète",
+        "InterventionNote": "Frank Zappa"
+      },
+      "ScheduledDateTime": "2017-12-11T01:48:42+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "01:55:45:00",
+      "ScheduledDuration": "00:03:33:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Octet (Eight Lines) : Eight Lines",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Octet (Eight Lines) : Eight Lines",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "74321 66459 2",
+      "ExternalID": "0743216645923-1-9",
+      "AlbumTitle": "Steve Reich : City Life New York Counterpoint et Octet",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216645923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Esnemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Esnemble Modern"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T01:55:45+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "01:59:18:00",
+      "ScheduledDuration": "00:02:51:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Octet (Eight Lines) : Ziffer 16",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Octet (Eight Lines) : Ziffer 16",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "74321 66459 2",
+      "ExternalID": "0743216645923-1-10",
+      "AlbumTitle": "Steve Reich : City Life New York Counterpoint et Octet",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216645923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Esnemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Esnemble Modern"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T01:59:18+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "02:02:09:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Octet (Eight Lines) : Ziffer 31",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Octet (Eight Lines) : Ziffer 31",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "74321 66459 2",
+      "ExternalID": "0743216645923-1-11",
+      "AlbumTitle": "Steve Reich : City Life New York Counterpoint et Octet",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216645923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Esnemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Esnemble Modern"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T02:02:09+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "02:05:58:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Octet (Eight Lines) : Ziffer 46",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Octet (Eight Lines) : Ziffer 46",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "74321 66459 2",
+      "ExternalID": "0743216645923-1-12",
+      "AlbumTitle": "Steve Reich : City Life New York Counterpoint et Octet",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216645923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Esnemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Esnemble Modern"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T02:05:58+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "02:08:27:00",
+      "ScheduledDuration": "00:03:21:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Octet (Eight Lines) : Ziffer 61",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Octet (Eight Lines) : Ziffer 61",
+      "Label": "RCA RED SEAL",
+      "ReferenceLabel": "74321 66459 2",
+      "ExternalID": "0743216645923-1-13",
+      "AlbumTitle": "Steve Reich : City Life New York Counterpoint et Octet",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216645923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Esnemble Modern",
+        "Profession": "Interprète",
+        "InterventionNote": "Esnemble Modern"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T02:08:27+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "02:11:48:00",
+      "ScheduledDuration": "00:16:24:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Abîme apogée (pour ensemble et électronique)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Abîme apogée (pour ensemble et électronique)",
+      "Label": "NOMAD",
+      "ReferenceLabel": "NMM023",
+      "ExternalID": "RF00000059617-1-1",
+      "AlbumTitle": "While",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000059617",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Aurelien Dumont",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Klangforum Wien",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Michael Lavoie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T02:11:48+01:00",
+      "composer": "http://data.doremus.org/artist/f984d546-20bc-377e-b669-42e424d6a1b0"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "02:28:39:00",
+      "ScheduledDuration": "00:21:07:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Contretemps - pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Contretemps - pour soprano et orchestre",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0013222KAI",
+      "ExternalID": "9120010281853-1-1",
+      "AlbumTitle": "Georges Aperghis : Contretemps Seesaw et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281853",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georges Aperghis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Donatienne Michel-Dansac",
+        "Profession": "Interprète",
+        "InterventionNote": "Donatienne Michel-Dansac : Voix, Soprano",
+        "mop": "Voix, Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Klangforum De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Emilio Pomarico",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-11T02:28:39+01:00",
+      "composer": "http://data.doremus.org/artist/27e37efd-4822-348a-bbd3-dc4199fe9f4c"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-11",
+      "ScheduledTime": "02:49:50:00",
+      "ScheduledDuration": "00:11:42:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "6 tourbillons : 1ère plage",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "6 tourbillons : 1ère plage",
+      "Label": "UMLAUT RECORDS",
+      "ExternalID": "3341348159232-1-1",
+      "AlbumTitle": "Georges Aperghis : Tourbillons et récitations",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348159232",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georges Aperghis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Olivier Cadiot",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Olivier Cadiot : Auteur"
+      },
+      "Interpreter": {
+        "FullName": "Donatienne Michel-Dansac",
+        "Profession": "Interprète",
+        "InterventionNote": "Donatienne Michel-Dansac : Voix",
+        "mop": "Voix"
+      },
+      "ScheduledDateTime": "2017-12-11T02:49:50+01:00",
+      "composer": "http://data.doremus.org/artist/27e37efd-4822-348a-bbd3-dc4199fe9f4c",
+      "best": "http://data.doremus.org/expression/b24ab4ab-5834-3c78-ae12-88769d782fa8",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 19,
+  "matched": 6
+}

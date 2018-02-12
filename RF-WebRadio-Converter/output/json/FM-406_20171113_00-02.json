@@ -1,0 +1,1755 @@
+{
+  "id": "FM-406_20171113_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:09:44:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sum (Sum n°4) : The end - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sum (Sum n°4) : The end - pour orchestre",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1331",
+      "ExternalID": "3760058360316-1-1",
+      "AlbumTitle": "Oscar Strasnoy : Oeuvres pour orchestre",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360316",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Oscar Strasnoy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Susanna Malkki",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:00:08+01:00",
+      "composer": "http://data.doremus.org/artist/a9751464-4255-3bf4-b9ca-a81ca2e4bec9"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:10:10:00",
+      "ScheduledDuration": "00:12:29:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eglog (trio pastoral pour violon baroque, clavecin et harpe)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eglog (trio pastoral pour violon baroque, clavecin et harpe)",
+      "Label": "NOMAD",
+      "ReferenceLabel": "NMM023",
+      "ExternalID": "RF00000059617-1-2",
+      "AlbumTitle": "While",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000059617",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Aurelien Dumont",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Trio Dauphine",
+        "Profession": "Interprète",
+        "InterventionNote": "Trio Dauphine"
+      },
+      "ScheduledDateTime": "2017-11-13T00:10:10+01:00",
+      "composer": "http://data.doremus.org/artist/f984d546-20bc-377e-b669-42e424d6a1b0"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:22:58:00",
+      "ScheduledDuration": "00:00:33:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Prélude - pour violoncelle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Prélude - pour violoncelle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-1",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Valerie Dulac",
+        "Profession": "Interprète",
+        "InterventionNote": "Valerie Dulac : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:22:58+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:23:31:00",
+      "ScheduledDuration": "00:01:36:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Celui qui s'étonne (début) - pour ensemble vocal guitare violoncelle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Celui qui s'étonne (début) - pour ensemble vocal guitare violoncelle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-2",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Solistes Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Solistes Xxi"
+        },
+        {
+          "FullName": "Raphaele Kennedy",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphaele Kennedy : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Vincent Bouchot",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Bouchot : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Christophe Jacques",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Christophe Jacques : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Valerie Dulac",
+          "Profession": "Interprète",
+          "InterventionNote": "Valerie Dulac : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:23:31+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:25:07:00",
+      "ScheduledDuration": "00:02:34:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Sans cuer (Triple ballade) - pour basse luth vièle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Sans cuer (Triple ballade) - pour basse luth vièle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-3",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Guillaume De Machaut",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Philippe Leroux",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Marc Busnel",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Busnel : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Valerie Dulac",
+          "Profession": "Interprète",
+          "InterventionNote": "Valerie Dulac : Vièle",
+          "mop": "Vièle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:25:07+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:27:41:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Celui qui s'étonne (fin) - pour ensemble vocal guitare violoncelle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Celui qui s'étonne (fin) - pour ensemble vocal guitare violoncelle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-4",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Solistes Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Solistes Xxi"
+        },
+        {
+          "FullName": "Raphaele Kennedy",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphaele Kennedy : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Vincent Bouchot",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Bouchot : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Christophe Jacques",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Christophe Jacques : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Valerie Dulac",
+          "Profession": "Interprète",
+          "InterventionNote": "Valerie Dulac : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:27:41+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:29:08:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Cinq poèmes de Jean Grosjean : Le gué - pour ensemble vocal et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Cinq poèmes de Jean Grosjean : Le gué - pour ensemble vocal et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-5",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Solistes Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Solistes Xxi"
+        },
+        {
+          "FullName": "Raphaele Kennedy",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphaele Kennedy : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Marie Albert",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Albert : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Laurent David",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent David : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Christophe Jacques",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Christophe Jacques : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Marc Busnel",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Busnel : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:29:08+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:32:07:00",
+      "ScheduledDuration": "00:02:22:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Celui qui perçoit (début) - pour ensemble vocal guitare violoncelle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Celui qui perçoit (début) - pour ensemble vocal guitare violoncelle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-6",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Solistes Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Solistes Xxi"
+        },
+        {
+          "FullName": "Raphaele Kennedy",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphaele Kennedy : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Vincent Bouchot",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Bouchot : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Christophe Jacques",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Christophe Jacques : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Valerie Dulac",
+          "Profession": "Interprète",
+          "InterventionNote": "Valerie Dulac : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:32:07+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:34:29:00",
+      "ScheduledDuration": "00:01:16:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Ma fin est mon commencement (Rondeau) - pour ténor luth vièle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Ma fin est mon commencement (Rondeau) - pour ténor luth vièle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-7",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume De Machaut",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Philippe Leroux",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Philippe Leroux : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Laurent David",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent David : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Valerie Dulac",
+          "Profession": "Interprète",
+          "InterventionNote": "Valerie Dulac : Vièle",
+          "mop": "Vièle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:34:29+01:00",
+      "composer": "http://data.doremus.org/artist/94089a7d-d851-361a-ba86-7213379f8fb2"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:35:45:00",
+      "ScheduledDuration": "00:01:57:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Celui qui perçoit (fin) - pour ensemble vocal guitare violoncelle et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Celui qui perçoit (fin) - pour ensemble vocal guitare violoncelle et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-8",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Solistes Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Solistes Xxi"
+        },
+        {
+          "FullName": "Raphaele Kennedy",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphaele Kennedy : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Vincent Bouchot",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Bouchot : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Christophe Jacques",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Christophe Jacques : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Caroline Delume",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Delume : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Valerie Dulac",
+          "Profession": "Interprète",
+          "InterventionNote": "Valerie Dulac : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:35:45+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:37:42:00",
+      "ScheduledDuration": "00:03:52:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quid sit Musicus : Cinq poèmes de Jean Grosjean : Désert à l'essai - pour ensemble vocal et électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quid sit Musicus : Cinq poèmes de Jean Grosjean : Désert à l'essai - pour ensemble vocal et électronique",
+      "Label": "SOUPIR EDITION",
+      "ReferenceLabel": "S228",
+      "ExternalID": "3341348158815-1-9",
+      "AlbumTitle": "Philippe Leroux : Quid sit Musicus",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158815",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Leroux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Solistes Xxi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Solistes Xxi"
+        },
+        {
+          "FullName": "Raphaele Kennedy",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphaele Kennedy : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Marie Albert",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Albert : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Lucile Richardot",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucile Richardot : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Laurent David",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent David : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Christophe Jacques",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Christophe Jacques : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Marc Busnel",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Busnel : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Safir",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:37:42+01:00",
+      "composer": "http://data.doremus.org/artist/ddd832d7-3aa7-308e-b78e-49ffe6763490"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:41:39:00",
+      "ScheduledDuration": "00:04:45:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Zampamuatta",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Zampamuatta",
+      "Label": "CORVO RECORDS",
+      "ReferenceLabel": "CORE007",
+      "ExternalID": "RF00000046572-1-6",
+      "AlbumTitle": "Prepared piano (courant expérimental pour piano préparé)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000046572",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ingrid Schmoliner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Ingrid Schmoliner",
+        "Profession": "Interprète",
+        "InterventionNote": "Ingrid Schmoliner : Piano préparé",
+        "mop": "Piano préparé"
+      },
+      "ScheduledDateTime": "2017-11-13T00:41:39+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "00:46:24:00",
+      "ScheduledDuration": "00:16:22:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Drones - pour 15 instrumentistes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Drones - pour 15 instrumentistes",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0013032KAI",
+      "ExternalID": "9120010281600-1-1",
+      "AlbumTitle": "Pierre Jodlowski : Drones et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281600",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Jodlowski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Susanna Malkki",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T00:46:24+01:00",
+      "composer": "http://data.doremus.org/artist/42b26f29-d307-32e4-b53f-d05c4adb63bd"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:03:10:00",
+      "ScheduledDuration": "00:11:00:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trio del sogno e del gabbiano - pour violon violoncelle et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trio del sogno e del gabbiano - pour violon violoncelle et piano",
+      "Label": "CONTINUO CLASSICS",
+      "ReferenceLabel": "CC777721",
+      "ExternalID": "3770000059212-1-1",
+      "AlbumTitle": "Luca Antignani : Azulejos",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3770000059212",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luca Antignani",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Les Temps Modernes",
+          "Profession": "Interprète",
+          "InterventionNote": "Les Temps Modernes"
+        },
+        {
+          "FullName": "Claire Bernard",
+          "Profession": "Interprète",
+          "InterventionNote": "Claire Bernard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Florian Nauche",
+          "Profession": "Interprète",
+          "InterventionNote": "Florian Nauche : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Emmanuelle Maggesi",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuelle Maggesi : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Fabrice, Pierre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T01:03:10+01:00",
+      "composer": "http://data.doremus.org/artist/67d7bf14-38f2-37db-ab93-a6db75173219"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:14:18:00",
+      "ScheduledDuration": "00:06:44:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Puccini all caccia - pour 8 joueurs d'appeaux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Puccini all caccia - pour 8 joueurs d'appeaux",
+      "Label": "EMPREINTES DIGITALES",
+      "ReferenceLabel": "ED13247",
+      "ExternalID": "RF00000055361-1-20",
+      "AlbumTitle": "Francesco Filidei : Forse et autres oeuvres",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055361",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Filidei",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble 2e2m",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble 2e2m"
+        },
+        {
+          "FullName": "Christophe Bredeloup",
+          "Profession": "Interprète",
+          "InterventionNote": "Christophe Bredeloup"
+        },
+        {
+          "FullName": "Clement Delmas",
+          "Profession": "Interprète",
+          "InterventionNote": "Clement Delmas"
+        },
+        {
+          "FullName": "Alain Huteau",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Huteau"
+        },
+        {
+          "FullName": "Vincent Limouzin",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Limouzin"
+        },
+        {
+          "FullName": "Eve Payeur",
+          "Profession": "Interprète",
+          "InterventionNote": "Eve Payeur"
+        },
+        {
+          "FullName": "Patrice Hic",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrice Hic"
+        },
+        {
+          "FullName": "Jean Marc Liet",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Marc Liet"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T01:14:18+01:00",
+      "composer": "http://data.doremus.org/artist/24c60ab1-94dd-3ea0-91ed-ffc6276ed9c9"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:21:19:00",
+      "ScheduledDuration": "00:07:59:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Propaganda - Pour quatuor de saxophones et dispositif électronique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Propaganda - Pour quatuor de saxophones et dispositif électronique",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1106",
+      "ExternalID": "3760058361160-1-6",
+      "AlbumTitle": "Franck Bedrossian : Manifesto et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058361160",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franck Bedrossian",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quatuor Habanera",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Habanera"
+      },
+      "ScheduledDateTime": "2017-11-13T01:21:19+01:00",
+      "composer": "http://data.doremus.org/artist/a4b10ade-5e44-3410-9677-fa4d090a2c97",
+      "best": "http://data.doremus.org/expression/e98d0fd9-afba-3197-bd26-6267228c9cc4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:29:21:00",
+      "ScheduledDuration": "00:24:59:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Art of metal III - pour clarinette contrebasse métal ensemble de 18 musiciens et dispositif électonique en temps réel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Art of metal III - pour clarinette contrebasse métal ensemble de 18 musiciens et dispositif électonique en temps réel",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0013262KAI",
+      "ExternalID": "9120010281839-1-3",
+      "AlbumTitle": "Yann Robin : Vulcano et Art of metal I et III",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281839",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Yann Robin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Alain Billard",
+        "Profession": "Interprète",
+        "InterventionNote": "Alain Billard : Clarinette contrebasse",
+        "mop": "Clarinette contrebasse"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Susanna Malkki",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T01:29:21+01:00",
+      "composer": "http://data.doremus.org/artist/2b9479b5-ebe3-3715-860b-7b496a4f9117",
+      "best": "http://data.doremus.org/expression/13a32f77-df75-3957-a987-814815a56ba5",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:54:40:00",
+      "ScheduledDuration": "00:03:02:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Leino : Sua katselen - version pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Leino : Sua katselen - version pour soprano et orchestre",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1173-2",
+      "ExternalID": "0761195117323-1-8",
+      "AlbumTitle": "Kaija Saariaho : Concerto pour clarinette et autres oeuvres",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195117323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kaija Saariaho",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anu Komsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Anu Komsi : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Finlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sakari Oramo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T01:54:40+01:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:57:42:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Leino : Sydän - version pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Leino : Sydän - version pour soprano et orchestre",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1173-2",
+      "ExternalID": "0761195117323-1-9",
+      "AlbumTitle": "Kaija Saariaho : Concerto pour clarinette et autres oeuvres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195117323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kaija Saariaho",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anu Komsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Anu Komsi : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Finlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sakari Oramo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T01:57:42+01:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "01:59:46:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Leino : Rauha - version pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Leino : Rauha - version pour soprano et orchestre",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1173-2",
+      "ExternalID": "0761195117323-1-10",
+      "AlbumTitle": "Kaija Saariaho : Concerto pour clarinette et autres oeuvres",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195117323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kaija Saariaho",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anu Komsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Anu Komsi : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Finlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sakari Oramo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T01:59:46+01:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:04:45:00",
+      "ScheduledDuration": "00:02:22:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons de Leino : Iltarukous - version pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons de Leino : Iltarukous - version pour soprano et orchestre",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1173-2",
+      "ExternalID": "0761195117323-1-11",
+      "AlbumTitle": "Kaija Saariaho : Concerto pour clarinette et autres oeuvres",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195117323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kaija Saariaho",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anu Komsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Anu Komsi : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Finlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sakari Oramo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T02:04:45+01:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:07:13:00",
+      "ScheduledDuration": "00:09:36:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cycle des sept formes : Uncut",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cycle des sept formes : Uncut",
+      "Label": "NAIVE",
+      "ReferenceLabel": "MO 782180",
+      "ExternalID": "0822186821800-2-3",
+      "AlbumTitle": "Pascal Dusapin : 7 solos pour orchestre",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186821800",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pascal Dusapin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Liege Et De La Communaute Wallonie-Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pascal Rophe",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T02:07:13+01:00",
+      "composer": "http://data.doremus.org/artist/631549a0-18b1-3d51-95c9-f7df6301ee76",
+      "best": "http://data.doremus.org/expression/db0f63a3-8c2f-3247-ad26-0a96d9a39665",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:17:16:00",
+      "ScheduledDuration": "00:22:14:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Six pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Six pianos",
+      "Label": "WORDANDSOUND",
+      "ReferenceLabel": "FILMCD002",
+      "ExternalID": "4260038315415-1-1",
+      "AlbumTitle": "Six pianos - Keyboard study #1",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260038315415",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gregor Schwellenbach",
+          "Profession": "Interprète",
+          "InterventionNote": "Gregor Schwellenbach : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Erol Sarp",
+          "Profession": "Interprète",
+          "InterventionNote": "Erol Sarp : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Daniel Brandt",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Brandt : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Paul Frick",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Frick : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "John Kameel Farah",
+          "Profession": "Interprète",
+          "InterventionNote": "John Kameel Farah : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Hauschka",
+          "Profession": "Interprète",
+          "InterventionNote": "Hauschka : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-13T02:17:16+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/8f25aee3-8885-38da-88ad-e9733a88e7f2",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:40:11:00",
+      "ScheduledDuration": "00:07:20:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Karl Koop Konzert : Musette - pour accordéon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Karl Koop Konzert : Musette - pour accordéon et orchestre",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1104",
+      "ExternalID": "3760058361146-1-8",
+      "AlbumTitle": "Bernard Cavanna : Shangaï concerto Karl Koop Konzert et autres oeuvres",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058361146",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Cavanna",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascal Contet",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascal Contet : Chant",
+        "mop": "Chant"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lille",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Grant Llewellyn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T02:40:11+01:00",
+      "composer": "http://data.doremus.org/artist/3126716c-bb24-361e-b973-eabad4e3ef5e",
+      "best": "http://data.doremus.org/expression/e24414cf-4129-31d8-bbc2-84c078f5a9b5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:47:31:00",
+      "ScheduledDuration": "00:03:51:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Karl Koop Konzert : Sans flon flon - pour accordéon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Karl Koop Konzert : Sans flon flon - pour accordéon et orchestre",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1104",
+      "ExternalID": "3760058361146-1-9",
+      "AlbumTitle": "Bernard Cavanna : Shangaï concerto Karl Koop Konzert et autres oeuvres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058361146",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Cavanna",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascal Contet",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascal Contet : Chant",
+        "mop": "Chant"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lille",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Grant Llewellyn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T02:47:31+01:00",
+      "composer": "http://data.doremus.org/artist/3126716c-bb24-361e-b973-eabad4e3ef5e",
+      "best": "http://data.doremus.org/expression/e24414cf-4129-31d8-bbc2-84c078f5a9b5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:51:22:00",
+      "ScheduledDuration": "00:04:58:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Karl Koop Konzert : Galop pompier - pour accordéon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Karl Koop Konzert : Galop pompier - pour accordéon et orchestre",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1104",
+      "ExternalID": "3760058361146-1-10",
+      "AlbumTitle": "Bernard Cavanna : Shangaï concerto Karl Koop Konzert et autres oeuvres",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058361146",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Cavanna",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascal Contet",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascal Contet : Chant",
+        "mop": "Chant"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lille",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Grant Llewellyn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T02:51:22+01:00",
+      "composer": "http://data.doremus.org/artist/3126716c-bb24-361e-b973-eabad4e3ef5e",
+      "best": "http://data.doremus.org/expression/e24414cf-4129-31d8-bbc2-84c078f5a9b5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-13",
+      "ScheduledTime": "02:56:20:00",
+      "ScheduledDuration": "00:02:54:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Karl Koop Konzert : La fin du bal - pour accordéon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Karl Koop Konzert : La fin du bal - pour accordéon et orchestre",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1104",
+      "ExternalID": "3760058361146-1-11",
+      "AlbumTitle": "Bernard Cavanna : Shangaï concerto Karl Koop Konzert et autres oeuvres",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058361146",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Cavanna",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascal Contet",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascal Contet : Chant",
+        "mop": "Chant"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lille",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Grant Llewellyn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-13T02:56:20+01:00",
+      "composer": "http://data.doremus.org/artist/3126716c-bb24-361e-b973-eabad4e3ef5e",
+      "best": "http://data.doremus.org/expression/e24414cf-4129-31d8-bbc2-84c078f5a9b5",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 27,
+  "matched": 8
+}

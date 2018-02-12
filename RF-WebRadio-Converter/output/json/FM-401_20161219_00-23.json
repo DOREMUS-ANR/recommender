@@ -1,0 +1,1925 @@
+{
+  "id": "FM-401_20161219_00-23",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:10:15:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chaconne op 32 FS 79",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chaconne op 32 FS 79",
+      "Label": "RCA RED SEAL",
+      "ExternalID": "RF00000039161-1-5",
+      "AlbumTitle": "Beethoven",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000039161",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Nielsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "John Ogdon",
+        "Profession": "Interprète",
+        "InterventionNote": "John Ogdon : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2016-12-19T00:00:06+01:00",
+      "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
+      "best": "http://data.doremus.org/expression/b8c14fa5-f419-31de-a1df-04667d3321f2",
+      "best_matching_score": "0.86"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:10:21:00",
+      "ScheduledDuration": "00:04:49:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "O dessa ögon - pour soprano et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "O dessa ögon - pour soprano et orchestre à cordes",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS2114",
+      "ExternalID": "7318599921143-1-2",
+      "AlbumTitle": "Sirens",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921143",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anders Hillborg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre Philharmonique Royal De Stockholm",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre Philharmonique Royal De Stockholm"
+        },
+        {
+          "FullName": "Hannah Holgersson",
+          "Profession": "Interprète",
+          "InterventionNote": "Hannah Holgersson : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Sakari Oramo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:10:21+01:00",
+      "composer": "http://data.doremus.org/artist/d33ebb23-7b8d-3ea5-a930-647e04f95e8a"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:15:33:00",
+      "ScheduledDuration": "00:14:23:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Kullervo op 15 - poème symphonique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Kullervo op 15 - poème symphonique",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 12 12-2",
+      "ExternalID": "0761195121221-1-1",
+      "AlbumTitle": "Leevi Madetoja : Symphonie n°2 et autres oeuvres symphoniques",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195121221",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leevi Madetoja",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Helsinki",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Storgards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:15:33+01:00",
+      "composer": "http://data.doremus.org/artist/01915146-b964-3e1e-be87-102e2d7e52be",
+      "best": "http://data.doremus.org/expression/9917a798-900b-3ba1-bf68-5caafb10030a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:30:00:00",
+      "ScheduledDuration": "00:08:11:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Luonnotar op 70 (Esprit de la nature op 70) - pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Luonnotar op 70 (Esprit de la nature op 70) - pour soprano et orchestre",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875026142",
+      "ExternalID": "0888750261427-1-5",
+      "AlbumTitle": "Bernstein Sibelius remastered edition",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888750261427",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Phyllis Curtin",
+        "Profession": "Interprète",
+        "InterventionNote": "Phyllis Curtin : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De New York",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leonard Bernstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:30:00+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/beb82edf-ce6f-3b58-8ffd-502c82e5afa0",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:38:11:00",
+      "ScheduledDuration": "00:04:50:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite bergamasque - claire de lune",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite bergamasque - claire de lune",
+      "Label": "CHOS",
+      "ReferenceLabel": "CHAN 10467",
+      "ExternalID": "0095115146729-1-4",
+      "AlbumTitle": "Claude Debussy : Integrale des oeuvres pour piano",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115146729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean-Efflam Bavouzet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean-Efflam Bavouzet : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2016-12-19T00:38:11+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/80095ce8-e711-3875-aa17-8e3259366f1f",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:43:01:00",
+      "ScheduledDuration": "00:04:45:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Preludes livre II pour piano : La terrasse des audiences du clair de lune",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Preludes livre II pour piano : La terrasse des audiences du clair de lune",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10421",
+      "ExternalID": "0095115142127-1-19",
+      "AlbumTitle": "Debussy / Integrale oeuvres pour piano / Volume I",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115142127",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean-Efflam Bavouzet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean-Efflam Bavouzet : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2016-12-19T00:43:01+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:47:59:00",
+      "ScheduledDuration": "00:09:10:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Der Mond : Sitz ich da am hohen Himmel (Saint Pierre et choeur)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Der Mond : Sitz ich da am hohen Himmel (Saint Pierre et choeur)",
+      "Label": "EMI",
+      "ReferenceLabel": "7637122",
+      "ExternalID": "0077776371221-2-24",
+      "AlbumTitle": "Carl Orff : Die Kluge et Der Mond",
+      "Rank": 24,
+      "NumVolume": 2,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0077776371221",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Orff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Karl Schmitt-Walter",
+          "Profession": "Interprète",
+          "InterventionNote": "Karl Schmitt-Walter : Baryton (voix), Jeune homme qui vole la lune",
+          "mop": "Baryton (voix), Jeune homme qui vole la lune"
+        },
+        {
+          "FullName": "Helmut Graml",
+          "Profession": "Interprète",
+          "InterventionNote": "Helmut Graml : Baryton (voix), Jeune homme qui vole la lune",
+          "mop": "Baryton (voix), Jeune homme qui vole la lune"
+        },
+        {
+          "FullName": "Paul Kuen",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Kuen : Ténor, Jeune homme qui vole la lune",
+          "mop": "Ténor, Jeune homme qui vole la lune"
+        },
+        {
+          "FullName": "Peter Lagger",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Lagger : Basse (voix), Jeune homme qui vole la lune",
+          "mop": "Basse (voix), Jeune homme qui vole la lune"
+        },
+        {
+          "FullName": "Albrecht Peter",
+          "Profession": "Interprète",
+          "InterventionNote": "Albrecht Peter : Baryton (voix), Un paysan",
+          "mop": "Baryton (voix), Un paysan"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Du Philharmonia Orchestra",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wolfgang Sawallisch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:47:59+01:00",
+      "composer": "http://data.doremus.org/artist/ca402df8-0810-3ef8-8896-0acfee5565c5",
+      "best": "http://data.doremus.org/expression/3db25e06-c626-3610-ab39-4c72c1431706",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:57:09:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Der Mond : So brachte Petrus die Toten zur Ruh (Le narrateur)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Der Mond : So brachte Petrus die Toten zur Ruh (Le narrateur)",
+      "Label": "EMI",
+      "ReferenceLabel": "7637122",
+      "ExternalID": "0077776371221-2-25",
+      "AlbumTitle": "Carl Orff : Die Kluge et Der Mond",
+      "Rank": 25,
+      "NumVolume": 2,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0077776371221",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Orff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Rudolf Christ",
+        "Profession": "Interprète",
+        "InterventionNote": "Rudolf Christ : Voix, Le narrateur",
+        "mop": "Voix, Le narrateur"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wolfgang Sawallisch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:57:09+01:00",
+      "composer": "http://data.doremus.org/artist/ca402df8-0810-3ef8-8896-0acfee5565c5",
+      "best": "http://data.doremus.org/expression/3db25e06-c626-3610-ab39-4c72c1431706",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "00:59:01:00",
+      "ScheduledDuration": "00:01:46:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Mondestrunken - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Mondestrunken - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-1",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T00:59:01+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:00:47:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Colombine - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Colombine - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-2",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:00:47+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:02:36:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Der Dandy - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Der Dandy - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-3",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:02:36+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:04:08:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Eine blasse Wäscherin - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Eine blasse Wäscherin - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-4",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:04:08+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:05:35:00",
+      "ScheduledDuration": "00:01:24:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Valse de Chopin - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Valse de Chopin - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-5",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:05:35+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:06:59:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Madonna - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Madonna - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-6",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:06:59+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:08:54:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pierrot lunaire op 21 : Der kranke Mond - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pierrot lunaire op 21 : Der kranke Mond - pour soprano et ensemble instrumental",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD/DSD 250 276",
+      "ExternalID": "0794881963423-1-7",
+      "AlbumTitle": "Arnold Schoenberg : Pierrot Lunaire et Suite op 29",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881963423",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alda Caiello",
+          "Profession": "Interprète",
+          "InterventionNote": "Alda Caiello : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Quatuor Prazak",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prazak"
+        },
+        {
+          "FullName": "Vlastimil Holek",
+          "Profession": "Interprète",
+          "InterventionNote": "Vlastimil Holek : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Josef Kluson",
+          "Profession": "Interprète",
+          "InterventionNote": "Josef Kluson : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Michal Kanka",
+          "Profession": "Interprète",
+          "InterventionNote": "Michal Kanka : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaromir Klepac",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaromir Klepac : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Johannes Meissl",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:08:54+01:00",
+      "composer": "http://data.doremus.org/artist/4f0d5849-995f-3b9a-99ca-d597d79ae095",
+      "best": "http://data.doremus.org/expression/cbd9dcfe-825b-3d10-90b2-9a2c3912a4e7",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:11:57:00",
+      "ScheduledDuration": "00:04:36:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièce op 44 n°5 pour piano : Notturno",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièce op 44 n°5 pour piano : Notturno",
+      "Label": "ASV",
+      "ReferenceLabel": "CD DCA 1092",
+      "ExternalID": "0743625109221-1-12",
+      "AlbumTitle": "Martucci / Oeuvres pour piano / Vol.2 / Caramiello",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743625109221",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giuseppe Martucci",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francesco Caramiello",
+        "Profession": "Interprète",
+        "InterventionNote": "Francesco Caramiello : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2016-12-19T01:11:57+01:00",
+      "composer": "http://data.doremus.org/artist/28a40c43-285d-32bd-bf71-939159718868"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:16:33:00",
+      "ScheduledDuration": "00:03:25:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Auf dem Wasser zu singen op 72 D 774",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Auf dem Wasser zu singen op 72 D 774",
+      "Label": "MYRIOS",
+      "ReferenceLabel": "MYR018",
+      "ExternalID": "4260183510185-1-16",
+      "AlbumTitle": "Schubertiade",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260183510185",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Franz Schubert",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Philippe Pierlot",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Julian Pregardien",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Pregardien : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Marc Hantai",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Hantai : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Xavier Diaz-Latorre",
+          "Profession": "Interprète",
+          "InterventionNote": "Xavier Diaz-Latorre : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Philippe Pierlot",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Pierlot : Baryton (instrument)",
+          "mop": "Baryton (instrument)"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T01:16:33+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:19:58:00",
+      "ScheduledDuration": "00:02:50:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water Music : Suite n°2 en Ré Maj HWV 349 : Menuet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water Music : Suite n°2 en Ré Maj HWV 349 : Menuet",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902216",
+      "ISRC": "FR-Z14-15-34130",
+      "ExternalID": "3149020221624-1-13",
+      "AlbumTitle": "Water Music HWV 348 à 350",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020221624",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Akademie Fur Alte Musik De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:19:58+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/75ade3fb-57d6-3beb-976e-e7718fd79999",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:22:48:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water Music : Suite n°2 en Ré Maj HWV 349 : Rigaudon I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water Music : Suite n°2 en Ré Maj HWV 349 : Rigaudon I",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902216",
+      "ISRC": "FR-Z14-15-34140",
+      "ExternalID": "3149020221624-1-14",
+      "AlbumTitle": "Water Music HWV 348 à 350",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020221624",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Akademie Fur Alte Musik De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:22:48+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/39cbc942-42af-3d0f-b1b2-0e7cd5baf999",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:23:56:00",
+      "ScheduledDuration": "00:01:28:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water Music : Suite n°2 en Ré Maj HWV 349 : Rigaudon II",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water Music : Suite n°2 en Ré Maj HWV 349 : Rigaudon II",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902216",
+      "ISRC": "FR-Z14-15-34150",
+      "ExternalID": "3149020221624-1-15",
+      "AlbumTitle": "Water Music HWV 348 à 350",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020221624",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Akademie Fur Alte Musik De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:23:56+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/75ade3fb-57d6-3beb-976e-e7718fd79999",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:25:35:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quand'eu vejo las ondas - pour voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quand'eu vejo las ondas - pour voix a cappella",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A390",
+      "ExternalID": "3760195733905-1-1",
+      "AlbumTitle": "Ondas / Martin Codax : Cantigas de amigo",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760195733905",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vivabiancaluna Biffi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Vivabiancaluna Biffi",
+        "Profession": "Interprète",
+        "InterventionNote": "Vivabiancaluna Biffi"
+      },
+      "ScheduledDateTime": "2016-12-19T01:25:35+01:00",
+      "composer": "http://data.doremus.org/artist/81b8b823-ea29-3ca0-9019-538341109a9d"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:27:25:00",
+      "ScheduledDuration": "00:04:57:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prélude sur Ondas do mar de Vigo - pour frestel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prélude sur Ondas do mar de Vigo - pour frestel",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A390",
+      "ExternalID": "3760195733905-1-2",
+      "AlbumTitle": "Ondas / Martin Codax : Cantigas de amigo",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760195733905",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Martin Codax",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Pierre Hamon",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Pierre Hamon",
+        "Profession": "Interprète",
+        "InterventionNote": "Pierre Hamon"
+      },
+      "ScheduledDateTime": "2016-12-19T01:27:25+01:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:32:22:00",
+      "ScheduledDuration": "00:05:07:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantigas de amigo : Ondas do mar de Vigo - pour voix et vihuela ou aulos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantigas de amigo : Ondas do mar de Vigo - pour voix et vihuela ou aulos",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A390",
+      "ExternalID": "3760195733905-1-3",
+      "AlbumTitle": "Ondas / Martin Codax : Cantigas de amigo",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760195733905",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Martin Codax",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Vivabiancaluna Biffi",
+          "Profession": "Interprète",
+          "InterventionNote": "Vivabiancaluna Biffi : Vihuela (guitare)",
+          "mop": "Vihuela (guitare)"
+        },
+        {
+          "FullName": "Pierre Hamon",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Hamon"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T01:32:22+01:00",
+      "composer": "http://data.doremus.org/artist/5303c66f-8ef7-3d49-845f-b1260dfe5a52"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:37:29:00",
+      "ScheduledDuration": "00:03:12:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "First reflexion - pour vihuela - pour vihuela",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "First reflexion - pour vihuela - pour vihuela",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A390",
+      "ExternalID": "3760195733905-1-4",
+      "AlbumTitle": "Ondas / Martin Codax : Cantigas de amigo",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760195733905",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vivabiancaluna Biffi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Vivabiancaluna Biffi",
+        "Profession": "Interprète",
+        "InterventionNote": "Vivabiancaluna Biffi : Vihuela (guitare)",
+        "mop": "Vihuela (guitare)"
+      },
+      "ScheduledDateTime": "2016-12-19T01:37:29+01:00",
+      "composer": "http://data.doremus.org/artist/81b8b823-ea29-3ca0-9019-538341109a9d"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "01:40:50:00",
+      "ScheduledDuration": "00:21:16:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'ondin op 107 B 195",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'ondin op 107 B 195",
+      "Label": "TELDEC",
+      "ReferenceLabel": "2564 60221-2",
+      "ExternalID": "0825646022120-2-1",
+      "AlbumTitle": "Anton Dvorak : Poèmes symphoniques",
+      "Rank": 1,
+      "NumVolume": 2,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646022120",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Nikolaus Harnoncourt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T01:40:50+01:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:02:29:00",
+      "ScheduledDuration": "00:18:26:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°2 en Si bémol Maj op 83 : Allegro non troppo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°2 en Si bémol Maj op 83 : Allegro non troppo",
+      "Label": "GENUIN",
+      "ReferenceLabel": "GEN15353/12",
+      "ExternalID": "RF00000052224-1-1",
+      "AlbumTitle": "Dinorah Varsi joue Brahms et Chopin / Cd 12 (Live)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000052224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dinorah Varsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Dinorah Varsi : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Petr Altrichter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:02:29+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/6f323a52-ae94-360c-85c7-a7419018d544",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:20:55:00",
+      "ScheduledDuration": "00:09:39:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°2 en Si bémol Maj op 83 : Allegro appassionato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°2 en Si bémol Maj op 83 : Allegro appassionato",
+      "Label": "GENUIN",
+      "ReferenceLabel": "GEN15353/12",
+      "ExternalID": "RF00000052224-1-2",
+      "AlbumTitle": "Dinorah Varsi joue Brahms et Chopin / Cd 12 (Live)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000052224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dinorah Varsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Dinorah Varsi : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Petr Altrichter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:20:55+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/6f323a52-ae94-360c-85c7-a7419018d544",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:30:34:00",
+      "ScheduledDuration": "00:11:41:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°2 en Si bémol Maj op 83 : Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°2 en Si bémol Maj op 83 : Andante",
+      "Label": "GENUIN",
+      "ReferenceLabel": "GEN15353/12",
+      "ExternalID": "RF00000052224-1-3",
+      "AlbumTitle": "Dinorah Varsi joue Brahms et Chopin / Cd 12 (Live)",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000052224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dinorah Varsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Dinorah Varsi : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Petr Altrichter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:30:34+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/6f323a52-ae94-360c-85c7-a7419018d544",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:42:15:00",
+      "ScheduledDuration": "00:09:21:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°2 en Si bémol Maj op 83 : Allegretto grazioso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°2 en Si bémol Maj op 83 : Allegretto grazioso",
+      "Label": "GENUIN",
+      "ReferenceLabel": "GEN15353/12",
+      "ExternalID": "RF00000052224-1-4",
+      "AlbumTitle": "Dinorah Varsi joue Brahms et Chopin / Cd 12 (Live)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000052224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dinorah Varsi",
+        "Profession": "Interprète",
+        "InterventionNote": "Dinorah Varsi : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Petr Altrichter",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-19T02:42:15+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/6f323a52-ae94-360c-85c7-a7419018d544",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:51:49:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°3 en la min op 33 : Vivace giocoso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°3 en la min op 33 : Vivace giocoso",
+      "Label": "MIRARE",
+      "ReferenceLabel": "MIR269",
+      "ExternalID": "3760127222699-1-10",
+      "AlbumTitle": "Dvorak Bartok Dohnanyi : Quatuors à cordes",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760127222699",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erno Dohnanyi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quatuor Modigliani",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Modigliani"
+      },
+      "ScheduledDateTime": "2016-12-19T02:51:49+01:00",
+      "composer": "http://data.doremus.org/artist/64e4d20f-1595-3ec3-a6a2-3cecd201b6e2",
+      "best": "http://data.doremus.org/expression/d3733367-3e00-3260-8f99-959384832a1a",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-19",
+      "ScheduledTime": "02:56:48:00",
+      "ScheduledDuration": "00:01:37:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "6 danses populaires roumaines Sz 56 BB 68 : Danse de ceux de bucium - arrangement pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "6 danses populaires roumaines Sz 56 BB 68 : Danse de ceux de bucium - arrangement pour violon et piano",
+      "Label": "DECCA",
+      "ReferenceLabel": "5346246",
+      "ExternalID": "0600753462461-5-18",
+      "AlbumTitle": "Portrait d'Ivry Gitlis",
+      "Rank": 18,
+      "NumVolume": 5,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0600753462461",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bela Bartok",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ivry Gitlis",
+          "Profession": "Interprète",
+          "InterventionNote": "Ivry Gitlis : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Shuku Iwasaki",
+          "Profession": "Interprète",
+          "InterventionNote": "Shuku Iwasaki : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-19T02:56:48+01:00",
+      "composer": "http://data.doremus.org/artist/23df9200-a2a7-3ba8-ab11-ec16bf781c41"
+    }
+  ],
+  "total": 31,
+  "matched": 21
+}

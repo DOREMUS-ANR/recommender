@@ -1,33 +1,38 @@
-const fs = require('fs');
+const fs = require('fs-extra');
+const util = require('util');
 const path = require('path');
 const async = require('async');
 const xml2js = require('xml2js').Parser();
 const json2csv = require('json-2-csv').json2csv;
 const matcher = require('./matcher');
 const Record = require('./Record');
+const klawSync = require('klaw-sync');
 
 let inputPath = path.join(__dirname, 'input');
 let outputPath = path.join(__dirname, 'output');
 
 if (!fs.existsSync(outputPath)) fs.mkdirSync(outputPath);
+
 for (let subFolder of ['json', 'csv']) {
   let subpath = path.join(outputPath, subFolder);
   if (!fs.existsSync(subpath)) fs.mkdirSync(subpath);
 }
 
-async.eachSeries(fs.readdirSync(inputPath), (fileName, callback) => {
-  if (path.extname(fileName) != '.xml') return console.log('Skipping not xml file: ' + fileName);
+let inputFiles = klawSync(inputPath, {
+  nodir: true,
+  filter: item => path.extname(item.path) == '.xml'
+});
 
-  console.log('Parsing file ' + fileName);
-  var filePath = path.join(inputPath, fileName);
+async.eachSeries(inputFiles, (item, callback) => {
+  let filePath = item.path;
+
+  console.log('Parsing file ' + filePath);
   parseFile(filePath)
-    .then(processData, handleError)
-    .then(postProcessData, handleError)
-    .then(writeOutput, handleError)
-    .then(() => {
-      console.log('It\'s saved!');
-      callback();
-    }, handleError);
+    .then(processData)
+    .then(postProcessData)
+    .then(writeOutput)
+    .then(callback)
+    .catch((error) => console.error(error));
 });
 
 function processData(data) {
@@ -67,14 +72,16 @@ function postProcessData(json) {
     let index = 0;
     async.eachSeries(records, (r, cb) => {
       // printProgress(`... record ${++index} / ${records.length}`);
-      let title = r.LongTitle.toLowerCase(),
+
+      let title = r.LongTitle || r.PressTitle,
         composer = r.Compositor && r.Compositor.FullName;
 
       printProgress(`... record ${++index} / ${records.length}`);
 
-      matcher(composer, title, (err, res) => {
+      matcher(composer, title).then(res => {
         if (!res) return cb();
-        if (res.composerUri) r.composer = res.composerUri;
+        if (res.composerUri)
+          r.composer = res.composerUri;
 
         let bests = res.bests;
         if (bests && bests[0]) {
@@ -93,46 +100,30 @@ function postProcessData(json) {
       console.log('Matched: ' + json.matched + "/" + json.total);
       fullfilled(json);
     });
-
   });
 }
 
 function parseFile(file) {
-  return new Promise(function(fullfilled, rejected) {
-    fs.readFile(file, (err, data) => {
-      if (err) return rejected(err);
-      xml2js.parseString(data, (err, json) => {
-        if (err) return rejected(err);
-        if (!json) return rejected('Empty data');
-        fullfilled(json);
-      });
+  return fs.readFile(file)
+    .then(util.promisify(xml2js.parseString))
+    .then(json => {
+      if (!json) throw 'Empty data';
+      return json;
     });
-  });
 }
 
 function writeOutput(json) {
-  console.log('Write output');
-  return new Promise(function(fullfilled, rejected) {
-    async.parallel([
-      (callback) => {
-        let output = path.join(outputPath, 'json', json.id + '.json');
-        fs.writeFile(output, JSON.stringify(json, null, 2), callback);
-      },
-      (callback) => {
-        let output = path.join(outputPath, 'csv', json.id + '.csv');
-        let csv = 'channel,' + Record.CSVHeader;
-        for (let r of json.records) csv += '\n' + json.channel + ',' + r.toCSV();
-        fs.writeFile(output, csv, callback);
-      }
-    ], (err, results) => {
-      if (err) return rejected(err);
-      fullfilled();
-    });
-  });
-}
+  console.log('Writing output');
+  let json_output = path.join(outputPath, 'json', json.id + '.json');
+  let csv_output = path.join(outputPath, 'csv', json.id + '.csv');
 
-function handleError(error) {
-  console.error(error);
+  let csv = 'channel,' + Record.CSVHeader;
+  for (let r of json.records) csv += '\n' + json.channel + ',' + r.toCSV();
+
+  return Promise.all([
+    fs.writeFile(json_output, JSON.stringify(json, null, 2)),
+    fs.writeFile(csv_output, csv)
+  ]).then(() => console.log('It\'s saved!'));
 }
 
 function printProgress(progress) {

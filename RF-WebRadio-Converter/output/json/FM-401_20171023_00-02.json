@@ -1,0 +1,3779 @@
+{
+  "id": "FM-401_20171023_00-02",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:03:53:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon et gigue : 1. Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon et gigue : 1. Canon",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "416386-2",
+      "ExternalID": "0028941638625-1-6",
+      "AlbumTitle": "Academy of st. Martin-in-the-fields",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941638625",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Pachelbel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:00:06+02:00",
+      "composer": "http://data.doremus.org/artist/7e7bbe8b-058a-31b3-b11b-3669c0c302e0",
+      "best": "http://data.doremus.org/expression/b0c41a34-34c1-3c3c-ba1b-6c43bd3fcc4a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:03:59:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon et gigue : 2. Gigue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon et gigue : 2. Gigue",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "416386-2",
+      "ExternalID": "0028941638625-1-7",
+      "AlbumTitle": "Academy of st. Martin-in-the-fields",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941638625",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Pachelbel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Academy Of Saint-Martin-In-The-Fields",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neville Marriner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:03:59+02:00",
+      "composer": "http://data.doremus.org/artist/7e7bbe8b-058a-31b3-b11b-3669c0c302e0",
+      "best": "http://data.doremus.org/expression/b0c41a34-34c1-3c3c-ba1b-6c43bd3fcc4a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:05:31:00",
+      "ScheduledDuration": "00:01:38:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The Tempest : Canon a 4 in 2 (Partie V) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The Tempest : Canon a 4 in 2 (Partie V) (instrumental)",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "2296DI",
+      "ISRC": "FR-7JM-16-70210",
+      "ExternalID": "3149020929407-1-21",
+      "AlbumTitle": "A Fancy : Fantasy on English Airs & Tunes",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020929407",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Matthew Locke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Le Caravanserail And Bertrand Cuiller",
+          "Profession": "Interprète",
+          "InterventionNote": "Le Caravanserail And Bertrand Cuiller"
+        },
+        {
+          "FullName": "Le Caravanserail",
+          "Profession": "Interprète",
+          "InterventionNote": "Le Caravanserail"
+        },
+        {
+          "FullName": "Bertrand Cuiller",
+          "Profession": "Interprète",
+          "InterventionNote": "Bertrand Cuiller"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Le Caravanserail",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bertrand Cuiller",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:05:31+02:00",
+      "composer": "http://data.doremus.org/artist/7b366aad-4437-3105-a98d-3b0e8e09501e",
+      "best": "http://data.doremus.org/expression/f3f26612-9909-3cc5-a092-890675f034f4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:07:09:00",
+      "ScheduledDuration": "00:02:34:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Recueil de chants n°3 op 65 6 pieces pour piano : Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Recueil de chants n°3 op 65 6 pieces pour piano : Canon",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA67569",
+      "ExternalID": "0034571175690-1-6",
+      "AlbumTitle": "Alkan / Cto p. Piano",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571175690",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Valentin Alkan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marc Andre Hamelin",
+        "Profession": "Interprète",
+        "InterventionNote": "Marc Andre Hamelin : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T00:07:09+02:00",
+      "composer": "http://data.doremus.org/artist/069e1437-23bf-320f-8581-c22c6077f70e",
+      "best": "http://data.doremus.org/expression/1a6bb2d4-aac7-3aec-be28-0a82edad145b",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:09:43:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bagatelles OP 47 B 79 : Canon. Andante con moto - pour 2 violons violoncelle et harmonium",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bagatelles OP 47 B 79 : Canon. Andante con moto - pour 2 violons violoncelle et harmonium",
+      "Label": "SUPRAPHON OU SUPRAPHONET",
+      "ReferenceLabel": "SU 3391",
+      "ExternalID": "0099925339128-1-10",
+      "AlbumTitle": "Anton Dvorak : Miniatures",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925339128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Panocha",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Panocha"
+        },
+        {
+          "FullName": "Jiri Panocha",
+          "Profession": "Interprète",
+          "InterventionNote": "Jiri Panocha : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Pavel Zejfart",
+          "Profession": "Interprète",
+          "InterventionNote": "Pavel Zejfart : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jaroslav Kulhan",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaroslav Kulhan : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaroslav Tuma",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaroslav Tuma : Harmonium",
+          "mop": "Harmonium"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:09:43+02:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:13:53:00",
+      "ScheduledDuration": "00:03:27:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Etude en forme de canon en la min op 56 n°2 - arrangement pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Etude en forme de canon en la min op 56 n°2 - arrangement pour 2 pianos",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0002894812167-1-2",
+      "AlbumTitle": "Barenboim Argerich : Piano duos II",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0002894812167",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Daniel Barenboim",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Barenboim : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Martha Argerich",
+          "Profession": "Interprète",
+          "InterventionNote": "Martha Argerich : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:13:53+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:17:20:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Etude en forme de canon en Mi Maj op 56 n°3 - arrangement pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Etude en forme de canon en Mi Maj op 56 n°3 - arrangement pour 2 pianos",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0002894812167-1-3",
+      "AlbumTitle": "Barenboim Argerich : Piano duos II",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0002894812167",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Daniel Barenboim",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Barenboim : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Martha Argerich",
+          "Profession": "Interprète",
+          "InterventionNote": "Martha Argerich : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:17:20+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:19:16:00",
+      "ScheduledDuration": "00:02:27:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Etude en forme de canon en Ut Maj op 56 n°1 - arrangement pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Etude en forme de canon en Ut Maj op 56 n°1 - arrangement pour 2 pianos",
+      "Label": "UNIVERSAL MUSIC",
+      "ExternalID": "0002894812167-1-1",
+      "AlbumTitle": "Barenboim Argerich : Piano duos II",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0002894812167",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Daniel Barenboim",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Barenboim : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Martha Argerich",
+          "Profession": "Interprète",
+          "InterventionNote": "Martha Argerich : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:19:16+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:21:43:00",
+      "ScheduledDuration": "00:02:09:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Benedicamus domino - à 3 voix de femmes en canon et cloches",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Benedicamus domino - à 3 voix de femmes en canon et cloches",
+      "Label": "RAUM KLANG",
+      "ReferenceLabel": "RK 3204",
+      "ExternalID": "4018767032048-1-24",
+      "AlbumTitle": "Cantrix",
+      "Rank": 24,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4018767032048",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme Espagne Xiiieme Siecle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Peregrina",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Peregrina"
+      },
+      "ScheduledDateTime": "2017-10-23T00:21:43+02:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:23:52:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little piano book : Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little piano book : Canon",
+      "Label": "EM RECORDS",
+      "ReferenceLabel": "EMRCD022",
+      "ExternalID": "5060263500193-1-20",
+      "AlbumTitle": "A forgotten english romantic / Greville Cooke : Oeuvres pour piano",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060263500193",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ralph Vaughan Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jack Honeybourne",
+        "Profession": "Interprète",
+        "InterventionNote": "Jack Honeybourne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T00:23:52+02:00",
+      "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:24:58:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fuga e canone op 37 n°5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fuga e canone op 37 n°5",
+      "Label": "BAYM",
+      "ReferenceLabel": "CD3",
+      "ExternalID": "RF00000005034-1-24",
+      "AlbumTitle": "Alexandre Boely : Integrale de l'oeuvre pour orgue cd3",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000005034",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Boely",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marie Ange Leurent",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Ange Leurent : Orgue",
+          "mop": "Orgue"
+        },
+        {
+          "FullName": "Eric Lebrun",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Lebrun : Orgue",
+          "mop": "Orgue"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:24:58+02:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:26:51:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "12 pieces avec pedale obligee op 18 : Canon perpetuel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "12 pieces avec pedale obligee op 18 : Canon perpetuel",
+      "Label": "BAYM",
+      "ReferenceLabel": "CD6",
+      "ExternalID": "RF00000005040-1-3",
+      "AlbumTitle": "Alexandre Boely : Integrale de l'oeuvre pour orgue cd6",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000005040",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Boely",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marie Ange Leurent",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Ange Leurent : Orgue",
+          "mop": "Orgue"
+        },
+        {
+          "FullName": "Eric Lebrun",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Lebrun : Orgue",
+          "mop": "Orgue"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:26:51+02:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:28:52:00",
+      "ScheduledDuration": "00:10:10:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Kanon pokajanen : Prière après le canon - pour choeur a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Kanon pokajanen : Prière après le canon - pour choeur a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "905274",
+      "ISRC": "FR-7JM-16-11090",
+      "ExternalID": "3149020527429-1-9",
+      "AlbumTitle": "Arvo Pärt : Kanon Pokajanen",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020527429",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arvo Part",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Daniel Reuss",
+        "Profession": "Interprète",
+        "InterventionNote": "Daniel Reuss"
+      },
+      "Choir": {
+        "EntityName": "Cappella Amsterdam",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-10-23T00:28:52+02:00",
+      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
+      "best": "http://data.doremus.org/expression/479dace4-a4e7-3d6e-adfe-9588d4b2d175",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:39:02:00",
+      "ScheduledDuration": "00:02:05:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Offrande musicale sur le nom de Bach op 187 : Canons sur le nom de Bach",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Offrande musicale sur le nom de Bach op 187 : Canons sur le nom de Bach",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.221",
+      "ExternalID": "4010276020530-1-3",
+      "AlbumTitle": "Charles Koechlin : Les Bandar-Log et Offrande musicale",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276020530",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Stuttgart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Heinz Holliger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:39:02+02:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/14cf55f2-1898-3d8e-bf18-d7613d68bf12",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:41:07:00",
+      "ScheduledDuration": "00:04:06:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'art de la fugue BWV 1080 pour piano : Canon in hypodiapason (canon alla Ottava)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'art de la fugue BWV 1080 pour piano : Canon in hypodiapason (canon alla Ottava)",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA 66631/2",
+      "ExternalID": "0034571166315-1-11",
+      "AlbumTitle": "Bach / Art de la fugue / Nikolaieva",
+      "Rank": 11,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571166315",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tatiana Nikolaieva",
+        "Profession": "Interprète",
+        "InterventionNote": "Tatiana Nikolaieva : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T00:41:07+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/3ade71c3-eb15-3268-9fd5-48343a120e9c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:45:13:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fugue n°11 : Dealbate Latonam et rumpite libros",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fugue n°11 : Dealbate Latonam et rumpite libros",
+      "Label": "GLOSSA",
+      "ReferenceLabel": "GCD P31407",
+      "ExternalID": "8424562314078-1-11",
+      "AlbumTitle": "Atalanta fugiens / Musique alchimie et rosicrucianisme au début du XVIIème siècle",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8424562314078",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Maier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Plus Ultra",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Plus Ultra"
+        },
+        {
+          "FullName": "Grace Davidson",
+          "Profession": "Interprète",
+          "InterventionNote": "Grace Davidson : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Clare Wilkinson",
+          "Profession": "Interprète",
+          "InterventionNote": "Clare Wilkinson : Contralto",
+          "mop": "Contralto"
+        },
+        {
+          "FullName": "Warren Trevelyan-Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Warren Trevelyan-Jones : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Giles Underwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Giles Underwood : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Stephen Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephen Jones"
+        },
+        {
+          "FullName": "Sue Addison",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Addison : Sacqueboute",
+          "mop": "Sacqueboute"
+        },
+        {
+          "FullName": "Marie Bournisien",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Bournisien : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Michael Noone",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:45:13+02:00",
+      "composer": "http://data.doremus.org/artist/18e7cf95-e2f4-3be3-b5e4-b195078ed1ed"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:46:30:00",
+      "ScheduledDuration": "00:01:20:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fugue n°12 : Lapis quem Saturnus pro Jove filio devoratum",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fugue n°12 : Lapis quem Saturnus pro Jove filio devoratum",
+      "Label": "GLOSSA",
+      "ReferenceLabel": "GCD P31407",
+      "ExternalID": "8424562314078-1-12",
+      "AlbumTitle": "Atalanta fugiens / Musique alchimie et rosicrucianisme au début du XVIIème siècle",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8424562314078",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Maier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Plus Ultra",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Plus Ultra"
+        },
+        {
+          "FullName": "Grace Davidson",
+          "Profession": "Interprète",
+          "InterventionNote": "Grace Davidson : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Clare Wilkinson",
+          "Profession": "Interprète",
+          "InterventionNote": "Clare Wilkinson : Contralto",
+          "mop": "Contralto"
+        },
+        {
+          "FullName": "Warren Trevelyan-Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Warren Trevelyan-Jones : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Giles Underwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Giles Underwood : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Stephen Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephen Jones"
+        },
+        {
+          "FullName": "Sue Addison",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Addison : Sacqueboute",
+          "mop": "Sacqueboute"
+        },
+        {
+          "FullName": "Marie Bournisien",
+          "Profession": "Interprète",
+          "InterventionNote": "Marie Bournisien : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Michael Noone",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:46:30+02:00",
+      "composer": "http://data.doremus.org/artist/18e7cf95-e2f4-3be3-b5e4-b195078ed1ed"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:47:50:00",
+      "ScheduledDuration": "00:01:39:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Puzzle-canon n°2 - pour ensemble de violes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Puzzle-canon n°2 - pour ensemble de violes",
+      "Label": "ALIA VOX",
+      "ReferenceLabel": "AVSA 9895 A/F",
+      "ExternalID": "7619986398952-2-20",
+      "AlbumTitle": "Erasmus van Rotterdam : Eloge de la folie",
+      "Rank": 20,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619986398952",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jordi Savall",
+          "Profession": "Interprète",
+          "InterventionNote": "Jordi Savall : Viole",
+          "mop": "Viole"
+        },
+        {
+          "FullName": "Sergi Casademunt",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergi Casademunt : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Fahmi Alqhai",
+          "Profession": "Interprète",
+          "InterventionNote": "Fahmi Alqhai : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Philippe Pierlot",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Pierlot : Basse de viole",
+          "mop": "Basse de viole"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:47:50+02:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:49:29:00",
+      "ScheduledDuration": "00:01:41:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Puzzle-canon n°2 - pour ensemble de violes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Puzzle-canon n°2 - pour ensemble de violes",
+      "Label": "ALIA VOX",
+      "ReferenceLabel": "AVSA 9895 A/F",
+      "ExternalID": "7619986398952-5-19",
+      "AlbumTitle": "Erasmus van Rotterdam : Eloge de la folie",
+      "Rank": 19,
+      "NumVolume": 5,
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619986398952",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jordi Savall",
+          "Profession": "Interprète",
+          "InterventionNote": "Jordi Savall : Viole",
+          "mop": "Viole"
+        },
+        {
+          "FullName": "Sergi Casademunt",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergi Casademunt : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Fahmi Alqhai",
+          "Profession": "Interprète",
+          "InterventionNote": "Fahmi Alqhai : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Philippe Pierlot",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Pierlot : Basse de viole",
+          "mop": "Basse de viole"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:49:29+02:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:51:10:00",
+      "ScheduledDuration": "00:02:36:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Puzzle-canon n°1 - pour ensemble de violes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Puzzle-canon n°1 - pour ensemble de violes",
+      "Label": "ALIA VOX",
+      "ReferenceLabel": "AVSA 9895 A/F",
+      "ExternalID": "7619986398952-6-5",
+      "AlbumTitle": "Erasmus van Rotterdam : Eloge de la folie",
+      "Rank": 5,
+      "NumVolume": 6,
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619986398952",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Lloyd",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jordi Savall",
+          "Profession": "Interprète",
+          "InterventionNote": "Jordi Savall : Viole",
+          "mop": "Viole"
+        },
+        {
+          "FullName": "Sergi Casademunt",
+          "Profession": "Interprète",
+          "InterventionNote": "Sergi Casademunt : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Fahmi Alqhai",
+          "Profession": "Interprète",
+          "InterventionNote": "Fahmi Alqhai : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Philippe Pierlot",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Pierlot : Basse de viole",
+          "mop": "Basse de viole"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Hesperion Xxi",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T00:51:10+02:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:53:46:00",
+      "ScheduledDuration": "00:05:42:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "14e antienne de l'office de Vendredi Saint/Extrait du Canon du Samedi Saint",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "14e antienne de l'office de Vendredi Saint/Extrait du Canon du Samedi Saint",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901315",
+      "ExternalID": "3149025040305-1-8",
+      "AlbumTitle": "Keyrouz soeur Marie/Chant byzantin",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025040305",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Soeur Marie Keyrouz",
+          "Profession": "Interprète",
+          "InterventionNote": "Soeur Marie Keyrouz : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Chorale De L'Eglise Saint-Julien -Le-Pauvre",
+          "Profession": "Interprète",
+          "InterventionNote": "Chorale De L'Eglise Saint-Julien -Le-Pauvre : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T00:53:46+02:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "00:59:28:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petit canon perpétuel - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petit canon perpétuel - pour piano",
+      "Label": "POLYMNIE",
+      "ReferenceLabel": "POL 150 442",
+      "ExternalID": "3576071504428-1-12",
+      "AlbumTitle": "Albert Roussel : Intégrale de l'oeuvre pour piano",
+      "Rank": 12,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3576071504428",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Albert Roussel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Desire N'Koua",
+        "Profession": "Interprète",
+        "InterventionNote": "Desire N'Koua : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T00:59:28+02:00",
+      "composer": "http://data.doremus.org/artist/ab926ca9-5fe8-358c-a29e-33f8083596a8",
+      "best": "http://data.doremus.org/expression/a43227ae-83cf-3f8d-8e92-c9cbdf43f5f9",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:02:51:00",
+      "ScheduledDuration": "00:03:32:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 pièces fantaisistes op 22 : Canon - pour clarinette et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 pièces fantaisistes op 22 : Canon - pour clarinette et piano",
+      "Label": "DUX RECORDING PRODUCERS",
+      "ReferenceLabel": "DUX1219",
+      "ExternalID": "5902547012193-1-4",
+      "AlbumTitle": "Carl Reinecke : Musique de chambre",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5902547012193",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Reinecke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Slaskie",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Slaskie"
+        },
+        {
+          "FullName": "Roman Widaszek",
+          "Profession": "Interprète",
+          "InterventionNote": "Roman Widaszek : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Joanna Domanska",
+          "Profession": "Interprète",
+          "InterventionNote": "Joanna Domanska : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T01:02:51+02:00",
+      "composer": "http://data.doremus.org/artist/e606cbc6-e27b-3a3f-a6e3-6e88cec479fb",
+      "best": "http://data.doremus.org/expression/b0b0085c-132e-3bf6-8db1-3bf129fff3a3",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:06:23:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tout par compas - rondeau canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tout par compas - rondeau canon",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 1252",
+      "ExternalID": "3149025000194-1-6",
+      "AlbumTitle": "Codex de chantilly / Airs de cour du XIV S",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025000194",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Baude Cordier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Organum",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Organum"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marcel Peres",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:06:23+02:00",
+      "composer": "http://data.doremus.org/artist/7689d5aa-320b-3e70-884c-15c5b5ace505"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:08:47:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon en ré min",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon en ré min",
+      "Label": "NAXOS",
+      "ReferenceLabel": "857349527",
+      "ExternalID": "0747313352777-1-16",
+      "AlbumTitle": "Alexandre Scriabine : Musique pour piano",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313352777",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Scriabine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kate Lee Soyeon",
+        "Profession": "Interprète",
+        "InterventionNote": "Kate Lee Soyeon : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T01:08:47+02:00",
+      "composer": "http://data.doremus.org/artist/0607b9fe-c6fe-38c1-aa5a-c2cf957bee74"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:10:17:00",
+      "ScheduledDuration": "00:03:24:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petite suite : Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petite suite : Canon",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 777 838-2",
+      "ExternalID": "0761203783823-1-3",
+      "AlbumTitle": "Suites et Ouvertures pour la radio",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203783823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schreker",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Staatsoperette De Dresde",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ernst Theis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:10:17+02:00",
+      "composer": "http://data.doremus.org/artist/868baf0f-058c-3db9-a72a-6a2a3ce3dd37"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:13:41:00",
+      "ScheduledDuration": "00:00:47:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Messe à l'usage des paroisses pour orgue : Plein chant du 1er Sanctus en canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Messe à l'usage des paroisses pour orgue : Plein chant du 1er Sanctus en canon",
+      "Label": "AEOLUS",
+      "ReferenceLabel": "AE-10301",
+      "ExternalID": "4026798103019-1-16",
+      "AlbumTitle": "Couperin / Messe a l' usage des paroisses",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4026798103019",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Couperin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Serge Schoonbroodt",
+        "Profession": "Interprète",
+        "InterventionNote": "Serge Schoonbroodt : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-10-23T01:13:41+02:00",
+      "composer": "http://data.doremus.org/artist/14970460-189f-3593-a550-7bceb778072e"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:14:28:00",
+      "ScheduledDuration": "00:03:21:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon en Si bémol Maj GWV 218 : Tempo giusto - pour 2 hautbois violoncelle et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon en Si bémol Maj GWV 218 : Tempo giusto - pour 2 hautbois violoncelle et basse continue",
+      "Label": "MDG",
+      "ReferenceLabel": "MDG 341 1628-2",
+      "ExternalID": "0760623162829-1-2",
+      "AlbumTitle": "Christoph Graupner : Oeuvres orchestrales / Volume 3",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0760623162829",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christoph Graupner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nova Stravaganza",
+          "Profession": "Interprète",
+          "InterventionNote": "Nova Stravaganza"
+        },
+        {
+          "FullName": "Saskia Fikentscher",
+          "Profession": "Interprète",
+          "InterventionNote": "Saskia Fikentscher : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Christine Allanic",
+          "Profession": "Interprète",
+          "InterventionNote": "Christine Allanic : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Joachim Fiedler",
+          "Profession": "Interprète",
+          "InterventionNote": "Joachim Fiedler : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Siegbert Rampe",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:14:28+02:00",
+      "composer": "http://data.doremus.org/artist/41fde588-2628-3302-94d0-d7734b9f64b5",
+      "best": "http://data.doremus.org/expression/ea266c00-337d-3f7c-99bb-d002554edb62",
+      "best_matching_score": "0.70"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:17:49:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon en Si bémol Maj GWV 218 : Allegro - pour 2 hautbois violoncelle et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon en Si bémol Maj GWV 218 : Allegro - pour 2 hautbois violoncelle et basse continue",
+      "Label": "MDG",
+      "ReferenceLabel": "MDG 341 1628-2",
+      "ExternalID": "0760623162829-1-4",
+      "AlbumTitle": "Christoph Graupner : Oeuvres orchestrales / Volume 3",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0760623162829",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christoph Graupner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nova Stravaganza",
+          "Profession": "Interprète",
+          "InterventionNote": "Nova Stravaganza"
+        },
+        {
+          "FullName": "Saskia Fikentscher",
+          "Profession": "Interprète",
+          "InterventionNote": "Saskia Fikentscher : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Christine Allanic",
+          "Profession": "Interprète",
+          "InterventionNote": "Christine Allanic : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Joachim Fiedler",
+          "Profession": "Interprète",
+          "InterventionNote": "Joachim Fiedler : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Siegbert Rampe",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:17:49+02:00",
+      "composer": "http://data.doremus.org/artist/41fde588-2628-3302-94d0-d7734b9f64b5",
+      "best": "http://data.doremus.org/expression/ea266c00-337d-3f7c-99bb-d002554edb62",
+      "best_matching_score": "0.70"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:20:06:00",
+      "ScheduledDuration": "00:06:59:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lieder von einer insel (concerto pour violoncelle et orchestre) : Quatuor canones et cantus firmus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lieder von einer insel (concerto pour violoncelle et orchestre) : Quatuor canones et cantus firmus",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS 11014",
+      "ExternalID": "4260063110146-1-4",
+      "AlbumTitle": "Elliott Carter et Udo Zimmermann : Concertos pour violoncelle",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063110146",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Udo Zimmermann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jan Vogler",
+        "Profession": "Interprète",
+        "InterventionNote": "Jan Vogler : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Bavaroise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kristjan Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:20:06+02:00",
+      "composer": "http://data.doremus.org/artist/a070fa25-9ea1-3251-8d4b-560d0016cb35"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:27:05:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Totentanz S 126 : Variation n°4 canonique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Totentanz S 126 : Variation n°4 canonique",
+      "Label": "PENTA TONE CLASSICS",
+      "ReferenceLabel": "PTC 5186 397",
+      "ExternalID": "0827949039768-1-11",
+      "AlbumTitle": "Franz Liszt : Concertos et autres oeuvres pour piano et orchestre",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0827949039768",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Liszt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Nareh Arghamanyan",
+        "Profession": "Interprète",
+        "InterventionNote": "Nareh Arghamanyan : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Alain Altinoglu",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:27:05+02:00",
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
+      "best": "http://data.doremus.org/expression/cade9835-f84e-33cb-8d17-fc2a553b0fa3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:30:31:00",
+      "ScheduledDuration": "00:05:42:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon xiva",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon xiva",
+      "Label": "TELDEC",
+      "ReferenceLabel": "TELD 8 42 957",
+      "ExternalID": "0000000000558-1-2",
+      "AlbumTitle": "Classics meet pops",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1983-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0000000000558",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble De Violoncelles Du Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:30:31+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:36:13:00",
+      "ScheduledDuration": "00:01:00:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ave maris stella SwWV 193 - canon pour 3 voix d'hommes a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ave maris stella SwWV 193 - canon pour 3 voix d'hommes a cappella",
+      "Label": "GLOSSA",
+      "ReferenceLabel": "GCD 922406",
+      "ExternalID": "8424562224063-2-22",
+      "AlbumTitle": "Jan Pieterszoon Sweelinck : Intégrale de l'oeuvre vocale",
+      "Rank": 22,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8424562224063",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jan Pieterszoon Sweelinck",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Harry Van Der Kamp",
+          "Profession": "Interprète",
+          "InterventionNote": "Harry Van Der Kamp"
+        },
+        {
+          "FullName": "Gesualdo Consort Amsterdam",
+          "Profession": "Interprète",
+          "InterventionNote": "Gesualdo Consort Amsterdam"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T01:36:13+02:00",
+      "composer": "http://data.doremus.org/artist/2c0a13cd-aff7-3755-8862-6e5e76c41da3"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:37:13:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon a 3 SwWV 193",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon a 3 SwWV 193",
+      "Label": "AEOLUS",
+      "ReferenceLabel": "AE-11021",
+      "ExternalID": "4026798110215-5-6",
+      "AlbumTitle": "Jan Pieterszoon Sweelinck : Intégrale des oeuvres pour clavier",
+      "Rank": 6,
+      "NumVolume": 5,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4026798110215",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jan Pieterszoon Sweelinck",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Leon Berben",
+        "Profession": "Interprète",
+        "InterventionNote": "Leon Berben : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-10-23T01:37:13+02:00",
+      "composer": "http://data.doremus.org/artist/2c0a13cd-aff7-3755-8862-6e5e76c41da3"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:38:47:00",
+      "ScheduledDuration": "00:02:23:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variations concertantes op 23 : Variation canonique pour hautbois et basson",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variations concertantes op 23 : Variation canonique pour hautbois et basson",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901808",
+      "ExternalID": "0794881719525-1-14",
+      "AlbumTitle": "Estancia et autres oeuvres",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881719525",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alberto Ginastera",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Ville De Grenade",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Josep Pons",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:38:47+02:00",
+      "composer": "http://data.doremus.org/artist/b2a7a24b-ccbe-304a-98e5-8a3d346c0a46",
+      "best": "http://data.doremus.org/expression/08be3296-cecf-38c2-8731-48a4c90626b3",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:41:10:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Recueil de chants n°3 op 65 : Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Recueil de chants n°3 op 65 : Canon",
+      "Label": "TOCCATA CLASSICS",
+      "ReferenceLabel": "TOCC 0157",
+      "ExternalID": "5060113441577-1-15",
+      "AlbumTitle": "Charles Valentin Alkan : Intégrale des recueils de chants / Vol 1",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060113441577",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Valentin Alkan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Stephanie Mc Callum",
+        "Profession": "Interprète",
+        "InterventionNote": "Stephanie Mc Callum : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T01:41:10+02:00",
+      "composer": "http://data.doremus.org/artist/069e1437-23bf-320f-8581-c22c6077f70e",
+      "best": "http://data.doremus.org/expression/1a6bb2d4-aac7-3aec-be28-0a82edad145b",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:43:42:00",
+      "ScheduledDuration": "00:03:02:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ave virgo sanctissima - canon à 5 voix pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ave virgo sanctissima - canon à 5 voix pour choeur mixte a cappella",
+      "Label": "CARUS",
+      "ReferenceLabel": "CARU 83.345",
+      "ExternalID": "4009350833456-1-11",
+      "AlbumTitle": "Josquin des Prés : Missa Pange lingua et autres oeuvres sacrées",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4009350833456",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Josquin Des Pres",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ludwig Bohme",
+        "Profession": "Interprète",
+        "InterventionNote": "Ludwig Bohme"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre Josquin Des Prez",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-10-23T01:43:42+02:00",
+      "composer": "http://data.doremus.org/artist/9007d3d1-501b-365a-8dda-e4f4ac8dfb3c"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:46:44:00",
+      "ScheduledDuration": "00:07:36:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°70 en Ré Maj HOB I : 70 : Specle d'un canone in contrrapunto doppio, andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°70 en Ré Maj HOB I : 70 : Specle d'un canone in contrrapunto doppio, andante",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "99925/21",
+      "ExternalID": "5028421925219-1-2",
+      "AlbumTitle": "Symphonies 70 - 72",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421925219",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Haydn Austro-Hongrois",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Adam Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:46:44+02:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/b946c2f0-fe5e-3dff-8832-d75bcaef8fcd",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:54:31:00",
+      "ScheduledDuration": "00:01:10:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon BuxWV 121",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon BuxWV 121",
+      "Label": "CHALLENGE CLASSICS",
+      "ReferenceLabel": "CC72257",
+      "ExternalID": "0608917225723-1-8",
+      "AlbumTitle": "Buxtehude / Oeuvres vocales / Vol 8 / Opera Omnia Vol XVIII",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0608917225723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dietrich Buxtehude",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Bettina Pahn",
+          "Profession": "Interprète",
+          "InterventionNote": "Bettina Pahn : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Dorothee Wohlgemut",
+          "Profession": "Interprète",
+          "InterventionNote": "Dorothee Wohlgemut : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Miriam Feuersinger",
+          "Profession": "Interprète",
+          "InterventionNote": "Miriam Feuersinger : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Maarten Engeltjes",
+          "Profession": "Interprète",
+          "InterventionNote": "Maarten Engeltjes : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Tilman Lichdi",
+          "Profession": "Interprète",
+          "InterventionNote": "Tilman Lichdi : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Klaus Mertens",
+          "Profession": "Interprète",
+          "InterventionNote": "Klaus Mertens : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Baroque D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ton Koopman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T01:54:31+02:00",
+      "composer": "http://data.doremus.org/artist/25973374-a895-3966-9445-8f695ef5a5f0"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:55:41:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon en ré - pour 2 violoncelles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon en ré - pour 2 violoncelles",
+      "Label": "ARTE DELL'ARCO",
+      "ReferenceLabel": "ADJ-009",
+      "ExternalID": "4909346305700-1-12",
+      "AlbumTitle": "Domenico Gabrielli : Intégrale des oeuvres pour violoncelle",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4909346305700",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Domenico Gabrielli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Hidemi Suzuki",
+          "Profession": "Interprète",
+          "InterventionNote": "Hidemi Suzuki : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Emmanuel Balssa",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Balssa : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T01:55:41+02:00",
+      "composer": "http://data.doremus.org/artist/540ceb11-20e3-3117-a173-b70ba1e2fdba"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "01:57:53:00",
+      "ScheduledDuration": "00:04:56:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièces lyriques op 38 pour piano : Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièces lyriques op 38 pour piano : Canon",
+      "Label": "CASCAVELLE",
+      "ReferenceLabel": "VEL 3083/1",
+      "ExternalID": "7619930308310-1-16",
+      "AlbumTitle": "Edouard Grieg : Intégrale des pièces lyriques",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619930308310",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Aldo Ciccolini",
+        "Profession": "Interprète",
+        "InterventionNote": "Aldo Ciccolini : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T01:57:53+02:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/f64a5fb5-40e9-3e87-a806-c80d5683d6cf",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:02:49:00",
+      "ScheduledDuration": "00:04:15:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonatina canonica en Mi bémol Maj su Capricci di Niccolo Paganini : Allegretto comodo / pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonatina canonica en Mi bémol Maj su Capricci di Niccolo Paganini : Allegretto comodo / pour piano",
+      "Label": "CAPRICCIO",
+      "ReferenceLabel": "5045",
+      "ExternalID": "0845221050454-1-7",
+      "AlbumTitle": "Luigi Dallapiccola : Oeuvres pour piano",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0845221050454",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luigi Dallapiccola",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Massa Pietro",
+        "Profession": "Interprète",
+        "InterventionNote": "Massa Pietro : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T02:02:49+02:00",
+      "composer": "http://data.doremus.org/artist/98638e59-6aad-3027-ba6f-8f0790645800"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:07:04:00",
+      "ScheduledDuration": "00:03:38:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "6 études en forme de canon op 56 : Innig - arrangement pour violon piano et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "6 études en forme de canon op 56 : Innig - arrangement pour violon piano et violoncelle",
+      "Label": "NIMBUS",
+      "ReferenceLabel": "NI 5875",
+      "ExternalID": "0710357587528-1-12",
+      "AlbumTitle": "Felix Mendelssohn et Robert Schumann : Trios",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0710357587528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Theodor Kirchner",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Theodor Kirchner : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Hagai Shaham",
+          "Profession": "Interprète",
+          "InterventionNote": "Hagai Shaham : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Arnon Erez",
+          "Profession": "Interprète",
+          "InterventionNote": "Arnon Erez : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Raphael Wallfisch",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphael Wallfisch : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T02:07:04+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/06a11936-28bc-3034-a079-ea2645c0f32d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:10:45:00",
+      "ScheduledDuration": "00:07:59:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vater unser im himmelreich à 2 clav. et pedal è Canto fermo in canone",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vater unser im himmelreich à 2 clav. et pedal è Canto fermo in canone",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "92769",
+      "ExternalID": "5028421927695-2-2",
+      "AlbumTitle": "Bach/Clavierubung 3/Orgues historiques allemands/Messori",
+      "Rank": 2,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421927695",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Matteo Messori",
+        "Profession": "Interprète",
+        "InterventionNote": "Matteo Messori : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-10-23T02:10:45+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:18:44:00",
+      "ScheduledDuration": "00:03:45:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quintette a cordes n°2 en ut min K 406 : Menuetto in canone",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quintette a cordes n°2 en ut min K 406 : Menuetto in canone",
+      "Label": "CAROM",
+      "ReferenceLabel": "CM 0082006",
+      "ExternalID": "4607062130247-1-3",
+      "AlbumTitle": "Wolfgang Amadeus Mozart : Oeuvres pour hautbois",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4607062130247",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexei Utkin",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexei Utkin : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Pyotr Nikiforov",
+          "Profession": "Interprète",
+          "InterventionNote": "Pyotr Nikiforov : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Zoya Nevolina",
+          "Profession": "Interprète",
+          "InterventionNote": "Zoya Nevolina : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lidiya Fimina",
+          "Profession": "Interprète",
+          "InterventionNote": "Lidiya Fimina : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Ekaterina Dossina",
+          "Profession": "Interprète",
+          "InterventionNote": "Ekaterina Dossina : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T02:18:44+02:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/43f0c82b-495d-3794-851c-ad9349c0f37e",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:22:29:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variations canoniques sur Vom Himmel hoch da komm' ich her BWV 769 : Variation n°5 : L'altra sorte del canone al rovescio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variations canoniques sur Vom Himmel hoch da komm' ich her BWV 769 : Variation n°5 : L'altra sorte del canone al rovescio",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875026162-37",
+      "ExternalID": "RF00000054916-1-8",
+      "AlbumTitle": "Igor Stravinsky : The complete Columbia album collection / CD 37",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000054916",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Igor Stravinsky",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jean Sebastien Bach",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Elmer Iseler",
+        "Profession": "Interprète",
+        "InterventionNote": "Elmer Iseler"
+      },
+      "Orchestra": {
+        "EntityName": "Cbc Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Festival Singers Toronto",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Igor Stravinsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:22:29+02:00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:25:14:00",
+      "ScheduledDuration": "00:00:50:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "1er Canon de la fête (1ère Ode Hirmos)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "1er Canon de la fête (1ère Ode Hirmos)",
+      "Label": "RTMU",
+      "ReferenceLabel": "chcd385",
+      "ExternalID": "3347170003859-1-12",
+      "AlbumTitle": "Dormition de la mère de dieu",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3347170003859",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Le Coeur Des Moines De Chevetogne",
+        "Profession": "Interprète",
+        "InterventionNote": "Le Coeur Des Moines De Chevetogne"
+      },
+      "ScheduledDateTime": "2017-10-23T02:25:14+02:00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:26:04:00",
+      "ScheduledDuration": "00:01:39:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Divertissement n°3 : les amours badins : a moy tout est perdu (canon a 3)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Divertissement n°3 : les amours badins : a moy tout est perdu (canon a 3)",
+      "Label": "ASTREE",
+      "ReferenceLabel": "E 8820",
+      "ExternalID": "3298490088203-1-14",
+      "AlbumTitle": "Francois Couperin : concert dans le gout theatral",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490088203",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Couperin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Capriccio Stravagante",
+          "Profession": "Interprète",
+          "InterventionNote": "Capriccio Stravagante"
+        },
+        {
+          "FullName": "Karina Gauvin",
+          "Profession": "Interprète",
+          "InterventionNote": "Karina Gauvin : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Skip Sempe",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:26:04+02:00",
+      "composer": "http://data.doremus.org/artist/14970460-189f-3593-a550-7bceb778072e",
+      "best": "http://data.doremus.org/expression/339a4cec-8a8f-3a05-9a51-6f8bb9f2c2ce",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:27:43:00",
+      "ScheduledDuration": "00:00:59:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour la jeunesse n°2 en Ré Maj op 118 n°2 pour piano : Canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour la jeunesse n°2 en Ré Maj op 118 n°2 pour piano : Canon",
+      "Label": "ALPHA",
+      "ReferenceLabel": "ALPHA 154",
+      "ExternalID": "3760014191541-1-16",
+      "AlbumTitle": "Schumann / Oeuvres pour piano / Vol 8 / Le sage",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014191541",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eric Le Sage",
+        "Profession": "Interprète",
+        "InterventionNote": "Eric Le Sage : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T02:27:43+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/341fb3d4-6f1a-3bf8-8377-35959bbf2787",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:28:42:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon pour la fete de la croix : Hirmos de l'ode 5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon pour la fete de la croix : Hirmos de l'ode 5",
+      "Label": "0111",
+      "ReferenceLabel": "OPS 30-229",
+      "ExternalID": "0709861302291-1-3",
+      "AlbumTitle": "17e S./Orthodoxie/Suprasl/Grindenko",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0709861302291",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Kulebiakin Valentin",
+          "Profession": "Interprète",
+          "InterventionNote": "Kulebiakin Valentin : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Du Patriarcat Russe",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-10-23T02:28:42+02:00"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:30:09:00",
+      "ScheduledDuration": "00:01:23:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon BuxWV 123 : Duplex per augmentationem - pour orchestre et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon BuxWV 123 : Duplex per augmentationem - pour orchestre et basse continue",
+      "Label": "CHALLENGE RECORDS",
+      "ReferenceLabel": "CC72244",
+      "ExternalID": "0608917224429-2-7",
+      "AlbumTitle": "Dietrich Buxtehude : Intégrale des oeuvres",
+      "Rank": 7,
+      "NumVolume": 2,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0608917224429",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dietrich Buxtehude",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Baroque D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ton Koopman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:30:09+02:00",
+      "composer": "http://data.doremus.org/artist/25973374-a895-3966-9445-8f695ef5a5f0"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:31:32:00",
+      "ScheduledDuration": "00:06:02:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Deo gratias / Canon à 36 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Deo gratias / Canon à 36 voix a cappella",
+      "Label": "SONY",
+      "ReferenceLabel": "SK 66261",
+      "ExternalID": "5099706626121-1-4",
+      "AlbumTitle": "Utopia triumphans - the great polyphony of the renaissance",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099706626121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ockeghem Johannes",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Huelgas",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Paul Van Nevel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:31:32+02:00"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:37:34:00",
+      "ScheduledDuration": "00:01:47:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en canon en Si bémol Maj TWV 41:B3 : Vivace - pour flûte à bec et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en canon en Si bémol Maj TWV 41:B3 : Vivace - pour flûte à bec et basse continue",
+      "Label": "TELDEC",
+      "ReferenceLabel": "4509-93688-2",
+      "ExternalID": "0745099368821-1-12",
+      "AlbumTitle": "Georg Philipp Telemann : Sonates et fantaisies pour flûte à bec",
+      "Rank": 12,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0745099368821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Frans Bruggen",
+          "Profession": "Interprète",
+          "InterventionNote": "Frans Bruggen : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Anner Bylsma",
+          "Profession": "Interprète",
+          "InterventionNote": "Anner Bylsma : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Gustav Leonhardt",
+          "Profession": "Interprète",
+          "InterventionNote": "Gustav Leonhardt : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T02:37:34+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:39:21:00",
+      "ScheduledDuration": "00:00:33:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon en fa min / Pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon en fa min / Pour piano",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.550958",
+      "ExternalID": "RF00000004872-1-8",
+      "AlbumTitle": "Johannes Brahms : Intégrale de l'oeuvre pour piano / cd9",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004872",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Idil Biret",
+        "Profession": "Interprète",
+        "InterventionNote": "Idil Biret : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T02:39:21+02:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/d0c6207a-d6c7-3617-809c-62f6f109ba85",
+      "best_matching_score": "0.81"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:39:54:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Serenade nº12 en ut min k 388 : menuetto - pour ensemble a vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Serenade nº12 en ut min k 388 : menuetto - pour ensemble a vent",
+      "Label": "CD DIFFUSION",
+      "ReferenceLabel": "CDD 9701",
+      "ExternalID": "RF00000004051-1-18",
+      "AlbumTitle": "Wolfgang Amadeus Mozart : la flute enchantee et la serenade de nuit",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004051",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexandre Peyrol",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Peyrol : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Gaelle Bouteiller",
+          "Profession": "Interprète",
+          "InterventionNote": "Gaelle Bouteiller : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Gildas Prado",
+          "Profession": "Interprète",
+          "InterventionNote": "Gildas Prado : Cor anglais",
+          "mop": "Cor anglais"
+        },
+        {
+          "FullName": "Xavier Jacquet",
+          "Profession": "Interprète",
+          "InterventionNote": "Xavier Jacquet : Cor anglais",
+          "mop": "Cor anglais"
+        },
+        {
+          "FullName": "Thierry Ponston",
+          "Profession": "Interprète",
+          "InterventionNote": "Thierry Ponston : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Nicolas Gaignard",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicolas Gaignard : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Gilles Claraz",
+          "Profession": "Interprète",
+          "InterventionNote": "Gilles Claraz : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Philippe David",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe David : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Raymond Fournier",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Fournier : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Philidor",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Eric Baude-Delhommais",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:39:54+02:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/43e9a4ae-f662-3cd0-be14-8d8009a6eb38",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:43:43:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La tempête op 109 suite n°1 : Canon - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La tempête op 109 suite n°1 : Canon - pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-SACD-1945",
+      "ExternalID": "7318599919454-1-6",
+      "AlbumTitle": "Jean Sibelius : La tempête et autres oeuvres symphoniques",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599919454",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Lahti",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Okko Kamu",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:43:43+02:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dfa107eb-1b66-37c8-b02c-0233f41e59cb",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:45:50:00",
+      "ScheduledDuration": "00:01:31:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Donnez a boire / Canon pour quatuor vocal et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Donnez a boire / Canon pour quatuor vocal et ensemble instrumental",
+      "Label": "ARION",
+      "ReferenceLabel": "ARN 68248",
+      "ExternalID": "3325480682483-1-25",
+      "AlbumTitle": "Eloge du vin et de la vigne",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325480682483",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thomas Ravencroft",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "La Maurache",
+        "Profession": "Interprète",
+        "InterventionNote": "La Maurache"
+      },
+      "ScheduledDateTime": "2017-10-23T02:45:50+02:00"
+    },
+    {
+      "id": "66",
+      "StepID": "66",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:47:21:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 65,
+      "Inclusion": 0,
+      "NumEventCond": 66,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Autres péchés de vieillesse : Or che s'oscura il ciel - canon pour choeur de femmes et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Autres péchés de vieillesse : Or che s'oscura il ciel - canon pour choeur de femmes et piano",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.573292",
+      "ExternalID": "0747313329274-1-19",
+      "AlbumTitle": "Gioacchio Rossini : Intégrale de la musique pour piano / Vol.7",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313329274",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gioacchino Rossini",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ars Cantica",
+          "Profession": "Interprète",
+          "InterventionNote": "Ars Cantica"
+        },
+        {
+          "FullName": "Alessandro Marangoni",
+          "Profession": "Interprète",
+          "InterventionNote": "Alessandro Marangoni : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T02:47:21+02:00",
+      "composer": "http://data.doremus.org/artist/32c2b0ff-35f1-3e65-b0ca-34aaf35f3d50"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:49:22:00",
+      "ScheduledDuration": "00:04:07:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie et sonate en ré min op 25 : Menuetto in canone - Trio - arrangement pour 2 violons 2 altos et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie et sonate en ré min op 25 : Menuetto in canone - Trio - arrangement pour 2 violons 2 altos et violoncelle",
+      "Label": "NCA",
+      "ReferenceLabel": "9710831-314",
+      "ExternalID": "4019272978319-1-4",
+      "AlbumTitle": "Emanuel Aloys Forster : Quintettes pour cordes",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4019272978319",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Emanuel Aloys Forster",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Les Adieux",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Les Adieux"
+        },
+        {
+          "FullName": "Mary Utiger",
+          "Profession": "Interprète",
+          "InterventionNote": "Mary Utiger : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ursula Bundies",
+          "Profession": "Interprète",
+          "InterventionNote": "Ursula Bundies : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Bettina Ihrig",
+          "Profession": "Interprète",
+          "InterventionNote": "Bettina Ihrig : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Hajo Bass",
+          "Profession": "Interprète",
+          "InterventionNote": "Hajo Bass : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Nicholas Selo",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicholas Selo : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T02:49:22+02:00",
+      "composer": "http://data.doremus.org/artist/77ac8b30-bac2-3d14-ba90-9fb579089711"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:53:33:00",
+      "ScheduledDuration": "00:04:29:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Calidoscopi simfonic op 61 : Canon et habanera - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Calidoscopi simfonic op 61 : Canon et habanera - pour orchestre",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10735",
+      "ExternalID": "0095115173527-1-12",
+      "AlbumTitle": "Xavier Montsalvatge : Oeuvres orchestrales",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115173527",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Xavier Montsalvatge",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juan Jose Mena",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:53:33+02:00",
+      "composer": "http://data.doremus.org/artist/2a6bf912-7b0c-3f2a-b0a1-a1b9116cc6cb",
+      "best": "http://data.doremus.org/expression/5b6887a5-e43d-3e27-8ae6-29a5d71ab487",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "70",
+      "StepID": "70",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:58:02:00",
+      "ScheduledDuration": "00:01:19:00",
+      "NumPhase": 69,
+      "Inclusion": 0,
+      "NumEventCond": 70,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chronica : Canone - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chronica : Canone - pour orchestre",
+      "Label": "DECCA",
+      "ReferenceLabel": "452599-2",
+      "ExternalID": "RF00000019710-1-12",
+      "AlbumTitle": "The Goldschmidt album / CD 1",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000019710",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Berthold Goldschmidt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Opera Comique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Yakov Kreizberg",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T02:58:02+02:00",
+      "composer": "http://data.doremus.org/artist/efa584a3-1eee-38f1-8b32-f3ae29f51d58",
+      "best": "http://data.doremus.org/expression/ad2f991b-3436-3178-869f-f80fb8ef0779",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "71",
+      "StepID": "71",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "02:59:21:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 70,
+      "Inclusion": 0,
+      "NumEventCond": 71,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate canonique en sol min GWV 216 : sans nom de mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate canonique en sol min GWV 216 : sans nom de mouvement",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "16532",
+      "ExternalID": "RF00000048616-1-13",
+      "AlbumTitle": "Christoph Graupner : Per il flauto",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048616",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christoph Graupner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sabrina Frey",
+          "Profession": "Interprète",
+          "InterventionNote": "Sabrina Frey : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Ars Musica Zurich",
+          "Profession": "Interprète",
+          "InterventionNote": "Ars Musica Zurich"
+        },
+        {
+          "FullName": "Maurice Steger",
+          "Profession": "Interprète",
+          "InterventionNote": "Maurice Steger : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Markus Bernhard",
+          "Profession": "Interprète",
+          "InterventionNote": "Markus Bernhard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Rodney Prada",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodney Prada : Viole de gambe",
+          "mop": "Viole de gambe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T02:59:21+02:00",
+      "composer": "http://data.doremus.org/artist/41fde588-2628-3302-94d0-d7734b9f64b5"
+    },
+    {
+      "id": "72",
+      "StepID": "72",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "03:01:01:00",
+      "ScheduledDuration": "00:02:18:00",
+      "NumPhase": 71,
+      "Inclusion": 0,
+      "NumEventCond": 72,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variations canoniques sur Vom Himmel hoch da komm' ich her BWV 769 : Variation n°3 : In canone alla settima",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variations canoniques sur Vom Himmel hoch da komm' ich her BWV 769 : Variation n°3 : In canone alla settima",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875026162-37",
+      "ExternalID": "RF00000054916-1-6",
+      "AlbumTitle": "Igor Stravinsky : The complete Columbia album collection / CD 37",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000054916",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Igor Stravinsky",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jean Sebastien Bach",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Elmer Iseler",
+        "Profession": "Interprète",
+        "InterventionNote": "Elmer Iseler"
+      },
+      "Orchestra": {
+        "EntityName": "Cbc Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Festival Singers Toronto",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Igor Stravinsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T03:01:01+02:00"
+    },
+    {
+      "id": "73",
+      "StepID": "73",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "03:03:19:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 72,
+      "Inclusion": 0,
+      "NumEventCond": 73,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ouverture en sol min k 355 : Aria en canon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ouverture en sol min k 355 : Aria en canon",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A 338",
+      "ExternalID": "3464858013389-1-23",
+      "AlbumTitle": "Johann Joseph Fux : Concentus musico-instrumentalis",
+      "Rank": 23,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3464858013389",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Joseph Fux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Armonico Tributo Austria,",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lorenz Duftschmid",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-23T03:03:19+02:00",
+      "composer": "http://data.doremus.org/artist/6e24c22e-b595-39aa-b4dc-79519d72c99f"
+    },
+    {
+      "id": "74",
+      "StepID": "74",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "03:05:30:00",
+      "ScheduledDuration": "00:00:34:00",
+      "NumPhase": 73,
+      "Inclusion": 0,
+      "NumEventCond": 74,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon pour piano à 2 voix en Sol Maj Hess 274",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon pour piano à 2 voix en Sol Maj Hess 274",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "453 733-2",
+      "ExternalID": "0028945373324-7-6",
+      "AlbumTitle": "Complete Beethoven Edition / vol 6 : Oeuvres pour piano",
+      "Rank": 6,
+      "NumVolume": 7,
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945373324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Walter Olbertz",
+        "Profession": "Interprète",
+        "InterventionNote": "Walter Olbertz : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-23T03:05:30+02:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "75",
+      "StepID": "75",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-23",
+      "ScheduledTime": "03:06:04:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 74,
+      "Inclusion": 0,
+      "NumEventCond": 75,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en canon en Sol Maj TWV 40 : 118 : Vivace - version pour 2 violons",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en canon en Sol Maj TWV 40 : 118 : Vivace - version pour 2 violons",
+      "Label": "TESTAMENT",
+      "ReferenceLabel": "SBT 1227",
+      "ExternalID": "0749677122720-1-10",
+      "AlbumTitle": "Leonid Kogan interprète des sonates pour violon",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0749677122720",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Leonid Kogan",
+          "Profession": "Interprète",
+          "InterventionNote": "Leonid Kogan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Elizaveta Gilels",
+          "Profession": "Interprète",
+          "InterventionNote": "Elizaveta Gilels : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-23T03:06:04+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51"
+    }
+  ],
+  "total": 66,
+  "matched": 25
+}

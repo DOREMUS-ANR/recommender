@@ -1,0 +1,3675 @@
+{
+  "id": "FM-407_20161212_00-23",
+  "channel": "407",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:00:13:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chim chim cheree",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chim chim cheree",
+      "Label": "COTA",
+      "ReferenceLabel": "COL-CD-6732",
+      "ExternalID": "0090431673225-1-2",
+      "AlbumTitle": "Mary Poppins",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090431673225",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Duke Ellington",
+          "Profession": "Interprète",
+          "InterventionNote": "Duke Ellington : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Cootie Williams",
+          "Profession": "Interprète",
+          "InterventionNote": "Cootie Williams : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Paul Gonzalves",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Gonzalves : Saxophone",
+          "mop": "Saxophone"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T09:00:13+01:00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:03:05:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le livre de la jungle : I Wan'na be like you",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le livre de la jungle : I Wan'na be like you",
+      "Label": "WALT DISNEY RECORDS",
+      "ReferenceLabel": "WDR 36006-2",
+      "ExternalID": "3418153600621-1-5",
+      "AlbumTitle": "Bof / The jungle book / Le livre de la jungle",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3418153600621",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Phil Harris",
+        "Profession": "Interprète",
+        "InterventionNote": "Phil Harris"
+      },
+      "ScheduledDateTime": "2016-12-12T09:03:05+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:07:11:00",
+      "ScheduledDuration": "00:06:53:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les Animaux modèles : le lion amoureux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les Animaux modèles : le lion amoureux",
+      "Label": "AVIE",
+      "ReferenceLabel": "AV2135",
+      "ExternalID": "RF00000032673-1-4",
+      "AlbumTitle": "Francis Poulenc : Les animaux modèles et concert champêtre",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032673",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Filarmonica 900 Du Theatre De Turin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jan Latham-Koenig",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:07:11+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/10cdb8f9-8702-3c5e-9dde-94657bd1eaeb",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:14:04:00",
+      "ScheduledDuration": "00:08:33:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour piano et orchestre en sol majeur / I. Allegramente",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour piano et orchestre en sol majeur / I. Allegramente",
+      "Label": "VALOIS",
+      "ReferenceLabel": "V 4858",
+      "ExternalID": "3298490048580-1-1",
+      "AlbumTitle": "Maurice Ravel : Concertos pour piano et tombeau de Couperin",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490048580",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Huseyin Sermet",
+        "Profession": "Interprète",
+        "InterventionNote": "Huseyin Sermet : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Emmanuel Krivine",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:14:04+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/720d7dd5-b4c5-349f-a665-0dde0ba99002",
+      "best_matching_score": "0.86"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:22:37:00",
+      "ScheduledDuration": "00:03:12:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Duetto buffo di due Gatti - duo des chats",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Duetto buffo di due Gatti - duo des chats",
+      "Label": "EMI",
+      "ReferenceLabel": "7497942",
+      "ExternalID": "0077774979429-1-7",
+      "AlbumTitle": "Le duo des chats",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0077774979429",
+      "Author": {
+        "FullName": "Gioacchino Rossini",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Gioacchino Rossini : Auteur"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Elisabeth Schwarzkopf",
+          "Profession": "Interprète",
+          "InterventionNote": "Elisabeth Schwarzkopf"
+        },
+        {
+          "FullName": "Victoria De Los Angeles",
+          "Profession": "Interprète",
+          "InterventionNote": "Victoria De Los Angeles"
+        },
+        {
+          "FullName": "Gerald Moore",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerald Moore : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T09:22:37+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:25:57:00",
+      "ScheduledDuration": "00:01:00:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate representative pour violon et basse continue : VII le chat",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate representative pour violon et basse continue : VII le chat",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMU 907134/35",
+      "ExternalID": "0000000000368-1-15",
+      "AlbumTitle": "Heinrich ignaz Franz von biber : Sonates et passacailles cd1",
+      "Rank": 15,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0000000000368",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heinrich Ignaz Franz Von Biber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Romanesca",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:25:57+01:00",
+      "composer": "http://data.doremus.org/artist/74bdcaab-4bbe-3428-938a-280d894e0c03"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:26:57:00",
+      "ScheduledDuration": "00:01:10:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate representative pour violon et basse continue : VIII marche des mousquetaires",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate representative pour violon et basse continue : VIII marche des mousquetaires",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMU 907134/35",
+      "ExternalID": "0000000000368-1-16",
+      "AlbumTitle": "Heinrich ignaz Franz von biber : Sonates et passacailles cd1",
+      "Rank": 16,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0000000000368",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heinrich Ignaz Franz Von Biber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Romanesca",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:26:57+01:00",
+      "composer": "http://data.doremus.org/artist/74bdcaab-4bbe-3428-938a-280d894e0c03"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:28:07:00",
+      "ScheduledDuration": "00:02:39:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "El currucha",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "El currucha",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5099967851621",
+      "ExternalID": "5099967851621-1-11",
+      "AlbumTitle": "Los pajaros perdidos / The south american project",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099967851621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Juan Bautista",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "L'Arpeggiata",
+        "Profession": "Interprète",
+        "InterventionNote": "L'Arpeggiata"
+      },
+      "OrchestraLeader": {
+        "FullName": "Christina Pluhar",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:28:07+01:00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:30:49:00",
+      "ScheduledDuration": "00:03:44:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bésame mucho",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bésame mucho",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "5099967851621",
+      "ExternalID": "5099967851621-1-20",
+      "AlbumTitle": "Los pajaros perdidos / The south american project",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099967851621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Consuelo Velasquez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Raquel Andueza",
+          "Profession": "Interprète",
+          "InterventionNote": "Raquel Andueza"
+        },
+        {
+          "FullName": "L'Arpeggiata",
+          "Profession": "Interprète",
+          "InterventionNote": "L'Arpeggiata"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Christina Pluhar",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:30:49+01:00",
+      "composer": "http://data.doremus.org/artist/22938da0-13d3-32bc-9b0d-ce2abcbbffef",
+      "best": "http://data.doremus.org/expression/fa755317-64e1-30a1-9b0c-6ce294069b38",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:34:33:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lundu",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lundu",
+      "Label": "ECM RECORDS",
+      "ExternalID": "0602517972803-2-1",
+      "AlbumTitle": "Saudacoes",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602517972803",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Egberto Gismonti",
+          "Profession": "Interprète",
+          "InterventionNote": "Egberto Gismonti : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Alexandre Gismonti",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Gismonti : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T09:34:33+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:38:49:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "West side story : Mambo - pour orchestre et exclamations",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "West side story : Mambo - pour orchestre et exclamations",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4777457",
+      "ExternalID": "0028947774570-1-11",
+      "AlbumTitle": "Fiesta",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947774570",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National Des Jeunes Simon Bolivar Du Venezuela",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Orchestre National Des Jeunes Simon Bolivar Du Venezuela",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gustavo Dudamel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:38:49+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/2629fc79-5dc7-3fc0-9ff8-c29bab3c7148",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:41:18:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Main title + rebel blockade runner",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Main title + rebel blockade runner",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "S2K 92950",
+      "ExternalID": "5099709295027-1-2",
+      "AlbumTitle": "La guerre des etoiles/Star wars/Episode IV : A new Hope",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099709295027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-12T09:41:18+01:00",
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:43:33:00",
+      "ScheduledDuration": "00:07:37:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les planètes op 32 : 2 Venus la pacifique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les planètes op 32 : 2 Venus la pacifique",
+      "Label": "DGG",
+      "ReferenceLabel": "445860-2",
+      "ExternalID": "0028944586022-1-3",
+      "AlbumTitle": "John Eliot Gardiner dirige Hoslt et Grainger",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944586022",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Holst",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Eliot Gardiner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T09:43:33+01:00",
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:51:19:00",
+      "ScheduledDuration": "00:02:41:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le carnaval des animaux : Aquarium",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le carnaval des animaux : Aquarium",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0825646312207",
+      "ExternalID": "0825646312207-3-16",
+      "AlbumTitle": "Martha Argerich and friends",
+      "Rank": 16,
+      "NumVolume": 3,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646312207",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Camille Saint Saens",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Martha Argerich",
+          "Profession": "Interprète",
+          "InterventionNote": "Martha Argerich : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Lilya Zilberstein",
+          "Profession": "Interprète",
+          "InterventionNote": "Lilya Zilberstein : Piano électrique",
+          "mop": "Piano électrique"
+        },
+        {
+          "FullName": "Andrey Baranov",
+          "Profession": "Interprète",
+          "InterventionNote": "Andrey Baranov : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Michael Guttman",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Guttman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Lida Chen",
+          "Profession": "Interprète",
+          "InterventionNote": "Lida Chen : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Alexandre Debrus",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Debrus : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Enrico Fagone",
+          "Profession": "Interprète",
+          "InterventionNote": "Enrico Fagone : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Alfred Rutz",
+          "Profession": "Interprète",
+          "InterventionNote": "Alfred Rutz : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Corrado Giuffredi",
+          "Profession": "Interprète",
+          "InterventionNote": "Corrado Giuffredi : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Gregorio Di Trapani",
+          "Profession": "Interprète",
+          "InterventionNote": "Gregorio Di Trapani : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T09:51:19+01:00",
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
+      "best": "http://data.doremus.org/expression/6caa458f-291b-36b8-af8e-d665e3a05476",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:54:00:00",
+      "ScheduledDuration": "00:02:55:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Arrival : Kangaru",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Arrival : Kangaru",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4796782",
+      "ExternalID": "0028947967828-1-20",
+      "AlbumTitle": "BOF / Arrival",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947967828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Johannsson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-12T09:54:00+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "09:56:58:00",
+      "ScheduledDuration": "00:04:39:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Marcha al Turquino (d'après le 3eme mouvement de la sonate pour piano n°11 en La Maj K 331 : Marche turque)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Marcha al Turquino (d'après le 3eme mouvement de la sonate pour piano n°11 en La Maj K 331 : Marche turque)",
+      "Label": "RUMOR RECORDS",
+      "ExternalID": "8429006754328-1-2",
+      "AlbumTitle": "Mozart goes to Havana (JazzCuba volume 23)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8429006754328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pity Cabrera",
+        "Profession": "Interprète",
+        "InterventionNote": "Pity Cabrera : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2016-12-12T09:56:58+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/44d60392-e4bc-3b37-8e21-2f72d69ecd6d",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:01:37:00",
+      "ScheduledDuration": "00:09:47:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Danzon n°2 - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Danzon n°2 - pour orchestre",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4777457",
+      "ExternalID": "0028947774570-1-4",
+      "AlbumTitle": "Fiesta",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947774570",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arturo Marquez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National Des Jeunes Simon Bolivar Du Venezuela",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gustavo Dudamel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T10:01:37+01:00",
+      "composer": "http://data.doremus.org/artist/7ceb06da-85a9-3304-94d3-faa898948f82"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:11:32:00",
+      "ScheduledDuration": "00:05:14:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Caramel mou op 68 - version pour voix batterie et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Caramel mou op 68 - version pour voix batterie et piano",
+      "Label": "VIRGIN CLASSICS",
+      "ReferenceLabel": "440737",
+      "ExternalID": "5099944073725-1-21",
+      "AlbumTitle": "Le Boeuf sur le toit",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099944073725",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Darius Milhaud",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alexandre Tharaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Tharaud : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jean Delescluse",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Delescluse : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Florent Jodelet",
+          "Profession": "Interprète",
+          "InterventionNote": "Florent Jodelet : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T10:11:32+01:00",
+      "composer": "http://data.doremus.org/artist/bcfefeca-ab42-3e86-9ffa-0b0176319b29",
+      "best": "http://data.doremus.org/expression/b4a446bd-eab8-3c63-8888-84ecddb9988d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:16:46:00",
+      "ScheduledDuration": "00:01:35:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'amour des trois oranges suite op 33bis : Marche",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'amour des trois oranges suite op 33bis : Marche",
+      "Label": "ICA",
+      "ReferenceLabel": "ICAC 5035",
+      "ExternalID": "5060244550353-1-8",
+      "AlbumTitle": "Tchaikovsky Moussorgski et Prokofiev : Oeuvres symphoniques",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060244550353",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Prokofiev",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Guennadi Rojdestvenski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T10:16:46+01:00",
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
+      "best": "http://data.doremus.org/expression/a6b4cbab-a64f-3679-a092-89f029385d5b",
+      "best_matching_score": "0.98"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:18:21:00",
+      "ScheduledDuration": "00:04:08:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Moscou-Tcheriomouchki : Ballet (Acte II) - suite pour 3 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Moscou-Tcheriomouchki : Ballet (Acte II) - suite pour 3 pianos",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "6447012",
+      "ExternalID": "5099964470122-2-10",
+      "AlbumTitle": "Martha Argerich and friends / Live from the Lugano festival 2011",
+      "Rank": 10,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099964470122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Giorgia Tomassi",
+          "Profession": "Interprète",
+          "InterventionNote": "Giorgia Tomassi : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Carlo Maria Griguoli",
+          "Profession": "Interprète",
+          "InterventionNote": "Carlo Maria Griguoli : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alessandro Stella",
+          "Profession": "Interprète",
+          "InterventionNote": "Alessandro Stella : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T10:18:21+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:22:42:00",
+      "ScheduledDuration": "00:03:24:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Flying",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Flying",
+      "Label": "MCA RECORDS",
+      "ReferenceLabel": "MCD 01878",
+      "ExternalID": "5011781187823-1-5",
+      "AlbumTitle": "BOF / E T L'extra terrestre (film)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1982-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5011781187823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2016-12-12T10:22:42+01:00",
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:26:06:00",
+      "ScheduledDuration": "00:02:33:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Just another dead rat in a garbage pail (behind a chinese restaurant)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Just another dead rat in a garbage pail (behind a chinese restaurant)",
+      "Label": "TWENTIETH CENTURY FOX",
+      "ReferenceLabel": "1877102562",
+      "ExternalID": "0018771025627-1-19",
+      "AlbumTitle": "BOF / Fantastic Mr. Fox",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0018771025627",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Alexandre Desplat",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jarvis Cocker (chansons Du Film)",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T10:26:06+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:28:39:00",
+      "ScheduledDuration": "00:02:25:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The 3rd man theme",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The 3rd man theme",
+      "Label": "RCA",
+      "ReferenceLabel": "88697115332",
+      "ExternalID": "0886971153323-1-10",
+      "AlbumTitle": "Exploring new sounds in hi-fi",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1959-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886971153323",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Esquivel And His Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Juan Garcia Esquivel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T10:28:39+01:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:31:04:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Turkish march",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Turkish march",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 68206 2",
+      "ExternalID": "0743216820627-1-10",
+      "AlbumTitle": "Juan's again",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743216820627",
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Juan Garcia Esquivel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T10:31:04+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:34:18:00",
+      "ScheduledDuration": "00:17:08:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Young person's guide to the orchestra op 34",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Young person's guide to the orchestra op 34",
+      "Label": "RCA",
+      "ReferenceLabel": "RD 82743",
+      "ExternalID": "0035628274328-1-2",
+      "AlbumTitle": "Pierre et le loup op 67 / Young person's guide to the orchestra op 34",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628274328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Benjamin Britten",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Philadelphie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Eugene Ormandy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T10:34:18+01:00",
+      "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123",
+      "best": "http://data.doremus.org/expression/3e2f53df-5221-3f48-a85e-77d40cf9484c",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:51:35:00",
+      "ScheduledDuration": "00:03:41:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Valses : Valse en la - pour guitare acoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Valses : Valse en la - pour guitare acoustique",
+      "Label": "EDITIONS LORELEY",
+      "ReferenceLabel": "LY 001",
+      "ExternalID": "3760077080011-1-8",
+      "AlbumTitle": "Emmanuel rossfelder : Danses latines",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760077080011",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francisco Tarrega",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Emmanuel Rossfelder",
+        "Profession": "Interprète",
+        "InterventionNote": "Emmanuel Rossfelder : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2016-12-12T10:51:35+01:00",
+      "composer": "http://data.doremus.org/artist/920a4c9d-68f0-36c8-88a9-a4c882171aa6"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:55:16:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes en Fa Maj : Assez vif - Très rythmé - version avec instruments jouets",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes en Fa Maj : Assez vif - Très rythmé - version avec instruments jouets",
+      "Label": "1001NOTES",
+      "ReferenceLabel": "1001NOTES06",
+      "ExternalID": "3341348158587-1-3",
+      "AlbumTitle": "Artuan de Lierrée : Aquarium",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348158587",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Artuan De Lierree",
+          "Profession": "Interprète",
+          "InterventionNote": "Artuan De Lierree : Piano jouet, Guitare électrique",
+          "mop": "Piano jouet, Guitare électrique"
+        },
+        {
+          "FullName": "Simon Bessaguet",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon Bessaguet : Basse électrique, Tuba, Cor",
+          "mop": "Basse électrique, Tuba, Cor"
+        },
+        {
+          "FullName": "Thibault Chaumeil",
+          "Profession": "Interprète",
+          "InterventionNote": "Thibault Chaumeil : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Thomas Delperie",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Delperie : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T10:55:16+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/4f56c71f-e047-3ac9-8a1f-133dd38feb49",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "10:57:07:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de jazz n°2 : Valse n°2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de jazz n°2 : Valse n°2",
+      "Label": "PHIL HARMONIE",
+      "ReferenceLabel": "06030",
+      "ExternalID": "4250317416308-1-11",
+      "AlbumTitle": "Dimitri Chostakovitch : Symphonie n°15 et Suite",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4250317416308",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Chostakovitch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Kolja Blacher",
+          "Profession": "Interprète",
+          "InterventionNote": "Kolja Blacher : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jens Peter Maintz",
+          "Profession": "Interprète",
+          "InterventionNote": "Jens Peter Maintz : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Oriol Cruixent",
+          "Profession": "Interprète",
+          "InterventionNote": "Oriol Cruixent : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Raymond Curfs",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Curfs : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Claudio Estay",
+          "Profession": "Interprète",
+          "InterventionNote": "Claudio Estay : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Mark Haeldermans",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Haeldermans : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T10:57:07+01:00",
+      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:00:37:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Maple leaf rag",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Maple leaf rag",
+      "Label": "EMI",
+      "ReferenceLabel": "EMI CC35-3 049",
+      "ExternalID": "0000000000114-1-7",
+      "AlbumTitle": "Gladrags",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1982-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0000000000114",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Joplin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Katia Labeque",
+          "Profession": "Interprète",
+          "InterventionNote": "Katia Labeque : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marielle Labeque",
+          "Profession": "Interprète",
+          "InterventionNote": "Marielle Labeque"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T11:00:37+01:00",
+      "composer": "http://data.doremus.org/artist/d1649fd7-3a53-3dcb-afdf-6e3e0a2f0344",
+      "best": "http://data.doremus.org/expression/5492555b-a96b-3824-8222-131d2f5723c0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:03:19:00",
+      "ScheduledDuration": "00:00:51:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mission : Impossible theme",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mission : Impossible theme",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 733 2",
+      "ExternalID": "0030206673326-1-1",
+      "AlbumTitle": "Bof / Mission impossible 3",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206673326",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Lalo Schifrin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Hollywood Studio Symphony",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Tim Simonec",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:03:19+01:00",
+      "composer": "http://data.doremus.org/artist/37cf105f-3435-36bf-8932-778998c8aa4a"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:04:10:00",
+      "ScheduledDuration": "00:05:10:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hedwig's theme",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hedwig's theme",
+      "Label": "WARNER BROS",
+      "ReferenceLabel": "WB 7567-93086-2",
+      "ExternalID": "0075679308627-1-19",
+      "AlbumTitle": "Harry potter a l'ecole des sorciers (film)",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075679308627",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Terry Edwards",
+        "Profession": "Interprète",
+        "InterventionNote": "Terry Edwards"
+      },
+      "Orchestra": {
+        "EntityName": "Non Identifie",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "London Voices",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:04:10+01:00",
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:09:20:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tsar Saltan : Le vol du bourdon - réduction pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tsar Saltan : Le vol du bourdon - réduction pour violon et piano",
+      "Label": "MERCURY",
+      "ReferenceLabel": "MERC 434339-2",
+      "ExternalID": "0028943433921-1-12",
+      "AlbumTitle": "Henryk Szeryng : Concertos pour violon et autres pièces",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943433921",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Henryk Szeryng",
+          "Profession": "Interprète",
+          "InterventionNote": "Henryk Szeryng : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Charles Reiner",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Reiner : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2016-12-12T11:09:20+01:00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:10:50:00",
+      "ScheduledDuration": "00:01:06:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les comediens op 26 pour orchestre : Prologue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les comediens op 26 pour orchestre : Prologue",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 63302 2",
+      "ExternalID": "0090266330225-1-6",
+      "AlbumTitle": "Khatchaturian.Kabalevski.Tchaikovsky.. / Kondrachine",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266330225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dimitri Kabalevski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Rca Victor",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kiril Kondrachine",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:10:50+01:00",
+      "composer": "http://data.doremus.org/artist/b76f2517-7fdf-3d6b-85f8-6c0e0694b837",
+      "best": "http://data.doremus.org/expression/a7a875ac-04aa-314e-81e7-ca4963e994f8",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:11:56:00",
+      "ScheduledDuration": "00:00:55:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Générique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Générique",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-2",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:11:56+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:12:51:00",
+      "ScheduledDuration": "00:00:29:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Prologue (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Prologue (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-3",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:12:51+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:13:20:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Flashback du grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Flashback du grand orchestre",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-4",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:13:20+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:14:28:00",
+      "ScheduledDuration": "00:01:05:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Les bois s'endorment",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Les bois s'endorment",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-5",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:14:28+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:15:33:00",
+      "ScheduledDuration": "00:00:55:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Les cordes chassent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Les cordes chassent",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-6",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:15:33+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:16:28:00",
+      "ScheduledDuration": "00:01:39:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Stradi variations 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Stradi variations 1",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-7",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:16:28+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:18:07:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Piccolo sur sa feuille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Piccolo sur sa feuille",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-8",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:18:07+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:19:10:00",
+      "ScheduledDuration": "00:01:10:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Fanfare",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Fanfare",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-9",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:19:10+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:20:20:00",
+      "ScheduledDuration": "00:00:47:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Le toboggan",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Le toboggan",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-10",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:20:20+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:21:07:00",
+      "ScheduledDuration": "00:00:51:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Marche de piccolo & saxo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Marche de piccolo & saxo",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-11",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:21:07+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:21:58:00",
+      "ScheduledDuration": "00:00:53:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Appels et thème des bois",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Appels et thème des bois",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-12",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:21:58+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:22:51:00",
+      "ScheduledDuration": "00:00:38:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Saxo est chassé de la famille des bois",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Saxo est chassé de la famille des bois",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-13",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:22:51+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:23:29:00",
+      "ScheduledDuration": "00:00:09:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Les meilleurs amis (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Les meilleurs amis (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-14",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:23:29+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:23:38:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Chanson de piccolo & saxo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Chanson de piccolo & saxo",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-15",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:23:38+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:24:32:00",
+      "ScheduledDuration": "00:00:48:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Jeu de balle avec do",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Jeu de balle avec do",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-16",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:24:32+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:25:20:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Sttradi variations 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Sttradi variations 2",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-17",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:25:20+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:26:50:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : La capture de piccolo par les cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : La capture de piccolo par les cordes",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-18",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:26:50+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:30:20:00",
+      "ScheduledDuration": "00:00:18:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Oser et s'imposer ! (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Oser et s'imposer ! (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-19",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:30:20+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "66",
+      "StepID": "66",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:30:38:00",
+      "ScheduledDuration": "00:01:24:00",
+      "NumPhase": 65,
+      "Inclusion": 0,
+      "NumEventCond": 66,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Thème des percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Thème des percussions",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-20",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:30:38+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:32:02:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Nos héros échappent aux machines",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Nos héros échappent aux machines",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-21",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:32:02+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "68",
+      "StepID": "68",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:34:17:00",
+      "ScheduledDuration": "00:02:13:00",
+      "NumPhase": 67,
+      "Inclusion": 0,
+      "NumEventCond": 68,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Air de pinceau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Air de pinceau",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-22",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:34:17+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:36:30:00",
+      "ScheduledDuration": "00:00:50:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Thème du docteur marteau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Thème du docteur marteau",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-23",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:36:30+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "70",
+      "StepID": "70",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:37:20:00",
+      "ScheduledDuration": "00:00:21:00",
+      "NumPhase": 69,
+      "Inclusion": 0,
+      "NumEventCond": 70,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : La machine du docteur marteau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : La machine du docteur marteau",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-24",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:37:20+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "71",
+      "StepID": "71",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:37:41:00",
+      "ScheduledDuration": "00:02:20:00",
+      "NumPhase": 70,
+      "Inclusion": 0,
+      "NumEventCond": 71,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Chanson du docteur marteau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Chanson du docteur marteau",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-25",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:37:41+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "72",
+      "StepID": "72",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:40:01:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 71,
+      "Inclusion": 0,
+      "NumEventCond": 72,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Blues du baryton",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Blues du baryton",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-26",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 26,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:40:01+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "73",
+      "StepID": "73",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:42:11:00",
+      "ScheduledDuration": "00:01:10:00",
+      "NumPhase": 72,
+      "Inclusion": 0,
+      "NumEventCond": 73,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Les clés",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Les clés",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-27",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 27,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:42:11+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "74",
+      "StepID": "74",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:43:21:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 73,
+      "Inclusion": 0,
+      "NumEventCond": 74,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : La machine idéale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : La machine idéale",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-28",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 28,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:43:21+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "75",
+      "StepID": "75",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:45:35:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 74,
+      "Inclusion": 0,
+      "NumEventCond": 75,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Grand-père basson papy déjanté",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Grand-père basson papy déjanté",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-29",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 29,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:45:35+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "76",
+      "StepID": "76",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:46:37:00",
+      "ScheduledDuration": "00:00:27:00",
+      "NumPhase": 75,
+      "Inclusion": 0,
+      "NumEventCond": 76,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Du sentiment ! (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Du sentiment ! (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-30",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 30,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:46:37+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "77",
+      "StepID": "77",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:47:04:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 76,
+      "Inclusion": 0,
+      "NumEventCond": 77,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Par ici la sortie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Par ici la sortie",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-31",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 31,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:47:04+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "78",
+      "StepID": "78",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:48:54:00",
+      "ScheduledDuration": "00:00:26:00",
+      "NumPhase": 77,
+      "Inclusion": 0,
+      "NumEventCond": 78,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Les cordes se retrouvent / pas de course de piccolo, bois et cuivres",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Les cordes se retrouvent / pas de course de piccolo, bois et cuivres",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-32",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 32,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:48:54+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "79",
+      "StepID": "79",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:49:20:00",
+      "ScheduledDuration": "00:00:12:00",
+      "NumPhase": 78,
+      "Inclusion": 0,
+      "NumEventCond": 79,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : La victoire (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : La victoire (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-33",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 33,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:49:20+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "80",
+      "StepID": "80",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:49:32:00",
+      "ScheduledDuration": "00:01:29:00",
+      "NumPhase": 79,
+      "Inclusion": 0,
+      "NumEventCond": 80,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Retrouvailles, mais...",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Retrouvailles, mais...",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-34",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 34,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:49:32+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "81",
+      "StepID": "81",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:51:01:00",
+      "ScheduledDuration": "00:00:49:00",
+      "NumPhase": 80,
+      "Inclusion": 0,
+      "NumEventCond": 81,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : La chute du docteur marteau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : La chute du docteur marteau",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-35",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 35,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:51:01+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "82",
+      "StepID": "82",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:51:50:00",
+      "ScheduledDuration": "00:00:47:00",
+      "NumPhase": 81,
+      "Inclusion": 0,
+      "NumEventCond": 82,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Mort de saxo ?",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Mort de saxo ?",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-36",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 36,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:51:50+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "83",
+      "StepID": "83",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:52:37:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 82,
+      "Inclusion": 0,
+      "NumEventCond": 83,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Requiem et... réveil de saxo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Requiem et... réveil de saxo",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-37",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 37,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:52:37+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "84",
+      "StepID": "84",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:54:32:00",
+      "ScheduledDuration": "00:00:15:00",
+      "NumPhase": 83,
+      "Inclusion": 0,
+      "NumEventCond": 84,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Frères de vent (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Frères de vent (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-38",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 38,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:54:32+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "85",
+      "StepID": "85",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:54:47:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 84,
+      "Inclusion": 0,
+      "NumEventCond": 85,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Final du grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Final du grand orchestre",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-39",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 39,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:54:47+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    },
+    {
+      "id": "86",
+      "StepID": "86",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2016-12-12",
+      "ScheduledTime": "11:58:01:00",
+      "ScheduledDuration": "00:00:19:00",
+      "NumPhase": 85,
+      "Inclusion": 0,
+      "NumEventCond": 86,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piccolo & saxo : Epilogue (dialogue)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piccolo & saxo : Epilogue (dialogue)",
+      "Label": "WARNER MUSIC FRANCE",
+      "ReferenceLabel": "2564643032",
+      "ExternalID": "0825646430321-1-40",
+      "AlbumTitle": "Bof / Piccolo, Saxo et Compagnie 2006",
+      "Rank": 40,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646430321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Popp",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philarmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jakub Hrusa",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2016-12-12T11:58:01+01:00",
+      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+    }
+  ],
+  "total": 72,
+  "matched": 12
+}

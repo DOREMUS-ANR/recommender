@@ -1,0 +1,1798 @@
+{
+  "id": "FM-406_20170904_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:01:26:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "4 pièces pour quatuor a cordes : Agitato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "4 pièces pour quatuor a cordes : Agitato",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-10",
+      "AlbumTitle": "From Vienna",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edison Denisov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T00:00:06+02:00",
+      "composer": "http://data.doremus.org/artist/4025d118-169a-3213-abc3-78e93e38066e"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:02:21:00",
+      "ScheduledDuration": "00:08:51:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie de chambre n°1 : 1er mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie de chambre n°1 : 1er mouvement",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 905268",
+      "ExternalID": "3149020526828-1-1",
+      "AlbumTitle": "Edison Denisov : Au plus haut des cieux et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020526828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edison Denissov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Orchestral Contemporain",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Orchestral Contemporain"
+        },
+        {
+          "FullName": "Corinne Sagnol",
+          "Profession": "Interprète",
+          "InterventionNote": "Corinne Sagnol : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Francois Sales",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Sales : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Herve Cligniez",
+          "Profession": "Interprète",
+          "InterventionNote": "Herve Cligniez : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Laurent Apruzzese",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Apruzzese : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Didier Muhleisen",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Muhleisen : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Daniel Kawka",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T00:02:21+02:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:11:12:00",
+      "ScheduledDuration": "00:04:55:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie de chambre n°1 : 2ème mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie de chambre n°1 : 2ème mouvement",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 905268",
+      "ExternalID": "3149020526828-1-2",
+      "AlbumTitle": "Edison Denisov : Au plus haut des cieux et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020526828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edison Denissov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Orchestral Contemporain",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Orchestral Contemporain"
+        },
+        {
+          "FullName": "Corinne Sagnol",
+          "Profession": "Interprète",
+          "InterventionNote": "Corinne Sagnol : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Francois Sales",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Sales : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Herve Cligniez",
+          "Profession": "Interprète",
+          "InterventionNote": "Herve Cligniez : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Laurent Apruzzese",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Apruzzese : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Didier Muhleisen",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Muhleisen : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Daniel Kawka",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T00:11:12+02:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:16:07:00",
+      "ScheduledDuration": "00:07:33:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie de chambre n°1 : 3ème mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie de chambre n°1 : 3ème mouvement",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 905268",
+      "ExternalID": "3149020526828-1-3",
+      "AlbumTitle": "Edison Denisov : Au plus haut des cieux et autres oeuvres",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020526828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edison Denissov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Orchestral Contemporain",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Orchestral Contemporain"
+        },
+        {
+          "FullName": "Corinne Sagnol",
+          "Profession": "Interprète",
+          "InterventionNote": "Corinne Sagnol : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Francois Sales",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Sales : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Herve Cligniez",
+          "Profession": "Interprète",
+          "InterventionNote": "Herve Cligniez : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Laurent Apruzzese",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Apruzzese : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Didier Muhleisen",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Muhleisen : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Daniel Kawka",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T00:16:07+02:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:23:43:00",
+      "ScheduledDuration": "00:04:23:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Weitblick / Recitatif et chant pour violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Weitblick / Recitatif et chant pour violoncelle",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-18",
+      "AlbumTitle": "From Vienna",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Gielen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T00:23:43+02:00",
+      "composer": "http://data.doremus.org/artist/34b23cb7-bff1-3d5d-a5e3-7aeb1e367e3f"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:28:50:00",
+      "ScheduledDuration": "00:19:50:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Frau / stimme : Pour orchestre avec 2 sopranos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Frau / stimme : Pour orchestre avec 2 sopranos",
+      "Label": "RCA",
+      "ReferenceLabel": "743213510 2",
+      "ExternalID": "0743217351021-1-9",
+      "AlbumTitle": "Allemagne/20e s./musiktage donaueschingen/vol.1",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743217351021",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Isolde Siebert",
+          "Profession": "Interprète",
+          "InterventionNote": "Isolde Siebert : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Carmen Fuggiss",
+          "Profession": "Interprète",
+          "InterventionNote": "Carmen Fuggiss : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michae Gielen L",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T00:28:50+02:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18",
+      "best": "http://data.doremus.org/expression/e62a69f4-be2f-36bc-ab69-3caf71d34b05",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:48:43:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Zwischen den zeilen / Pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Zwischen den zeilen / Pour quatuor a cordes",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-8",
+      "AlbumTitle": "From Vienna",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T00:48:43+02:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:51:07:00",
+      "ScheduledDuration": "00:02:18:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nineties / Pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nineties / Pour quatuor a cordes",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-19",
+      "AlbumTitle": "From Vienna",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Miroglio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T00:51:07+02:00",
+      "composer": "http://data.doremus.org/artist/bb767d12-21bf-3939-b8d8-6b91905fd1a9"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "00:53:58:00",
+      "ScheduledDuration": "00:08:51:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Magnetiques (partie 1 : Attractions)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Magnetiques (partie 1 : Attractions)",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 5 144",
+      "ExternalID": "RF00000004564-1-1",
+      "AlbumTitle": "Magnetiques et tremplins",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004564",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Francis Miroglio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Francis Miroglio : Auteur"
+      },
+      "ScheduledDateTime": "2017-09-04T00:53:58+02:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:02:49:00",
+      "ScheduledDuration": "00:06:31:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Magnetiques (partie 2 : Affinites)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Magnetiques (partie 2 : Affinites)",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 5 144",
+      "ExternalID": "RF00000004564-1-2",
+      "AlbumTitle": "Magnetiques et tremplins",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004564",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Francis Miroglio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Francis Miroglio : Auteur"
+      },
+      "ScheduledDateTime": "2017-09-04T01:02:49+02:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:09:20:00",
+      "ScheduledDuration": "00:05:11:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Magnetiques (partie 3 : Cadences / Partie 4 : Etreintes)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Magnetiques (partie 3 : Cadences / Partie 4 : Etreintes)",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 5 144",
+      "ExternalID": "RF00000004564-1-3",
+      "AlbumTitle": "Magnetiques et tremplins",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000004564",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Francis Miroglio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Francis Miroglio : Auteur"
+      },
+      "ScheduledDateTime": "2017-09-04T01:09:20+02:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:14:35:00",
+      "ScheduledDuration": "00:01:44:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "For Alfred schlee with admiration / Pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "For Alfred schlee with admiration / Pour quatuor a cordes",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-29",
+      "AlbumTitle": "From Vienna",
+      "Rank": 29,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Zygmunt Krauze",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T01:14:35+02:00",
+      "composer": "http://data.doremus.org/artist/6b8251a4-3043-3d17-92e0-61e328d66e00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:16:53:00",
+      "ScheduledDuration": "00:14:49:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Macbett - pour la pièce d'Eugène Ionesco",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Macbett - pour la pièce d'Eugène Ionesco",
+      "Label": "THESIS",
+      "ReferenceLabel": "THC 82055",
+      "ExternalID": "RF00000053774-1-1",
+      "AlbumTitle": "Zygmunt Krauze : Musiques pour Lavelli",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000053774",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Zygmunt Krauze",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Atelier De Musique De Varsovie",
+        "Profession": "Interprète",
+        "InterventionNote": "Atelier De Musique De Varsovie"
+      },
+      "Choir": {
+        "EntityName": "Choeur Cantus Firmus De Varsovie",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": [
+        {
+          "Highlight": true,
+          "FullName": "Zygmunt Krauze",
+          "Profession": "Chef d'orchestre"
+        },
+        {
+          "FullName": "S Dubois",
+          "Profession": "Chef d'orchestre"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T01:16:53+02:00",
+      "composer": "http://data.doremus.org/artist/6b8251a4-3043-3d17-92e0-61e328d66e00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:32:23:00",
+      "ScheduledDuration": "00:10:44:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Perchaman aux oreilles mouvantes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Perchaman aux oreilles mouvantes",
+      "Label": "NEW TONE RECORDS",
+      "ReferenceLabel": "21750 7011 2",
+      "ExternalID": "8021750701124-1-6",
+      "AlbumTitle": "France / Century XXI",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8021750701124",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Gilbert Artman",
+        "Profession": "Interprète",
+        "InterventionNote": "Gilbert Artman"
+      },
+      "ScheduledDateTime": "2017-09-04T01:32:23+02:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:43:18:00",
+      "ScheduledDuration": "00:01:23:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petit duo / Pour 2 violons",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petit duo / Pour 2 violons",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-13",
+      "AlbumTitle": "From Vienna",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T01:43:18+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:44:41:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Modere quasi improvise",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Modere quasi improvise",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMC 901973",
+      "ExternalID": "0794881911622-1-6",
+      "AlbumTitle": "Mantovani schoeller et amy : Concertos pour violoncelle",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881911622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle piccolo",
+        "mop": "Violoncelle piccolo"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T01:44:41+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:47:41:00",
+      "ScheduledDuration": "00:06:26:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Allegro giusto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Allegro giusto",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMC 901973",
+      "ExternalID": "0794881911622-1-7",
+      "AlbumTitle": "Mantovani schoeller et amy : Concertos pour violoncelle",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881911622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle piccolo",
+        "mop": "Violoncelle piccolo"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T01:47:41+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:54:07:00",
+      "ScheduledDuration": "00:03:27:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Aerien suspendu",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Aerien suspendu",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMC 901973",
+      "ExternalID": "0794881911622-1-8",
+      "AlbumTitle": "Mantovani schoeller et amy : Concertos pour violoncelle",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881911622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle piccolo",
+        "mop": "Violoncelle piccolo"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T01:54:07+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "01:57:34:00",
+      "ScheduledDuration": "00:02:35:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Solo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Solo",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMC 901973",
+      "ExternalID": "0794881911622-1-9",
+      "AlbumTitle": "Mantovani schoeller et amy : Concertos pour violoncelle",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881911622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle piccolo",
+        "mop": "Violoncelle piccolo"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T01:57:34+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:00:09:00",
+      "ScheduledDuration": "00:05:03:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Assez vite",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Assez vite",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMC 901973",
+      "ExternalID": "0794881911622-1-10",
+      "AlbumTitle": "Mantovani schoeller et amy : Concertos pour violoncelle",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881911622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle piccolo",
+        "mop": "Violoncelle piccolo"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T02:00:09+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:05:12:00",
+      "ScheduledDuration": "00:04:57:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Mouvement n°7",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Mouvement n°7",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HM HMC 901973",
+      "ExternalID": "0794881911622-1-12",
+      "AlbumTitle": "Mantovani schoeller et amy : Concertos pour violoncelle",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881911622",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle piccolo",
+        "mop": "Violoncelle piccolo"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Gilbert Amy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T02:05:12+02:00",
+      "composer": "http://data.doremus.org/artist/4ee54785-7427-36a7-b52c-20eda485f53a"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:10:46:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petite valse moyennement speed",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petite valse moyennement speed",
+      "Label": "CEZAME",
+      "ReferenceLabel": "CEZ 4024",
+      "ExternalID": "RF00000003232-1-17",
+      "AlbumTitle": "Animaux",
+      "Rank": 17,
+      "NumVolume": 1,
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000003232",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Gilbert Artman",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Quad Sax",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T02:10:46+02:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:13:46:00",
+      "ScheduledDuration": "00:31:20:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die Glocken sind auf falscher Spur - pour ensemble instrumental chanteuse récitant et voix enregistrée sur support",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die Glocken sind auf falscher Spur - pour ensemble instrumental chanteuse récitant et voix enregistrée sur support",
+      "Label": "ACCORD",
+      "ReferenceLabel": "201882/1",
+      "ExternalID": "3229262018821-6-2",
+      "AlbumTitle": "Michael Gielen dirige l'orchestre du Südwestfunk",
+      "Rank": 2,
+      "NumVolume": 6,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262018821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Gielen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Bernhard Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Bernhard Kontarsky : Voix, Récitant",
+          "mop": "Voix, Récitant"
+        },
+        {
+          "FullName": "Jochen Bartels",
+          "Profession": "Interprète",
+          "InterventionNote": "Jochen Bartels : Voix, Récitant",
+          "mop": "Voix, Récitant"
+        },
+        {
+          "FullName": "Hanna Aurbacher",
+          "Profession": "Interprète",
+          "InterventionNote": "Hanna Aurbacher : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bernhard Kontarsky",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-04T02:13:46+02:00",
+      "composer": "http://data.doremus.org/artist/34b23cb7-bff1-3d5d-a5e3-7aeb1e367e3f",
+      "best": "http://data.doremus.org/expression/32e65304-d21e-328e-a1b7-98e009d000df",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:45:10:00",
+      "ScheduledDuration": "00:03:12:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Glossa / Pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Glossa / Pour quatuor a cordes",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-12",
+      "AlbumTitle": "From Vienna",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T02:45:10+02:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:48:58:00",
+      "ScheduledDuration": "00:09:37:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Deploration sur la mort de witold lutoslawski - pour piano et quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Deploration sur la mort de witold lutoslawski - pour piano et quatuor a cordes",
+      "Label": "SLOVAT RECORDS",
+      "ReferenceLabel": "SR-0018-2-131",
+      "ExternalID": "8588000103157-1-5",
+      "AlbumTitle": "Vladimir Godar : Musique de chambre",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8588000103157",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vladimir Godar",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Albrecht",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Albrecht"
+        },
+        {
+          "FullName": "Ivana Pristasova",
+          "Profession": "Interprète",
+          "InterventionNote": "Ivana Pristasova : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Peter Biely",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Biely : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Peter Sestak",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Sestak : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jozef Luptak",
+          "Profession": "Interprète",
+          "InterventionNote": "Jozef Luptak : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T02:48:58+02:00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:58:35:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ausgedehnter dominantseptakkord / Pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ausgedehnter dominantseptakkord / Pour quatuor a cordes",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-25",
+      "AlbumTitle": "From Vienna",
+      "Rank": 25,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Kolman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T02:58:35+02:00",
+      "composer": "http://data.doremus.org/artist/d144b07f-5d14-353d-a24e-bce706f0db61"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "02:59:48:00",
+      "ScheduledDuration": "00:01:45:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Initiale / Pour quatuor a cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Initiale / Pour quatuor a cordes",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-30",
+      "AlbumTitle": "From Vienna",
+      "Rank": 30,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ladislav Kupkovic",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T02:59:48+02:00",
+      "composer": "http://data.doremus.org/artist/553813f5-c758-333c-8bfb-2413458d780e"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-04",
+      "ScheduledTime": "03:01:33:00",
+      "ScheduledDuration": "00:03:48:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour le 90eme anniversaire d'alfred schlee / Pour alto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour le 90eme anniversaire d'alfred schlee / Pour alto",
+      "Label": "DISQUES MONTAIGNE",
+      "ReferenceLabel": "MO 782027",
+      "ExternalID": "3298497820271-1-23",
+      "AlbumTitle": "From Vienna",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298497820271",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arditti"
+        },
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "David Alberman",
+          "Profession": "Interprète",
+          "InterventionNote": "David Alberman : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Garth Knox",
+          "Profession": "Interprète",
+          "InterventionNote": "Garth Knox : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Rohan De Saram",
+          "Profession": "Interprète",
+          "InterventionNote": "Rohan De Saram : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-04T03:01:33+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    }
+  ],
+  "total": 28,
+  "matched": 2
+}

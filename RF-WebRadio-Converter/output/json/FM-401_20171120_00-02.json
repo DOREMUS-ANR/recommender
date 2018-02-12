@@ -1,0 +1,2221 @@
+{
+  "id": "FM-401_20171120_00-02",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:04:47:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concert de simphonies en si min op 3 n°3 : Passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concert de simphonies en si min op 3 n°3 : Passacaille",
+      "Label": "ARION",
+      "ReferenceLabel": "ARN 38 430",
+      "ExternalID": "RF00000024190-1-8",
+      "AlbumTitle": "Antoine Dauvergne : 3 concerts de simphonies",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1978-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000024190",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Antoine Dauvergne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Instrumental De Grenoble",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:00:06+01:00",
+      "composer": "http://data.doremus.org/artist/bdf60257-ef99-31a3-9661-e493961572b5"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:04:53:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Almira : Chaconne - pour orchestre et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Almira : Chaconne - pour orchestre et basse continue",
+      "Label": "HELIOS",
+      "ReferenceLabel": "CDH55324",
+      "ExternalID": "0034571153247-1-9",
+      "AlbumTitle": "Haendel à Hambourg / Georg Friedrich Haendel : Suites et ouverture",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571153247",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Parley Of Instruments",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Holman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:04:53+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:06:25:00",
+      "ScheduledDuration": "00:04:17:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaglia - pour violon orchestre à cordes et vibraphone",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaglia - pour violon orchestre à cordes et vibraphone",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V5425",
+      "ExternalID": "0822186054253-1-5",
+      "AlbumTitle": "Arvo Pärt : Passacaglia",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186054253",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arvo Part",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Orchestre Symphonique De Leipzig",
+          "Profession": "Interprète",
+          "InterventionNote": "Orchestre Symphonique De Leipzig : Vibraphone",
+          "mop": "Vibraphone"
+        },
+        {
+          "FullName": "Anne Akiko Meyers",
+          "Profession": "Interprète",
+          "InterventionNote": "Anne Akiko Meyers : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Kristjan Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:06:25+01:00",
+      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
+      "best": "http://data.doremus.org/expression/2cb7666d-d9a6-395b-a1a2-e7e9c8287df0",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:10:42:00",
+      "ScheduledDuration": "00:03:15:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie en Ré Maj HOB I : 70 : Allegro con brio (con fuga a tre soggetti in contrapunto doppio)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie en Ré Maj HOB I : 70 : Allegro con brio (con fuga a tre soggetti in contrapunto doppio)",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88697443312-23",
+      "ExternalID": "RF00000017408-1-12",
+      "AlbumTitle": "Joseph Haydn : Intégrale des symphonies : Symphonies pour le divertissement (Vol 23)",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000017408",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Stuttgart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Dennis Russell Davies",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:10:42+01:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/3ce3c5da-d52f-3f20-b1f0-cc9d1d786611",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:13:57:00",
+      "ScheduledDuration": "00:05:13:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Castor et Pollux : Chaconne pour les Astres les Planètes et les Satellites (Acte V) - pour orchestre d'après l'opéra",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Castor et Pollux : Chaconne pour les Astres les Planètes et les Satellites (Acte V) - pour orchestre d'après l'opéra",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 777 914-2",
+      "ExternalID": "0761203791422-1-27",
+      "AlbumTitle": "Jean Féry Rebel : Les élémens et Jean Philippe Rameau : Castor et Pollux",
+      "Rank": 27,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203791422",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Philippe Rameau",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Baroque Orfeo",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michi Gaigg",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:13:57+01:00",
+      "composer": "http://data.doremus.org/artist/1929320a-c4f9-36e5-890c-657126ebcdaf",
+      "best": "http://data.doremus.org/expression/5aa8c7d7-41a3-304c-bd04-a1f7f54f1dd6",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:19:10:00",
+      "ScheduledDuration": "00:05:29:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nélée et Myrthis : Chaconne / Faites un choix digne de vous (Sc 5) Choeur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nélée et Myrthis : Chaconne / Faites un choix digne de vous (Sc 5) Choeur",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901381",
+      "ExternalID": "3149025048813-1-21",
+      "AlbumTitle": "Jean Philippe Rameau : Pygmalion et Nélée et Myrthis",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025048813",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Philippe Rameau",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Arts Florissants",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "William Christie",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:19:10+01:00",
+      "composer": "http://data.doremus.org/artist/1929320a-c4f9-36e5-890c-657126ebcdaf",
+      "best": "http://data.doremus.org/expression/17e1bb36-9ee4-32bd-8644-3078b620a55d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:24:39:00",
+      "ScheduledDuration": "00:04:45:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La purpura de la rosa : Pues sabeis por donde fue (Sc 7) Mars Celfa Chato Dragon . Passacaille de Mars",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La purpura de la rosa : Pues sabeis por donde fue (Sc 7) Mars Celfa Chato Dragon . Passacaille de Mars",
+      "Label": "K617 PRODUCTIONS",
+      "ReferenceLabel": "K 617108/2",
+      "ExternalID": "3383510001086-2-10",
+      "AlbumTitle": "La purpura de la rosa ( Intégrale )",
+      "Rank": 10,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383510001086",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tomas De Torrejon Y Velasco",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Isabel Monar",
+          "Profession": "Interprète",
+          "InterventionNote": "Isabel Monar : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Graciela Oddone",
+          "Profession": "Interprète",
+          "InterventionNote": "Graciela Oddone : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Cecilia Diaz",
+          "Profession": "Interprète",
+          "InterventionNote": "Cecilia Diaz : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Isabel Alvarez",
+          "Profession": "Interprète",
+          "InterventionNote": "Isabel Alvarez : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ensemble Elyma",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Elyma"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Du Theatre Lyrique National La Zarzuela",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gabriel Garrido",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:24:39+01:00",
+      "composer": "http://data.doremus.org/artist/5ee07b4e-a7a9-32fe-8927-ba27e52c56db"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:29:24:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La purpura de la rosa : Pues aqui ya no hay que hacer (Sc 7) Chato Dragon Celfa",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La purpura de la rosa : Pues aqui ya no hay que hacer (Sc 7) Chato Dragon Celfa",
+      "Label": "K617 PRODUCTIONS",
+      "ReferenceLabel": "K 617108/2",
+      "ExternalID": "3383510001086-2-11",
+      "AlbumTitle": "La purpura de la rosa ( Intégrale )",
+      "Rank": 11,
+      "NumVolume": 2,
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383510001086",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tomas De Torrejon Y Velasco",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Isabel Monar",
+          "Profession": "Interprète",
+          "InterventionNote": "Isabel Monar : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Graciela Oddone",
+          "Profession": "Interprète",
+          "InterventionNote": "Graciela Oddone : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Cecilia Diaz",
+          "Profession": "Interprète",
+          "InterventionNote": "Cecilia Diaz : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Isabel Alvarez",
+          "Profession": "Interprète",
+          "InterventionNote": "Isabel Alvarez : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ensemble Elyma",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Elyma"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Du Theatre Lyrique National La Zarzuela",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gabriel Garrido",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:29:24+01:00",
+      "composer": "http://data.doremus.org/artist/5ee07b4e-a7a9-32fe-8927-ba27e52c56db"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:32:26:00",
+      "ScheduledDuration": "00:11:22:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°5 en Ré Maj : Passacaglia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°5 en Ré Maj : Passacaglia",
+      "Label": "RCA",
+      "ReferenceLabel": "88875126952/4",
+      "ExternalID": "RF00000056138-1-4",
+      "AlbumTitle": "André Prévin conducts Vaughan Williams / CD 4",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056138",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ralph Vaughan Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andre Previn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T00:32:26+01:00",
+      "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd",
+      "best": "http://data.doremus.org/expression/db43f234-bc0e-353a-9769-024019ce1a02",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:43:48:00",
+      "ScheduledDuration": "00:01:41:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Improvisation sur la passacaille de Luigi Rossi pour soprano guitare baroque et harpe triple",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Improvisation sur la passacaille de Luigi Rossi pour soprano guitare baroque et harpe triple",
+      "Label": "ASV",
+      "ReferenceLabel": "CD GAU 193",
+      "ExternalID": "0743625019322-1-19",
+      "AlbumTitle": "Sances / Chants sacres et profanes / Pillow",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743625019322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Felice Sances",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Musica Fabula",
+          "Profession": "Interprète",
+          "InterventionNote": "Musica Fabula"
+        },
+        {
+          "FullName": "Sarah Pillow",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Pillow : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Liliana Mazzarri",
+          "Profession": "Interprète",
+          "InterventionNote": "Liliana Mazzarri : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jan Walters",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan Walters : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T00:43:48+01:00",
+      "composer": "http://data.doremus.org/artist/a2ee3027-0e34-3cbb-9574-d179ca30fe24"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:45:29:00",
+      "ScheduledDuration": "00:09:15:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trio à cordes en Ré Maj : Allegro - Scherzo in contrapunto alla riversa",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trio à cordes en Ré Maj : Allegro - Scherzo in contrapunto alla riversa",
+      "Label": "MDG",
+      "ReferenceLabel": "MDG 6341003-2",
+      "ExternalID": "0760623100326-1-7",
+      "AlbumTitle": "Serge Taneiev : Trios à cordes",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0760623100326",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Taneiev",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Belcanto Strings",
+        "Profession": "Interprète",
+        "InterventionNote": "Belcanto Strings"
+      },
+      "ScheduledDateTime": "2017-11-20T00:45:29+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:54:44:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaille - pour théorbe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaille - pour théorbe",
+      "Label": "AGOGIQUE",
+      "ReferenceLabel": "AGO013",
+      "ExternalID": "3700675500139-1-12",
+      "AlbumTitle": "E che vuoi più / La Gioannina interprète des oeuvres d'Orazio Michi dell'Arpa et d'autres compositeurs",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700675500139",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Hieronymus Kapsberger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Remi Cassaigne",
+        "Profession": "Interprète",
+        "InterventionNote": "Remi Cassaigne : Luth",
+        "mop": "Luth"
+      },
+      "ScheduledDateTime": "2017-11-20T00:54:44+01:00",
+      "composer": "http://data.doremus.org/artist/ac662361-b204-3fc3-9b93-e23b33e3c2bb"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "00:57:43:00",
+      "ScheduledDuration": "00:02:54:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Così mi disprezzate (Aria di passacaglia) - pour une voix et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Così mi disprezzate (Aria di passacaglia) - pour une voix et basse continue",
+      "Label": "ETCETERA",
+      "ReferenceLabel": "KTC 1448",
+      "ExternalID": "8711801014487-1-6",
+      "AlbumTitle": "Girolamo Frescobaldi et John Cage : Musique vocale",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8711801014487",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frescobaldi Girolamo",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Veronique Nosbaum",
+        "Profession": "Interprète",
+        "InterventionNote": "Veronique Nosbaum : Soprano",
+        "mop": "Soprano"
+      },
+      "ScheduledDateTime": "2017-11-20T00:57:43+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:00:37:00",
+      "ScheduledDuration": "00:09:02:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaille en sol min",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaille en sol min",
+      "Label": "AMBRONAY",
+      "ReferenceLabel": "AMY019",
+      "ExternalID": "3760135100194-1-14",
+      "AlbumTitle": "L'art du violon seul dans l'Allemagne baroque",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760135100194",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heinrich Ignaz Franz Von Biber",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mira Glodeanu",
+        "Profession": "Interprète",
+        "InterventionNote": "Mira Glodeanu : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-11-20T01:00:37+01:00",
+      "composer": "http://data.doremus.org/artist/74bdcaab-4bbe-3428-938a-280d894e0c03"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:09:48:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de Scylla et Glaucus op 11 : Passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de Scylla et Glaucus op 11 : Passacaille",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN0810",
+      "ExternalID": "0095115081020-1-9",
+      "AlbumTitle": "Comédie et tragédie",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115081020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Marie Leclair",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Tempesta Di Mare",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Emlyn Ngai",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:09:48+01:00",
+      "composer": "http://data.doremus.org/artist/1d38dd94-17bf-3838-bbd5-16ab3f6f4d26",
+      "best": "http://data.doremus.org/expression/977a86dd-c688-36c6-bff2-79cf62225251",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:14:13:00",
+      "ScheduledDuration": "00:06:12:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacalio op 22 - pour ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacalio op 22 - pour ensemble instrumental",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4794595",
+      "ExternalID": "0028947945956-1-10",
+      "AlbumTitle": "Magdalena Kozena interprète Monteverdi",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947945956",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Biagio Marini",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "La Cetra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andrea Marcon",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:14:13+01:00",
+      "composer": "http://data.doremus.org/artist/0e050000-1e9c-3410-b3c2-292339b18143",
+      "best": "http://data.doremus.org/expression/f71c268f-77fb-383f-a6eb-154711535b2c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:20:25:00",
+      "ScheduledDuration": "00:02:41:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Yo soy la locura ( Passacaille La folie ) - pour soprano et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Yo soy la locura ( Passacaille La folie ) - pour soprano et ensemble instrumental",
+      "Label": "DG",
+      "ReferenceLabel": "4790079",
+      "ExternalID": "0028947900795-1-2",
+      "AlbumTitle": "Patricia Petibon interprète des airs et des chansons baroques / Nouveau monde",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947900795",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Le Bailly",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Patricia Petibon",
+          "Profession": "Interprète",
+          "InterventionNote": "Patricia Petibon : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Joel Grare",
+          "Profession": "Interprète",
+          "InterventionNote": "Joel Grare : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "La Cetra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andrea Marcon",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:20:25+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:23:06:00",
+      "ScheduledDuration": "00:01:29:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacalli della vita",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacalli della vita",
+      "Label": "ATMA CLASSIQUE",
+      "ReferenceLabel": "ACD2 2272",
+      "ExternalID": "0722056227223-1-17",
+      "AlbumTitle": "Sonate al pizzico",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0722056227223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Stephen Stubbs",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephen Stubbs : Guitare baroque",
+          "mop": "Guitare baroque"
+        },
+        {
+          "FullName": "Maxine Eilander",
+          "Profession": "Interprète",
+          "InterventionNote": "Maxine Eilander : Harpe double",
+          "mop": "Harpe double"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T01:23:06+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:24:35:00",
+      "ScheduledDuration": "00:02:39:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Ut Maj RV 114 : Ciacona - pour violoncelle cordes et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Ut Maj RV 114 : Ciacona - pour violoncelle cordes et basse continue",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902095",
+      "ExternalID": "3149020209523-1-15",
+      "AlbumTitle": "Antonio Vivaldi et Antonio Caldara : Concertos pour violoncelle et symphonies",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020209523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Antonio Vivaldi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "Akademie Fur Alte Musik De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georg Kallweit",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:24:35+01:00",
+      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0",
+      "best": "http://data.doremus.org/expression/ce61d8f6-ddb7-30a1-b2ba-7ccace05c7e1",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:27:14:00",
+      "ScheduledDuration": "00:07:34:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour violon et piano en si min P 110 : Passacaglia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour violon et piano en si min P 110 : Passacaglia",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0825646312207",
+      "ExternalID": "0825646312207-2-3",
+      "AlbumTitle": "Martha Argerich and friends",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646312207",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Francesco Piemontesi",
+          "Profession": "Interprète",
+          "InterventionNote": "Francesco Piemontesi : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Renaud Capucon",
+          "Profession": "Interprète",
+          "InterventionNote": "Renaud Capucon : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T01:27:14+01:00",
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d",
+      "best": "http://data.doremus.org/expression/f5e76bd8-4b7f-3e5a-a17b-98358c21178b",
+      "best_matching_score": "0.82"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:34:52:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite española : Passacalle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite española : Passacalle",
+      "Label": "DGG",
+      "ReferenceLabel": "435842-2",
+      "ExternalID": "0028943584227-1-6",
+      "AlbumTitle": "Narciso Yepes : Guitarra espanola / vol 1",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1971-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943584227",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gaspar Sanz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Narciso Yepes",
+        "Profession": "Interprète",
+        "InterventionNote": "Narciso Yepes : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-11-20T01:34:52+01:00",
+      "composer": "http://data.doremus.org/artist/dbbf7388-6b43-39d7-943e-a6ad55daa146"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:36:26:00",
+      "ScheduledDuration": "00:03:44:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate pour violon en sol min op 4 n°12 : Passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate pour violon en sol min op 4 n°12 : Passacaille",
+      "Label": "APARTE",
+      "ReferenceLabel": "AP128",
+      "ExternalID": "3149028078121-1-10",
+      "AlbumTitle": "Venezia 1700",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028078121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Evaristo Felice Dall'Abaco",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Les Accents",
+          "Profession": "Interprète",
+          "InterventionNote": "Les Accents"
+        },
+        {
+          "FullName": "Thibault Noally",
+          "Profession": "Interprète",
+          "InterventionNote": "Thibault Noally : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T01:36:26+01:00",
+      "composer": "http://data.doremus.org/artist/5e536cd0-df16-3896-9239-0840d414554a"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:40:10:00",
+      "ScheduledDuration": "00:08:28:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Green bushes / Verts buissons : Passacaille sur un chant traditionnel anglais pour petit orchestre / Version pour orchestre de 1921",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Green bushes / Verts buissons : Passacaille sur un chant traditionnel anglais pour petit orchestre / Version pour orchestre de 1921",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 9493",
+      "ExternalID": "0095115949320-1-15",
+      "AlbumTitle": "Percy Grainger : Oeuvres pour orchestre edition Grainger : Volume 1",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115949320",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Percy Grainger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Richard Hickox",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:40:10+01:00",
+      "composer": "http://data.doremus.org/artist/6b20c91a-e05e-350f-bd4a-eed5443338a4"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:48:38:00",
+      "ScheduledDuration": "00:02:41:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canto y fuga : Fuga - pour violoncelle et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canto y fuga : Fuga - pour violoncelle et piano",
+      "Label": "ARS MUSICI",
+      "ReferenceLabel": "AM 1266-2",
+      "ExternalID": "4017563126623-1-14",
+      "AlbumTitle": "Contrapunctango",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4017563126623",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Astor Piazzolla",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Eckart Runge",
+          "Profession": "Interprète",
+          "InterventionNote": "Eckart Runge : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jacques Ammon",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacques Ammon : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T01:48:38+01:00",
+      "composer": "http://data.doremus.org/artist/36b10122-ef50-3df3-8bfe-61bb79ddec4f"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:51:19:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacalle n°15 - pour ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacalle n°15 - pour ensemble instrumental",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295765293",
+      "ExternalID": "0190295765293-1-3",
+      "AlbumTitle": "Quella Fiamma / Arie antiche",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0190295765293",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andrea Falconieri",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orfeo 55",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:51:19+01:00",
+      "composer": "http://data.doremus.org/artist/6c77fc50-5ffd-3817-b786-5bae15aeb9c5"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "01:53:33:00",
+      "ScheduledDuration": "00:06:31:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chaconne en mi min BUXWV 160 - pour orgue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chaconne en mi min BUXWV 160 - pour orgue",
+      "Label": "DORIAN",
+      "ReferenceLabel": "XCD-90254",
+      "ExternalID": "0053479025425-1-4",
+      "AlbumTitle": "Danzon",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0053479025425",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dietrich Buxtehude",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Simon Bolivar",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Keri Lynn Wilson",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T01:53:33+01:00",
+      "composer": "http://data.doremus.org/artist/25973374-a895-3966-9445-8f695ef5a5f0",
+      "best": "http://data.doremus.org/expression/06266714-5f56-32a8-9c15-19c165138faf",
+      "best_matching_score": "0.82"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:00:15:00",
+      "ScheduledDuration": "00:04:36:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Introduction passacaille et fugue pour 2 pianos op 96 : Introduction",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Introduction passacaille et fugue pour 2 pianos op 96 : Introduction",
+      "Label": "MDG",
+      "ReferenceLabel": "MDG33007562",
+      "ExternalID": "0760623075624-1-5",
+      "AlbumTitle": "Max Reger : Intégrale des oeuvres pour 2 pianos",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0760623075624",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Max Reger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Duo Trenkner-Speidel",
+          "Profession": "Interprète",
+          "InterventionNote": "Duo Trenkner-Speidel"
+        },
+        {
+          "FullName": "Evelinde Trenkner",
+          "Profession": "Interprète",
+          "InterventionNote": "Evelinde Trenkner : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Sontraud Speidel",
+          "Profession": "Interprète",
+          "InterventionNote": "Sontraud Speidel : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T02:00:15+01:00",
+      "composer": "http://data.doremus.org/artist/a957ded5-db42-3d58-9ed8-a6eda812de58"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:04:51:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dardanus : Chaconne (Acte V)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dardanus : Chaconne (Acte V)",
+      "Label": "ERATO",
+      "ReferenceLabel": "ECD 88 013",
+      "ExternalID": "RF00000047938-1-24",
+      "AlbumTitle": "Jean Philippe Rameau : Dardanus (suite d'orchestre)",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "1983-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000047938",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Philippe Rameau",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Solistes Baroques Anglais",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Eliot Gardiner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:04:51+01:00",
+      "composer": "http://data.doremus.org/artist/1929320a-c4f9-36e5-890c-657126ebcdaf",
+      "best": "http://data.doremus.org/expression/8f0a1f63-7bed-3c97-a4cf-06d138de3659",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:09:50:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tombeau pour Monsieur de Sainte Colombe : Suite n°5 en mi min : Passacaille - pour 2 basses de viole et théorbe / Pièces de viole Livre II (1701)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tombeau pour Monsieur de Sainte Colombe : Suite n°5 en mi min : Passacaille - pour 2 basses de viole et théorbe / Pièces de viole Livre II (1701)",
+      "Label": "LIGIA DIGITAL",
+      "ReferenceLabel": "LIDI 0301204-09",
+      "ExternalID": "3487549902045-1-10",
+      "AlbumTitle": "Marin Marais : Tombeaux",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3487549902045",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marin Marais",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jean Louis Charbonnier",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Louis Charbonnier"
+        },
+        {
+          "FullName": "Paul Rousseau",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Rousseau"
+        },
+        {
+          "FullName": "Mauricio Buraglia",
+          "Profession": "Interprète",
+          "InterventionNote": "Mauricio Buraglia : Théorbe",
+          "mop": "Théorbe"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T02:09:50+01:00",
+      "composer": "http://data.doremus.org/artist/89088a2c-8c1a-3ed4-9519-9c1a771e958b",
+      "best": "http://data.doremus.org/expression/65090410-9297-3a69-8ed8-be66513d5840",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:12:02:00",
+      "ScheduledDuration": "00:03:29:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Danses et airs antiques : Suite n°3 P 172 : 4. Passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Danses et airs antiques : Suite n°3 P 172 : 4. Passacaille",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO7772332",
+      "ExternalID": "0761203723324-1-12",
+      "AlbumTitle": "Ottorino Respighi : 4 suites pour orchestre",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203723324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Radio De Munich",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Henry Raudales",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:12:02+01:00",
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:15:31:00",
+      "ScheduledDuration": "00:05:35:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaille en sol min - version pour violon et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaille en sol min - version pour violon et violoncelle",
+      "Label": "WARNER CLASSICS",
+      "ReferenceLabel": "0825646049936",
+      "ExternalID": "0825646049936-1-13",
+      "AlbumTitle": "Camille Berthollet",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646049936",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Johan Halvorsen",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Georg Friedrich Haendel",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Julie Berthollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Julie Berthollet : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Camille Berthollet",
+          "Profession": "Interprète",
+          "InterventionNote": "Camille Berthollet : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T02:15:31+01:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:21:06:00",
+      "ScheduledDuration": "00:04:17:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Homo fugit velut umbra /Passacaille de la vie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Homo fugit velut umbra /Passacaille de la vie",
+      "Label": "ALPHA",
+      "ReferenceLabel": "ALPHA 020",
+      "ExternalID": "3760014190209-1-1",
+      "AlbumTitle": "Stefano landi : Homo fugit velut umbra",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014190209",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Johannette Zomer",
+          "Profession": "Interprète",
+          "InterventionNote": "Johannette Zomer"
+        },
+        {
+          "FullName": "Stephan Van Dyck",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephan Van Dyck"
+        },
+        {
+          "FullName": "Alain Buet",
+          "Profession": "Interprète",
+          "InterventionNote": "Alain Buet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "L'Arpeggiata",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Christina Pluhar",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:21:06+01:00",
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:25:23:00",
+      "ScheduledDuration": "00:06:02:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 piezas españolas : Passacaglia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 piezas españolas : Passacaglia",
+      "Label": "DGG",
+      "ReferenceLabel": "479 0073",
+      "ExternalID": "0028947900733-1-5",
+      "AlbumTitle": "Pepe Romero interprète des compositeurs espagnols / Spanish nights",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947900733",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joaquin Rodrigo",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pepe Romero",
+        "Profession": "Interprète",
+        "InterventionNote": "Pepe Romero : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-11-20T02:25:23+01:00",
+      "composer": "http://data.doremus.org/artist/509b09ef-a4e5-3ad7-90d2-ef540c30617a",
+      "best": "http://data.doremus.org/expression/e2954378-fe29-3fe2-806d-3fddd2e7a649",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:31:25:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sabinus suite de ballet : Air en passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sabinus suite de ballet : Air en passacaille",
+      "Label": "RICE",
+      "ReferenceLabel": "RIC 263",
+      "ExternalID": "5400439002630-1-14",
+      "AlbumTitle": "François Joseph Gossec : Symphonies",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5400439002630",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Joseph Gossec",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Les Agremens",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Guy Van Waas",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:31:25+01:00",
+      "composer": "http://data.doremus.org/artist/4c341e28-aa31-340c-b17e-962f54b6c279"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:35:16:00",
+      "ScheduledDuration": "00:04:04:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en Fa Maj op 2 n°12 : chaconne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en Fa Maj op 2 n°12 : chaconne",
+      "Label": "TYXART",
+      "ReferenceLabel": "LC28001",
+      "ExternalID": "RF00000048615-1-24",
+      "AlbumTitle": "Accademia dell'Arcadia / Roma 1710",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048615",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marcello Benedetto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sabrina Frey",
+          "Profession": "Interprète",
+          "InterventionNote": "Sabrina Frey : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Philippe Grisvard",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Grisvard"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T02:35:16+01:00",
+      "composer": "http://data.doremus.org/artist/a764a49d-3289-39fc-80fd-08a6c0b1f276"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:39:20:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Henry V : Suite d'orchestre d'apres la musique du film : II - passacaille - death of falstaff",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Henry V : Suite d'orchestre d'apres la musique du film : II - passacaille - death of falstaff",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 907070",
+      "ExternalID": "0093046707026-1-5",
+      "AlbumTitle": "Cto violon Henry / Judd",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046707026",
+      "Author": {
+        "Highlight": true,
+        "FullName": "William Walton",
+        "Profession": "Bruiteur",
+        "InterventionNote": "William Walton : Auteur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Floride",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "James Judd",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:39:20+01:00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:42:40:00",
+      "ScheduledDuration": "00:05:46:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pièce en forme de passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pièce en forme de passacaille",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "95221",
+      "ExternalID": "5028421952215-1-21",
+      "AlbumTitle": "Alexandre Tansman : Intégrale de l'oeuvre pour guitare",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421952215",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Tansman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Cristiano Poli Cappelli",
+        "Profession": "Interprète",
+        "InterventionNote": "Cristiano Poli Cappelli : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-11-20T02:42:40+01:00",
+      "composer": "http://data.doremus.org/artist/a12d0c1e-1725-3641-9e57-b63556e85f26",
+      "best": "http://data.doremus.org/expression/5972f959-6649-3cfc-98b9-ba760044fe25",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:48:26:00",
+      "ScheduledDuration": "00:02:54:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaille : Dice el Rey que le debe guardar",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaille : Dice el Rey que le debe guardar",
+      "Label": "EMI",
+      "ReferenceLabel": "432824-2",
+      "ExternalID": "0028943282420-1-9",
+      "AlbumTitle": "Anthologie de la Zarzuela",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1968-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943282420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francisco Alonso",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alberto Blancafort",
+          "Profession": "Interprète",
+          "InterventionNote": "Alberto Blancafort"
+        },
+        {
+          "FullName": "Choeur De La Radio Television Espagnole",
+          "Profession": "Interprète",
+          "InterventionNote": "Choeur De La Radio Television Espagnole"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Television Espagnole",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Igor Markevitch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:48:26+01:00",
+      "composer": "http://data.doremus.org/artist/c55510f4-d460-34ab-9650-6ffcbfec324d"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:51:20:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Passacaille pour harpe triple",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Passacaille pour harpe triple",
+      "Label": "ASV",
+      "ReferenceLabel": "CD GAU 193",
+      "ExternalID": "0743625019322-1-17",
+      "AlbumTitle": "Sances / Chants sacres et profanes / Pillow",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743625019322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giovanni Felice Sances",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Musica Fabula",
+          "Profession": "Interprète",
+          "InterventionNote": "Musica Fabula"
+        },
+        {
+          "FullName": "Jan Walters",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan Walters : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-11-20T02:51:20+01:00",
+      "composer": "http://data.doremus.org/artist/a2ee3027-0e34-3cbb-9574-d179ca30fe24"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:53:41:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rodrigo HWV 5 Suite : Passacaille",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rodrigo HWV 5 Suite : Passacaille",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V 5234",
+      "ExternalID": "0822186052341-1-30",
+      "AlbumTitle": "Georg Friedrich Haendel : Water music et Ouverture de Rodrigo",
+      "Rank": 30,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186052341",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Les Musiciens Du Louvre",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marc Minkowski",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-11-20T02:53:41+01:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-11-20",
+      "ScheduledTime": "02:57:44:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 embryons desséchés pour piano : D'Edriophtalma",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 embryons desséchés pour piano : D'Edriophtalma",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "685847 2",
+      "ExternalID": "RF00000012276-1-23",
+      "AlbumTitle": "Satie / Sports",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000012276",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Erik Satie",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Aldo Ciccolini",
+        "Profession": "Interprète",
+        "InterventionNote": "Aldo Ciccolini : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-11-20T02:57:44+01:00",
+      "composer": "http://data.doremus.org/artist/c536e11e-7871-3469-b913-1883b0b60e98"
+    }
+  ],
+  "total": 41,
+  "matched": 14
+}

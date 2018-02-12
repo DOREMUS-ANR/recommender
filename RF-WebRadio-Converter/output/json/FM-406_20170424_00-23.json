@@ -1,0 +1,1412 @@
+{
+  "id": "FM-406_20170424_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:04:11:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Prélude (Acte II) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Prélude (Acte II) (instrumental)",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-1",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 1,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:00:08+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:04:19:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Arles 1888 (Acte II Sc 1) Vincent et Gauguin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Arles 1888 (Acte II Sc 1) Vincent et Gauguin",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-2",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 2,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christopher Burchett",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Burchett : Baryton (voix), Vincent van Gogh",
+          "mop": "Baryton (voix), Vincent van Gogh"
+        },
+        {
+          "FullName": "Adam Walton",
+          "Profession": "Interprète",
+          "InterventionNote": "Adam Walton : Baryton-basse (voix), Paul Gauguin",
+          "mop": "Baryton-basse (voix), Paul Gauguin"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:04:19+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:09:18:00",
+      "ScheduledDuration": "00:03:23:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : The dance at Arles (Acte II Sc 1) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : The dance at Arles (Acte II Sc 1) (instrumental)",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-3",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:09:18+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:12:41:00",
+      "ScheduledDuration": "00:07:45:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Arles 1888 (Acte II Sc 2) Vincent et Gauguin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Arles 1888 (Acte II Sc 2) Vincent et Gauguin",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-4",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 4,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christopher Burchett",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Burchett : Baryton (voix), Vincent van Gogh",
+          "mop": "Baryton (voix), Vincent van Gogh"
+        },
+        {
+          "FullName": "Adam Walton",
+          "Profession": "Interprète",
+          "InterventionNote": "Adam Walton : Baryton-basse (voix), Paul Gauguin",
+          "mop": "Baryton-basse (voix), Paul Gauguin"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:12:41+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:20:26:00",
+      "ScheduledDuration": "00:07:16:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Saint-Rémy 1889 / The courtyard of the asylum of Saint-Paul-de-Mausole (Acte II Sc 3) Theo Dr Peyron Vincent et les détenus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Saint-Rémy 1889 / The courtyard of the asylum of Saint-Paul-de-Mausole (Acte II Sc 3) Theo Dr Peyron Vincent et les détenus",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-5",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 5,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christopher Burchett",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Burchett : Baryton (voix), Vincent van Gogh",
+          "mop": "Baryton (voix), Vincent van Gogh"
+        },
+        {
+          "FullName": "Will Perkins",
+          "Profession": "Interprète",
+          "InterventionNote": "Will Perkins : Ténor, Theo van Gogh",
+          "mop": "Ténor, Theo van Gogh"
+        },
+        {
+          "FullName": "Andrew Morstein",
+          "Profession": "Interprète",
+          "InterventionNote": "Andrew Morstein : Ténor, Dr Peyron",
+          "mop": "Ténor, Dr Peyron"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De L'Universite D'Indiana",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:20:26+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:27:42:00",
+      "ScheduledDuration": "00:05:16:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Auvers-sur-Oise 1890 / The house of Dr Gachet (Acte II Sc 4) Marguerite Dr Gachet et Vincent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Auvers-sur-Oise 1890 / The house of Dr Gachet (Acte II Sc 4) Marguerite Dr Gachet et Vincent",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-6",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 6,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christopher Burchett",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Burchett : Baryton (voix), Vincent van Gogh",
+          "mop": "Baryton (voix), Vincent van Gogh"
+        },
+        {
+          "FullName": "Christopher Grundy",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Grundy : Baryton (voix), Dr Paul Gachet",
+          "mop": "Baryton (voix), Dr Paul Gachet"
+        },
+        {
+          "FullName": "Jami Leonard",
+          "Profession": "Interprète",
+          "InterventionNote": "Jami Leonard : Soprano, Marguerite Gachet",
+          "mop": "Soprano, Marguerite Gachet"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:27:42+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:32:58:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Interlude (Acte II Sc 4) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Interlude (Acte II Sc 4) (instrumental)",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-7",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 7,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:32:58+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:34:57:00",
+      "ScheduledDuration": "00:04:29:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Auvers-sur-Oise 1890 / A field (Acte II Sc 5) Vincent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Auvers-sur-Oise 1890 / A field (Acte II Sc 5) Vincent",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-8",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 8,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christopher Burchett",
+        "Profession": "Interprète",
+        "InterventionNote": "Christopher Burchett : Baryton (voix), Vincent van Gogh",
+        "mop": "Baryton (voix), Vincent van Gogh"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:34:57+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:39:26:00",
+      "ScheduledDuration": "00:05:38:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vincent : Auvers-sur-Oise 1890 two days later (Acte II Sc 6) Vincent et Theo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vincent : Auvers-sur-Oise 1890 two days later (Acte II Sc 6) Vincent et Theo",
+      "Label": "NAXOS",
+      "ReferenceLabel": "866903738",
+      "ExternalID": "7300999037767-2-9",
+      "AlbumTitle": "Bernard Rands : Vincent (intégrale)",
+      "Rank": 9,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7300999037767",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bernard Rands",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christopher Burchett",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Burchett : Baryton (voix), Vincent van Gogh",
+          "mop": "Baryton (voix), Vincent van Gogh"
+        },
+        {
+          "FullName": "Will Perkins",
+          "Profession": "Interprète",
+          "InterventionNote": "Will Perkins : Ténor, Theo van Gogh",
+          "mop": "Ténor, Theo van Gogh"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De L'Universite D'Indiana",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arthur Fagen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:39:26+02:00",
+      "composer": "http://data.doremus.org/artist/ebd8770b-21b2-3b6a-b99b-a7ead18d7d66"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:45:13:00",
+      "ScheduledDuration": "00:13:44:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bacanal pour Pablo Picasso / Pour ensemble instrumental et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bacanal pour Pablo Picasso / Pour ensemble instrumental et piano",
+      "Label": "MANDALA",
+      "ReferenceLabel": "MAN 5113",
+      "ExternalID": "0794881826728-1-12",
+      "AlbumTitle": "Pascal Zavaro : Silicon music",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881826728",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pascal Zavaro",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Elisabeth Glab",
+          "Profession": "Interprète",
+          "InterventionNote": "Elisabeth Glab : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Catherine Cantin",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Cantin : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Jean Marie Poupelin",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Marie Poupelin : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Nicolas Baldeyrou",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicolas Baldeyrou : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Laurent Lefevre",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurent Lefevre : Basson",
+          "mop": "Basson"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Pascal Zavaro",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T00:45:13+02:00",
+      "composer": "http://data.doremus.org/artist/17e537a1-2959-3d74-a578-c8b0706808cb"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "00:59:01:00",
+      "ScheduledDuration": "00:03:13:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Structures Livre I : Structure Ia : Très modéré - pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Structures Livre I : Structure Ia : Très modéré - pour 2 pianos",
+      "Label": "ADES",
+      "ReferenceLabel": "14164-2",
+      "ExternalID": "3129671416426-1-10",
+      "AlbumTitle": "Le domaine musical de Pierre Boulez",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3129671416426",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alfons Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Alfons Kontarsky : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Aloys Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Aloys Kontarsky : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-24T00:59:01+02:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1",
+      "best": "http://data.doremus.org/expression/4ee62864-7594-35e2-b2da-7d7a72ee761a",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:02:14:00",
+      "ScheduledDuration": "00:08:56:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Structures Livre I : Structure Ib : Très rapide - pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Structures Livre I : Structure Ib : Très rapide - pour 2 pianos",
+      "Label": "ADES",
+      "ReferenceLabel": "14164-2",
+      "ExternalID": "3129671416426-1-11",
+      "AlbumTitle": "Le domaine musical de Pierre Boulez",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3129671416426",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alfons Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Alfons Kontarsky : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Aloys Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Aloys Kontarsky : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-24T01:02:14+02:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1",
+      "best": "http://data.doremus.org/expression/4ee62864-7594-35e2-b2da-7d7a72ee761a",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:11:10:00",
+      "ScheduledDuration": "00:02:09:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Structures Livre I : Structure Ic : Assez rapide - pour 2 pianos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Structures Livre I : Structure Ic : Assez rapide - pour 2 pianos",
+      "Label": "ADES",
+      "ReferenceLabel": "14164-2",
+      "ExternalID": "3129671416426-1-12",
+      "AlbumTitle": "Le domaine musical de Pierre Boulez",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3129671416426",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Alfons Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Alfons Kontarsky : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Aloys Kontarsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Aloys Kontarsky : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-24T01:11:10+02:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1",
+      "best": "http://data.doremus.org/expression/4ee62864-7594-35e2-b2da-7d7a72ee761a",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:13:22:00",
+      "ScheduledDuration": "00:13:10:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cinq pièces pour Paul Klee - pour piano et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cinq pièces pour Paul Klee - pour piano et violoncelle",
+      "Label": "MIRARE",
+      "ReferenceLabel": "MIR 159",
+      "ExternalID": "3760127221593-1-2",
+      "AlbumTitle": "Bruno Mantovani : Huit moments musicaux et autres pièces",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760127221593",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Mantovani",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Wanderer",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Wanderer"
+        },
+        {
+          "FullName": "Vincent Coq",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Coq : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Raphael Pidoux",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphael Pidoux : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-04-24T01:13:22+02:00",
+      "composer": "http://data.doremus.org/artist/8d84287a-4718-3624-954c-99121c478066",
+      "best": "http://data.doremus.org/expression/5554ba67-abce-36ef-820c-df7f2b83a2d1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:26:43:00",
+      "ScheduledDuration": "00:08:26:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour clarinette et orchestre : 1. Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour clarinette et orchestre : 1. Andante",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985430192",
+      "ExternalID": "0889854301927-1-4",
+      "AlbumTitle": "Thierry Escaich : Baroque song",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889854301927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Escaich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Meyer",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Meyer : Clarinette",
+        "mop": "Clarinette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Opera De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Alexandre Bloch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T01:26:43+02:00",
+      "composer": "http://data.doremus.org/artist/7af4863b-e061-3cb7-8281-482bb0f0d044"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:35:09:00",
+      "ScheduledDuration": "00:03:28:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour clarinette et orchestre : 2. Poco meno mosso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour clarinette et orchestre : 2. Poco meno mosso",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985430192",
+      "ExternalID": "0889854301927-1-5",
+      "AlbumTitle": "Thierry Escaich : Baroque song",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889854301927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Escaich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Meyer",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Meyer : Clarinette",
+        "mop": "Clarinette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Opera De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Alexandre Bloch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T01:35:09+02:00",
+      "composer": "http://data.doremus.org/artist/7af4863b-e061-3cb7-8281-482bb0f0d044"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:38:37:00",
+      "ScheduledDuration": "00:09:16:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour clarinette et orchestre : 3. Poco piu mosso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour clarinette et orchestre : 3. Poco piu mosso",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985430192",
+      "ExternalID": "0889854301927-1-6",
+      "AlbumTitle": "Thierry Escaich : Baroque song",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889854301927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Escaich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Meyer",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Meyer : Clarinette",
+        "mop": "Clarinette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Opera De Lyon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Alexandre Bloch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T01:38:37+02:00",
+      "composer": "http://data.doremus.org/artist/7af4863b-e061-3cb7-8281-482bb0f0d044"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:48:00:00",
+      "ScheduledDuration": "00:08:47:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nuits - pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nuits - pour choeur mixte a cappella",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS2139",
+      "ExternalID": "7318599921396-1-6",
+      "AlbumTitle": "As dreams",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921396",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Iannis Xenakis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Choeur Des Solistes Norvegiens",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Grete Pedersen Helgerod",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T01:48:00+02:00",
+      "composer": "http://data.doremus.org/artist/af8d601a-21f0-3a0f-af45-210b5c57c4f6"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "01:56:51:00",
+      "ScheduledDuration": "00:07:58:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Aufgang : 1er mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Aufgang : 1er mouvement",
+      "Label": "ERATO",
+      "ReferenceLabel": "825646026876",
+      "ExternalID": "0825646026876-1-2",
+      "AlbumTitle": "Rihm Dusapin et Mantovani : Oeuvres pour violon et orchestre",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646026876",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pascal Dusapin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Renaud Capucon",
+        "Profession": "Interprète",
+        "InterventionNote": "Renaud Capucon : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Myung Whun Chung",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T01:56:51+02:00",
+      "composer": "http://data.doremus.org/artist/631549a0-18b1-3d51-95c9-f7df6301ee76",
+      "best": "http://data.doremus.org/expression/ebd31ccc-034b-30fe-a7ff-4a6ee96399b0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "02:04:49:00",
+      "ScheduledDuration": "00:15:15:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Aufgang : 2ème mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Aufgang : 2ème mouvement",
+      "Label": "ERATO",
+      "ReferenceLabel": "825646026876",
+      "ExternalID": "0825646026876-1-3",
+      "AlbumTitle": "Rihm Dusapin et Mantovani : Oeuvres pour violon et orchestre",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646026876",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pascal Dusapin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Renaud Capucon",
+        "Profession": "Interprète",
+        "InterventionNote": "Renaud Capucon : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Myung Whun Chung",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T02:04:49+02:00",
+      "composer": "http://data.doremus.org/artist/631549a0-18b1-3d51-95c9-f7df6301ee76",
+      "best": "http://data.doremus.org/expression/9dff2646-a7b7-3f49-b37f-f0d3848d2fa4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "02:20:04:00",
+      "ScheduledDuration": "00:07:28:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Aufgang : 3ème mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Aufgang : 3ème mouvement",
+      "Label": "ERATO",
+      "ReferenceLabel": "825646026876",
+      "ExternalID": "0825646026876-1-4",
+      "AlbumTitle": "Rihm Dusapin et Mantovani : Oeuvres pour violon et orchestre",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646026876",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pascal Dusapin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Renaud Capucon",
+        "Profession": "Interprète",
+        "InterventionNote": "Renaud Capucon : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Radio France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Myung Whun Chung",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T02:20:04+02:00",
+      "composer": "http://data.doremus.org/artist/631549a0-18b1-3d51-95c9-f7df6301ee76",
+      "best": "http://data.doremus.org/expression/9dff2646-a7b7-3f49-b37f-f0d3848d2fa4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "02:27:41:00",
+      "ScheduledDuration": "00:03:45:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Late bloomer : Palimpseste fou",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Late bloomer : Palimpseste fou",
+      "Label": "LE BLEU DU CIEL",
+      "ReferenceLabel": "BC CDA 04",
+      "ExternalID": "RF00000007086-1-6",
+      "AlbumTitle": "Philippe jubard : Musiques electroniques",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Enfants",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000007086",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Philippe Jubard",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Jubard"
+      },
+      "ScheduledDateTime": "2017-04-24T02:27:41+02:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "02:31:26:00",
+      "ScheduledDuration": "00:07:21:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Late bloomer : Alignements de signes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Late bloomer : Alignements de signes",
+      "Label": "LE BLEU DU CIEL",
+      "ReferenceLabel": "BC CDA 04",
+      "ExternalID": "RF00000007086-1-7",
+      "AlbumTitle": "Philippe jubard : Musiques electroniques",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Enfants",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000007086",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Philippe Jubard",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Jubard"
+      },
+      "ScheduledDateTime": "2017-04-24T02:31:26+02:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "02:38:47:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Late bloomer : Bird walker",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Late bloomer : Bird walker",
+      "Label": "LE BLEU DU CIEL",
+      "ReferenceLabel": "BC CDA 04",
+      "ExternalID": "RF00000007086-1-8",
+      "AlbumTitle": "Philippe jubard : Musiques electroniques",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Enfants",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000007086",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Philippe Jubard",
+        "Profession": "Interprète",
+        "InterventionNote": "Philippe Jubard"
+      },
+      "ScheduledDateTime": "2017-04-24T02:38:47+02:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-04-24",
+      "ScheduledTime": "02:41:10:00",
+      "ScheduledDuration": "00:19:29:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les rayons du jour : Concerto pour alto et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les rayons du jour : Concerto pour alto et orchestre",
+      "Label": "SOLSTICE",
+      "ReferenceLabel": "SOCD 234",
+      "ExternalID": "3279792342033-1-9",
+      "AlbumTitle": "Chizy Edith canat de / Les rayons du jour / Quatuor ebene",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3279792342033",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edith Canat De Chizy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Paris",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Christoph Eschenbach",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-04-24T02:41:10+02:00",
+      "composer": "http://data.doremus.org/artist/cefb127b-0897-3e16-b4df-a495db73c0a1",
+      "best": "http://data.doremus.org/expression/71ce5770-a90e-342a-8f78-b6de81608560",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 25,
+  "matched": 8
+}

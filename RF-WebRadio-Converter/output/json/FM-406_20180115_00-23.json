@@ -1,0 +1,907 @@
+{
+  "id": "FM-406_20180115_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:20:27:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Voice of the whale (Vox balaenae) - pour flûte traversière violoncelle électrique et piano amplifié",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Voice of the whale (Vox balaenae) - pour flûte traversière violoncelle électrique et piano amplifié",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "888750619025",
+      "ExternalID": "RF00000064866-1-1",
+      "AlbumTitle": "Masterworks of the 20th Century / CD 5",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064866",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Erich Graf",
+          "Profession": "Interprète",
+          "InterventionNote": "Erich Graf : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Walter Ponce",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Ponce : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jerry Grossman",
+          "Profession": "Interprète",
+          "InterventionNote": "Jerry Grossman : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Aeolian Chamber Players",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2018-01-15T00:00:23+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:21:03:00",
+      "ScheduledDuration": "00:17:30:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Daphne of the dunes - pour instruments originaux et bande magnétique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Daphne of the dunes - pour instruments originaux et bande magnétique",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "MS 7207",
+      "ExternalID": "3473355087212-1-1",
+      "AlbumTitle": "The world of Harry Partch / courant musique expérimentale",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3473355087212",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Harry Partch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Harry Partch",
+          "Profession": "Interprète",
+          "InterventionNote": "Harry Partch"
+        },
+        {
+          "FullName": "Frank Berberich",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank Berberich"
+        },
+        {
+          "FullName": "Gary Coleman",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Coleman"
+        },
+        {
+          "FullName": "Dean Drummond",
+          "Profession": "Interprète",
+          "InterventionNote": "Dean Drummond"
+        },
+        {
+          "FullName": "Richard Lapore",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Lapore"
+        },
+        {
+          "FullName": "John Mac Allister",
+          "Profession": "Interprète",
+          "InterventionNote": "John Mac Allister"
+        },
+        {
+          "FullName": "Robert Mac Cormick",
+          "Profession": "Interprète",
+          "InterventionNote": "Robert Mac Cormick"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Danlee Mitchell",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:21:03+01:00",
+      "composer": "http://data.doremus.org/artist/9dc86a92-e12c-3921-8654-581176776bd9"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:38:41:00",
+      "ScheduledDuration": "00:12:01:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Asko concerto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Asko concerto",
+      "Label": "ECM",
+      "ReferenceLabel": "472188-2",
+      "ExternalID": "0028947218821-1-2",
+      "AlbumTitle": "Elliott Carter : What next et Asko concerto",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947218821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Elliott Carter",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De La Radio Neerlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Peter Eotvos",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:38:41+01:00",
+      "composer": "http://data.doremus.org/artist/a00bad16-9c78-36de-b915-9bc6981ae409",
+      "best": "http://data.doremus.org/expression/d2f64a2f-4d11-3c5f-be65-c7e214dbabad",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "00:50:51:00",
+      "ScheduledDuration": "00:40:50:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In C",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In C",
+      "Label": "TRANSGRESSIVE RECORDS",
+      "ReferenceLabel": "TRANS 186CD",
+      "ExternalID": "5060243326560-1-1",
+      "AlbumTitle": "Mali/Africa Express presents...Terry Riley's In C",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5060243326560",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Terry Riley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Adama Koita",
+          "Profession": "Interprète",
+          "InterventionNote": "Adama Koita : Kamale nkoni (luth)",
+          "mop": "Kamale nkoni (luth)"
+        },
+        {
+          "FullName": "Kalifa Kone",
+          "Profession": "Interprète",
+          "InterventionNote": "Kalifa Kone : Balafon (xylophone)",
+          "mop": "Balafon (xylophone)"
+        },
+        {
+          "FullName": "Meme Kone",
+          "Profession": "Interprète",
+          "InterventionNote": "Meme Kone : Balafon (xylophone)",
+          "mop": "Balafon (xylophone)"
+        },
+        {
+          "FullName": "Alou Coulibaly",
+          "Profession": "Interprète",
+          "InterventionNote": "Alou Coulibaly : Calebasse",
+          "mop": "Calebasse"
+        },
+        {
+          "FullName": "Andi Toma",
+          "Profession": "Interprète",
+          "InterventionNote": "Andi Toma : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Badou Mbaye",
+          "Profession": "Interprète",
+          "InterventionNote": "Badou Mbaye : Djembe (tambour), Percussions",
+          "mop": "Djembe (tambour), Percussions"
+        },
+        {
+          "FullName": "Brian Eno",
+          "Profession": "Interprète",
+          "InterventionNote": "Brian Eno : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Bijou",
+          "Profession": "Interprète",
+          "InterventionNote": "Bijou : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Olugbenga",
+          "Profession": "Interprète",
+          "InterventionNote": "Olugbenga : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Cheick Diallo",
+          "Profession": "Interprète",
+          "InterventionNote": "Cheick Diallo : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Damon Albarn",
+          "Profession": "Interprète",
+          "InterventionNote": "Damon Albarn"
+        },
+        {
+          "FullName": "Djelifily Sako",
+          "Profession": "Interprète",
+          "InterventionNote": "Djelifily Sako : Kora (harpe luth)",
+          "mop": "Kora (harpe luth)"
+        },
+        {
+          "FullName": "Modibo Diawara",
+          "Profession": "Interprète",
+          "InterventionNote": "Modibo Diawara : Kora (harpe luth)",
+          "mop": "Kora (harpe luth)"
+        },
+        {
+          "FullName": "Guindo Sala",
+          "Profession": "Interprète",
+          "InterventionNote": "Guindo Sala"
+        },
+        {
+          "FullName": "Nick Zinner",
+          "Profession": "Interprète",
+          "InterventionNote": "Nick Zinner : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Jeff Wooton",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeff Wooton : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Andre De Ridder",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T00:50:51+01:00",
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384",
+      "best": "http://data.doremus.org/expression/d9476c2e-86e0-34d6-9e48-f79e355e61e5",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:32:04:00",
+      "ScheduledDuration": "00:25:50:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Litany for the whale / Vocalise pour 2 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Litany for the whale / Vocalise pour 2 voix a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 907187",
+      "ExternalID": "0093046718725-1-1",
+      "AlbumTitle": "John Cage : Litany for the whale",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046718725",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Hillier",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Hillier : Voix",
+        "mop": "Voix"
+      },
+      "ScheduledDateTime": "2018-01-15T01:32:04+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "01:57:58:00",
+      "ScheduledDuration": "00:11:35:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cello Counterpoint",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cello Counterpoint",
+      "Label": "SONO LUMINUS",
+      "ReferenceLabel": "DSL-92202",
+      "ExternalID": "0053479220226-1-2",
+      "AlbumTitle": "Michael Nicolas : Transitions",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0053479220226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Michael Nicolas",
+        "Profession": "Interprète",
+        "InterventionNote": "Michael Nicolas : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2018-01-15T01:57:58+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f5758725-4d79-3de4-93aa-717bb87deae4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:09:44:00",
+      "ScheduledDuration": "00:13:26:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "City Noir : The City and Its Double",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "City Noir : The City and Its Double",
+      "Label": "DGG",
+      "ExternalID": "RF00000025421-1-1",
+      "AlbumTitle": "Gustavo Dudamel dirige John Adams",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000025421",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Los Angeles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gustavo Dudamel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:09:44+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/6455f075-105b-3699-a890-905255e90e1a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:23:10:00",
+      "ScheduledDuration": "00:08:42:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "City Noir : The Song Is for You",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "City Noir : The Song Is for You",
+      "Label": "DGG",
+      "ExternalID": "RF00000025421-1-2",
+      "AlbumTitle": "Gustavo Dudamel dirige John Adams",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000025421",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Los Angeles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gustavo Dudamel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:23:10+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/6455f075-105b-3699-a890-905255e90e1a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:31:52:00",
+      "ScheduledDuration": "00:12:23:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "City Noir : Boulevard Night",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "City Noir : Boulevard Night",
+      "Label": "DGG",
+      "ExternalID": "RF00000025421-1-3",
+      "AlbumTitle": "Gustavo Dudamel dirige John Adams",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000025421",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Los Angeles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gustavo Dudamel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-15T02:31:52+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/6455f075-105b-3699-a890-905255e90e1a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:44:24:00",
+      "ScheduledDuration": "00:02:38:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Night of the four moons : 1. La luna esta muerta - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Night of the four moons : 1. La luna esta muerta - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "888750619025",
+      "ExternalID": "RF00000064866-1-2",
+      "AlbumTitle": "Masterworks of the 20th Century / CD 5",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064866",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jan De Gaetani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan De Gaetani : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Lewis Kaplan",
+          "Profession": "Interprète",
+          "InterventionNote": "Lewis Kaplan : Banjo",
+          "mop": "Banjo"
+        },
+        {
+          "FullName": "Erich Graf",
+          "Profession": "Interprète",
+          "InterventionNote": "Erich Graf : Flûte traversière alto, Piccolo",
+          "mop": "Flûte traversière alto, Piccolo"
+        },
+        {
+          "FullName": "Paul Tobias",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Tobias : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Raymond Desroches",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Desroches : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Aeolian Chamber Players",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2018-01-15T02:44:24+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/174d25ad-edc1-34d6-9a6e-d4584d328b39",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:47:02:00",
+      "ScheduledDuration": "00:03:36:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Night of the four moons : 2. Cuando sale la luna - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Night of the four moons : 2. Cuando sale la luna - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "888750619025",
+      "ExternalID": "RF00000064866-1-3",
+      "AlbumTitle": "Masterworks of the 20th Century / CD 5",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064866",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jan De Gaetani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan De Gaetani : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Lewis Kaplan",
+          "Profession": "Interprète",
+          "InterventionNote": "Lewis Kaplan : Banjo",
+          "mop": "Banjo"
+        },
+        {
+          "FullName": "Erich Graf",
+          "Profession": "Interprète",
+          "InterventionNote": "Erich Graf : Flûte traversière alto, Piccolo",
+          "mop": "Flûte traversière alto, Piccolo"
+        },
+        {
+          "FullName": "Paul Tobias",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Tobias : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Raymond Desroches",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Desroches : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Aeolian Chamber Players",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2018-01-15T02:47:02+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/174d25ad-edc1-34d6-9a6e-d4584d328b39",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:50:38:00",
+      "ScheduledDuration": "00:02:53:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Night of the four moons : 3. Otro Adan oscuro esta soñando - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Night of the four moons : 3. Otro Adan oscuro esta soñando - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "888750619025",
+      "ExternalID": "RF00000064866-1-4",
+      "AlbumTitle": "Masterworks of the 20th Century / CD 5",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064866",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jan De Gaetani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan De Gaetani : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Lewis Kaplan",
+          "Profession": "Interprète",
+          "InterventionNote": "Lewis Kaplan : Banjo",
+          "mop": "Banjo"
+        },
+        {
+          "FullName": "Erich Graf",
+          "Profession": "Interprète",
+          "InterventionNote": "Erich Graf : Flûte traversière alto, Piccolo",
+          "mop": "Flûte traversière alto, Piccolo"
+        },
+        {
+          "FullName": "Paul Tobias",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Tobias : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Raymond Desroches",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Desroches : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Aeolian Chamber Players",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2018-01-15T02:50:38+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/174d25ad-edc1-34d6-9a6e-d4584d328b39",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-15",
+      "ScheduledTime": "02:53:31:00",
+      "ScheduledDuration": "00:08:37:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Night of the four moons : 4. Huye luna luna luna - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Night of the four moons : 4. Huye luna luna luna - pour mezzo-soprano flûte traversière alto piccolo banjo violoncelle électrique et percussions",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "888750619025",
+      "ExternalID": "RF00000064866-1-5",
+      "AlbumTitle": "Masterworks of the 20th Century / CD 5",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000064866",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jan De Gaetani",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan De Gaetani : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Lewis Kaplan",
+          "Profession": "Interprète",
+          "InterventionNote": "Lewis Kaplan : Banjo",
+          "mop": "Banjo"
+        },
+        {
+          "FullName": "Erich Graf",
+          "Profession": "Interprète",
+          "InterventionNote": "Erich Graf : Flûte traversière alto, Piccolo",
+          "mop": "Flûte traversière alto, Piccolo"
+        },
+        {
+          "FullName": "Paul Tobias",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Tobias : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Raymond Desroches",
+          "Profession": "Interprète",
+          "InterventionNote": "Raymond Desroches : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Aeolian Chamber Players",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2018-01-15T02:53:31+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/174d25ad-edc1-34d6-9a6e-d4584d328b39",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 13,
+  "matched": 10
+}

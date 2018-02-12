@@ -1,0 +1,1742 @@
+{
+  "id": "FM-406_20170206_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:00:48:00",
+      "ScheduledDuration": "00:09:36:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Flowing down too slow - pour cordes percussions et 2 échantillonneurs",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Flowing down too slow - pour cordes percussions et 2 échantillonneurs",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5623",
+      "ExternalID": "5412217056230-1-2",
+      "AlbumTitle": "Fausto Romitelli : The nameless city et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056230",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Musiques Nouvelles",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Musiques Nouvelles"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Paul Dessy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T00:00:48+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d",
+      "best": "http://data.doremus.org/expression/70472ecb-4904-3c0a-a552-bfa6b775833e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:10:24:00",
+      "ScheduledDuration": "00:03:04:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nero's expedition",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nero's expedition",
+      "Label": "NEW WORLD RECORDS",
+      "ReferenceLabel": "807742",
+      "ExternalID": "0093228077428-1-12",
+      "AlbumTitle": "Round the world of sound",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093228077428",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Moondog",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Dedalus",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Dedalus"
+        },
+        {
+          "FullName": "Muzzix",
+          "Profession": "Interprète",
+          "InterventionNote": "Muzzix"
+        },
+        {
+          "FullName": "Didier Aschour",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Aschour : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Christian Pruvost",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Pruvost : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Stephane Garin",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephane Garin : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Vincent Bouchot",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Bouchot : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Nathalie Duong",
+          "Profession": "Interprète",
+          "InterventionNote": "Nathalie Duong : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Sakina Abdou",
+          "Profession": "Interprète",
+          "InterventionNote": "Sakina Abdou : Chant, Saxophone",
+          "mop": "Chant, Saxophone"
+        },
+        {
+          "FullName": "Nicolas Mahieux",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicolas Mahieux : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Sebastien Beaumont",
+          "Profession": "Interprète",
+          "InterventionNote": "Sebastien Beaumont : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Denis Chouillet",
+          "Profession": "Interprète",
+          "InterventionNote": "Denis Chouillet : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Julien Favreuille",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Favreuille : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Thierry Madiot",
+          "Profession": "Interprète",
+          "InterventionNote": "Thierry Madiot : Trombone basse",
+          "mop": "Trombone basse"
+        },
+        {
+          "FullName": "Deborah Walker",
+          "Profession": "Interprète",
+          "InterventionNote": "Deborah Walker : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-06T00:10:24+01:00",
+      "composer": "http://data.doremus.org/artist/1007997e-8b77-3481-8a1e-99f30165f05c"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:13:28:00",
+      "ScheduledDuration": "00:08:08:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Zàrani-l-Mahboub",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Zàrani-l-Mahboub",
+      "Label": "L'EMPREINTE DIGITALE",
+      "ReferenceLabel": "ED13163",
+      "ExternalID": "0742495316326-1-1",
+      "AlbumTitle": "Zàrani",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0742495316326",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Zad Moultaka",
+        "Profession": "Interprète",
+        "InterventionNote": "Zad Moultaka : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T00:13:28+01:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:22:16:00",
+      "ScheduledDuration": "00:06:29:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lys de Madrigaux : Circé - pour choeur de femmes et ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lys de Madrigaux : Circé - pour choeur de femmes et ensemble instrumental",
+      "Label": "OPUS 111",
+      "ReferenceLabel": "OPS 30-109",
+      "ExternalID": "3386700301096-1-14",
+      "AlbumTitle": "Maurice Ohana : Avoaha et lys de madrigaux",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3386700301096",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ohana",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jay Gottlieb",
+          "Profession": "Interprète",
+          "InterventionNote": "Jay Gottlieb : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Roland Conil",
+          "Profession": "Interprète",
+          "InterventionNote": "Roland Conil : Orgue",
+          "mop": "Orgue"
+        },
+        {
+          "FullName": "Laure Morabito",
+          "Profession": "Interprète",
+          "InterventionNote": "Laure Morabito : Cithare",
+          "mop": "Cithare"
+        },
+        {
+          "FullName": "Georges Van Gught",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Van Gught : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Musicatreize",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roland Hayrabedian",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T00:22:16+01:00",
+      "composer": "http://data.doremus.org/artist/837e2ce4-8895-33e0-9981-596391e04c59"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:28:45:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chorus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chorus",
+      "Label": "ACCORD",
+      "ReferenceLabel": "ACCD 472086-2",
+      "ExternalID": "0028947208624-1-4",
+      "AlbumTitle": "Entente préalable",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947208624",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Percussions De Strasbourg",
+        "Profession": "Interprète",
+        "InterventionNote": "Percussions De Strasbourg"
+      },
+      "ScheduledDateTime": "2017-02-06T00:28:45+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:32:15:00",
+      "ScheduledDuration": "00:13:36:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour trompette et orchestre : Nobody knows the trouble I see",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour trompette et orchestre : Nobody knows the trouble I see",
+      "Label": "PHPS",
+      "ReferenceLabel": "434114-2",
+      "ExternalID": "0028943411424-1-10",
+      "AlbumTitle": "Concertos",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943411424",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Bernd Alois Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Bernd Alois Zimmermann"
+        },
+        {
+          "FullName": "Hakan Hardenberger",
+          "Profession": "Interprète",
+          "InterventionNote": "Hakan Hardenberger : Trompette",
+          "mop": "Trompette"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Michael Gielen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T00:32:15+01:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:45:51:00",
+      "ScheduledDuration": "00:06:24:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Green Yellow and Blue - pour ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Green Yellow and Blue - pour ensemble instrumental",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP 5620",
+      "ExternalID": "5412217056209-1-5",
+      "AlbumTitle": "Fausto Romitelli : Professor Bad Trip",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056209",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Ictus",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Ictus"
+        },
+        {
+          "FullName": "Tom Pauwels",
+          "Profession": "Interprète",
+          "InterventionNote": "Tom Pauwels : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Francois Deppe",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Deppe : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T00:45:51+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "00:52:48:00",
+      "ScheduledDuration": "00:19:28:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prologue - pour alto et resonateurs",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prologue - pour alto et resonateurs",
+      "Label": "ACCORD",
+      "ReferenceLabel": "ACCD 201952",
+      "ExternalID": "3229262019521-1-2",
+      "AlbumTitle": "Gerard Grisey : Talea / Prologue / Anubis / Nout / Jour contre jour",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262019521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerard Grisey",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gerard Causse",
+        "Profession": "Interprète",
+        "InterventionNote": "Gerard Causse"
+      },
+      "ScheduledDateTime": "2017-02-06T00:52:48+01:00",
+      "composer": "http://data.doremus.org/artist/c4ef4da5-5668-36b4-8f95-6aca037d04d8",
+      "best": "http://data.doremus.org/expression/a64d51a4-8463-397b-a45d-1f9990a0bf08",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:12:20:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Nocturnal theme - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Nocturnal theme - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-3",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:12:20+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:14:19:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Charade - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Charade - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-4",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:14:19+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:16:08:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Premonition - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Premonition - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-5",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:16:08+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:18:08:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Cobweb and peaseblossom - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Cobweb and peaseblossom - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-6",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:18:08+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:20:18:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Incantation - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Incantation - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-7",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:20:18+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:23:25:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Golliwog revisited - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Golliwog revisited - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-8",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:23:25+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:25:54:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Blues in the night - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Blues in the night - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-9",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:25:54+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:28:55:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Cadenza with tolling bells - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Cadenza with tolling bells - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-10",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:28:55+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:31:10:00",
+      "ScheduledDuration": "00:03:45:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little midnight music : Midnight transformation - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little midnight music : Midnight transformation - pour piano / variations sur \"\"Round Midnight\"\" de Theolonius Monk",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD93334",
+      "ExternalID": "4010276027935-1-11",
+      "AlbumTitle": "Insomnia : Oeuvres pour piano",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276027935",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "George Crumb",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Thelonious Monk",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Kai Schumacher",
+        "Profession": "Interprète",
+        "InterventionNote": "Kai Schumacher : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-06T01:31:10+01:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:34:55:00",
+      "ScheduledDuration": "00:05:33:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Centauro marino - pour clarinette trio à cordes et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Centauro marino - pour clarinette trio à cordes et piano",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33917",
+      "ExternalID": "8011570339171-1-2",
+      "AlbumTitle": "Salvatore Sciarrino : Le stagioni artificiali et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570339171",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Salvatore Sciarrino",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Algoritmo",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Algoritmo"
+        },
+        {
+          "FullName": "Roberta Gottardi",
+          "Profession": "Interprète",
+          "InterventionNote": "Roberta Gottardi : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Marco Rogliano",
+          "Profession": "Interprète",
+          "InterventionNote": "Marco Rogliano : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Gabriele Croci",
+          "Profession": "Interprète",
+          "InterventionNote": "Gabriele Croci : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Claude Hauri",
+          "Profession": "Interprète",
+          "InterventionNote": "Claude Hauri : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Ciro Longobardi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ciro Longobardi : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T01:34:55+01:00",
+      "composer": "http://data.doremus.org/artist/8e5a7550-f60c-32dd-95a0-dcb11b2c84e4"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:40:28:00",
+      "ScheduledDuration": "00:01:26:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "6 quartetti brevi : Veloce",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "6 quartetti brevi : Veloce",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0013212KAI",
+      "ExternalID": "9120010281822-1-4",
+      "AlbumTitle": "Salvatore Sciarrino : Quatuors à cordes",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281822",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Salvatore Sciarrino",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Prometeo",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Prometeo"
+        },
+        {
+          "FullName": "Giulio Rovighi",
+          "Profession": "Interprète",
+          "InterventionNote": "Giulio Rovighi : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Aldo Campagnari",
+          "Profession": "Interprète",
+          "InterventionNote": "Aldo Campagnari : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Carmelo Giallombardo",
+          "Profession": "Interprète",
+          "InterventionNote": "Carmelo Giallombardo : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Francesco Dillon",
+          "Profession": "Interprète",
+          "InterventionNote": "Francesco Dillon : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-06T01:40:28+01:00",
+      "composer": "http://data.doremus.org/artist/8e5a7550-f60c-32dd-95a0-dcb11b2c84e4",
+      "best": "http://data.doremus.org/expression/63df861a-75ef-3e74-8a03-0c799d44a179",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:42:33:00",
+      "ScheduledDuration": "00:13:51:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Professor Bad Trip : Lesson n°1 - pour ensemble instrumental et traitements électroniques",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Professor Bad Trip : Lesson n°1 - pour ensemble instrumental et traitements électroniques",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP 5620",
+      "ExternalID": "5412217056209-1-1",
+      "AlbumTitle": "Fausto Romitelli : Professor Bad Trip",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056209",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Ictus",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Ictus"
+        },
+        {
+          "FullName": "Tom Pauwels",
+          "Profession": "Interprète",
+          "InterventionNote": "Tom Pauwels : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Francois Deppe",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Deppe : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T01:42:33+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "01:56:24:00",
+      "ScheduledDuration": "00:10:32:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Transmission",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Transmission",
+      "Label": "SISMAL",
+      "ReferenceLabel": "SR003",
+      "ExternalID": "3700266839907-1-5",
+      "AlbumTitle": "Franck bedrossian : Charleston",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700266839907",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franck Bedrossian",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Martin Brice",
+        "Profession": "Interprète",
+        "InterventionNote": "Martin Brice : Basson",
+        "mop": "Basson"
+      },
+      "ScheduledDateTime": "2017-02-06T01:56:24+01:00",
+      "composer": "http://data.doremus.org/artist/a4b10ade-5e44-3410-9677-fa4d090a2c97",
+      "best": "http://data.doremus.org/expression/37bc7a37-1da8-3705-a951-363cf9f1dc02",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:06:56:00",
+      "ScheduledDuration": "00:04:55:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Known by a number",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Known by a number",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 0980",
+      "ExternalID": "3760058369807-1-7",
+      "AlbumTitle": "La longue marche",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Enfants",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058369807",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Benjamin De La Fuente",
+        "Profession": "Interprète",
+        "InterventionNote": "Benjamin De La Fuente : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-02-06T02:06:56+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:11:51:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dark like me : Brass spittoons / Puzzled",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dark like me : Brass spittoons / Puzzled",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V 4986",
+      "ExternalID": "0822186049860-1-3",
+      "AlbumTitle": "Thierry Machuel : Psalm",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186049860",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Machuel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Laurence Equilbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurence Equilbey"
+        },
+        {
+          "FullName": "Geoffroy Jourdain",
+          "Profession": "Interprète",
+          "InterventionNote": "Geoffroy Jourdain"
+        }
+      ],
+      "Choir": [
+        {
+          "EntityName": "Le Jeune Choeur De Paris",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Les Cris De Paris",
+          "EntityType": "Choeur"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-06T02:11:51+01:00",
+      "composer": "http://data.doremus.org/artist/0537a05e-c3eb-3303-8652-e721c2ca1081"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:14:33:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dark like me : Afraid / Homesick blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dark like me : Afraid / Homesick blues",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V 4986",
+      "ExternalID": "0822186049860-1-4",
+      "AlbumTitle": "Thierry Machuel : Psalm",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186049860",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Machuel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Laurence Equilbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurence Equilbey"
+        },
+        {
+          "FullName": "Geoffroy Jourdain",
+          "Profession": "Interprète",
+          "InterventionNote": "Geoffroy Jourdain"
+        }
+      ],
+      "Choir": [
+        {
+          "EntityName": "Le Jeune Choeur De Paris",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Les Cris De Paris",
+          "EntityType": "Choeur"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-06T02:14:33+01:00",
+      "composer": "http://data.doremus.org/artist/0537a05e-c3eb-3303-8652-e721c2ca1081"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:16:44:00",
+      "ScheduledDuration": "00:02:19:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dark like me : Daybreak in Alabama",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dark like me : Daybreak in Alabama",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V 4986",
+      "ExternalID": "0822186049860-1-5",
+      "AlbumTitle": "Thierry Machuel : Psalm",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186049860",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Machuel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Laurence Equilbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurence Equilbey"
+        },
+        {
+          "FullName": "Geoffroy Jourdain",
+          "Profession": "Interprète",
+          "InterventionNote": "Geoffroy Jourdain"
+        }
+      ],
+      "Choir": [
+        {
+          "EntityName": "Le Jeune Choeur De Paris",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Les Cris De Paris",
+          "EntityType": "Choeur"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-06T02:16:44+01:00",
+      "composer": "http://data.doremus.org/artist/0537a05e-c3eb-3303-8652-e721c2ca1081"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:19:03:00",
+      "ScheduledDuration": "00:02:27:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dark like me : Dream variation",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dark like me : Dream variation",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V 4986",
+      "ExternalID": "0822186049860-1-6",
+      "AlbumTitle": "Thierry Machuel : Psalm",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186049860",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Thierry Machuel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Laurence Equilbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurence Equilbey"
+        },
+        {
+          "FullName": "Geoffroy Jourdain",
+          "Profession": "Interprète",
+          "InterventionNote": "Geoffroy Jourdain"
+        }
+      ],
+      "Choir": [
+        {
+          "EntityName": "Le Jeune Choeur De Paris",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Les Cris De Paris",
+          "EntityType": "Choeur"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-06T02:19:03+01:00",
+      "composer": "http://data.doremus.org/artist/0537a05e-c3eb-3303-8652-e721c2ca1081"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:22:06:00",
+      "ScheduledDuration": "00:04:28:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Clair pour clarinette",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Clair pour clarinette",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33499",
+      "ExternalID": "8018430216016-1-8",
+      "AlbumTitle": "Donatoni",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8018430216016",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Donatoni Franco",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Edmondo Tedesco",
+        "Profession": "Interprète",
+        "InterventionNote": "Edmondo Tedesco : Clarinette",
+        "mop": "Clarinette"
+      },
+      "ScheduledDateTime": "2017-02-06T02:22:06+01:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:26:34:00",
+      "ScheduledDuration": "00:04:18:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Clair pour clarinette",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Clair pour clarinette",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR 33499",
+      "ExternalID": "8018430216016-1-9",
+      "AlbumTitle": "Donatoni",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8018430216016",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Donatoni Franco",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Edmondo Tedesco",
+        "Profession": "Interprète",
+        "InterventionNote": "Edmondo Tedesco : Clarinette",
+        "mop": "Clarinette"
+      },
+      "ScheduledDateTime": "2017-02-06T02:26:34+01:00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:30:52:00",
+      "ScheduledDuration": "00:18:48:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Antiphysis",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Antiphysis",
+      "Label": "SISMAL",
+      "ReferenceLabel": "SISMA SR004",
+      "ExternalID": "3700266849906-1-4",
+      "AlbumTitle": "Hugues Dufourt : Les météores",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700266849906",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hugues Dufourt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Fabrice Junger",
+        "Profession": "Interprète",
+        "InterventionNote": "Fabrice Junger : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Orchestral Contemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Daniel Kawka",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T02:30:52+01:00",
+      "composer": "http://data.doremus.org/artist/f9be0f12-f30c-354b-9495-37062c53a992",
+      "best": "http://data.doremus.org/expression/b1e03b5e-897e-34ab-85b5-6d73d8dd5095",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-06",
+      "ScheduledTime": "02:49:40:00",
+      "ScheduledDuration": "00:13:31:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The nameless city - pour ensemble de cordes et cloche",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The nameless city - pour ensemble de cordes et cloche",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5623",
+      "ExternalID": "5412217056230-1-5",
+      "AlbumTitle": "Fausto Romitelli : The nameless city et autres oeuvres",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056230",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Musiques Nouvelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Paul Dessy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-06T02:49:40+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d",
+      "best": "http://data.doremus.org/expression/be5612b9-4622-3ce5-b6b2-f60e4b06cf6d",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 30,
+  "matched": 6
+}

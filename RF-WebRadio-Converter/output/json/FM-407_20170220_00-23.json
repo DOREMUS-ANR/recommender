@@ -1,0 +1,2265 @@
+{
+  "id": "FM-407_20170220_00-23",
+  "channel": "407",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:00:05:00",
+      "ScheduledDuration": "00:02:29:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Peau d'âne : Amour amour",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Peau d'âne : Amour amour",
+      "Label": "PLAY TIME",
+      "ReferenceLabel": "PLAY TIME 302256",
+      "ExternalID": "3483903022565-1-4",
+      "AlbumTitle": "Peau d'âne",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1970-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3483903022565",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michel Legrand",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anne Germain",
+        "Profession": "Interprète",
+        "InterventionNote": "Anne Germain"
+      },
+      "ScheduledDateTime": "2017-02-20T15:00:05+01:00",
+      "composer": "http://data.doremus.org/artist/4c9e3128-8f13-36c0-9cf0-9886c6ed897d"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:02:34:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Idylle - pour basson et flûte",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Idylle - pour basson et flûte",
+      "Label": "UNIVERSAL MUSIC",
+      "ReferenceLabel": "534557 8",
+      "ExternalID": "RF00000038074-1-3",
+      "AlbumTitle": "Michel Legrand : Anthology / Ouvrages symphoniques 1956 -1997/ Cd 9",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000038074",
+      "Interpreter": {
+        "FullName": "Non Identifie",
+        "Profession": "Interprète",
+        "InterventionNote": "Non Identifie : Basson, Flûte traversière",
+        "mop": "Basson, Flûte traversière"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Michel Legrand",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:02:34+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:04:14:00",
+      "ScheduledDuration": "00:03:53:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 romances op 22 : Romance en Si bémol Maj op 22 n°3 - pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 romances op 22 : Romance en Si bémol Maj op 22 n°3 - pour violon et piano",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4790086",
+      "ExternalID": "0028947900863-1-6",
+      "AlbumTitle": "Brahms : Concerto pour violon op 77 et Clara Schumann : 3 romances op 22",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947900863",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Clara Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Lisa Batiashvili",
+          "Profession": "Interprète",
+          "InterventionNote": "Lisa Batiashvili : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Alice Sara Ott",
+          "Profession": "Interprète",
+          "InterventionNote": "Alice Sara Ott : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T15:04:14+01:00",
+      "composer": "http://data.doremus.org/artist/a2071c92-f88a-3a6a-925a-2625190b1d0b",
+      "best": "http://data.doremus.org/expression/2b0759dd-0a27-385a-bae2-16474194d49a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:08:07:00",
+      "ScheduledDuration": "00:05:16:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les animaux modeles : le petit jour - le lion amoureux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les animaux modeles : le petit jour - le lion amoureux",
+      "Label": "CLAVES",
+      "ReferenceLabel": "clav cd 50-9111",
+      "ExternalID": "7619931911120-1-1",
+      "AlbumTitle": "Poulenc / Works for orchestra",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7619931911120",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Francis Poulenc : Auteur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marcello Viotti",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:08:07+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:13:23:00",
+      "ScheduledDuration": "00:03:32:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Berceuse en Ré Maj op 16",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Berceuse en Ré Maj op 16",
+      "Label": "TESTAMENT",
+      "ReferenceLabel": "TEMPT 93791",
+      "ExternalID": "5028421937915-4-12",
+      "AlbumTitle": "Christian ferras interprete des sonates pour violon de differents compositeurs",
+      "Rank": 12,
+      "NumVolume": 4,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421937915",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christian Ferras",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Ferras : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jean Claude Ambrosini",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Claude Ambrosini : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T15:13:23+01:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/d0c489e3-59bf-31cd-bcf9-18e6cae078d5",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:16:55:00",
+      "ScheduledDuration": "00:03:16:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Carmina burana : Cour d'amours : Amor volat undique (Choeur d'enfants)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Carmina burana : Cour d'amours : Amor volat undique (Choeur d'enfants)",
+      "Label": "INDEPENDENT MUSIC",
+      "ReferenceLabel": "BPOL1018",
+      "ExternalID": "RF00000058079-1-15",
+      "AlbumTitle": "Rico Saccani dirige l'orchestre philharmonique de Budapest : Oeuvres de Orff et Glinka / CD 19",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000058079",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Orff",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De L'Opera D'Etat Hongrois",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rico Saccani",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:16:55+01:00",
+      "composer": "http://data.doremus.org/artist/ca402df8-0810-3ef8-8896-0acfee5565c5",
+      "best": "http://data.doremus.org/expression/ede9f9be-bb6e-3c91-97e7-4718eaacbd81",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:20:14:00",
+      "ScheduledDuration": "00:06:31:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Daphnis et Chloé : Pantomime / Les amours de Pan et de Syrinx (3ème partie) - symphonie chorégraphique avec choeur mixte en 3 parties",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Daphnis et Chloé : Pantomime / Les amours de Pan et de Syrinx (3ème partie) - symphonie chorégraphique avec choeur mixte en 3 parties",
+      "Label": "PARLOPHONE",
+      "ReferenceLabel": "0825646166848",
+      "ExternalID": "0825646166848-1-14",
+      "AlbumTitle": "Maurice Ravel : Daphnis et Chloé et La valse",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646166848",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Frederic Chatoux",
+        "Profession": "Interprète",
+        "InterventionNote": "Frederic Chatoux : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Theatre National De L'Opera De Paris",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De L'Opera De Paris",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Philippe Jordan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:20:14+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/39745f43-56e9-3c1a-9113-d653a6947821",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:26:45:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chant d'amour de Kangding",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chant d'amour de Kangding",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "5099908865823",
+      "ExternalID": "5099908865823-1-10",
+      "AlbumTitle": "The red piano",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099908865823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit Chine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Yundi",
+        "Profession": "Interprète",
+        "InterventionNote": "Yundi : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T15:26:45+01:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:28:17:00",
+      "ScheduledDuration": "00:06:39:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les ruses d'amour op 61: grand pas des fiancées",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les ruses d'amour op 61: grand pas des fiancées",
+      "Label": "MELODIYA (URSS)",
+      "ReferenceLabel": "74321 59055 2",
+      "ExternalID": "0743215905523-1-17",
+      "AlbumTitle": "Alexandre Glazounov : musique symphonique",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743215905523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Glazounov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat De Russie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Svetlanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:28:17+01:00",
+      "composer": "http://data.doremus.org/artist/064a15a4-b08d-3300-9b18-91ca4e79671c"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:34:56:00",
+      "ScheduledDuration": "00:01:07:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les ruses d'amour op 61: variation",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les ruses d'amour op 61: variation",
+      "Label": "MELODIYA (URSS)",
+      "ReferenceLabel": "74321 59055 2",
+      "ExternalID": "0743215905523-1-18",
+      "AlbumTitle": "Alexandre Glazounov : musique symphonique",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743215905523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Glazounov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat De Russie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Svetlanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:34:56+01:00",
+      "composer": "http://data.doremus.org/artist/064a15a4-b08d-3300-9b18-91ca4e79671c"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:36:03:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour un amour lointain",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour un amour lointain",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "531 877-0",
+      "ExternalID": "0600753187708-1-18",
+      "AlbumTitle": "BOF / Le Brésil au cinéma: Os bandeirantes",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0600753187708",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luiz Bonfa",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vladimir Cosma",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:36:03+01:00",
+      "composer": "http://data.doremus.org/artist/2a9944d1-ce7b-389f-8dbc-fe4e74bf237b"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:39:03:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Only lovers left alive : Only lovers left alive",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Only lovers left alive : Only lovers left alive",
+      "Label": "ATP RECORDINGS",
+      "ReferenceLabel": "ATPRCD52",
+      "ExternalID": "0666017270524-1-13",
+      "AlbumTitle": "BOF : Only lovers left alive",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0666017270524",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Jozef Van Wissem & Squrl",
+        "Profession": "Interprète",
+        "InterventionNote": "Jozef Van Wissem & Squrl"
+      },
+      "ScheduledDateTime": "2017-02-20T15:39:03+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:42:37:00",
+      "ScheduledDuration": "00:02:35:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Carnaval de Vienne op 26 pour piano : Romance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Carnaval de Vienne op 26 pour piano : Romance",
+      "Label": "ALPHA",
+      "ReferenceLabel": "ALPHA 154",
+      "ExternalID": "3760014191541-1-3",
+      "AlbumTitle": "Schumann / Oeuvres pour piano / Vol 8 / Le sage",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014191541",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eric Le Sage",
+        "Profession": "Interprète",
+        "InterventionNote": "Eric Le Sage : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T15:42:37+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/989ca037-3413-312c-8c8c-049d999297dc",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:45:12:00",
+      "ScheduledDuration": "00:03:51:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Idylle pour cordes : I. Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Idylle pour cordes : I. Andante",
+      "Label": "SUPPRAPHON",
+      "ReferenceLabel": "SPHN 111520-2",
+      "ExternalID": "0099925152024-1-13",
+      "AlbumTitle": "Leos Janacek : Oeuvres orchestrales volume 1",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925152024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Etat De Brno",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frantisek Jilek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:45:12+01:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:49:03:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le soleil des eaux : Complainte du lézard amoureux - pour soprano ténor basse choeur et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le soleil des eaux : Complainte du lézard amoureux - pour soprano ténor basse choeur et orchestre",
+      "Label": "PRAGA",
+      "ReferenceLabel": "PRD250332",
+      "ExternalID": "3149028083125-1-7",
+      "AlbumTitle": "Pierre Boulez young composer and conductor",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028083125",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Josephine Nendick",
+          "Profession": "Interprète",
+          "InterventionNote": "Josephine Nendick : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Louis Devos",
+          "Profession": "Interprète",
+          "InterventionNote": "Louis Devos : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Barry Mac Daniel",
+          "Profession": "Interprète",
+          "InterventionNote": "Barry Mac Daniel : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Bbc",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:49:03+01:00",
+      "composer": "http://data.doremus.org/artist/327eae68-ae82-33d4-84fd-9564e64d2dc1",
+      "best": "http://data.doremus.org/expression/67bce8e5-720f-3a82-8d37-001270a9dc32",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:52:50:00",
+      "ScheduledDuration": "00:03:09:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Angélique : Scène d'amour",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Angélique : Scène d'amour",
+      "Label": "BORIGINAL",
+      "ReferenceLabel": "BO 013",
+      "ExternalID": "0888430156821-1-7",
+      "AlbumTitle": "Bof / Angélique",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888430156821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nathaniel Mechaly",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "The City Of Prague Philharmonic Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Olivier Holt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T15:52:50+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "15:55:59:00",
+      "ScheduledDuration": "00:04:48:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Thaïs : Méditation (Acte II) - réduction pour clarinette et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Thaïs : Méditation (Acte II) - réduction pour clarinette et piano",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN10901",
+      "ExternalID": "0095115190128-1-17",
+      "AlbumTitle": "The lyrical clarinet / Vol 2",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115190128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jules Massenet",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Michael Collins",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Collins : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Michael Mac Hale",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Mac Hale : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T15:55:59+01:00",
+      "composer": "http://data.doremus.org/artist/bb190de9-54d7-3e08-8ec0-d02fc701573f",
+      "best": "http://data.doremus.org/expression/88191d3c-0b46-33cb-97c9-118a8ba4b825",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:00:47:00",
+      "ScheduledDuration": "00:08:18:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance n°2 en Fa Maj op 50",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance n°2 en Fa Maj op 50",
+      "Label": "ARTE NOVA CLASSICS",
+      "ReferenceLabel": "82876 76994 2",
+      "ExternalID": "0828767699424-1-5",
+      "AlbumTitle": "Ludwig van Beethoven : Concerto pour violon et romances",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0828767699424",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christian Tetzlaff",
+        "Profession": "Interprète",
+        "InterventionNote": "Christian Tetzlaff : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Tonhalle De Zurich",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "David Zinman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T16:00:47+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:09:08:00",
+      "ScheduledDuration": "00:05:10:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance",
+      "Label": "TZADIK",
+      "ReferenceLabel": "TZ 7355",
+      "ExternalID": "RF00000001324-1-2",
+      "AlbumTitle": "Bof - the treatment",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000001324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Zorn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-02-20T16:09:08+01:00",
+      "composer": "http://data.doremus.org/artist/66dbbad3-80a3-3084-b884-70b162f4e019"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:14:18:00",
+      "ScheduledDuration": "00:06:16:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Invierno porteño",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Invierno porteño",
+      "Label": "DISQUES PIERRE VERANY",
+      "ReferenceLabel": "PV 703032",
+      "ExternalID": "3325487030324-1-3",
+      "AlbumTitle": "Piazzolla / Tangos / Vol.2",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325487030324",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Mario Raskin",
+          "Profession": "Interprète",
+          "InterventionNote": "Mario Raskin : Clavecin",
+          "mop": "Clavecin"
+        },
+        {
+          "FullName": "Oscar Milani",
+          "Profession": "Interprète",
+          "InterventionNote": "Oscar Milani : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T16:14:18+01:00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:20:34:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Laura (Laura)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Laura (Laura)",
+      "Label": "NOCTURNE",
+      "ReferenceLabel": "BDF I242",
+      "ExternalID": "0826596072425-1-5",
+      "AlbumTitle": "Film noir",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0826596072425",
+      "Compositor": {
+        "FullName": "David Raksin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Nat King Cole",
+        "Profession": "Interprète",
+        "InterventionNote": "Nat King Cole : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-02-20T16:20:34+01:00",
+      "composer": "http://data.doremus.org/artist/01e4e55c-53d3-3c8b-bc1a-baf5695c7f64"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:23:19:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ay amor",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ay amor",
+      "Label": "SQUATT",
+      "ReferenceLabel": "4814442",
+      "ExternalID": "5099748144423-1-1",
+      "AlbumTitle": "Bof / La fleur de mon secret",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099748144423",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Bola De Nieve",
+        "Profession": "Interprète",
+        "InterventionNote": "Bola De Nieve"
+      },
+      "ScheduledDateTime": "2017-02-20T16:23:19+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:25:55:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Otalia de Bahia - O Bahia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Otalia de Bahia - O Bahia",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "531 877-0",
+      "ExternalID": "0600753187708-1-24",
+      "AlbumTitle": "BOF / Le Brésil au cinéma: Os bandeirantes",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0600753187708",
+      "Compositor": [
+        {
+          "FullName": "Antonio Carlos",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jocafi",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Walter Queiroz",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Maria Creuza",
+        "Profession": "Interprète",
+        "InterventionNote": "Maria Creuza"
+      },
+      "ScheduledDateTime": "2017-02-20T16:25:55+01:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:29:17:00",
+      "ScheduledDuration": "00:09:25:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°1 en mi min op 11 : Romance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°1 en mi min op 11 : Romance",
+      "Label": "EMI",
+      "ReferenceLabel": "5567982",
+      "ExternalID": "0724355679826-1-2",
+      "AlbumTitle": "Frédéric Chopin : Les 2 concertos pour piano",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355679826",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederic Chopin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Martha Argerich",
+        "Profession": "Interprète",
+        "InterventionNote": "Martha Argerich : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Montreal",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Charles Dutoit",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T16:29:17+01:00",
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "best": "http://data.doremus.org/expression/056250a5-6140-3ba1-8d96-bb9ca1f62d1d",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:38:42:00",
+      "ScheduledDuration": "00:02:25:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance sans paroles en sol min op 19 n°6 (Barcarolle n°1) - arrangement pour guitare acoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance sans paroles en sol min op 19 n°6 (Barcarolle n°1) - arrangement pour guitare acoustique",
+      "Label": "CONCERTO",
+      "ReferenceLabel": "CD 2001/2",
+      "ExternalID": "8012665200123-2-33",
+      "AlbumTitle": "Francisco Tarrega : Intégrale des oeuvres pour guitare / Vol 1",
+      "Rank": 33,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8012665200123",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francisco Tarrega",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Giulio Tampalini",
+        "Profession": "Interprète",
+        "InterventionNote": "Giulio Tampalini : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-02-20T16:38:42+01:00",
+      "composer": "http://data.doremus.org/artist/920a4c9d-68f0-36c8-88a9-a4c882171aa6"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:41:07:00",
+      "ScheduledDuration": "00:02:38:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance - pour guitare acoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance - pour guitare acoustique",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.570250",
+      "ExternalID": "0747313025077-1-19",
+      "AlbumTitle": "Oeuvres pour guitare",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313025077",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Antonio Lauro",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Victor Villadangos",
+        "Profession": "Interprète",
+        "InterventionNote": "Victor Villadangos : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-02-20T16:41:07+01:00",
+      "composer": "http://data.doremus.org/artist/bab200de-8c4d-3855-a491-a82c4bba702f"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:43:45:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Beau soir L 6 - pour soprano et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Beau soir L 6 - pour soprano et piano",
+      "Label": "LIGIA DIGITAL",
+      "ReferenceLabel": "LIDI 0201285-14",
+      "ExternalID": "3487549902854-3-6",
+      "AlbumTitle": "Claude Debussy : Intégrale des mélodies",
+      "Rank": 6,
+      "NumVolume": 3,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3487549902854",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Magali Leger",
+          "Profession": "Interprète",
+          "InterventionNote": "Magali Leger : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jean Louis Haguenauer",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Louis Haguenauer : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T16:43:45+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:45:54:00",
+      "ScheduledDuration": "00:03:12:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Out of Africa : Thème",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Out of Africa : Thème",
+      "Label": "MCA RECORDS",
+      "ReferenceLabel": "MCAD-6158",
+      "ExternalID": "0076732615829-1-1",
+      "AlbumTitle": "BOF / Out of Africa (film)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0076732615829",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Barry",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "John Barry",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T16:45:54+01:00",
+      "composer": "http://data.doremus.org/artist/38dffefd-1f7a-3362-8574-9530288b0e06"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:49:06:00",
+      "ScheduledDuration": "00:10:22:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance en la min op 42",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance en la min op 42",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68060",
+      "ExternalID": "0034571280608-1-5",
+      "AlbumTitle": "Max Bruch : Concerto n°1 Romance et Sérénade",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571280608",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Max Bruch",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jack Liebeck",
+        "Profession": "Interprète",
+        "InterventionNote": "Jack Liebeck : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Bbc D'Ecosse",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Martyn Brabbins",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T16:49:06+01:00",
+      "composer": "http://data.doremus.org/artist/5cfa483a-c509-3e82-a96a-4d2b90bc13c8",
+      "best": "http://data.doremus.org/expression/7febd8b3-ab85-37be-87a1-39403be2c23f",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "16:59:28:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Coracao vagabundo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Coracao vagabundo",
+      "Label": "VERVE",
+      "ReferenceLabel": "546713-2",
+      "ExternalID": "0731454671323-1-7",
+      "AlbumTitle": "João voz e violão",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731454671323",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Joao Gilberto",
+        "Profession": "Interprète",
+        "InterventionNote": "Joao Gilberto"
+      },
+      "ScheduledDateTime": "2017-02-20T16:59:28+01:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:01:40:00",
+      "ScheduledDuration": "00:03:15:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tonada de luna llena",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tonada de luna llena",
+      "Label": "SQUATT",
+      "ReferenceLabel": "4814442",
+      "ExternalID": "5099748144423-1-2",
+      "AlbumTitle": "Bof / La fleur de mon secret",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099748144423",
+      "Compositor": {
+        "FullName": "Simon Diaz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Caetano Veloso",
+        "Profession": "Interprète",
+        "InterventionNote": "Caetano Veloso"
+      },
+      "ScheduledDateTime": "2017-02-20T17:01:40+01:00",
+      "composer": "http://data.doremus.org/artist/3dab1f8f-c04f-332a-bd97-dff18760ca2f"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:04:55:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Emmanuel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Emmanuel",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "4687062",
+      "ExternalID": "5099746870621-1-6",
+      "AlbumTitle": "Romances for saxophone",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099746870621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michel Colombier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Branford Marsalis",
+        "Profession": "Interprète",
+        "InterventionNote": "Branford Marsalis : Saxophone soprano",
+        "mop": "Saxophone soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Anglais",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur De L'Orchestre De Chambre Anglais",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andrew Litton",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:04:55+01:00",
+      "composer": "http://data.doremus.org/artist/e445e58f-a8af-33e2-a01e-02d01d068827"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:07:47:00",
+      "ScheduledDuration": "00:02:49:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "6 Albumblätter op 39 : Albumblatt op 39 n°1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "6 Albumblätter op 39 : Albumblatt op 39 n°1",
+      "Label": "MYRIOS",
+      "ReferenceLabel": "MYR014",
+      "ExternalID": "4260183510147-1-1",
+      "AlbumTitle": "Romance oubliée",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260183510147",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Sitt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Thomas Hoppe",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Hoppe : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T17:07:47+01:00",
+      "composer": "http://data.doremus.org/artist/b4845e14-a658-3461-8729-ad36fdbb8290"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:10:36:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pensée amoureuse - arrangement pour violoncelle et orchestre à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pensée amoureuse - arrangement pour violoncelle et orchestre à cordes",
+      "Label": "CPO",
+      "ReferenceLabel": "777 576-2",
+      "ExternalID": "0761203757626-1-7",
+      "AlbumTitle": "Victor Herbert : Oeuvres pour orchestre à cordes",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203757626",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Victor Herbert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sudwestdeutsches Kammerorchester",
+          "Profession": "Interprète",
+          "InterventionNote": "Sudwestdeutsches Kammerorchester"
+        },
+        {
+          "FullName": "Maximilian Hornung",
+          "Profession": "Interprète",
+          "InterventionNote": "Maximilian Hornung : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Sebastian Tewinkel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:10:36+01:00",
+      "composer": "http://data.doremus.org/artist/c4e5a684-b1a2-3208-b400-e5fdd3a83714"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:14:36:00",
+      "ScheduledDuration": "00:02:47:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10m3 (days of heaven)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10m3 (days of heaven)",
+      "Label": "FILM SCORE MONTHLY",
+      "ReferenceLabel": "FSM VOL.14 NO.12",
+      "ExternalID": "0638558031223-2-23",
+      "AlbumTitle": "B.O.F./Les moissons du ciel",
+      "Rank": 23,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0638558031223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:14:36+01:00",
+      "composer": "http://data.doremus.org/artist/3cec2023-12e2-3046-905b-74e97ab94e70"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:17:23:00",
+      "ScheduledDuration": "00:05:16:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "94335",
+      "ExternalID": "5028421943350-1-17",
+      "AlbumTitle": "Miguel Llobet : Intégrale de la musique pour guitare",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421943350",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Miguel Llobet",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Giulio Tampalini",
+        "Profession": "Interprète",
+        "InterventionNote": "Giulio Tampalini : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-02-20T17:17:23+01:00",
+      "composer": "http://data.doremus.org/artist/e94d985d-880a-35ba-9f12-bcc701d20e86"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:22:39:00",
+      "ScheduledDuration": "00:03:33:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Liebesleid",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Liebesleid",
+      "Label": "DECCA",
+      "ReferenceLabel": "4802797",
+      "ExternalID": "0028948027972-1-10",
+      "AlbumTitle": "Les Trilles Du Diable",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948027972",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fritz Kreisler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Les Trilles Du Diable",
+          "Profession": "Interprète",
+          "InterventionNote": "Les Trilles Du Diable"
+        },
+        {
+          "FullName": "Nemanja Radulovic",
+          "Profession": "Interprète",
+          "InterventionNote": "Nemanja Radulovic : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Guillaume Fontanarosa",
+          "Profession": "Interprète",
+          "InterventionNote": "Guillaume Fontanarosa : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Frederic Dessus",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederic Dessus : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Bertrand Causse",
+          "Profession": "Interprète",
+          "InterventionNote": "Bertrand Causse : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Anne Biragnet",
+          "Profession": "Interprète",
+          "InterventionNote": "Anne Biragnet : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Stanislas Kuchinski",
+          "Profession": "Interprète",
+          "InterventionNote": "Stanislas Kuchinski : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-02-20T17:22:39+01:00",
+      "composer": "http://data.doremus.org/artist/141b63e3-dc27-306e-8ec6-160a72fd7d98",
+      "best": "http://data.doremus.org/expression/4ca1c56b-c918-3633-b121-c917cc22878b",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:26:15:00",
+      "ScheduledDuration": "00:02:36:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Chanson d'amour d'Azerbaïdjian - version pour mezzo-soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Chanson d'amour d'Azerbaïdjian - version pour mezzo-soprano et orchestre",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SU 3264-2",
+      "ExternalID": "0099925326425-1-11",
+      "AlbumTitle": "Dagmar Peckova interprète Berio et Mahler",
+      "Rank": 11,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925326425",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Luciano Berio : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Dagmar Peckova",
+        "Profession": "Interprète",
+        "InterventionNote": "Dagmar Peckova : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Chambre De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jiri Belohlavek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:26:15+01:00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:28:51:00",
+      "ScheduledDuration": "00:08:50:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Ré Maj op 77 : Adagio - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Ré Maj op 77 : Adagio - pour violon et orchestre",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "4790086",
+      "ExternalID": "0028947900863-1-2",
+      "AlbumTitle": "Brahms : Concerto pour violon op 77 et Clara Schumann : 3 romances op 22",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947900863",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Lisa Batiashvili",
+          "Profession": "Interprète",
+          "InterventionNote": "Lisa Batiashvili : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Alice Sara Ott",
+          "Profession": "Interprète",
+          "InterventionNote": "Alice Sara Ott : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Staatskapelle De Dresde",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Christian Thielemann",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:28:51+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/4f9af4e4-2f75-342e-b58a-2c423c4a4905",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:37:41:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Love is blue - version pour guitare acoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Love is blue - version pour guitare acoustique",
+      "Label": "FRAME",
+      "ReferenceLabel": "CD FR9721-2",
+      "ExternalID": "8018159972125-2-5",
+      "AlbumTitle": "Leo Brouwer : Enregistrements publics des années 70",
+      "Rank": 5,
+      "NumVolume": 2,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8018159972125",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Pop",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Leo Brouwer",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Leo Brouwer : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Leo Brouwer",
+        "Profession": "Interprète",
+        "InterventionNote": "Leo Brouwer : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2017-02-20T17:37:41+01:00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:40:02:00",
+      "ScheduledDuration": "00:02:19:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'homme de Rio - Chant des pêcheurs (Serenata do mar)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'homme de Rio - Chant des pêcheurs (Serenata do mar)",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "531 877-0",
+      "ExternalID": "0600753187708-1-7",
+      "AlbumTitle": "BOF / Le Brésil au cinéma: Os bandeirantes",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0600753187708",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georges Delerue",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-02-20T17:40:02+01:00",
+      "composer": "http://data.doremus.org/artist/e21cde2f-2589-3744-93b4-67382915754d"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:42:25:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Solamente amore no. 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Solamente amore no. 2",
+      "Label": "LEGEND",
+      "ReferenceLabel": "CD 26",
+      "ExternalID": "8016811000261-1-21",
+      "AlbumTitle": "Musiques de films composées par Ennio Morricone",
+      "Rank": 21,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8016811000261",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Ennio Morricone",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:42:25+01:00",
+      "composer": "http://data.doremus.org/artist/3cec2023-12e2-3046-905b-74e97ab94e70"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:43:27:00",
+      "ScheduledDuration": "00:11:20:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite Part 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite Part 1",
+      "Label": "FIM SCORE MOVIES",
+      "ReferenceLabel": "FSM VOL .6 N11",
+      "ExternalID": "RF00000006792-1-1",
+      "AlbumTitle": "Bof/Appointment (the)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000006792",
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Michel Legrand",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:43:27+01:00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-02-20",
+      "ScheduledTime": "17:54:47:00",
+      "ScheduledDuration": "00:04:58:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite pastorale : Idylle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite pastorale : Idylle",
+      "Label": "ERATO",
+      "ReferenceLabel": "0190295953539/2",
+      "ExternalID": "RF00000056480-1-3",
+      "AlbumTitle": "Armin Jordan : The french symphonic recordings / CD 5",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000056480",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Emmanuel Chabrier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Armin Jordan",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-02-20T17:54:47+01:00",
+      "composer": "http://data.doremus.org/artist/3c178aab-26f9-359b-bcd3-36f5ff6e39e0",
+      "best": "http://data.doremus.org/expression/2ddd9a8c-25e5-3b6b-9a7a-692e2c5955ce",
+      "best_matching_score": "1.00"
+    }
+  ],
+  "total": 44,
+  "matched": 12
+}

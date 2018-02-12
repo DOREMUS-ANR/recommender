@@ -1,0 +1,3164 @@
+{
+  "id": "FM-407_20170911_00-23",
+  "channel": "407",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:00:03:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ouverture",
+      "Label": "EAST WEST",
+      "ReferenceLabel": "2564 60378 2",
+      "ExternalID": "0825646037827-1-1",
+      "AlbumTitle": "Bof / Bon voyage",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646037827",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Yared",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Rolf Wilson",
+          "Profession": "Interprète",
+          "InterventionNote": "Rolf Wilson : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sue Bohling",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Bohling : Cor anglais",
+          "mop": "Cor anglais"
+        },
+        {
+          "FullName": "Nicholas Bucknall",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicholas Bucknall : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Simon Chamberlain",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon Chamberlain : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Harry Rabinowitz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:00:03+02:00",
+      "composer": "http://data.doremus.org/artist/91241c0b-2878-3b5d-8a6d-36289c12f287"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:03:03:00",
+      "ScheduledDuration": "00:02:26:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Defiance main titles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Defiance main titles",
+      "Label": "SONY CLASSICS",
+      "ReferenceLabel": "88697-38523-2",
+      "ExternalID": "0886973852323-1-1",
+      "AlbumTitle": "B.O.F /Les insurges",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886973852323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "James Newton Howard",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Joshua Bell",
+        "Profession": "Interprète",
+        "InterventionNote": "Joshua Bell : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-09-11T03:03:03+02:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:05:29:00",
+      "ScheduledDuration": "00:01:43:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Invincible : Solitary",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Invincible : Solitary",
+      "Label": "PARLOPHONE",
+      "ReferenceLabel": "825646173341",
+      "ExternalID": "0825646173341-1-9",
+      "AlbumTitle": "BOF / Invincible (Unbroken)",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646173341",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "The London Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "The London Voices",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:05:29+02:00",
+      "composer": "http://data.doremus.org/artist/4cdc649d-dd29-35ff-8994-74f621fb7830"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:07:12:00",
+      "ScheduledDuration": "00:01:04:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ride, ride, ride (celliers' brother's song)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ride, ride, ride (celliers' brother's song)",
+      "Label": "VIRGIN",
+      "ReferenceLabel": "CDV 2276",
+      "ExternalID": "5012981227623-1-8",
+      "AlbumTitle": "BOF / Furyo",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5012981227623",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ryuichi Sakamoto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ryuichi Sakamoto",
+          "Profession": "Interprète",
+          "InterventionNote": "Ryuichi Sakamoto : Synthétiseur",
+          "mop": "Synthétiseur"
+        },
+        {
+          "FullName": "David Sylvian",
+          "Profession": "Interprète",
+          "InterventionNote": "David Sylvian"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-11T03:07:12+02:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:08:16:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Merry Christmas Mr. Lawrence (Furyo) : Batavia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Merry Christmas Mr. Lawrence (Furyo) : Batavia",
+      "Label": "MILAN",
+      "ReferenceLabel": "3998552",
+      "ExternalID": "3299039985526-1-2",
+      "AlbumTitle": "BOF / Merry Christmas Mr. Lawrence (Furyo)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1983-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039985526",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ryuichi Sakamoto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:08:16+02:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:09:34:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Invincible : Albatross",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Invincible : Albatross",
+      "Label": "PARLOPHONE",
+      "ReferenceLabel": "825646173341",
+      "ExternalID": "0825646173341-1-7",
+      "AlbumTitle": "BOF / Invincible (Unbroken)",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646173341",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "The London Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "The London Voices",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:09:34+02:00",
+      "composer": "http://data.doremus.org/artist/4cdc649d-dd29-35ff-8994-74f621fb7830"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:10:36:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Father Christmas",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Father Christmas",
+      "Label": "VIRGIN",
+      "ReferenceLabel": "CDV 2276",
+      "ExternalID": "5012981227623-1-10",
+      "AlbumTitle": "BOF / Furyo",
+      "Rank": 10,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5012981227623",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ryuichi Sakamoto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ryuichi Sakamoto",
+          "Profession": "Interprète",
+          "InterventionNote": "Ryuichi Sakamoto : Synthétiseur",
+          "mop": "Synthétiseur"
+        },
+        {
+          "FullName": "David Sylvian",
+          "Profession": "Interprète",
+          "InterventionNote": "David Sylvian"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-11T03:10:36+02:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:12:44:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Merry Christmas Mr. Lawrence (Furyo) : Germination",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Merry Christmas Mr. Lawrence (Furyo) : Germination",
+      "Label": "MILAN",
+      "ReferenceLabel": "3998552",
+      "ExternalID": "3299039985526-1-3",
+      "AlbumTitle": "BOF / Merry Christmas Mr. Lawrence (Furyo)",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1983-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039985526",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ryuichi Sakamoto",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:12:44+02:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:14:32:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'ascension (film) : En traineau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'ascension (film) : En traineau",
+      "Label": "CAPRICCIO",
+      "ReferenceLabel": "71 061",
+      "ExternalID": "4006408710615-1-15",
+      "AlbumTitle": "Alfred Schnittke : Musiques de film vol 2",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4006408710615",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alfred Schnittke",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Strobel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:14:32+02:00",
+      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:19:04:00",
+      "ScheduledDuration": "00:03:06:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Your wife",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Your wife",
+      "Label": "SONY CLASSICS",
+      "ReferenceLabel": "88697-38523-2",
+      "ExternalID": "0886973852323-1-4",
+      "AlbumTitle": "B.O.F /Les insurges",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886973852323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "James Newton Howard",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Joshua Bell",
+        "Profession": "Interprète",
+        "InterventionNote": "Joshua Bell : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-09-11T03:19:04+02:00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:22:13:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Is Paris burning ? Paris brûle t'il ? : The Paris waltz",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Is Paris burning ? Paris brûle t'il ? : The Paris waltz",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "275 336 4",
+      "ExternalID": "0602527533643-2-1",
+      "AlbumTitle": "Musique de Film / Le Cinema de Maurice Jarre",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602527533643",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Jarre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:22:13+02:00",
+      "composer": "http://data.doremus.org/artist/07b95eb8-5854-3f2e-95db-ec6321f16ec6"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:24:53:00",
+      "ScheduledDuration": "00:08:43:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Casablanca",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Casablanca",
+      "Label": "RCA",
+      "ReferenceLabel": "GD 80422",
+      "ExternalID": "0035628042224-1-1",
+      "AlbumTitle": "Bof : Casablanca",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1974-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0035628042224",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "National Philharmonic Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Charles Gerhardt",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:24:53+02:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:33:36:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Escaping the ghetto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Escaping the ghetto",
+      "Label": "SONY CLASSICS",
+      "ReferenceLabel": "88697-38523-2",
+      "ExternalID": "0886973852323-1-11",
+      "AlbumTitle": "B.O.F /Les insurges",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886973852323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "James Newton Howard",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Joshua Bell",
+        "Profession": "Interprète",
+        "InterventionNote": "Joshua Bell : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-09-11T03:33:36+02:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:35:10:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Korczak : Berceuse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Korczak : Berceuse",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD CH 307",
+      "ExternalID": "3299031030729-1-4",
+      "AlbumTitle": "Bof / Korczak",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299031030729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wojciech Kilar",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:35:10+02:00",
+      "composer": "http://data.doremus.org/artist/a4ce7d04-c8de-383d-bdcd-894a12c188c7"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:36:23:00",
+      "ScheduledDuration": "00:00:27:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Korczak : Auréole",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Korczak : Auréole",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD CH 307",
+      "ExternalID": "3299031030729-1-5",
+      "AlbumTitle": "Bof / Korczak",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299031030729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wojciech Kilar",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:36:23+02:00",
+      "composer": "http://data.doremus.org/artist/a4ce7d04-c8de-383d-bdcd-894a12c188c7"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:36:50:00",
+      "ScheduledDuration": "00:01:47:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Korczak : Intermezzo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Korczak : Intermezzo",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD CH 307",
+      "ExternalID": "3299031030729-1-10",
+      "AlbumTitle": "Bof / Korczak",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299031030729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wojciech Kilar",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:36:50+02:00",
+      "composer": "http://data.doremus.org/artist/a4ce7d04-c8de-383d-bdcd-894a12c188c7"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:38:37:00",
+      "ScheduledDuration": "00:02:03:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le jour le plus long : Harmonica Solo (Thème)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le jour le plus long : Harmonica Solo (Thème)",
+      "Label": "MILAN",
+      "ReferenceLabel": "399485-2",
+      "ExternalID": "3299039948521-1-6",
+      "AlbumTitle": "BOF / Le jour le plus long",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039948521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Paul Anka",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:38:37+02:00",
+      "composer": "http://data.doremus.org/artist/5b009ef6-0a1f-3739-ac98-1c26a2c2dfc1",
+      "best": "http://data.doremus.org/expression/0ca123a3-ab64-300c-9ea5-42e57f9e852a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:40:40:00",
+      "ScheduledDuration": "00:04:45:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le jour le plus long",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le jour le plus long",
+      "Label": "FGL",
+      "ReferenceLabel": "5709642",
+      "ExternalID": "0724357096423-2-15",
+      "AlbumTitle": "Le bal de la liberation",
+      "Rank": 15,
+      "NumVolume": 2,
+      "LibMusicalKind": "Variété francophone",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724357096423",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "The City Of Prague Philharmonic",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:40:40+02:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:45:25:00",
+      "ScheduledDuration": "00:04:05:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shear's escape",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shear's escape",
+      "Label": "SONY",
+      "ReferenceLabel": "SRCS 7072",
+      "ExternalID": "0498800970722-1-3",
+      "AlbumTitle": "B.O.F./ Pont de la riviere kwai",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0498800970722",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Malcom",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:45:25+02:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:49:30:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "War on the silver screen : The guns of navarone (les canons de navarone)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "War on the silver screen : The guns of navarone (les canons de navarone)",
+      "Label": "READER'S DIGEST MUSIC",
+      "ExternalID": "5400100004567-1-2",
+      "AlbumTitle": "BOF / War on the silver screen",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5400100004567",
+      "Interpreter": {
+        "FullName": "Patrick Halling",
+        "Profession": "Interprète",
+        "InterventionNote": "Patrick Halling"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "London Festival Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:49:30+02:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:52:18:00",
+      "ScheduledDuration": "00:03:48:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Medley: Paris Montage",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Medley: Paris Montage",
+      "Label": "TURNER CLASSIC MOVIES MUSIC",
+      "ReferenceLabel": "R2 72911",
+      "ExternalID": "0081227291129-1-8",
+      "AlbumTitle": "Bof / Casablanca",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0081227291129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Max Steiner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Divers",
+        "Profession": "Interprète",
+        "InterventionNote": "Divers"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Des Studios De La Warner",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T03:52:18+02:00",
+      "composer": "http://data.doremus.org/artist/6748658f-a2d6-3a5d-b6d3-4f9d90185906"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "03:56:09:00",
+      "ScheduledDuration": "00:08:37:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Trek to the bridge",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Trek to the bridge",
+      "Label": "SONY",
+      "ReferenceLabel": "SRCS 7072",
+      "ExternalID": "0498800970722-1-7",
+      "AlbumTitle": "B.O.F./ Pont de la riviere kwai",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0498800970722",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arnold Malcom",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T03:56:09+02:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:04:46:00",
+      "ScheduledDuration": "00:03:55:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "War on the silver screen : The cruel sea",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "War on the silver screen : The cruel sea",
+      "Label": "READER'S DIGEST MUSIC",
+      "ExternalID": "5400100004567-1-1",
+      "AlbumTitle": "BOF / War on the silver screen",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5400100004567",
+      "Interpreter": {
+        "FullName": "Patrick Halling",
+        "Profession": "Interprète",
+        "InterventionNote": "Patrick Halling"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "London Festival Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:04:46+02:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:08:41:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bateau : Retour au pays",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bateau : Retour au pays",
+      "Label": "WEA INTERNATIONAL",
+      "ReferenceLabel": "58 366",
+      "ExternalID": "RF00000061377-1-10",
+      "AlbumTitle": "BOF / Le bateau (Das boot)",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1981-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061377",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Doldinger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Klaus Doldinger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:08:41+02:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:11:13:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bateau : Gibraltar",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bateau : Gibraltar",
+      "Label": "WEA INTERNATIONAL",
+      "ReferenceLabel": "58 366",
+      "ExternalID": "RF00000061377-1-14",
+      "AlbumTitle": "BOF / Le bateau (Das boot)",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1981-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061377",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Doldinger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Klaus Doldinger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:11:13+02:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:14:12:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le bateau : Fin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le bateau : Fin",
+      "Label": "WEA INTERNATIONAL",
+      "ReferenceLabel": "58 366",
+      "ExternalID": "RF00000061377-1-19",
+      "AlbumTitle": "BOF / Le bateau (Das boot)",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "1981-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061377",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Klaus Doldinger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Klaus Doldinger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:14:12+02:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:17:38:00",
+      "ScheduledDuration": "00:03:39:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tennessee",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tennessee",
+      "Label": "HOLLYWOOD RECORDS",
+      "ReferenceLabel": "948113-2",
+      "ExternalID": "0093624811329-1-2",
+      "AlbumTitle": "BOF / Pearl Harbor",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093624811329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zimmer",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T04:17:38+02:00",
+      "composer": "http://data.doremus.org/artist/24dd1f5e-591c-303c-ad66-3e2da62632ce"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:21:21:00",
+      "ScheduledDuration": "00:02:40:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Invincible : Mac's death",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Invincible : Mac's death",
+      "Label": "PARLOPHONE",
+      "ReferenceLabel": "825646173341",
+      "ExternalID": "0825646173341-1-8",
+      "AlbumTitle": "BOF / Invincible (Unbroken)",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646173341",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "The London Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "The London Voices",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:21:21+02:00",
+      "composer": "http://data.doremus.org/artist/4cdc649d-dd29-35ff-8994-74f621fb7830"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:24:01:00",
+      "ScheduledDuration": "00:01:19:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Invincible : Drive to radio Tokyo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Invincible : Drive to radio Tokyo",
+      "Label": "PARLOPHONE",
+      "ReferenceLabel": "825646173341",
+      "ExternalID": "0825646173341-1-11",
+      "AlbumTitle": "BOF / Invincible (Unbroken)",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646173341",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "The London Symphony Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "The London Voices",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Alexandre Desplat",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:24:01+02:00",
+      "composer": "http://data.doremus.org/artist/4cdc649d-dd29-35ff-8994-74f621fb7830"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:25:20:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Korczak : Sortie du port",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Korczak : Sortie du port",
+      "Label": "MILAN",
+      "ReferenceLabel": "CD CH 307",
+      "ExternalID": "3299031030729-1-17",
+      "AlbumTitle": "Bof / Korczak",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299031030729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wojciech Kilar",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T04:25:20+02:00",
+      "composer": "http://data.doremus.org/artist/a4ce7d04-c8de-383d-bdcd-894a12c188c7"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:28:27:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ya Dzayer",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ya Dzayer",
+      "Label": "AZ",
+      "ReferenceLabel": "984188-1",
+      "ExternalID": "0602498418819-1-1",
+      "AlbumTitle": "Bof / Indigenes",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498418819",
+      "Author": {
+        "FullName": "Ahmed Wahby",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Ahmed Wahby : Auteur"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Khaled",
+        "Profession": "Interprète",
+        "InterventionNote": "Khaled"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:28:27+02:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:30:19:00",
+      "ScheduledDuration": "00:01:33:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'Algerie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'Algerie",
+      "Label": "AZ",
+      "ReferenceLabel": "984188-1",
+      "ExternalID": "0602498418819-1-2",
+      "AlbumTitle": "Bof / Indigenes",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498418819",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Khaled",
+          "Profession": "Interprète",
+          "InterventionNote": "Khaled"
+        },
+        {
+          "FullName": "Amar Armand",
+          "Profession": "Interprète",
+          "InterventionNote": "Amar Armand"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:30:19+02:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:31:52:00",
+      "ScheduledDuration": "00:04:06:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Revisiting Normandy",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Revisiting Normandy",
+      "Label": "DREAMWORKS RECORDS",
+      "ReferenceLabel": "DRMD-50046",
+      "ExternalID": "0600445004627-1-2",
+      "AlbumTitle": "Bof / Il faut sauver le soldat ryan",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0600445004627",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Membres De L'Orchestre Symphonique De Boston",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Du Tanglewood Festival",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-09-11T04:31:52+02:00",
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:35:58:00",
+      "ScheduledDuration": "00:04:30:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ya Dzayer",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ya Dzayer",
+      "Label": "AZ",
+      "ReferenceLabel": "984188-1",
+      "ExternalID": "0602498418819-1-8",
+      "AlbumTitle": "Bof / Indigenes",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498418819",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Khaled",
+        "Profession": "Interprète",
+        "InterventionNote": "Khaled"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Bulgare",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T04:35:58+02:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:40:28:00",
+      "ScheduledDuration": "00:04:19:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "They'll remember you",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "They'll remember you",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 937 2",
+      "ExternalID": "0030206693720-1-1",
+      "AlbumTitle": "Bof / Walkyrie",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206693720",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Ottman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T04:40:28+02:00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:44:47:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Midnight waltz",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Midnight waltz",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 937 2",
+      "ExternalID": "0030206693720-1-6",
+      "AlbumTitle": "Bof / Walkyrie",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206693720",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Ottman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T04:44:47+02:00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:46:57:00",
+      "ScheduledDuration": "00:02:36:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The officer's club",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The officer's club",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "302 066 937 2",
+      "ExternalID": "0030206693720-1-10",
+      "AlbumTitle": "Bof / Walkyrie",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0030206693720",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Ottman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T04:46:57+02:00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:49:37:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The green leaves of summer",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The green leaves of summer",
+      "Label": "WARNER BROS",
+      "ReferenceLabel": "9362-49744-4",
+      "ExternalID": "0093624974444-1-1",
+      "AlbumTitle": "BOF / Inglourious basterds",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093624974444",
+      "Compositor": [
+        {
+          "FullName": "Dimitri Tiomkin",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Paul Francis Webster",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Nick Perito",
+        "Profession": "Interprète",
+        "InterventionNote": "Nick Perito"
+      },
+      "ScheduledDateTime": "2017-09-11T04:49:37+02:00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:51:32:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Main theme from dark of the sun",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Main theme from dark of the sun",
+      "Label": "WARNER BROS",
+      "ReferenceLabel": "9362-49744-4",
+      "ExternalID": "0093624974444-1-10",
+      "AlbumTitle": "BOF / Inglourious basterds",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093624974444",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jacques Loussier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Jacques Loussier",
+        "Profession": "Interprète",
+        "InterventionNote": "Jacques Loussier"
+      },
+      "ScheduledDateTime": "2017-09-11T04:51:32+02:00",
+      "composer": "http://data.doremus.org/artist/2e6cdfc3-4cef-36a7-aa01-ebd29da49b57"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:54:43:00",
+      "ScheduledDuration": "00:03:51:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Motele fun varshe ver geto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Motele fun varshe ver geto",
+      "Label": "ODEON",
+      "ReferenceLabel": "8213392",
+      "ExternalID": "0724382133926-1-7",
+      "AlbumTitle": "Bof / K",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724382133926",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Jacques Grober",
+        "Profession": "Interprète",
+        "InterventionNote": "Jacques Grober"
+      },
+      "ScheduledDateTime": "2017-09-11T04:54:43+02:00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "04:58:34:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Kaddich",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Kaddich",
+      "Label": "ODEON",
+      "ReferenceLabel": "8213392",
+      "ExternalID": "0724382133926-1-6",
+      "AlbumTitle": "Bof / K",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724382133926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Sarde",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T04:58:34+02:00",
+      "composer": "http://data.doremus.org/artist/888f9a48-636d-341d-bf04-a60daec65437"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:00:45:00",
+      "ScheduledDuration": "00:02:55:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "End titles part 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "End titles part 1",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 075-2",
+      "ExternalID": "3299039907528-1-13",
+      "AlbumTitle": "Bof/Lettres d' iwo jima/Eastwood/Eastwood : Stevens",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039907528",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Kyle Eastwood",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Michael Stevens",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-11T05:00:45+02:00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:03:40:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nearing the end",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nearing the end",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 075-2",
+      "ExternalID": "3299039907528-1-9",
+      "AlbumTitle": "Bof/Lettres d' iwo jima/Eastwood/Eastwood : Stevens",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039907528",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Kyle Eastwood",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Michael Stevens",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-11T05:03:40+02:00"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:05:51:00",
+      "ScheduledDuration": "00:04:15:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fury : April, 1945",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fury : April, 1945",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "VSD-7308",
+      "ExternalID": "4005939730826-1-1",
+      "AlbumTitle": "BOF / Fury",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4005939730826",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steven Price",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Philip Collin",
+          "Profession": "Interprète",
+          "InterventionNote": "Philip Collin : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marion Morris",
+          "Profession": "Interprète",
+          "InterventionNote": "Marion Morris : Harpe",
+          "mop": "Harpe"
+        },
+        {
+          "FullName": "Alasdair Malloy",
+          "Profession": "Interprète",
+          "InterventionNote": "Alasdair Malloy : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Will Schofield",
+          "Profession": "Interprète",
+          "InterventionNote": "Will Schofield : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "The Philarmonia Orchestra Of London",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:05:51+02:00"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:10:06:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fury : The war is not over",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fury : The war is not over",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "VSD-7308",
+      "ExternalID": "4005939730826-1-2",
+      "AlbumTitle": "BOF / Fury",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4005939730826",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steven Price",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Philip Collin",
+          "Profession": "Interprète",
+          "InterventionNote": "Philip Collin : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marion Morris",
+          "Profession": "Interprète",
+          "InterventionNote": "Marion Morris : Harpe",
+          "mop": "Harpe"
+        },
+        {
+          "FullName": "Alasdair Malloy",
+          "Profession": "Interprète",
+          "InterventionNote": "Alasdair Malloy : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Will Schofield",
+          "Profession": "Interprète",
+          "InterventionNote": "Will Schofield : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "The Philarmonia Orchestra Of London",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:10:06+02:00"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:11:54:00",
+      "ScheduledDuration": "00:03:59:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Un pont trop loin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Un pont trop loin",
+      "Label": "FGL",
+      "ReferenceLabel": "5709642",
+      "ExternalID": "0724357096423-2-18",
+      "AlbumTitle": "Le bal de la liberation",
+      "Rank": 18,
+      "NumVolume": 2,
+      "LibMusicalKind": "Variété francophone",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724357096423",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "The City Of Prague Philharmonic",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:11:54+02:00"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:15:53:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ich wollt ich waer ein huhn",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ich wollt ich waer ein huhn",
+      "Label": "WARNER BROS",
+      "ReferenceLabel": "9362-49744-4",
+      "ExternalID": "0093624974444-1-9",
+      "AlbumTitle": "BOF / Inglourious basterds",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093624974444",
+      "Compositor": [
+        {
+          "FullName": "Hans Fritz Beckmann",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Peter Kreuder",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Lilian Harvey",
+          "Profession": "Interprète",
+          "InterventionNote": "Lilian Harvey"
+        },
+        {
+          "FullName": "Willy Fritsch",
+          "Profession": "Interprète",
+          "InterventionNote": "Willy Fritsch"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-11T05:15:53+02:00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:18:42:00",
+      "ScheduledDuration": "00:01:40:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The lull before the storm",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The lull before the storm",
+      "Label": "RYKO",
+      "ReferenceLabel": "RCD 10747",
+      "ExternalID": "0014431074721-1-3",
+      "AlbumTitle": "B.O.F / La bataille d'angleterre",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0014431074721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ron Goodwin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:18:42+02:00"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:20:22:00",
+      "ScheduledDuration": "00:01:26:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Death and destruction",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Death and destruction",
+      "Label": "RYKO",
+      "ReferenceLabel": "RCD 10747",
+      "ExternalID": "0014431074721-1-5",
+      "AlbumTitle": "B.O.F / La bataille d'angleterre",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0014431074721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ron Goodwin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:20:22+02:00"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:21:48:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Battle of Britain theme - End title",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Battle of Britain theme - End title",
+      "Label": "RYKO",
+      "ReferenceLabel": "RCD 10747",
+      "ExternalID": "0014431074721-1-19",
+      "AlbumTitle": "B.O.F / La bataille d'angleterre",
+      "Rank": 19,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0014431074721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ron Goodwin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:21:48+02:00"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:24:47:00",
+      "ScheduledDuration": "00:05:41:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Scramble / battle in the air",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Scramble / battle in the air",
+      "Label": "RYKO",
+      "ReferenceLabel": "RCD 10747",
+      "ExternalID": "0014431074721-1-27",
+      "AlbumTitle": "B.O.F / La bataille d'angleterre",
+      "Rank": 27,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0014431074721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "William Walton",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:24:47+02:00",
+      "composer": "http://data.doremus.org/artist/8e94bb94-19ee-3247-9795-b956f2244b9e"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:30:28:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sam",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sam",
+      "Label": "ODEON",
+      "ReferenceLabel": "8213392",
+      "ExternalID": "0724382133926-1-1",
+      "AlbumTitle": "Bof / K",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724382133926",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philippe Sarde",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:30:28+02:00",
+      "composer": "http://data.doremus.org/artist/888f9a48-636d-341d-bf04-a60daec65437"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:33:13:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Amores de estudiante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Amores de estudiante",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 186-2",
+      "ExternalID": "3299039918623-1-2",
+      "AlbumTitle": "B.O.F. / Les faussaires",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039918623",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marius Ruhland",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:33:13+02:00"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:35:55:00",
+      "ScheduledDuration": "00:03:17:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dinner party",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dinner party",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 075-2",
+      "ExternalID": "3299039907528-1-8",
+      "AlbumTitle": "Bof/Lettres d' iwo jima/Eastwood/Eastwood : Stevens",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039907528",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Kyle Eastwood",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Michael Stevens",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-11T05:35:55+02:00"
+    },
+    {
+      "id": "62",
+      "StepID": "62",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:39:12:00",
+      "ScheduledDuration": "00:03:50:00",
+      "NumPhase": 61,
+      "Inclusion": 0,
+      "NumEventCond": 62,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mano a mano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mano a mano",
+      "Label": "MILAN",
+      "ReferenceLabel": "399 186-2",
+      "ExternalID": "3299039918623-1-1",
+      "AlbumTitle": "B.O.F. / Les faussaires",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3299039918623",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marius Ruhland",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-09-11T05:39:12+02:00"
+    },
+    {
+      "id": "63",
+      "StepID": "63",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:43:02:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 62,
+      "Inclusion": 0,
+      "NumEventCond": 63,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fury : Refugees",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fury : Refugees",
+      "Label": "VARESE SARABANDE",
+      "ReferenceLabel": "VSD-7308",
+      "ExternalID": "4005939730826-1-4",
+      "AlbumTitle": "BOF / Fury",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4005939730826",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steven Price",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Philip Collin",
+          "Profession": "Interprète",
+          "InterventionNote": "Philip Collin : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marion Morris",
+          "Profession": "Interprète",
+          "InterventionNote": "Marion Morris : Harpe",
+          "mop": "Harpe"
+        },
+        {
+          "FullName": "Alasdair Malloy",
+          "Profession": "Interprète",
+          "InterventionNote": "Alasdair Malloy : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Will Schofield",
+          "Profession": "Interprète",
+          "InterventionNote": "Will Schofield : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "The Philarmonia Orchestra Of London",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:43:02+02:00"
+    },
+    {
+      "id": "64",
+      "StepID": "64",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:45:44:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 63,
+      "Inclusion": 0,
+      "NumEventCond": 64,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Empire du soleil : Cadillac of the skies",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Empire du soleil : Cadillac of the skies",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985374582",
+      "ExternalID": "0889853745821-1-11",
+      "AlbumTitle": "John Williams et Steven Spielberg : The ultimate collection",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853745821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Boston Pops Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "American Boychoir",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Choeur Du Festival De Tanglewood",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:45:44+02:00",
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+    },
+    {
+      "id": "65",
+      "StepID": "65",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:50:43:00",
+      "ScheduledDuration": "00:03:46:00",
+      "NumPhase": 64,
+      "Inclusion": 0,
+      "NumEventCond": 65,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Empire du soleil : Jim's new life",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Empire du soleil : Jim's new life",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88985374582",
+      "ExternalID": "0889853745821-2-9",
+      "AlbumTitle": "John Williams et Steven Spielberg : The ultimate collection",
+      "Rank": 9,
+      "NumVolume": 2,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0889853745821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Boston Pops Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "John Williams",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:50:43+02:00",
+      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+    },
+    {
+      "id": "67",
+      "StepID": "67",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:54:32:00",
+      "ScheduledDuration": "00:01:45:00",
+      "NumPhase": 66,
+      "Inclusion": 0,
+      "NumEventCond": 67,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Briony",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Briony",
+      "Label": "UNIVERSAL MUSIC",
+      "ReferenceLabel": "4766195",
+      "ExternalID": "0028947661955-1-1",
+      "AlbumTitle": "B.O.F./ Atonement",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947661955",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dario Marianelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Yves Thibaudet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Yves Thibaudet : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Anglais",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Benjamin Wallfisch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:54:32+02:00"
+    },
+    {
+      "id": "68",
+      "StepID": "68",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:56:17:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 67,
+      "Inclusion": 0,
+      "NumEventCond": 68,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rescue me",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rescue me",
+      "Label": "UNIVERSAL MUSIC",
+      "ReferenceLabel": "4766195",
+      "ExternalID": "0028947661955-1-9",
+      "AlbumTitle": "B.O.F./ Atonement",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947661955",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dario Marianelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Yves Thibaudet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Yves Thibaudet : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre Anglais",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Benjamin Wallfisch",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:56:17+02:00"
+    },
+    {
+      "id": "69",
+      "StepID": "69",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "05:59:37:00",
+      "ScheduledDuration": "00:02:19:00",
+      "NumPhase": 68,
+      "Inclusion": 0,
+      "NumEventCond": 69,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Route dangereuse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Route dangereuse",
+      "Label": "EAST WEST",
+      "ReferenceLabel": "2564 60378 2",
+      "ExternalID": "0825646037827-1-13",
+      "AlbumTitle": "Bof / Bon voyage",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646037827",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Yared",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Rolf Wilson",
+          "Profession": "Interprète",
+          "InterventionNote": "Rolf Wilson : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sue Bohling",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Bohling : Cor anglais",
+          "mop": "Cor anglais"
+        },
+        {
+          "FullName": "Nicholas Bucknall",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicholas Bucknall : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Simon Chamberlain",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon Chamberlain : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Harry Rabinowitz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T05:59:37+02:00",
+      "composer": "http://data.doremus.org/artist/91241c0b-2878-3b5d-8a6d-36289c12f287"
+    },
+    {
+      "id": "70",
+      "StepID": "70",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "06:01:56:00",
+      "ScheduledDuration": "00:01:38:00",
+      "NumPhase": 69,
+      "Inclusion": 0,
+      "NumEventCond": 70,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les indomptables de colditz : Finale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les indomptables de colditz : Finale",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10323",
+      "ExternalID": "0095115132326-1-4",
+      "AlbumTitle": "Francis Chagrin : Musique de films",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115132326",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Chagrin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Yuri Torchinsky",
+        "Profession": "Interprète",
+        "InterventionNote": "Yuri Torchinsky : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rumon Gamba",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T06:01:56+02:00"
+    },
+    {
+      "id": "71",
+      "StepID": "71",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "06:03:34:00",
+      "ScheduledDuration": "00:02:53:00",
+      "NumPhase": 70,
+      "Inclusion": 0,
+      "NumEventCond": 71,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bon voyage",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bon voyage",
+      "Label": "EAST WEST",
+      "ReferenceLabel": "2564 60378 2",
+      "ExternalID": "0825646037827-1-17",
+      "AlbumTitle": "Bof / Bon voyage",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646037827",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Yared",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Rolf Wilson",
+          "Profession": "Interprète",
+          "InterventionNote": "Rolf Wilson : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sue Bohling",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Bohling : Cor anglais",
+          "mop": "Cor anglais"
+        },
+        {
+          "FullName": "Nicholas Bucknall",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicholas Bucknall : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Simon Chamberlain",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon Chamberlain : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Harry Rabinowitz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T06:03:34+02:00",
+      "composer": "http://data.doremus.org/artist/91241c0b-2878-3b5d-8a6d-36289c12f287"
+    },
+    {
+      "id": "72",
+      "StepID": "72",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "06:06:27:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 71,
+      "Inclusion": 0,
+      "NumEventCond": 72,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les indomptables de colditz : Prelude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les indomptables de colditz : Prelude",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10323",
+      "ExternalID": "0095115132326-1-3",
+      "AlbumTitle": "Francis Chagrin : Musique de films",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115132326",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Chagrin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Yuri Torchinsky",
+        "Profession": "Interprète",
+        "InterventionNote": "Yuri Torchinsky : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rumon Gamba",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T06:06:27+02:00"
+    },
+    {
+      "id": "73",
+      "StepID": "73",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-11",
+      "ScheduledTime": "06:08:28:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 72,
+      "Inclusion": 0,
+      "NumEventCond": 73,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Romance Viviane",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Romance Viviane",
+      "Label": "EAST WEST",
+      "ReferenceLabel": "2564 60378 2",
+      "ExternalID": "0825646037827-1-3",
+      "AlbumTitle": "Bof / Bon voyage",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique de film",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0825646037827",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Yared",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Rolf Wilson",
+          "Profession": "Interprète",
+          "InterventionNote": "Rolf Wilson : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sue Bohling",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Bohling : Cor anglais",
+          "mop": "Cor anglais"
+        },
+        {
+          "FullName": "Nicholas Bucknall",
+          "Profession": "Interprète",
+          "InterventionNote": "Nicholas Bucknall : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Simon Chamberlain",
+          "Profession": "Interprète",
+          "InterventionNote": "Simon Chamberlain : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Divers",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Harry Rabinowitz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-11T06:08:28+02:00",
+      "composer": "http://data.doremus.org/artist/91241c0b-2878-3b5d-8a6d-36289c12f287"
+    }
+  ],
+  "total": 65,
+  "matched": 1
+}

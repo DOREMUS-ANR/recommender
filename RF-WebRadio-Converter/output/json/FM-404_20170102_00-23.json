@@ -1,0 +1,1187 @@
+{
+  "id": "FM-404_20170102_00-23",
+  "channel": "404",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:00:37:00",
+      "ScheduledDuration": "00:06:04:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Makam nikris 1/1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Makam nikris 1/1",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560042",
+      "ExternalID": "3149025061294-1-13",
+      "AlbumTitle": "L'art du tanbur - Talip Özkan",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025061294",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Talip Ozkan",
+        "Profession": "Interprète",
+        "InterventionNote": "Talip Ozkan"
+      },
+      "ScheduledDateTime": "2017-01-02T00:00:37+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:06:44:00",
+      "ScheduledDuration": "00:10:48:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sâz-o Avâz Bayât Esfahân - poésie chantée du XIIIème siècle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sâz-o Avâz Bayât Esfahân - poésie chantée du XIIIème siècle",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560257",
+      "ExternalID": "3149028053128-1-14",
+      "AlbumTitle": "Iran : Mohammad Motamedi /Chant classique",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028053128",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Mohammad Motamedi",
+          "Profession": "Interprète",
+          "InterventionNote": "Mohammad Motamedi : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Sina Jahanabadi",
+          "Profession": "Interprète",
+          "InterventionNote": "Sina Jahanabadi : Kamanche (vièle)",
+          "mop": "Kamanche (vièle)"
+        },
+        {
+          "FullName": "Azad Mirzapour",
+          "Profession": "Interprète",
+          "InterventionNote": "Azad Mirzapour : Tar (luth)",
+          "mop": "Tar (luth)"
+        },
+        {
+          "FullName": "Ali Rahimi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ali Rahimi : Tombak (tambour gobelet)",
+          "mop": "Tombak (tambour gobelet)"
+        },
+        {
+          "FullName": "Hossein Rezayinia",
+          "Profession": "Interprète",
+          "InterventionNote": "Hossein Rezayinia : Daf (tambour)",
+          "mop": "Daf (tambour)"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T00:06:44+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:17:32:00",
+      "ScheduledDuration": "00:02:22:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tasnif del-e Sheydâ - poésie chantée du XIXème siècle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tasnif del-e Sheydâ - poésie chantée du XIXème siècle",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560257",
+      "ExternalID": "3149028053128-1-15",
+      "AlbumTitle": "Iran : Mohammad Motamedi /Chant classique",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028053128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ali Akbar Khan Sheyda",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Mohammad Motamedi",
+          "Profession": "Interprète",
+          "InterventionNote": "Mohammad Motamedi"
+        },
+        {
+          "FullName": "Sina Jahanabadi",
+          "Profession": "Interprète",
+          "InterventionNote": "Sina Jahanabadi : Kamanche (vièle)",
+          "mop": "Kamanche (vièle)"
+        },
+        {
+          "FullName": "Azad Mirzapour",
+          "Profession": "Interprète",
+          "InterventionNote": "Azad Mirzapour : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Ali Rahimi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ali Rahimi"
+        },
+        {
+          "FullName": "Hossein Rezayinia",
+          "Profession": "Interprète",
+          "InterventionNote": "Hossein Rezayinia : Daf (tambour)",
+          "mop": "Daf (tambour)"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T00:17:32+01:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:20:33:00",
+      "ScheduledDuration": "00:04:42:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chant gazal dans le quartier de Heera Mandi à Lahore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chant gazal dans le quartier de Heera Mandi à Lahore",
+      "Label": "ZARADOC FILMS",
+      "ReferenceLabel": "2",
+      "ExternalID": "RF00000025165-1-5",
+      "AlbumTitle": "Pakistan/Musique religieuse et musique soufi Vol .1",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000025165",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Non Identifie",
+        "Profession": "Interprète",
+        "InterventionNote": "Non Identifie : Voix, Harmonium, Percussions",
+        "mop": "Voix, Harmonium, Percussions"
+      },
+      "ScheduledDateTime": "2017-01-02T00:20:33+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:25:15:00",
+      "ScheduledDuration": "00:19:37:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Naghmeh-e Kashâl en Raga Beiru",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Naghmeh-e Kashâl en Raga Beiru",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560080",
+      "ExternalID": "0794881322220-1-5",
+      "AlbumTitle": "Afghanistan : Rubab et dutar",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881322220",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Divers",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-01-02T00:25:15+01:00",
+      "composer": "http://data.doremus.org/artist/61c8afe6-5918-3088-b975-806d2686858b"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:45:11:00",
+      "ScheduledDuration": "00:03:05:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nouba tab'zidane : Istikhbar (violon)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nouba tab'zidane : Istikhbar (violon)",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP 0814",
+      "ExternalID": "3760087530148-1-2",
+      "AlbumTitle": "Amel Brahim-Djelloul chante la Méditerranée / Souvenirs d'Al-Andalus",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530148",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ensemble Amedyez",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Amedyez"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Rachid Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Rachid Brahim-Djelloul : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:45:11+01:00",
+      "composer": "http://data.doremus.org/artist/40b17cee-05d3-3cdd-a00e-a7e9dc518b76"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:48:16:00",
+      "ScheduledDuration": "00:04:41:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nouba tab'zidane : Inquileb : Ya bad'i el-hosn . O sublime beauté",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nouba tab'zidane : Inquileb : Ya bad'i el-hosn . O sublime beauté",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP 0814",
+      "ExternalID": "3760087530148-1-3",
+      "AlbumTitle": "Amel Brahim-Djelloul chante la Méditerranée / Souvenirs d'Al-Andalus",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530148",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit Arabo-Andalou",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Amedyez",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Amedyez"
+        },
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Rachid Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Rachid Brahim-Djelloul : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Noureddine Aliane",
+          "Profession": "Interprète",
+          "InterventionNote": "Noureddine Aliane"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:48:16+01:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:52:57:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nouba tab'zidane : Inçiraf : Ya ghazal . O gazelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nouba tab'zidane : Inçiraf : Ya ghazal . O gazelle",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP 0814",
+      "ExternalID": "3760087530148-1-4",
+      "AlbumTitle": "Amel Brahim-Djelloul chante la Méditerranée / Souvenirs d'Al-Andalus",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530148",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit Arabo-Andalou",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Amedyez",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Amedyez"
+        },
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Rachid Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Rachid Brahim-Djelloul : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Noureddine Aliane",
+          "Profession": "Interprète",
+          "InterventionNote": "Noureddine Aliane"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:52:57+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:56:57:00",
+      "ScheduledDuration": "00:02:36:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nouba tab'zidane : Khlac : Ma teftaker ya ghazali . Te souviens-tu mon bien aimé",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nouba tab'zidane : Khlac : Ma teftaker ya ghazali . Te souviens-tu mon bien aimé",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP 0814",
+      "ExternalID": "3760087530148-1-5",
+      "AlbumTitle": "Amel Brahim-Djelloul chante la Méditerranée / Souvenirs d'Al-Andalus",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530148",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit Arabo-Andalou",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Amedyez",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Amedyez"
+        },
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Rachid Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Rachid Brahim-Djelloul : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Noureddine Aliane",
+          "Profession": "Interprète",
+          "InterventionNote": "Noureddine Aliane"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:56:57+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:59:33:00",
+      "ScheduledDuration": "00:02:08:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nouba tab'zidane : Maqam hijaz (instrumental) . Pièce de fermeture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nouba tab'zidane : Maqam hijaz (instrumental) . Pièce de fermeture",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP 0814",
+      "ExternalID": "3760087530148-1-6",
+      "AlbumTitle": "Amel Brahim-Djelloul chante la Méditerranée / Souvenirs d'Al-Andalus",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530148",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit Arabo-Andalou",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Amedyez",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Amedyez"
+        },
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Rachid Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Rachid Brahim-Djelloul : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Noureddine Aliane",
+          "Profession": "Interprète",
+          "InterventionNote": "Noureddine Aliane"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:59:33+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:01:41:00",
+      "ScheduledDuration": "00:01:25:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La nouba tab'zidane : Tab' sika : Istikhbar (ud)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La nouba tab'zidane : Tab' sika : Istikhbar (ud)",
+      "Label": "AME SON",
+      "ReferenceLabel": "ASCP 0814",
+      "ExternalID": "3760087530148-1-7",
+      "AlbumTitle": "Amel Brahim-Djelloul chante la Méditerranée / Souvenirs d'Al-Andalus",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760087530148",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nourreddine Aliane",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Amel Brahim-Djelloul",
+          "Profession": "Interprète",
+          "InterventionNote": "Amel Brahim-Djelloul : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ensemble Amedyez",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Amedyez"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Nourreddine Aliane",
+          "Profession": "Interprète",
+          "InterventionNote": "Nourreddine Aliane"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Rachid Brahim-Djelloul",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:01:41+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:03:09:00",
+      "ScheduledDuration": "00:10:30:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chelo ri sayyan chareha de khein (Viens mon amie contempler ce spectacle)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chelo ri sayyan chareha de khein (Viens mon amie contempler ce spectacle)",
+      "Label": "ACCORDS CROISES",
+      "ReferenceLabel": "AC 109",
+      "ExternalID": "0794881778829-1-4",
+      "AlbumTitle": "Ishq (L'amour absolu)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881778829",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Abida Parveen",
+        "Profession": "Interprète",
+        "InterventionNote": "Abida Parveen"
+      },
+      "ScheduledDateTime": "2017-01-02T01:03:09+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:14:10:00",
+      "ScheduledDuration": "00:28:49:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hamd",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hamd",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 5570100",
+      "ExternalID": "RF00000012262-1-1",
+      "AlbumTitle": "Pakistan/Khan Nusrat Fateh Ali/Concert à Paris Volume 1",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000012262",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Nusrat Fateh Ali Khan",
+          "Profession": "Interprète",
+          "InterventionNote": "Nusrat Fateh Ali Khan : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Ghulam Abbas Jaffri",
+          "Profession": "Interprète",
+          "InterventionNote": "Ghulam Abbas Jaffri : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Didar Hussain",
+          "Profession": "Interprète",
+          "InterventionNote": "Didar Hussain : Tabla (timbales)",
+          "mop": "Tabla (timbales)"
+        },
+        {
+          "FullName": "Rehmat Ali",
+          "Profession": "Interprète",
+          "InterventionNote": "Rehmat Ali : Harmonium",
+          "mop": "Harmonium"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Muhammad Iqbal Naqbi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:14:10+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:43:08:00",
+      "ScheduledDuration": "00:07:14:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Improvisation dans le style azeri",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Improvisation dans le style azeri",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 580047",
+      "ExternalID": "3149025059215-1-5",
+      "AlbumTitle": "Turquie/L'art vivant de Talip Ozkan",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025059215",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Talip Ozkan",
+        "Profession": "Interprète",
+        "InterventionNote": "Talip Ozkan"
+      },
+      "ScheduledDateTime": "2017-01-02T01:43:08+01:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:50:53:00",
+      "ScheduledDuration": "00:08:48:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bayati shiraz : daramad, bardasht, maye",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bayati shiraz : daramad, bardasht, maye",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560112",
+      "ExternalID": "0794881412129-1-1",
+      "AlbumTitle": "Azerbaidjan : L'art du mugham",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881412129",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Alim Qasimov",
+          "Profession": "Interprète",
+          "InterventionNote": "Alim Qasimov"
+        },
+        {
+          "FullName": "Malik Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Malik Mansurov : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Elshan Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Elshan Mansurov"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T01:50:53+01:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:59:41:00",
+      "ScheduledDuration": "00:10:06:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bayati shiraz : rang, bayati esfahan, rang, zil bayati shiraz,",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bayati shiraz : rang, bayati esfahan, rang, zil bayati shiraz,",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560112",
+      "ExternalID": "0794881412129-1-2",
+      "AlbumTitle": "Azerbaidjan : L'art du mugham",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881412129",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Alim Qasimov",
+          "Profession": "Interprète",
+          "InterventionNote": "Alim Qasimov"
+        },
+        {
+          "FullName": "Malik Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Malik Mansurov : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Elshan Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Elshan Mansurov"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T01:59:41+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:09:47:00",
+      "ScheduledDuration": "00:08:53:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bayati shiraz : rang, uzzal, zarbi uzzal",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bayati shiraz : rang, uzzal, zarbi uzzal",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560112",
+      "ExternalID": "0794881412129-1-3",
+      "AlbumTitle": "Azerbaidjan : L'art du mugham",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881412129",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Alim Qasimov",
+          "Profession": "Interprète",
+          "InterventionNote": "Alim Qasimov"
+        },
+        {
+          "FullName": "Malik Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Malik Mansurov : Luth",
+          "mop": "Luth"
+        },
+        {
+          "FullName": "Elshan Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Elshan Mansurov"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:09:47+01:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:19:20:00",
+      "ScheduledDuration": "00:15:43:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Silk road",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Silk road",
+      "Label": "ARCADIA",
+      "ReferenceLabel": "1996-2",
+      "ExternalID": "0726072199625-1-1",
+      "AlbumTitle": "Corée du Sud / New music/ Silk road",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0726072199625",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Byungki Hwang",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Byungki Hwang",
+          "Profession": "Interprète",
+          "InterventionNote": "Byungki Hwang"
+        },
+        {
+          "FullName": "Moonkyu Ahn",
+          "Profession": "Interprète",
+          "InterventionNote": "Moonkyu Ahn"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:19:20+01:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:35:06:00",
+      "ScheduledDuration": "00:06:04:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Avaz-e Dashti",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Avaz-e Dashti",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88697 52307 2/76",
+      "ExternalID": "RF00000026975-1-8",
+      "AlbumTitle": "Silk road journeys : When strangers meet",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000026975",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tradit Perse",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Yo-Yo Ma",
+          "Profession": "Interprète",
+          "InterventionNote": "Yo-Yo Ma : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Kayhan Kalhor",
+          "Profession": "Interprète",
+          "InterventionNote": "Kayhan Kalhor : Setar (luth)",
+          "mop": "Setar (luth)"
+        },
+        {
+          "FullName": "Siamak Jahangiry",
+          "Profession": "Interprète",
+          "InterventionNote": "Siamak Jahangiry : Nay (flûte)",
+          "mop": "Nay (flûte)"
+        },
+        {
+          "FullName": "Siamak Aghaei",
+          "Profession": "Interprète",
+          "InterventionNote": "Siamak Aghaei : Santur (cithare)",
+          "mop": "Santur (cithare)"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:35:06+01:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:41:44:00",
+      "ScheduledDuration": "00:08:37:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Dâstân-e zoleykhâ",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Dâstân-e zoleykhâ",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560136",
+      "ExternalID": "0794881449125-1-11",
+      "AlbumTitle": "Iran /Bardes du Khorassan",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881449125",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Sohrab Mohammedi",
+        "Profession": "Interprète",
+        "InterventionNote": "Sohrab Mohammedi"
+      },
+      "ScheduledDateTime": "2017-01-02T02:41:44+01:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:50:21:00",
+      "ScheduledDuration": "00:08:15:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Makam kürdili hicazkar 1/1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Makam kürdili hicazkar 1/1",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560042",
+      "ExternalID": "3149025061294-1-14",
+      "AlbumTitle": "L'art du tanbur - Talip Özkan",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025061294",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Talip Ozkan",
+        "Profession": "Interprète",
+        "InterventionNote": "Talip Ozkan"
+      },
+      "ScheduledDateTime": "2017-01-02T02:50:21+01:00"
+    }
+  ],
+  "total": 21,
+  "matched": 0
+}

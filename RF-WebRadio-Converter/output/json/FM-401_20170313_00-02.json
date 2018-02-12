@@ -1,0 +1,2520 @@
+{
+  "id": "FM-401_20170313_00-02",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:00:11:00",
+      "ScheduledDuration": "00:10:24:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie en sol min HOB I : 83 (La poule) : Allegro spirituoso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie en sol min HOB I : 83 (La poule) : Allegro spirituoso",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875021332",
+      "ExternalID": "0888750213327-2-1",
+      "AlbumTitle": "Joseph Haydn : Les symphonies parisiennes",
+      "Rank": 1,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888750213327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Zurich",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roger Norrington",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:00:11+01:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/01f1b5be-5c70-33ab-82a2-bb3399981ddc",
+      "best_matching_score": "0.72"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:10:35:00",
+      "ScheduledDuration": "00:06:33:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le coq d'or : Le Roi Dodon et la Reine Shemakha - Suite d'orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le coq d'or : Le Roi Dodon et la Reine Shemakha - Suite d'orchestre",
+      "Label": "MERCURY",
+      "ReferenceLabel": "434308-2",
+      "ExternalID": "0042243430824-1-8",
+      "AlbumTitle": "Antal Dorati dirige Rimsky-Korsakov et Borodine",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042243430824",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Antal Dorati",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:10:35+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:17:08:00",
+      "ScheduledDuration": "00:01:15:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Tableaux d'une exposition : Ballet des poussins dans leur coque",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Tableaux d'une exposition : Ballet des poussins dans leur coque",
+      "Label": "PHILIPS (PHPS)",
+      "ReferenceLabel": "416296-2",
+      "ExternalID": "0028941629623-1-9",
+      "AlbumTitle": "André Previn dirige Moussorgski et Ravel",
+      "Rank": 9,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941629623",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Modeste Moussorgski",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Maurice Ravel",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Andre Previn",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:17:08+01:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:18:23:00",
+      "ScheduledDuration": "00:00:42:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le carnaval des animaux : Poules et coqs",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le carnaval des animaux : Poules et coqs",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHSA5162",
+      "ExternalID": "0095115516225-1-7",
+      "AlbumTitle": "Camille Saint Saens : Concertos pour violoncelle n°1 et 2 et autres oeuvres",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115516225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Camille Saint Saens",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Louis Lortie",
+          "Profession": "Interprète",
+          "InterventionNote": "Louis Lortie : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Helene Mercier",
+          "Profession": "Interprète",
+          "InterventionNote": "Helene Mercier : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Alasdair Malloy",
+          "Profession": "Interprète",
+          "InterventionNote": "Alasdair Malloy : Harmonica de verres",
+          "mop": "Harmonica de verres"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bergen",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Neeme Jarvi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:18:23+01:00",
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
+      "best": "http://data.doremus.org/expression/6caa458f-291b-36b8-af8e-d665e3a05476",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:19:05:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les animaux modeles FP 111 suite pour orchestre d'apres Jean de la fontaine : Le petit jour",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les animaux modeles FP 111 suite pour orchestre d'apres Jean de la fontaine : Le petit jour",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "5668392",
+      "ExternalID": "RF00000006225-1-18",
+      "AlbumTitle": "Francis Poulenc : Concertos musique symphonique et religieuse / CD 2",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000006225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gabriel Tacchino",
+        "Profession": "Interprète",
+        "InterventionNote": "Gabriel Tacchino : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Societe Des Concerts Du Conservatoire",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:19:05+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:23:05:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les deux pigeons : Danse des deux pigeons (Acte I) - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les deux pigeons : Danse des deux pigeons (Acte I) - pour orchestre",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "6 48656 2",
+      "ExternalID": "5099964865621-2-3",
+      "AlbumTitle": "French Ballets / Offenbach Poulenc Messager et Meyerbeer : Musiques de ballets",
+      "Rank": 3,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099964865621",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Andre Messager",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Bournemouth",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Lanchbery",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:23:05+01:00",
+      "composer": "http://data.doremus.org/artist/754b3d18-3d0a-364b-b8b8-bbfd85b4d88a",
+      "best": "http://data.doremus.org/expression/1296568b-1b37-3077-b67c-81b4b7187fcc",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:27:00:00",
+      "ScheduledDuration": "00:03:09:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Forlane",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Forlane",
+      "Label": "FINELINE CLASSICAL",
+      "ExternalID": "RF00000032675-1-15",
+      "AlbumTitle": "Abbie de Quant : Hommage À Poulenc",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000032675",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Germaine Tailleferre",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Abbie De Quant",
+          "Profession": "Interprète",
+          "InterventionNote": "Abbie De Quant : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Elizabeth Van Malden",
+          "Profession": "Interprète",
+          "InterventionNote": "Elizabeth Van Malden : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T00:27:00+01:00",
+      "composer": "http://data.doremus.org/artist/9a8e0ccd-5e4e-359e-bbf0-d4e54d1ac12d"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:30:09:00",
+      "ScheduledDuration": "00:09:02:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie en sol min HOB I : 83 (La poule) : Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie en sol min HOB I : 83 (La poule) : Andante",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875021332",
+      "ExternalID": "0888750213327-2-2",
+      "AlbumTitle": "Joseph Haydn : Les symphonies parisiennes",
+      "Rank": 2,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888750213327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Zurich",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roger Norrington",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:30:09+01:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/01f1b5be-5c70-33ab-82a2-bb3399981ddc",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:39:11:00",
+      "ScheduledDuration": "00:02:58:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le coucou - arrangement pour flûte à bec et psalterion",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le coucou - arrangement pour flûte à bec et psalterion",
+      "Label": "DEUTSCHE HARMONIA MUNDI",
+      "ExternalID": "0886445410167-1-16",
+      "AlbumTitle": "Birds",
+      "Rank": 16,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886445410167",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Louis Claude Daquin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Stefan Temmingh",
+          "Profession": "Interprète",
+          "InterventionNote": "Stefan Temmingh : Flûte à bec",
+          "mop": "Flûte à bec"
+        },
+        {
+          "FullName": "Elisabeth Seitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Elisabeth Seitz : Psaltérion",
+          "mop": "Psaltérion"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T00:39:11+01:00",
+      "composer": "http://data.doremus.org/artist/bc34d2db-b9ac-32aa-be95-95a21ef9c297"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:42:09:00",
+      "ScheduledDuration": "00:03:27:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La légende du Tsar Saltan : Ti carevic moy spasitel (Acte IV) Air de l'Oiseau-cygne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La légende du Tsar Saltan : Ti carevic moy spasitel (Acte IV) Air de l'Oiseau-cygne",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "00289 477 6151",
+      "ExternalID": "0028947761518-1-4",
+      "AlbumTitle": "Anna Netrebko : Russian album",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947761518",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Anna Netrebko",
+        "Profession": "Interprète",
+        "InterventionNote": "Anna Netrebko : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Theatre De Mariinsky",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Valery Gergiev",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:42:09+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:45:41:00",
+      "ScheduledDuration": "00:05:21:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le pigeon des bois op 110 b 198 : Andante marcia funebre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le pigeon des bois op 110 b 198 : Andante marcia funebre",
+      "Label": "EMI",
+      "ReferenceLabel": "5580192",
+      "ExternalID": "0724355801920-1-5",
+      "AlbumTitle": "Anton Dvorak : Poèmes symphoniques",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355801920",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Rattle",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:45:41+01:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:51:02:00",
+      "ScheduledDuration": "00:02:55:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le pigeon des bois op 110 b 198 : Allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le pigeon des bois op 110 b 198 : Allegro",
+      "Label": "EMI",
+      "ReferenceLabel": "5580192",
+      "ExternalID": "0724355801920-1-6",
+      "AlbumTitle": "Anton Dvorak : Poèmes symphoniques",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355801920",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Simon Rattle",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:51:02+01:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:53:57:00",
+      "ScheduledDuration": "00:03:28:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Histoires naturelles : Le cygne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Histoires naturelles : Le cygne",
+      "Label": "BRIDGE",
+      "ReferenceLabel": "BCD 9058",
+      "ExternalID": "0090404905827-1-3",
+      "AlbumTitle": "Mason Patrick chante melodies francais",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090404905827",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Maurice Ravel",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Francis Poulenc",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Patrick Mason",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Mason : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Robert Spillman",
+          "Profession": "Interprète",
+          "InterventionNote": "Robert Spillman : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T00:53:57+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "00:57:25:00",
+      "ScheduledDuration": "00:04:03:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le loup - deuxième tableau : La chambre nuptiale : La belle et la bête / Ballet d'apres Jean anouilh et Georges neveux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le loup - deuxième tableau : La chambre nuptiale : La belle et la bête / Ballet d'apres Jean anouilh et Georges neveux",
+      "Label": "EMI",
+      "ReferenceLabel": "7639452",
+      "ExternalID": "0077776394527-1-8",
+      "AlbumTitle": "Francis Poulenc Darius Milhaud et Henri Dutilleux : Oeuvres orchestrales",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1962-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0077776394527",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Societe Des Concerts Du Conservatoire",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Pretre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T00:57:25+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/9d52ed2c-dd28-3a7a-9e03-38c07d9766f1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:01:28:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Danse de la chèvre H 39",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Danse de la chèvre H 39",
+      "Label": "INDESENS",
+      "ReferenceLabel": "INDE057",
+      "ExternalID": "3760039839596-1-5",
+      "AlbumTitle": "Alone / Vincent Lucas interprète Bach Poulenc Debussy et autres compositeurs",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760039839596",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Arthur Honegger",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Vincent Lucas",
+        "Profession": "Interprète",
+        "InterventionNote": "Vincent Lucas : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "ScheduledDateTime": "2017-03-13T01:01:28+01:00",
+      "composer": "http://data.doremus.org/artist/e3f0fc72-7967-39a4-888b-823b46576174",
+      "best": "http://data.doremus.org/expression/ad275a9f-8c7a-31cc-beca-79e0ee134b81",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:05:17:00",
+      "ScheduledDuration": "00:03:37:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schwanengesang D 957 : Ständchen",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schwanengesang D 957 : Ständchen",
+      "Label": "LONDON",
+      "ReferenceLabel": "458382-2",
+      "ExternalID": "0028945838229-1-8",
+      "AlbumTitle": "And the band played on",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945838229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "I Salonisti",
+        "Profession": "Interprète",
+        "InterventionNote": "I Salonisti"
+      },
+      "ScheduledDateTime": "2017-03-13T01:05:17+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/61ffd582-87cb-3d5a-8f6d-4b17ec9d0cd4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:09:03:00",
+      "ScheduledDuration": "00:04:01:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie en sol min HOB I : 83 (La poule) : Menuet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie en sol min HOB I : 83 (La poule) : Menuet",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875021332",
+      "ExternalID": "0888750213327-2-3",
+      "AlbumTitle": "Joseph Haydn : Les symphonies parisiennes",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888750213327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Zurich",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roger Norrington",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T01:09:03+01:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/01f1b5be-5c70-33ab-82a2-bb3399981ddc",
+      "best_matching_score": "0.75"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:13:04:00",
+      "ScheduledDuration": "00:05:04:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "2 poèmes de Ronsard op 26 : Rossignol mon mignon - pour soprano et flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "2 poèmes de Ronsard op 26 : Rossignol mon mignon - pour soprano et flûte traversière",
+      "Label": "SAPHIR",
+      "ReferenceLabel": "LVC 001017",
+      "ExternalID": "3760028690177-1-1",
+      "AlbumTitle": "Albert Roussel : Intégrale des oeuvres pour flûte",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760028690177",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Albert Roussel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sandrine Piau",
+          "Profession": "Interprète",
+          "InterventionNote": "Sandrine Piau : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Michel Moragues",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Moragues : Flûte traversière",
+          "mop": "Flûte traversière"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T01:13:04+01:00",
+      "composer": "http://data.doremus.org/artist/ab926ca9-5fe8-358c-a29e-33f8083596a8",
+      "best": "http://data.doremus.org/expression/b615369c-293b-3e1a-a356-72ab7e403bdc",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:18:08:00",
+      "ScheduledDuration": "00:08:23:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le cygne de tuonela",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le cygne de tuonela",
+      "Label": "TELARC",
+      "ReferenceLabel": "TELA CD-80443",
+      "ExternalID": "0089408044328-1-7",
+      "AlbumTitle": "Classical zoo with Itzhak Perlman",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0089408044328",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Atlanta",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Yoel Levi",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T01:18:08+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/ac172e7f-a467-3fdb-8dca-94c80aa6bdc1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:26:31:00",
+      "ScheduledDuration": "00:08:49:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Legendes S 175 : Saint François d'assise, la predication aux oiseaux / Pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Legendes S 175 : Saint François d'assise, la predication aux oiseaux / Pour piano",
+      "Label": "EMI",
+      "ReferenceLabel": "5566842",
+      "ExternalID": "0724355668424-1-13",
+      "AlbumTitle": "Recital : François rene duchable interprete les 12 etudes d'execution transcendante et les 2 legendes pour piano de Liszt",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355668424",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Liszt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Francois Rene Duchable",
+        "Profession": "Interprète",
+        "InterventionNote": "Francois Rene Duchable : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-13T01:26:31+01:00",
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
+      "best": "http://data.doremus.org/expression/46c6602f-9487-3fe7-801d-750175a1fd3b",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:35:31:00",
+      "ScheduledDuration": "00:05:49:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie en sol min HOB I : 83 (La poule) : Finale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie en sol min HOB I : 83 (La poule) : Finale",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875021332",
+      "ExternalID": "0888750213327-2-4",
+      "AlbumTitle": "Joseph Haydn : Les symphonies parisiennes",
+      "Rank": 4,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888750213327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De Zurich",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Roger Norrington",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T01:35:31+01:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/01f1b5be-5c70-33ab-82a2-bb3399981ddc",
+      "best_matching_score": "0.77"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:41:20:00",
+      "ScheduledDuration": "00:07:03:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Au rossignol",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Au rossignol",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA 66801/2",
+      "ExternalID": "0034571168012-1-7",
+      "AlbumTitle": "Charles Gounod / Melodies",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571168012",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Gounod",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Felicity Lott",
+          "Profession": "Interprète",
+          "InterventionNote": "Felicity Lott : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Ann Murray",
+          "Profession": "Interprète",
+          "InterventionNote": "Ann Murray : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Anthony Rolfe-Johnson",
+          "Profession": "Interprète",
+          "InterventionNote": "Anthony Rolfe-Johnson : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Graham Johnson",
+          "Profession": "Interprète",
+          "InterventionNote": "Graham Johnson : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T01:41:20+01:00",
+      "composer": "http://data.doremus.org/artist/180755b4-2997-3fb4-8588-2ad68339ce6b",
+      "best": "http://data.doremus.org/expression/981c1a11-6f48-3a75-ba1c-3d1022042e58",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:48:23:00",
+      "ScheduledDuration": "00:02:43:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les cygnes pour flute traversiere et harpe",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les cygnes pour flute traversiere et harpe",
+      "Label": "QUANTUM",
+      "ReferenceLabel": "QM 7012",
+      "ExternalID": "3356890701204-1-7",
+      "AlbumTitle": "Un siecle de musique francaise / Duo thais",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3356890701204",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Busser",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Duo Thais",
+          "Profession": "Interprète",
+          "InterventionNote": "Duo Thais"
+        },
+        {
+          "FullName": "Florence Bellon",
+          "Profession": "Interprète",
+          "InterventionNote": "Florence Bellon : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Caroline Rempp",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Rempp : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T01:48:23+01:00",
+      "composer": "http://data.doremus.org/artist/36c60b32-7a0c-35a4-8a42-59d03b9a3514"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:51:06:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les oiseaux : Prelude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les oiseaux : Prelude",
+      "Label": "DECA",
+      "ReferenceLabel": "436754-2",
+      "ExternalID": "0028943675420-1-7",
+      "AlbumTitle": "Comme ci comme ça",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943675420",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Ottorino Respighi : Auteur"
+      },
+      "Interpreter": {
+        "FullName": "I Salonisti",
+        "Profession": "Interprète",
+        "InterventionNote": "I Salonisti"
+      },
+      "ScheduledDateTime": "2017-03-13T01:51:06+01:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:53:30:00",
+      "ScheduledDuration": "00:04:28:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Zais : Chantez oiseaux (prologue) air d'une sylphide",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Zais : Chantez oiseaux (prologue) air d'une sylphide",
+      "Label": "ALPHA",
+      "ReferenceLabel": "142",
+      "ExternalID": "3760014191428-1-4",
+      "AlbumTitle": "Jean Philippe Rameau : Que les mortels servent de modele aux dieux",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014191428",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Jean Philippe Rameau",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Jean Philippe Rameau : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ausonia",
+          "Profession": "Interprète",
+          "InterventionNote": "Ausonia"
+        },
+        {
+          "FullName": "Eugenie Warnier",
+          "Profession": "Interprète",
+          "InterventionNote": "Eugenie Warnier : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Arnaud Richard",
+          "Profession": "Interprète",
+          "InterventionNote": "Arnaud Richard : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Frederick Haas",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T01:53:30+01:00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "01:57:58:00",
+      "ScheduledDuration": "00:03:24:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le rossignol en amour - arrangement pour orgue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le rossignol en amour - arrangement pour orgue",
+      "Label": "CALLIOPE",
+      "ReferenceLabel": "CAL 9749",
+      "ExternalID": "0794881860029-1-14",
+      "AlbumTitle": "Alborada / Oeuvres pour orgue et duo de guitares",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881860029",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francois Couperin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Andre Isoir",
+        "Profession": "Interprète",
+        "InterventionNote": "Andre Isoir : Orgue positif",
+        "mop": "Orgue positif"
+      },
+      "ScheduledDateTime": "2017-03-13T01:57:58+01:00",
+      "composer": "http://data.doremus.org/artist/14970460-189f-3593-a550-7bceb778072e",
+      "best": "http://data.doremus.org/expression/9b5113e4-59de-3f63-8111-bdb6bdf7fe93",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:01:22:00",
+      "ScheduledDuration": "00:03:32:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le chant du rossignol : III Chant du rossignol Cadenza - Adagio - Presto - Vivace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le chant du rossignol : III Chant du rossignol Cadenza - Adagio - Presto - Vivace",
+      "Label": "DGG",
+      "ReferenceLabel": "471197-2",
+      "ExternalID": "0028947119722-1-5",
+      "AlbumTitle": "Boulez dirige Stravinsky",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947119722",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Igor Stravinsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Cleveland",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T02:01:22+01:00",
+      "composer": "http://data.doremus.org/artist/1f1c9292-087a-3ac7-b854-84e213e69dc6",
+      "best": "http://data.doremus.org/expression/27394af1-1d8b-3bc7-a9db-9f2797473a2d",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:05:05:00",
+      "ScheduledDuration": "00:06:29:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La pie voleuse : Ouverture - pour voix d'hommes et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La pie voleuse : Ouverture - pour voix d'hommes et piano",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 999200-2",
+      "ExternalID": "0761203920020-1-10",
+      "AlbumTitle": "Singphonic Rossini",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203920020",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gioacchino Rossini",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Singphoniker",
+          "Profession": "Interprète",
+          "InterventionNote": "Singphoniker"
+        },
+        {
+          "FullName": "Berno Scharpf",
+          "Profession": "Interprète",
+          "InterventionNote": "Berno Scharpf : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:05:05+01:00",
+      "composer": "http://data.doremus.org/artist/32c2b0ff-35f1-3e65-b0ca-34aaf35f3d50",
+      "best": "http://data.doremus.org/expression/1e83aeea-5831-3569-8d00-a00a8407e576",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:11:34:00",
+      "ScheduledDuration": "00:05:50:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le rossignol et la rose - air sans paroles pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le rossignol et la rose - air sans paroles pour soprano et orchestre",
+      "Label": "NIGHTINGALE CLASSICS",
+      "ReferenceLabel": "NC 190216-2",
+      "ExternalID": "9004686190216-1-1",
+      "AlbumTitle": "Adagio",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9004686190216",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Camille Saint Saens",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Edita Gruberova",
+        "Profession": "Interprète",
+        "InterventionNote": "Edita Gruberova : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Tokyo",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Friedrich Haider",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T02:11:34+01:00",
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
+      "best": "http://data.doremus.org/expression/e953e674-4c79-3e03-8512-68cc4dc4ccba",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:17:24:00",
+      "ScheduledDuration": "00:04:02:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Papillons et oiseaux de paradis H 127 : Papillons dans les fleurs",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Papillons et oiseaux de paradis H 127 : Papillons dans les fleurs",
+      "Label": "EMI CLASSICS",
+      "ReferenceLabel": "0269162",
+      "ExternalID": "5099902691626-1-10",
+      "AlbumTitle": "Bohuslav Martinu : Pièces pour piano / Piano Recital and Drawings",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099902691626",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bohuslav Martinu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Michal Masek",
+        "Profession": "Interprète",
+        "InterventionNote": "Michal Masek : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-13T02:17:24+01:00",
+      "composer": "http://data.doremus.org/artist/3ed4f326-18a2-3cc1-bc8b-3d5d41d0c1dd"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:21:26:00",
+      "ScheduledDuration": "00:03:45:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Miroirs : Oiseaux tristes - arrangement pour flûte traversière et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Miroirs : Oiseaux tristes - arrangement pour flûte traversière et piano",
+      "Label": "LORELEY PRODUCTION",
+      "ReferenceLabel": "LY 019",
+      "ExternalID": "3760077080196-1-3",
+      "AlbumTitle": "La flûte et les oiseaux / Hommage à Olivier Messiaen",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760077080196",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Cecile Daroux",
+          "Profession": "Interprète",
+          "InterventionNote": "Cecile Daroux : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Emmanuelle Bouillot",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuelle Bouillot : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:21:26+01:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/ecf574cf-4363-3743-a6af-3ef3f26f7334",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:25:11:00",
+      "ScheduledDuration": "00:01:11:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : la chanson du pilote",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : la chanson du pilote",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.258",
+      "ExternalID": "4010276019084-1-19",
+      "AlbumTitle": "Charles Koechlin et Claude Debussy : oeuvres pour violoncelle et piano",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276019084",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Bruns",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Bruns : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Roglit Ishay",
+          "Profession": "Interprète",
+          "InterventionNote": "Roglit Ishay : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:25:11+01:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/9e30c2cd-e641-374e-9007-3f7e5d86ad4c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:26:22:00",
+      "ScheduledDuration": "00:00:39:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : l'épouse du croisé",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : l'épouse du croisé",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.258",
+      "ExternalID": "4010276019084-1-20",
+      "AlbumTitle": "Charles Koechlin et Claude Debussy : oeuvres pour violoncelle et piano",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276019084",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Bruns",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Bruns : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Roglit Ishay",
+          "Profession": "Interprète",
+          "InterventionNote": "Roglit Ishay : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:26:22+01:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/9e30c2cd-e641-374e-9007-3f7e5d86ad4c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:27:01:00",
+      "ScheduledDuration": "00:00:27:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : le rossignol modulant",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : le rossignol modulant",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.258",
+      "ExternalID": "4010276019084-1-21",
+      "AlbumTitle": "Charles Koechlin et Claude Debussy : oeuvres pour violoncelle et piano",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276019084",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Bruns",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Bruns : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Roglit Ishay",
+          "Profession": "Interprète",
+          "InterventionNote": "Roglit Ishay : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:27:01+01:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/9e30c2cd-e641-374e-9007-3f7e5d86ad4c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:27:28:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : le faucon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : le faucon",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.258",
+      "ExternalID": "4010276019084-1-23",
+      "AlbumTitle": "Charles Koechlin et Claude Debussy : oeuvres pour violoncelle et piano",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276019084",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Bruns",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Bruns : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Roglit Ishay",
+          "Profession": "Interprète",
+          "InterventionNote": "Roglit Ishay : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:27:28+01:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/9e30c2cd-e641-374e-9007-3f7e5d86ad4c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:29:42:00",
+      "ScheduledDuration": "00:05:38:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Das lied der Trennung k 519 - pour soprano et 3 cors de basset",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Das lied der Trennung k 519 - pour soprano et 3 cors de basset",
+      "Label": "K617 PRODUCTIONS",
+      "ReferenceLabel": "K617167",
+      "ExternalID": "3383510001673-1-23",
+      "AlbumTitle": "Mozart : Prague les dernières vendanges",
+      "Rank": 23,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383510001673",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Di Bassetto",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Di Bassetto"
+        },
+        {
+          "FullName": "Jean Claude Veilhan",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Claude Veilhan : Cor de basset",
+          "mop": "Cor de basset"
+        },
+        {
+          "FullName": "Eric Lorho",
+          "Profession": "Interprète",
+          "InterventionNote": "Eric Lorho : Cor de basset",
+          "mop": "Cor de basset"
+        },
+        {
+          "FullName": "Jean Louis Gauch",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Louis Gauch : Cor de basset",
+          "mop": "Cor de basset"
+        },
+        {
+          "FullName": "Francoise Masset",
+          "Profession": "Interprète",
+          "InterventionNote": "Francoise Masset : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:29:42+01:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/e3aedeea-8552-3b9d-8612-06133ab41848",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:35:20:00",
+      "ScheduledDuration": "00:02:41:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Liebeslieder-Walzer op 52 : Ein kleiner hübscher Vogel nahm den Flug op 52 n°6 - version pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Liebeslieder-Walzer op 52 : Ein kleiner hübscher Vogel nahm den Flug op 52 n°6 - version pour orchestre",
+      "Label": "DECCA",
+      "ReferenceLabel": "478 5344",
+      "ExternalID": "0028947853442-3-17",
+      "AlbumTitle": "Johannes Brahms : Intégrale des symphonies et autres oeuvres orchestrales",
+      "Rank": 17,
+      "NumVolume": 3,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947853442",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Gewandhaus De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Riccardo Chailly",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T02:35:20+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/38f09874-ac64-39e6-9240-5a12057e67c8",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:38:01:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'oiseau-prophete : Scenes de la foret op 82 / Pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'oiseau-prophete : Scenes de la foret op 82 / Pour violon et piano",
+      "Label": "DECCA",
+      "ReferenceLabel": "417891-2",
+      "ExternalID": "0028941789129-1-9",
+      "AlbumTitle": "Recital pour violon",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1988-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941789129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Joshua Bell",
+          "Profession": "Interprète",
+          "InterventionNote": "Joshua Bell : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Samuel Sanders",
+          "Profession": "Interprète",
+          "InterventionNote": "Samuel Sanders : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T02:38:01+01:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/93cc61a3-8ae7-308c-a213-9087d808e6e6",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:41:31:00",
+      "ScheduledDuration": "00:01:25:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chants et danses populaires norvegiens op 17 pour piano : Les noces du corbeau",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chants et danses populaires norvegiens op 17 pour piano : Les noces du corbeau",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1626/28/1",
+      "ExternalID": "7318591626282-5-25",
+      "AlbumTitle": "Edouard Grieg : Intégrale de l'oeuvre pour piano / volumes 1 à 9",
+      "Rank": 25,
+      "NumVolume": 5,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318591626282",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eva Knardahl",
+        "Profession": "Interprète",
+        "InterventionNote": "Eva Knardahl : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-13T02:41:31+01:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/c08f9584-1ac9-3a0a-a0fe-7892873f0ce9",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:42:56:00",
+      "ScheduledDuration": "00:05:38:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Scenes de la vie populaire op 19 pour piano : Dans la montagne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Scenes de la vie populaire op 19 pour piano : Dans la montagne",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1626/28/1",
+      "ExternalID": "7318591626282-5-26",
+      "AlbumTitle": "Edouard Grieg : Intégrale de l'oeuvre pour piano / volumes 1 à 9",
+      "Rank": 26,
+      "NumVolume": 5,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318591626282",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eva Knardahl",
+        "Profession": "Interprète",
+        "InterventionNote": "Eva Knardahl : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-13T02:42:56+01:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/cdbe4491-d165-3b4f-ae72-ffe5bf3877bd",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:48:34:00",
+      "ScheduledDuration": "00:04:55:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die Sprache der Vögel JS 62 (Le langage des oiseaux JS 62)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die Sprache der Vögel JS 62 (Le langage des oiseaux JS 62)",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573300",
+      "ExternalID": "0747313330072-1-14",
+      "AlbumTitle": "Jean Sibelius : Le festin de Balthazar et autres oeuvres",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313330072",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Turku",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leif Segerstam",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T02:48:34+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:53:38:00",
+      "ScheduledDuration": "00:03:35:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Paon (Fölszallott a pava) : Thème",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Paon (Fölszallott a pava) : Thème",
+      "Label": "DECCA",
+      "ReferenceLabel": "478 6420",
+      "ExternalID": "0028947864202-8-7",
+      "AlbumTitle": "Istvan Kertesz : The London years",
+      "Rank": 7,
+      "NumVolume": 8,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947864202",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kodaly Zoltan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Istvan Kertesz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T02:53:38+01:00"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "02:57:13:00",
+      "ScheduledDuration": "00:04:16:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Paon (Fölszallott a pava) : Finale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Paon (Fölszallott a pava) : Finale",
+      "Label": "DECCA",
+      "ReferenceLabel": "478 6420",
+      "ExternalID": "0028947864202-8-12",
+      "AlbumTitle": "Istvan Kertesz : The London years",
+      "Rank": 12,
+      "NumVolume": 8,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947864202",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kodaly Zoltan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Istvan Kertesz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-13T02:57:13+01:00"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "03:01:29:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Paon (Fölszallott a pava) - chant populaire pour choeur d'hommes a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Paon (Fölszallott a pava) - chant populaire pour choeur d'hommes a cappella",
+      "Label": "DECCA",
+      "ReferenceLabel": "478 6420",
+      "ExternalID": "0028947864202-8-6",
+      "AlbumTitle": "Istvan Kertesz : The London years",
+      "Rank": 6,
+      "NumVolume": 8,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947864202",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kodaly Zoltan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Arthur Oldham",
+        "Profession": "Interprète",
+        "InterventionNote": "Arthur Oldham"
+      },
+      "Choir": {
+        "EntityName": "Choeur Symphonique De Londres",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-03-13T03:01:29+01:00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "03:04:29:00",
+      "ScheduledDuration": "00:00:59:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : la conversion de Merlin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chansons bretonnes sur d'anciennes chansons populaires op 115 \"\"2ème cahier\"\" - pour violoncelle et piano / integrale : la conversion de Merlin",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 98.258",
+      "ExternalID": "4010276019084-1-18",
+      "AlbumTitle": "Charles Koechlin et Claude Debussy : oeuvres pour violoncelle et piano",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276019084",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Peter Bruns",
+          "Profession": "Interprète",
+          "InterventionNote": "Peter Bruns : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Roglit Ishay",
+          "Profession": "Interprète",
+          "InterventionNote": "Roglit Ishay : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-13T03:04:29+01:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/9e30c2cd-e641-374e-9007-3f7e5d86ad4c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "03:05:28:00",
+      "ScheduledDuration": "00:01:04:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les chants de nectaire livre II : Dans la forêt antique : Les oiseaux sont ivres",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les chants de nectaire livre II : Dans la forêt antique : Les oiseaux sont ivres",
+      "Label": "KOCH RECORDS INTERNATIONAL",
+      "ReferenceLabel": "3-7394-2H1",
+      "ExternalID": "0099923739425-1-14",
+      "AlbumTitle": "Les chants de nectaire",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099923739425",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Charles Koechlin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Alexa Still",
+        "Profession": "Interprète",
+        "InterventionNote": "Alexa Still : Flûte",
+        "mop": "Flûte"
+      },
+      "ScheduledDateTime": "2017-03-13T03:05:28+01:00",
+      "composer": "http://data.doremus.org/artist/d2eb9650-f76c-38ac-8c8f-98c277f9d920",
+      "best": "http://data.doremus.org/expression/ec4b4551-a0d2-33e7-9781-123b852f6ef9",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-13",
+      "ScheduledTime": "03:06:32:00",
+      "ScheduledDuration": "00:01:01:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "13 sérénades à Saint Pétersbourg : Le corbeau vole vers sa proie - pour choeur a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "13 sérénades à Saint Pétersbourg : Le corbeau vole vers sa proie - pour choeur a cappella",
+      "Label": "MELODIYA RUSSIE",
+      "ReferenceLabel": "MCD 216",
+      "ExternalID": "5015524002169-1-7",
+      "AlbumTitle": "Alexandre Dargomijski : Oeuvres symphoniques et chorales",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1988-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5015524002169",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Dargomijski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Rigory Sandler",
+        "Profession": "Interprète",
+        "InterventionNote": "Rigory Sandler"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Radio Television De Leningrad",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-03-13T03:06:32+01:00",
+      "composer": "http://data.doremus.org/artist/5813bca1-0cfe-35ae-a528-1824eb9070f6"
+    }
+  ],
+  "total": 47,
+  "matched": 29
+}

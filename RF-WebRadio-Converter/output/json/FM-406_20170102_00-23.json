@@ -1,0 +1,2224 @@
+{
+  "id": "FM-406_20170102_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:01:00:00",
+      "ScheduledDuration": "00:13:59:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto n°2 : Vivace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto n°2 : Vivace",
+      "Label": "DGG (DEUTSCHE GRAMMOPHON)",
+      "ReferenceLabel": "00289 479 1527",
+      "ExternalID": "RF00000042700-1-2",
+      "AlbumTitle": "Henze : Concerto pour piano n°2 / CD 05",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000042700",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Werner Henze",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christoph Eschenbach",
+        "Profession": "Interprète",
+        "InterventionNote": "Christoph Eschenbach : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Werner Henze",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:01:00+01:00",
+      "composer": "http://data.doremus.org/artist/d32d46f5-2faf-3575-a06a-096b582a3ef1",
+      "best": "http://data.doremus.org/expression/44bcf7ec-ca0d-326e-a75c-3af306cf1829",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:15:53:00",
+      "ScheduledDuration": "00:20:32:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Songs from Solomon's garden - pour baryton et orchestre de chambre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Songs from Solomon's garden - pour baryton et orchestre de chambre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA218",
+      "ExternalID": "3760014192180-1-3",
+      "AlbumTitle": "Matthias Pintscher : Bereshit",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192180",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Matthias Pintscher",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Evan Hughes",
+          "Profession": "Interprète",
+          "InterventionNote": "Evan Hughes : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Catherine Jacquet",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Jacquet : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jacques Borsarello",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacques Borsarello : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Julie Chouquer",
+          "Profession": "Interprète",
+          "InterventionNote": "Julie Chouquer : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Matthias Pintscher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:15:53+01:00",
+      "composer": "http://data.doremus.org/artist/1bb18a37-762b-3336-ba40-46909d114f9a",
+      "best": "http://data.doremus.org/expression/5e8a676e-175a-35e0-9020-13856ba4b8ac",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:37:26:00",
+      "ScheduledDuration": "00:14:39:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cold heat - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cold heat - pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS2114",
+      "ExternalID": "7318599921143-1-3",
+      "AlbumTitle": "Sirens",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921143",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anders Hillborg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Royal De Stockholm",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "David Zinman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T00:37:26+01:00",
+      "composer": "http://data.doremus.org/artist/d33ebb23-7b8d-3ea5-a930-647e04f95e8a"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:52:11:00",
+      "ScheduledDuration": "00:02:58:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Valse des innocents - pour choeur d'enfants mixte violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Valse des innocents - pour choeur d'enfants mixte violon et piano",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1169-2",
+      "ExternalID": "0761195116920-1-10",
+      "AlbumTitle": "Rautavaara : Marjatta matala neiti et autres oeuvres pour choeur d'enfants",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195116920",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Einojuhani Rautavaara",
+          "Profession": "Interprète",
+          "InterventionNote": "Einojuhani Rautavaara"
+        },
+        {
+          "FullName": "Pasi Hyokki",
+          "Profession": "Interprète",
+          "InterventionNote": "Pasi Hyokki"
+        },
+        {
+          "FullName": "Timo Holopainen",
+          "Profession": "Interprète",
+          "InterventionNote": "Timo Holopainen : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Tapiola",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-01-02T00:52:11+01:00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:55:09:00",
+      "ScheduledDuration": "00:01:36:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de Lorca op 72 : Cancion de jinete op 72 n°1 - pour solistes et choeur d'enfants mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de Lorca op 72 : Cancion de jinete op 72 n°1 - pour solistes et choeur d'enfants mixte a cappella",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1169-2",
+      "ExternalID": "0761195116920-1-3",
+      "AlbumTitle": "Rautavaara : Marjatta matala neiti et autres oeuvres pour choeur d'enfants",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195116920",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Einojuhani Rautavaara",
+          "Profession": "Interprète",
+          "InterventionNote": "Einojuhani Rautavaara"
+        },
+        {
+          "FullName": "Pasi Hyokki",
+          "Profession": "Interprète",
+          "InterventionNote": "Pasi Hyokki"
+        },
+        {
+          "FullName": "Aliisa Heinonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Heinonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Julia Hamalainen",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Hamalainen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aliisa Lehtonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Lehtonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sofia Niemi",
+          "Profession": "Interprète",
+          "InterventionNote": "Sofia Niemi : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Elina Palkama",
+          "Profession": "Interprète",
+          "InterventionNote": "Elina Palkama : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sarah Devoyon",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Devoyon"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Tapiola",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-01-02T00:55:09+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:56:45:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de Lorca op 72 : El grito op 72 n°2 - pour solistes et choeur d'enfants mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de Lorca op 72 : El grito op 72 n°2 - pour solistes et choeur d'enfants mixte a cappella",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1169-2",
+      "ExternalID": "0761195116920-1-4",
+      "AlbumTitle": "Rautavaara : Marjatta matala neiti et autres oeuvres pour choeur d'enfants",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195116920",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Einojuhani Rautavaara",
+          "Profession": "Interprète",
+          "InterventionNote": "Einojuhani Rautavaara"
+        },
+        {
+          "FullName": "Pasi Hyokki",
+          "Profession": "Interprète",
+          "InterventionNote": "Pasi Hyokki"
+        },
+        {
+          "FullName": "Aliisa Heinonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Heinonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Julia Hamalainen",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Hamalainen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aliisa Lehtonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Lehtonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sofia Niemi",
+          "Profession": "Interprète",
+          "InterventionNote": "Sofia Niemi : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Elina Palkama",
+          "Profession": "Interprète",
+          "InterventionNote": "Elina Palkama : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sarah Devoyon",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Devoyon : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Tapiola",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-01-02T00:56:45+01:00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "00:58:44:00",
+      "ScheduledDuration": "00:01:55:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de Lorca op 72 : La luna asoma op 72 n°3 - pour solistes et choeur d'enfants mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de Lorca op 72 : La luna asoma op 72 n°3 - pour solistes et choeur d'enfants mixte a cappella",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1169-2",
+      "ExternalID": "0761195116920-1-5",
+      "AlbumTitle": "Rautavaara : Marjatta matala neiti et autres oeuvres pour choeur d'enfants",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195116920",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Einojuhani Rautavaara",
+          "Profession": "Interprète",
+          "InterventionNote": "Einojuhani Rautavaara"
+        },
+        {
+          "FullName": "Pasi Hyokki",
+          "Profession": "Interprète",
+          "InterventionNote": "Pasi Hyokki"
+        },
+        {
+          "FullName": "Aliisa Heinonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Heinonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Julia Hamalainen",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Hamalainen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aliisa Lehtonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Lehtonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sofia Niemi",
+          "Profession": "Interprète",
+          "InterventionNote": "Sofia Niemi : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Elina Palkama",
+          "Profession": "Interprète",
+          "InterventionNote": "Elina Palkama : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sarah Devoyon",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Devoyon : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Tapiola",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-01-02T00:58:44+01:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:00:39:00",
+      "ScheduledDuration": "00:01:21:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite de Lorca op 72 : Malagueña op 72 n°4 - pour solistes et choeur d'enfants mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite de Lorca op 72 : Malagueña op 72 n°4 - pour solistes et choeur d'enfants mixte a cappella",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1169-2",
+      "ExternalID": "0761195116920-1-6",
+      "AlbumTitle": "Rautavaara : Marjatta matala neiti et autres oeuvres pour choeur d'enfants",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195116920",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Einojuhani Rautavaara",
+          "Profession": "Interprète",
+          "InterventionNote": "Einojuhani Rautavaara"
+        },
+        {
+          "FullName": "Pasi Hyokki",
+          "Profession": "Interprète",
+          "InterventionNote": "Pasi Hyokki"
+        },
+        {
+          "FullName": "Aliisa Heinonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Heinonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Julia Hamalainen",
+          "Profession": "Interprète",
+          "InterventionNote": "Julia Hamalainen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Aliisa Lehtonen",
+          "Profession": "Interprète",
+          "InterventionNote": "Aliisa Lehtonen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sofia Niemi",
+          "Profession": "Interprète",
+          "InterventionNote": "Sofia Niemi : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Elina Palkama",
+          "Profession": "Interprète",
+          "InterventionNote": "Elina Palkama : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Sarah Devoyon",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Devoyon : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Tapiola",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-01-02T01:00:39+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:02:04:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Serenade : Erixymachus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Serenade : Erixymachus",
+      "Label": "DGG",
+      "ReferenceLabel": "426586-2",
+      "ExternalID": "0028942358324-1-3",
+      "AlbumTitle": "Bernstein conduit Bernstein: Serenade, fancy free",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1979-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028942358324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gidon Kremer",
+        "Profession": "Interprète",
+        "InterventionNote": "Gidon Kremer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique D'Israel",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Leonard Bernstein",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:02:04+01:00",
+      "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
+      "best": "http://data.doremus.org/expression/f0fc5ea4-4b3e-38c5-a627-5267a387ce8a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:04:52:00",
+      "ScheduledDuration": "00:05:23:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Pulses",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Pulses",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-1",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:04:52+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f003a84b-c0d5-3c72-b152-b3d708090b19",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:10:15:00",
+      "ScheduledDuration": "00:04:19:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section I",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section I",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-2",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:10:15+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:14:34:00",
+      "ScheduledDuration": "00:04:27:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section II",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section II",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-3",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:14:34+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:19:01:00",
+      "ScheduledDuration": "00:03:57:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section IIIA",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section IIIA",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-4",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:19:01+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f003a84b-c0d5-3c72-b152-b3d708090b19",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:22:58:00",
+      "ScheduledDuration": "00:04:06:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section IIIB",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section IIIB",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-5",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:22:58+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f003a84b-c0d5-3c72-b152-b3d708090b19",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:27:04:00",
+      "ScheduledDuration": "00:04:59:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section IV",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section IV",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-6",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:27:04+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:32:03:00",
+      "ScheduledDuration": "00:05:24:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section V",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section V",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-7",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:32:03+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:37:27:00",
+      "ScheduledDuration": "00:04:38:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section VI",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section VI",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-8",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:37:27+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:42:05:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section VII",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section VII",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-9",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:42:05+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f003a84b-c0d5-3c72-b152-b3d708090b19",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:45:48:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section VIII",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section VIII",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-10",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:45:48+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f003a84b-c0d5-3c72-b152-b3d708090b19",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:49:35:00",
+      "ScheduledDuration": "00:04:26:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section IX",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section IX",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-11",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:49:35+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:54:01:00",
+      "ScheduledDuration": "00:01:33:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section X",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section X",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-12",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:54:01+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:55:34:00",
+      "ScheduledDuration": "00:04:08:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Section XI",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Section XI",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-13",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:55:34+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/7c370820-9b4e-303a-8349-4a339925af28",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "01:59:42:00",
+      "ScheduledDuration": "00:04:32:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music for 18 musicians : Pulses",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music for 18 musicians : Pulses",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU907608",
+      "ExternalID": "0093046760823-1-14",
+      "AlbumTitle": "Steve Reich : Music for 18 musicians",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046760823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Steve Reich",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Signal",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Signal"
+      },
+      "OrchestraLeader": {
+        "FullName": "Bradley Lubman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T01:59:42+01:00",
+      "composer": "http://data.doremus.org/artist/b9b7fcad-2b60-3514-86a2-2aa40e3aea39",
+      "best": "http://data.doremus.org/expression/f003a84b-c0d5-3c72-b152-b3d708090b19",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:05:01:00",
+      "ScheduledDuration": "00:10:37:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mutations",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mutations",
+      "Label": "INA",
+      "ReferenceLabel": "AM 564 09",
+      "ExternalID": "RF00000035884-1-1",
+      "AlbumTitle": "Jean-Claude Risset : Mutations et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1978-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035884",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean-Claude Risset",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-01-02T02:05:01+01:00",
+      "composer": "http://data.doremus.org/artist/330fe832-4169-34f5-a779-c9a927239197",
+      "best": "http://data.doremus.org/expression/f7a6b83b-a4ca-3064-b4ac-6236b1616cba",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:16:21:00",
+      "ScheduledDuration": "00:03:18:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Libre et souple - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Libre et souple - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-5",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:16:21+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/92d186ff-6bcb-3fac-ada4-df1d573aea21",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:19:39:00",
+      "ScheduledDuration": "00:02:13:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Parenthèse n°1 - Miroir d'espace - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Parenthèse n°1 - Miroir d'espace - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-6",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:19:39+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/92d186ff-6bcb-3fac-ada4-df1d573aea21",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:21:52:00",
+      "ScheduledDuration": "00:02:57:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Parenthèse n°2 - Litanies - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Parenthèse n°2 - Litanies - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-7",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:21:52+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/92d186ff-6bcb-3fac-ada4-df1d573aea21",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:24:49:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Parenthèse n°3 - Litanies n°2 - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Parenthèse n°3 - Litanies n°2 - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-8",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:24:49+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/5a2190ba-f04b-337a-82f6-8400292ab29a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:29:10:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Parenthèse n°4 - Constellations - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Parenthèse n°4 - Constellations - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-9",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:29:10+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/92d186ff-6bcb-3fac-ada4-df1d573aea21",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:31:14:00",
+      "ScheduledDuration": "00:01:07:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Nocturne - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Nocturne - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-10",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:31:14+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/92d186ff-6bcb-3fac-ada4-df1d573aea21",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:32:21:00",
+      "ScheduledDuration": "00:02:25:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ainsi la nuit : Nocturne : Temps suspendu - pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ainsi la nuit : Nocturne : Temps suspendu - pour quatuor à cordes",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902067",
+      "ExternalID": "0794881966929-1-11",
+      "AlbumTitle": "Debussy Dutilleux et Ravel : Quatuors à cordes",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881966929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henri Dutilleux",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Arcanto",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Arcanto"
+        },
+        {
+          "FullName": "Antje Weithaas",
+          "Profession": "Interprète",
+          "InterventionNote": "Antje Weithaas : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Daniel Sepec",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Sepec : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Tabea Zimmermann",
+          "Profession": "Interprète",
+          "InterventionNote": "Tabea Zimmermann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jean Guihen Queyras",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-01-02T02:32:21+01:00",
+      "composer": "http://data.doremus.org/artist/933100cc-c372-3f1a-96e5-6e991baf771d",
+      "best": "http://data.doremus.org/expression/5a2190ba-f04b-337a-82f6-8400292ab29a",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:35:53:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour sortir au jour : Danse processionnelle - Concerto pour flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour sortir au jour : Danse processionnelle - Concerto pour flûte traversière",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4812711",
+      "ExternalID": "0028948127115-1-2",
+      "AlbumTitle": "Guillaume Connesson : Pour sortir au jour",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948127115",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume Connesson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mathieu Dufour",
+        "Profession": "Interprète",
+        "InterventionNote": "Mathieu Dufour : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T02:35:53+01:00",
+      "composer": "http://data.doremus.org/artist/c654b229-ff49-30c8-b26f-546c7ee7f16f"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:39:23:00",
+      "ScheduledDuration": "00:08:06:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour sortir au jour : Entrée dans la Douat - Concerto pour flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour sortir au jour : Entrée dans la Douat - Concerto pour flûte traversière",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4812711",
+      "ExternalID": "0028948127115-1-3",
+      "AlbumTitle": "Guillaume Connesson : Pour sortir au jour",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948127115",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume Connesson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mathieu Dufour",
+        "Profession": "Interprète",
+        "InterventionNote": "Mathieu Dufour : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T02:39:23+01:00",
+      "composer": "http://data.doremus.org/artist/c654b229-ff49-30c8-b26f-546c7ee7f16f"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:47:29:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour sortir au jour : Danse de la Justification - Concerto pour flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour sortir au jour : Danse de la Justification - Concerto pour flûte traversière",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4812711",
+      "ExternalID": "0028948127115-1-4",
+      "AlbumTitle": "Guillaume Connesson : Pour sortir au jour",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948127115",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume Connesson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mathieu Dufour",
+        "Profession": "Interprète",
+        "InterventionNote": "Mathieu Dufour : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T02:47:29+01:00",
+      "composer": "http://data.doremus.org/artist/c654b229-ff49-30c8-b26f-546c7ee7f16f"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:49:18:00",
+      "ScheduledDuration": "00:05:25:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour sortir au jour : La balance des Dieux - concerto pour flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour sortir au jour : La balance des Dieux - concerto pour flûte traversière",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4812711",
+      "ExternalID": "0028948127115-1-5",
+      "AlbumTitle": "Guillaume Connesson : Pour sortir au jour",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948127115",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume Connesson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mathieu Dufour",
+        "Profession": "Interprète",
+        "InterventionNote": "Mathieu Dufour : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T02:49:18+01:00",
+      "composer": "http://data.doremus.org/artist/c654b229-ff49-30c8-b26f-546c7ee7f16f"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-01-02",
+      "ScheduledTime": "02:54:43:00",
+      "ScheduledDuration": "00:05:15:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pour sortir au jour : Danse dans les champs de Lalou - Concerto pour flûte traversière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pour sortir au jour : Danse dans les champs de Lalou - Concerto pour flûte traversière",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "4812711",
+      "ExternalID": "0028948127115-1-6",
+      "AlbumTitle": "Guillaume Connesson : Pour sortir au jour",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948127115",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume Connesson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mathieu Dufour",
+        "Profession": "Interprète",
+        "InterventionNote": "Mathieu Dufour : Flûte traversière",
+        "mop": "Flûte traversière"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stephane Deneve",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-01-02T02:54:43+01:00",
+      "composer": "http://data.doremus.org/artist/c654b229-ff49-30c8-b26f-546c7ee7f16f"
+    }
+  ],
+  "total": 36,
+  "matched": 25
+}

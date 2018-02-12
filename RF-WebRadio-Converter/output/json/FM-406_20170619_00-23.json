@@ -1,0 +1,2485 @@
+{
+  "id": "FM-406_20170619_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:01:01:00",
+      "ScheduledDuration": "00:02:15:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte I Scène 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte I Scène 1",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-1",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:01:01+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:03:16:00",
+      "ScheduledDuration": "00:06:28:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte I Interlude",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte I Interlude",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-2",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:03:16+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:09:44:00",
+      "ScheduledDuration": "00:01:00:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte I Scène 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte I Scène 2",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-3",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:09:44+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:10:44:00",
+      "ScheduledDuration": "00:03:18:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte I Scène 3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte I Scène 3",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-4",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:10:44+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:14:02:00",
+      "ScheduledDuration": "00:03:37:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte I Scène 4",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte I Scène 4",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-5",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:14:02+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:17:39:00",
+      "ScheduledDuration": "00:03:24:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte I Scène 5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte I Scène 5",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-6",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:17:39+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:21:03:00",
+      "ScheduledDuration": "00:04:31:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 1",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-7",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:21:03+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:25:34:00",
+      "ScheduledDuration": "00:08:30:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 2",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-8",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:25:34+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:34:04:00",
+      "ScheduledDuration": "00:01:47:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 3",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-9",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:34:04+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:35:51:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 4",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 4",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-10",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:35:51+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:37:47:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 5",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-11",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:37:47+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:39:35:00",
+      "ScheduledDuration": "00:02:21:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 6",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 6",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-12",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:39:35+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:41:56:00",
+      "ScheduledDuration": "00:09:12:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte II Scène 7",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte II Scène 7",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-13",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:41:56+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:51:08:00",
+      "ScheduledDuration": "00:02:07:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte III Scène 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte III Scène 1",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-14",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:51:08+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:53:15:00",
+      "ScheduledDuration": "00:05:29:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte III Scène 2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte III Scène 2",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-15",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:53:15+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "00:58:44:00",
+      "ScheduledDuration": "00:07:26:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte III Scène 3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte III Scène 3",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-16",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T00:58:44+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "01:06:10:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte III Scène 4",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte III Scène 4",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-17",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T01:06:10+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "01:07:42:00",
+      "ScheduledDuration": "00:11:00:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le Petit Prince : Acte IV",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le Petit Prince : Acte IV",
+      "Label": "CLAVES",
+      "ReferenceLabel": "501725",
+      "ExternalID": "RF00000061170-1-18",
+      "AlbumTitle": "Le Petit Prince (intégrale)",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000061170",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Michael Levinas",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jeanne Crousaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanne Crousaud : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Vincent Lievre-Picard",
+          "Profession": "Interprète",
+          "InterventionNote": "Vincent Lievre-Picard : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Catherine Trottmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Trottmann : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Rodrigo Ferreira",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodrigo Ferreira : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Celine Soudain",
+          "Profession": "Interprète",
+          "InterventionNote": "Celine Soudain : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Alexandre Diakoff",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexandre Diakoff : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Benoit Capt",
+          "Profession": "Interprète",
+          "InterventionNote": "Benoit Capt : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Patrick Lapp",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Lapp : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre De Picardie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Arie Van Beek",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T01:07:42+02:00",
+      "composer": "http://data.doremus.org/artist/2a0316e4-fd45-34c2-a1af-207f588b5af8"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "01:19:17:00",
+      "ScheduledDuration": "00:12:22:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les princesses : Duel : Duel 1 (pour saxophone soprano et clarinette)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les princesses : Duel : Duel 1 (pour saxophone soprano et clarinette)",
+      "Label": "L'EMPREINTE DIGITALE",
+      "ReferenceLabel": "ED13239",
+      "ExternalID": "3760002130279-2-1",
+      "AlbumTitle": "Luis Naon : Les princesses",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760002130279",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luis Naon",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Ars Nova Philippe Nahon",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Ars Nova Philippe Nahon"
+      },
+      "OrchestraLeader": {
+        "FullName": "Philippe Nahon",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T01:19:17+02:00",
+      "composer": "http://data.doremus.org/artist/cf29b6fa-1d65-37cd-aa6e-ecdce8ea48a6"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "01:32:19:00",
+      "ScheduledDuration": "00:22:09:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Songs of innocence and experience - musique sur support : 23 ritournelles pour quatuor à cordes voix et bande magnétique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Songs of innocence and experience - musique sur support : 23 ritournelles pour quatuor à cordes voix et bande magnétique",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 245/46",
+      "ExternalID": "0764593024521-1-16",
+      "AlbumTitle": "Walter Zimmermann : Songs of innocence and experience",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593024521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Walter Zimmermann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Allen Ginsberg",
+          "Profession": "Interprète",
+          "InterventionNote": "Allen Ginsberg : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Quatuor Sonar",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Sonar"
+        },
+        {
+          "FullName": "Susanne Zapf",
+          "Profession": "Interprète",
+          "InterventionNote": "Susanne Zapf : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Kirsten Harms",
+          "Profession": "Interprète",
+          "InterventionNote": "Kirsten Harms : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Nikolaus Schlierf",
+          "Profession": "Interprète",
+          "InterventionNote": "Nikolaus Schlierf : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Cosima Gerhardt",
+          "Profession": "Interprète",
+          "InterventionNote": "Cosima Gerhardt : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-06-19T01:32:19+02:00",
+      "composer": "http://data.doremus.org/artist/4d77180b-832f-3868-81cf-dec2e1d809e6"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "01:55:00:00",
+      "ScheduledDuration": "00:14:43:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ocean child - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ocean child - pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1748",
+      "ExternalID": "7318590017487-1-3",
+      "AlbumTitle": "Jan Stanström : Oeuvres pour orchestre",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590017487",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jan Sandstrom",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Islande",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Christian Lindberg",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-06-19T01:55:00+02:00",
+      "composer": "http://data.doremus.org/artist/8711c3c7-ee7f-3e4a-868b-14d1e7bdf561"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:10:29:00",
+      "ScheduledDuration": "00:05:59:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pictures of childhood : The trip",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pictures of childhood : The trip",
+      "Label": "DACAPO",
+      "ReferenceLabel": "DCAP 8 224142",
+      "ExternalID": "0730099984225-1-13",
+      "AlbumTitle": "Indra rise : The return et autres oeuvres",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0730099984225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Indra Rise",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ingrid Aareskjold",
+        "Profession": "Interprète",
+        "InterventionNote": "Ingrid Aareskjold : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "ScheduledDateTime": "2017-06-19T02:10:29+02:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:16:28:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pictures of childhood : Fear",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pictures of childhood : Fear",
+      "Label": "DACAPO",
+      "ReferenceLabel": "DCAP 8 224142",
+      "ExternalID": "0730099984225-1-14",
+      "AlbumTitle": "Indra rise : The return et autres oeuvres",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0730099984225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Indra Rise",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ingrid Aareskjold",
+        "Profession": "Interprète",
+        "InterventionNote": "Ingrid Aareskjold : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "ScheduledDateTime": "2017-06-19T02:16:28+02:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:19:54:00",
+      "ScheduledDuration": "00:05:31:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pictures of childhood : Lullaby",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pictures of childhood : Lullaby",
+      "Label": "DACAPO",
+      "ReferenceLabel": "DCAP 8 224142",
+      "ExternalID": "0730099984225-1-15",
+      "AlbumTitle": "Indra rise : The return et autres oeuvres",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0730099984225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Indra Rise",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ingrid Aareskjold",
+        "Profession": "Interprète",
+        "InterventionNote": "Ingrid Aareskjold : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "ScheduledDateTime": "2017-06-19T02:19:54+02:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:26:04:00",
+      "ScheduledDuration": "00:10:54:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lunar rainbow - pour piano piano jouet et ordinateur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lunar rainbow - pour piano piano jouet et ordinateur",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-2075SACD",
+      "ExternalID": "7318599920757-1-5",
+      "AlbumTitle": "Light water rainbow / Yoshihiro Kanno : Oeuvres avec piano",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599920757",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Yoshihiro Kanno",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Noriko Ogawa",
+        "Profession": "Interprète",
+        "InterventionNote": "Noriko Ogawa : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-06-19T02:26:04+02:00",
+      "composer": "http://data.doremus.org/artist/318f3950-2d1e-3952-9c55-24647503c5c2"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:37:37:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite for toy piano : 1er mouvement - pour piano jouet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite for toy piano : 1er mouvement - pour piano jouet",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 221",
+      "ExternalID": "0764593022121-1-1",
+      "AlbumTitle": "She herself alone",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593022121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Margaret Leng Tan",
+        "Profession": "Interprète",
+        "InterventionNote": "Margaret Leng Tan : Piano jouet",
+        "mop": "Piano jouet"
+      },
+      "ScheduledDateTime": "2017-06-19T02:37:37+02:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/0ae6762c-009e-3944-85b6-110d6a4337c8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:39:04:00",
+      "ScheduledDuration": "00:01:37:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite for toy piano : 2ème mouvement - pour piano jouet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite for toy piano : 2ème mouvement - pour piano jouet",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 221",
+      "ExternalID": "0764593022121-1-2",
+      "AlbumTitle": "She herself alone",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593022121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Margaret Leng Tan",
+        "Profession": "Interprète",
+        "InterventionNote": "Margaret Leng Tan : Piano jouet",
+        "mop": "Piano jouet"
+      },
+      "ScheduledDateTime": "2017-06-19T02:39:04+02:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/0ae6762c-009e-3944-85b6-110d6a4337c8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:40:41:00",
+      "ScheduledDuration": "00:01:35:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite for toy piano : 3ème mouvement - pour piano jouet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite for toy piano : 3ème mouvement - pour piano jouet",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 221",
+      "ExternalID": "0764593022121-1-3",
+      "AlbumTitle": "She herself alone",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593022121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Margaret Leng Tan",
+        "Profession": "Interprète",
+        "InterventionNote": "Margaret Leng Tan : Piano jouet",
+        "mop": "Piano jouet"
+      },
+      "ScheduledDateTime": "2017-06-19T02:40:41+02:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/0ae6762c-009e-3944-85b6-110d6a4337c8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:42:16:00",
+      "ScheduledDuration": "00:01:22:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite for toy piano : 4ème mouvement - pour piano jouet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite for toy piano : 4ème mouvement - pour piano jouet",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 221",
+      "ExternalID": "0764593022121-1-4",
+      "AlbumTitle": "She herself alone",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593022121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Margaret Leng Tan",
+        "Profession": "Interprète",
+        "InterventionNote": "Margaret Leng Tan : Piano jouet",
+        "mop": "Piano jouet"
+      },
+      "ScheduledDateTime": "2017-06-19T02:42:16+02:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/0ae6762c-009e-3944-85b6-110d6a4337c8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:43:38:00",
+      "ScheduledDuration": "00:01:04:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite for toy piano : 5ème mouvement - pour piano jouet",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite for toy piano : 5ème mouvement - pour piano jouet",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 221",
+      "ExternalID": "0764593022121-1-5",
+      "AlbumTitle": "She herself alone",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593022121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Margaret Leng Tan",
+        "Profession": "Interprète",
+        "InterventionNote": "Margaret Leng Tan : Piano jouet",
+        "mop": "Piano jouet"
+      },
+      "ScheduledDateTime": "2017-06-19T02:43:38+02:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/0ae6762c-009e-3944-85b6-110d6a4337c8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:44:42:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "American songbook VI : Put my little shoes away - arrangement pour voix piano jouet et quatuor de percussions jouets",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "American songbook VI : Put my little shoes away - arrangement pour voix piano jouet et quatuor de percussions jouets",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 221",
+      "ExternalID": "0764593022121-1-13",
+      "AlbumTitle": "She herself alone",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593022121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Margaret Leng Tan",
+        "Profession": "Interprète",
+        "InterventionNote": "Margaret Leng Tan : Piano jouet",
+        "mop": "Piano jouet"
+      },
+      "ScheduledDateTime": "2017-06-19T02:44:42+02:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/3a4c4cb9-ce16-38cc-b532-236807a7a729",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-06-19",
+      "ScheduledTime": "02:48:53:00",
+      "ScheduledDuration": "00:13:03:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gesang der Jünglinge",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gesang der Jünglinge",
+      "Label": "LTM RECORDINGS",
+      "ReferenceLabel": "LTMCD 2569",
+      "ExternalID": "0708527256923-2-9",
+      "AlbumTitle": "A young person's guide to the avant-garde",
+      "Rank": 9,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0708527256923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Karlheinz Stockhausen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-06-19T02:48:53+02:00",
+      "composer": "http://data.doremus.org/artist/a8009434-ef08-30f7-820a-134008b221f3"
+    }
+  ],
+  "total": 32,
+  "matched": 6
+}

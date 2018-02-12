@@ -1,0 +1,2675 @@
+{
+  "id": "FM-406_20170724_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:02:47:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hommage a Ferenc 70",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hommage a Ferenc 70",
+      "Label": "STRA",
+      "ReferenceLabel": "STR 33785",
+      "ExternalID": "8011570337856-1-15",
+      "AlbumTitle": "Kurtag solbiati francesconi : Oeuvres pour cimbalom",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570337856",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Luigi Gaggero",
+        "Profession": "Interprète",
+        "InterventionNote": "Luigi Gaggero"
+      },
+      "ScheduledDateTime": "2017-07-24T00:00:23+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:03:33:00",
+      "ScheduledDuration": "00:16:21:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Samuel Beckett What is the Word op 30b - pour contralto ensemble vocal et orchestre de chambre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Samuel Beckett What is the Word op 30b - pour contralto ensemble vocal et orchestre de chambre",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM250507",
+      "ExternalID": "0028948128839-2-7",
+      "AlbumTitle": "György Kurtag : Intégrale des oeuvres pour ensemble et choeur",
+      "Rank": 7,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128839",
+      "Interpreter": [
+        {
+          "FullName": "Gyorgy Kurtág",
+          "Profession": "Interprète"
+        },
+        {
+          "FullName": "Reinbert De Leeuw",
+          "Profession": "Interprète",
+          "InterventionNote": "Reinbert De Leeuw"
+        },
+        {
+          "FullName": "Ensemble Asko Schonberg",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Asko Schonberg"
+        },
+        {
+          "FullName": "Gerrie De Vries",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerrie De Vries : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur De La Radio Neerlandaise",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-07-24T00:03:33+02:00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:19:54:00",
+      "ScheduledDuration": "00:05:09:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto de chambre : Corrente - pour 13 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto de chambre : Corrente - pour 13 instruments",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM26",
+      "ISRC": "FR-4KC-16-00007",
+      "ExternalID": "3149028088526-1-7",
+      "AlbumTitle": "György Ligeti : 6 bagatelles Kammerkonzert et 10 pièces pour quintette à vent",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028088526",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Siecles",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Siecles"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:19:54+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:25:03:00",
+      "ScheduledDuration": "00:06:08:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto de chambre : Calmo sostenuto - pour 13 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto de chambre : Calmo sostenuto - pour 13 instruments",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM26",
+      "ISRC": "FR-4KC-16-00008",
+      "ExternalID": "3149028088526-1-8",
+      "AlbumTitle": "György Ligeti : 6 bagatelles Kammerkonzert et 10 pièces pour quintette à vent",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028088526",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Siecles",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Siecles"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:25:03+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:31:11:00",
+      "ScheduledDuration": "00:03:44:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto de chambre : Movimento preciso e meccanico - pour 13 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto de chambre : Movimento preciso e meccanico - pour 13 instruments",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM26",
+      "ISRC": "FR-4KC-16-00009",
+      "ExternalID": "3149028088526-1-9",
+      "AlbumTitle": "György Ligeti : 6 bagatelles Kammerkonzert et 10 pièces pour quintette à vent",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028088526",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Siecles",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Siecles"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:31:11+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:34:55:00",
+      "ScheduledDuration": "00:03:21:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto de chambre : Presto - pour 13 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto de chambre : Presto - pour 13 instruments",
+      "Label": "MUSICALES ACTES SUD",
+      "ReferenceLabel": "ASM26",
+      "ISRC": "FR-4KC-16-00010",
+      "ExternalID": "3149028088526-1-10",
+      "AlbumTitle": "György Ligeti : 6 bagatelles Kammerkonzert et 10 pièces pour quintette à vent",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149028088526",
+      "EditorialComment": "Import iRF [[ Fournisseur=harmonia mundi ]]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Les Siecles",
+        "Profession": "Interprète",
+        "InterventionNote": "Les Siecles"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francois Xavier Roth",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:34:55+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:38:22:00",
+      "ScheduledDuration": "00:03:17:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Orokmozgo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Orokmozgo",
+      "Label": "ECM",
+      "ReferenceLabel": "453511-2",
+      "ExternalID": "0028945351124-1-9",
+      "AlbumTitle": "Gyorgy Kurtag : Jatekok (Jeux)",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945351124",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gyorgy Kurtág",
+          "Profession": "Interprète",
+          "InterventionNote": "Gyorgy Kurtág : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marta Kurtag",
+          "Profession": "Interprète",
+          "InterventionNote": "Marta Kurtag : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T00:38:22+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:42:06:00",
+      "ScheduledDuration": "00:09:17:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Grabstein für Stephan op 15c - pour guitare et groupes instrumentaux dispersés dans l'espace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Grabstein für Stephan op 15c - pour guitare et groupes instrumentaux dispersés dans l'espace",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM250507",
+      "ExternalID": "0028948128839-1-9",
+      "AlbumTitle": "György Kurtag : Intégrale des oeuvres pour ensemble et choeur",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128839",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Elliott Simpson",
+        "Profession": "Interprète",
+        "InterventionNote": "Elliott Simpson : Guitare électrique",
+        "mop": "Guitare électrique"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Asko Schonberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinbert De Leeuw",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:42:06+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:51:23:00",
+      "ScheduledDuration": "00:00:54:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musica ricercata : Allegro molto capriccioso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musica ricercata : Allegro molto capriccioso",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6757 2",
+      "ExternalID": "4010228675726-1-6",
+      "AlbumTitle": "Gyorgy Ligeti : Volumina et autres oeuvres pour orgue",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228675726",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dominik Susteck",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominik Susteck : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-07-24T00:51:23+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:52:40:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Praeludium - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Praeludium - pour violon et orchestre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA217",
+      "ExternalID": "3760014192173-2-8",
+      "AlbumTitle": "L'Ensemble Intercontemporain interprète Bartok et Ligeti",
+      "Rank": 8,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192173",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeanne Marie Conquer",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeanne Marie Conquer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matthias Pintscher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:52:40+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "00:56:23:00",
+      "ScheduledDuration": "00:07:08:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Aria - Hoquetus - Choral - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Aria - Hoquetus - Choral - pour violon et orchestre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA217",
+      "ExternalID": "3760014192173-2-9",
+      "AlbumTitle": "L'Ensemble Intercontemporain interprète Bartok et Ligeti",
+      "Rank": 9,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192173",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeanne Marie Conquer",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeanne Marie Conquer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matthias Pintscher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T00:56:23+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:03:31:00",
+      "ScheduledDuration": "00:02:28:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Intermezzo - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Intermezzo - pour violon et orchestre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA217",
+      "ExternalID": "3760014192173-2-10",
+      "AlbumTitle": "L'Ensemble Intercontemporain interprète Bartok et Ligeti",
+      "Rank": 10,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192173",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeanne Marie Conquer",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeanne Marie Conquer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matthias Pintscher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:03:31+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:05:59:00",
+      "ScheduledDuration": "00:06:39:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Passacaglia - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Passacaglia - pour violon et orchestre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA217",
+      "ExternalID": "3760014192173-2-11",
+      "AlbumTitle": "L'Ensemble Intercontemporain interprète Bartok et Ligeti",
+      "Rank": 11,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192173",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeanne Marie Conquer",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeanne Marie Conquer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matthias Pintscher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:05:59+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:12:38:00",
+      "ScheduledDuration": "00:07:58:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto : Appassionato - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto : Appassionato - pour violon et orchestre",
+      "Label": "ALPHA (ET MBM) @",
+      "ReferenceLabel": "ALPHA217",
+      "ExternalID": "3760014192173-2-12",
+      "AlbumTitle": "L'Ensemble Intercontemporain interprète Bartok et Ligeti",
+      "Rank": 12,
+      "NumVolume": 2,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760014192173",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeanne Marie Conquer",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeanne Marie Conquer : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Matthias Pintscher",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:12:38+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:21:01:00",
+      "ScheduledDuration": "00:01:51:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quasi una fantasia op 27 n°1 : 1. Introduzione - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quasi una fantasia op 27 n°1 : 1. Introduzione - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM250507",
+      "ExternalID": "0028948128839-2-1",
+      "AlbumTitle": "György Kurtag : Intégrale des oeuvres pour ensemble et choeur",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128839",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tamara Stefanovich",
+        "Profession": "Interprète",
+        "InterventionNote": "Tamara Stefanovich : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Asko Schonberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinbert De Leeuw",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:21:01+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:22:52:00",
+      "ScheduledDuration": "00:01:33:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quasi una fantasia op 27 n°1 : 2. Presto minaccioso e lamentoso - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quasi una fantasia op 27 n°1 : 2. Presto minaccioso e lamentoso - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM250507",
+      "ExternalID": "0028948128839-2-2",
+      "AlbumTitle": "György Kurtag : Intégrale des oeuvres pour ensemble et choeur",
+      "Rank": 2,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128839",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tamara Stefanovich",
+        "Profession": "Interprète",
+        "InterventionNote": "Tamara Stefanovich : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Asko Schonberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinbert De Leeuw",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:22:52+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:24:25:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quasi una fantasia op 27 n°1 : 3. Recitativo - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quasi una fantasia op 27 n°1 : 3. Recitativo - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM250507",
+      "ExternalID": "0028948128839-2-3",
+      "AlbumTitle": "György Kurtag : Intégrale des oeuvres pour ensemble et choeur",
+      "Rank": 3,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128839",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tamara Stefanovich",
+        "Profession": "Interprète",
+        "InterventionNote": "Tamara Stefanovich : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Asko Schonberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinbert De Leeuw",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:24:25+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:26:15:00",
+      "ScheduledDuration": "00:03:46:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quasi una fantasia op 27 n°1 : 4. Aria - Adagio molto - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quasi una fantasia op 27 n°1 : 4. Aria - Adagio molto - pour piano et groupes instrumentaux dispersés dans l'espace",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM250507",
+      "ExternalID": "0028948128839-2-4",
+      "AlbumTitle": "György Kurtag : Intégrale des oeuvres pour ensemble et choeur",
+      "Rank": 4,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948128839",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Tamara Stefanovich",
+        "Profession": "Interprète",
+        "InterventionNote": "Tamara Stefanovich : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Asko Schonberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinbert De Leeuw",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:26:15+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:30:01:00",
+      "ScheduledDuration": "00:02:18:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Un brin de bruyere",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Un brin de bruyere",
+      "Label": "STRA",
+      "ReferenceLabel": "STR 33785",
+      "ExternalID": "8011570337856-1-1",
+      "AlbumTitle": "Kurtag solbiati francesconi : Oeuvres pour cimbalom",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570337856",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Luigi Gaggero",
+        "Profession": "Interprète",
+        "InterventionNote": "Luigi Gaggero"
+      },
+      "ScheduledDateTime": "2017-07-24T01:30:01+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:32:47:00",
+      "ScheduledDuration": "00:25:52:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Messages de feu Demoiselle RV Troussova op 17 - pour soprano et ensemble de chambre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Messages de feu Demoiselle RV Troussova op 17 - pour soprano et ensemble de chambre",
+      "Label": "ERATO",
+      "ReferenceLabel": "2292-45410-2",
+      "ExternalID": "0022924541025-1-1",
+      "AlbumTitle": "Pierre Boulez dirige Kurtag Birwhistle et Grisey",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0022924541025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Adrienne Csengery",
+        "Profession": "Interprète",
+        "InterventionNote": "Adrienne Csengery : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Intercontemporain",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Boulez",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T01:32:47+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "01:58:47:00",
+      "ScheduledDuration": "00:03:08:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Musica ricercata : Rubato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Musica ricercata : Rubato",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6757 2",
+      "ExternalID": "4010228675726-1-5",
+      "AlbumTitle": "Gyorgy Ligeti : Volumina et autres oeuvres pour orgue",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228675726",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dominik Susteck",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominik Susteck : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-07-24T01:58:47+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:01:55:00",
+      "ScheduledDuration": "00:05:22:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°2 : Allegro nervoso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°2 : Allegro nervoso",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1332",
+      "ExternalID": "3760058360323-1-2",
+      "AlbumTitle": "György Ligeti : Métamorphoses nocturnes et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Bela",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Bela"
+        },
+        {
+          "FullName": "Julien Dieudegard",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Dieudegard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Frederic Aurier",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederic Aurier : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julian Boutin",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Boutin : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Luc Dedreuil-Monet",
+          "Profession": "Interprète",
+          "InterventionNote": "Luc Dedreuil-Monet : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:01:55+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:07:17:00",
+      "ScheduledDuration": "00:04:50:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°2 : Sostenuto molto calmo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°2 : Sostenuto molto calmo",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1332",
+      "ExternalID": "3760058360323-1-3",
+      "AlbumTitle": "György Ligeti : Métamorphoses nocturnes et autres oeuvres",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Bela",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Bela"
+        },
+        {
+          "FullName": "Julien Dieudegard",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Dieudegard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Frederic Aurier",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederic Aurier : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julian Boutin",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Boutin : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Luc Dedreuil-Monet",
+          "Profession": "Interprète",
+          "InterventionNote": "Luc Dedreuil-Monet : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:07:17+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:12:07:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°2 : Come un meccanismo di precisione",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°2 : Come un meccanismo di precisione",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1332",
+      "ExternalID": "3760058360323-1-4",
+      "AlbumTitle": "György Ligeti : Métamorphoses nocturnes et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Bela",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Bela"
+        },
+        {
+          "FullName": "Julien Dieudegard",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Dieudegard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Frederic Aurier",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederic Aurier : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julian Boutin",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Boutin : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Luc Dedreuil-Monet",
+          "Profession": "Interprète",
+          "InterventionNote": "Luc Dedreuil-Monet : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:12:07+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:15:21:00",
+      "ScheduledDuration": "00:02:10:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°2 : Presto furioso brutale tumultuoso",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°2 : Presto furioso brutale tumultuoso",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1332",
+      "ExternalID": "3760058360323-1-5",
+      "AlbumTitle": "György Ligeti : Métamorphoses nocturnes et autres oeuvres",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Bela",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Bela"
+        },
+        {
+          "FullName": "Julien Dieudegard",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Dieudegard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Frederic Aurier",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederic Aurier : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julian Boutin",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Boutin : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Luc Dedreuil-Monet",
+          "Profession": "Interprète",
+          "InterventionNote": "Luc Dedreuil-Monet : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:15:21+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:17:31:00",
+      "ScheduledDuration": "00:05:25:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°2 : Allegro con delicatezza - Wie aus die Ferne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°2 : Allegro con delicatezza - Wie aus die Ferne",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1332",
+      "ExternalID": "3760058360323-1-6",
+      "AlbumTitle": "György Ligeti : Métamorphoses nocturnes et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Bela",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Bela"
+        },
+        {
+          "FullName": "Julien Dieudegard",
+          "Profession": "Interprète",
+          "InterventionNote": "Julien Dieudegard : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Frederic Aurier",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederic Aurier : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Julian Boutin",
+          "Profession": "Interprète",
+          "InterventionNote": "Julian Boutin : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Luc Dedreuil-Monet",
+          "Profession": "Interprète",
+          "InterventionNote": "Luc Dedreuil-Monet : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:17:31+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:23:26:00",
+      "ScheduledDuration": "00:00:30:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hempergos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hempergos",
+      "Label": "ECM",
+      "ReferenceLabel": "453511-2",
+      "ExternalID": "0028945351124-1-27",
+      "AlbumTitle": "Gyorgy Kurtag : Jatekok (Jeux)",
+      "Rank": 27,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945351124",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gyorgy Kurtág",
+          "Profession": "Interprète",
+          "InterventionNote": "Gyorgy Kurtág : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marta Kurtag",
+          "Profession": "Interprète",
+          "InterventionNote": "Marta Kurtag : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:23:26+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:23:56:00",
+      "ScheduledDuration": "00:00:46:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hommage à Kurtag Marta",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hommage à Kurtag Marta",
+      "Label": "ECM",
+      "ReferenceLabel": "453511-2",
+      "ExternalID": "0028945351124-1-28",
+      "AlbumTitle": "Gyorgy Kurtag : Jatekok (Jeux)",
+      "Rank": 28,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945351124",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gyorgy Kurtág",
+          "Profession": "Interprète",
+          "InterventionNote": "Gyorgy Kurtág : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marta Kurtag",
+          "Profession": "Interprète",
+          "InterventionNote": "Marta Kurtag : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:23:56+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:24:42:00",
+      "ScheduledDuration": "00:03:55:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Choral BWV 618 : O lamm gottes unschuldig",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Choral BWV 618 : O lamm gottes unschuldig",
+      "Label": "ECM",
+      "ReferenceLabel": "453511-2",
+      "ExternalID": "0028945351124-1-29",
+      "AlbumTitle": "Gyorgy Kurtag : Jatekok (Jeux)",
+      "Rank": 29,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945351124",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gyorgy Kurtág",
+          "Profession": "Interprète",
+          "InterventionNote": "Gyorgy Kurtág : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marta Kurtag",
+          "Profession": "Interprète",
+          "InterventionNote": "Marta Kurtag : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:24:42+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/ba15788d-24cd-3783-8265-bffe4f4b6554",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:28:37:00",
+      "ScheduledDuration": "00:00:57:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petruska idezese",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petruska idezese",
+      "Label": "ECM",
+      "ReferenceLabel": "453511-2",
+      "ExternalID": "0028945351124-1-30",
+      "AlbumTitle": "Gyorgy Kurtag : Jatekok (Jeux)",
+      "Rank": 30,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028945351124",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Gyorgy Kurtág",
+          "Profession": "Interprète",
+          "InterventionNote": "Gyorgy Kurtág : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marta Kurtag",
+          "Profession": "Interprète",
+          "InterventionNote": "Marta Kurtag : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:28:37+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:29:34:00",
+      "ScheduledDuration": "00:09:51:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lux aeterna - pour 16 voix a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lux aeterna - pour 16 voix a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 901985",
+      "ExternalID": "0794881892723-1-2",
+      "AlbumTitle": "Ligeti : Lux aeterna",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0794881892723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Choir": {
+        "EntityName": "Cappella Amsterdam",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Daniel Reuss",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T02:29:34+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:39:29:00",
+      "ScheduledDuration": "00:02:22:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Molto sostenuto e calmo - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Molto sostenuto e calmo - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-10",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:39:29+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:41:51:00",
+      "ScheduledDuration": "00:00:48:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Prestissimo minaccioso e burlesco - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Prestissimo minaccioso e burlesco - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-11",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:41:51+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:42:39:00",
+      "ScheduledDuration": "00:01:41:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Lento - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Lento - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-12",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:42:39+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:44:20:00",
+      "ScheduledDuration": "00:00:51:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Prestissimo leggiero e virtuoso - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Prestissimo leggiero e virtuoso - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-13",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:44:20+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:45:11:00",
+      "ScheduledDuration": "00:00:30:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Prestissimo staccatissimo e leggiero - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Prestissimo staccatissimo e leggiero - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-14",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:45:11+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:45:41:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Prestissimo staccatissimo e leggiero - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Prestissimo staccatissimo e leggiero - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-15",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:45:41+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:46:44:00",
+      "ScheduledDuration": "00:01:02:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Vivo energico - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Vivo energico - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-16",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:46:44+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:47:46:00",
+      "ScheduledDuration": "00:02:44:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Allegro con delicatezza - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Allegro con delicatezza - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-17",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:47:46+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:50:30:00",
+      "ScheduledDuration": "00:01:09:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Sostenuto stridente - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Sostenuto stridente - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-18",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:50:30+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:51:39:00",
+      "ScheduledDuration": "00:01:09:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "10 pièces : Presto bizzarro e rubato - pour quintette à vent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "10 pièces : Presto bizzarro e rubato - pour quintette à vent",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-1503",
+      "ExternalID": "7318590015032-1-19",
+      "AlbumTitle": "A Ligeti Odyssey / György Ligeti : Oeuvres de 1948 à 2001",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590015032",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quintette A Vent Du Philharmonique De Berlin",
+          "Profession": "Interprète",
+          "InterventionNote": "Quintette A Vent Du Philharmonique De Berlin"
+        },
+        {
+          "FullName": "Michael Hasel",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Hasel : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Andreas Wittmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Wittmann : Hautbois",
+          "mop": "Hautbois"
+        },
+        {
+          "FullName": "Walter Seyfarth",
+          "Profession": "Interprète",
+          "InterventionNote": "Walter Seyfarth : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Fergus Mac William",
+          "Profession": "Interprète",
+          "InterventionNote": "Fergus Mac William : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Henning Trog",
+          "Profession": "Interprète",
+          "InterventionNote": "Henning Trog : Basson",
+          "mop": "Basson"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-24T02:51:39+02:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:53:17:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stele op 33 : Adagio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stele op 33 : Adagio",
+      "Label": "DGG (DEUTSCHE GRAMOPHON)",
+      "ReferenceLabel": "447761-2",
+      "ExternalID": "0028944776126-1-3",
+      "AlbumTitle": "Claudio Abbado dirige Stockhausen et Kurtag",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944776126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T02:53:17+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:55:48:00",
+      "ScheduledDuration": "00:04:07:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stele op 33 : Lamentoso - disperato, con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stele op 33 : Lamentoso - disperato, con moto",
+      "Label": "DGG (DEUTSCHE GRAMOPHON)",
+      "ReferenceLabel": "447761-2",
+      "ExternalID": "0028944776126-1-4",
+      "AlbumTitle": "Claudio Abbado dirige Stockhausen et Kurtag",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944776126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T02:55:48+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-24",
+      "ScheduledTime": "02:59:55:00",
+      "ScheduledDuration": "00:05:55:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stele op 33 : Molto sostenuto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stele op 33 : Molto sostenuto",
+      "Label": "DGG (DEUTSCHE GRAMOPHON)",
+      "ReferenceLabel": "447761-2",
+      "ExternalID": "0028944776126-1-5",
+      "AlbumTitle": "Claudio Abbado dirige Stockhausen et Kurtag",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944776126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-24T02:59:55+02:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    }
+  ],
+  "total": 44,
+  "matched": 1
+}

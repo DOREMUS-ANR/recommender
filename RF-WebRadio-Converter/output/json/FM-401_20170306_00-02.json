@@ -1,0 +1,1552 @@
+{
+  "id": "FM-401_20170306_00-02",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:03:57:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Electre op 85 : Introduction (1ère partie) (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Electre op 85 : Introduction (1ère partie) (instrumental)",
+      "Label": "K617 PRODUCTIONS",
+      "ReferenceLabel": "K 617092",
+      "ExternalID": "3383510000928-1-1",
+      "AlbumTitle": "Electre (Intégrale)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Opéra",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383510000928",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Theodore Gouvy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Et Lyrique De Nancy",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "Choeur De L'Opera De Nancy Et De Lorraine",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Ensemble Vocal Ars Musica",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Psallette De Lorraine",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Pierre Cao",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:00:23+01:00",
+      "composer": "http://data.doremus.org/artist/b88bc17f-6f08-3be7-8463-4ad67bbbeebf",
+      "best": "http://data.doremus.org/expression/09720a31-043a-3553-97a8-8648cd3b6712",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:04:20:00",
+      "ScheduledDuration": "00:04:45:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quintette à vent en Ré Maj op 91 n°3 : Adagio - pour flûte traversière clarinette hautbois cor et basson",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quintette à vent en Ré Maj op 91 n°3 : Adagio - pour flûte traversière clarinette hautbois cor et basson",
+      "Label": "ARS MUSICI",
+      "ExternalID": "RF00000031205-1-11",
+      "AlbumTitle": "Quintettes à vents de Haydn Hindemith Reicha et Villa Lobos",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000031205",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Reicha",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quintette Arcis",
+        "Profession": "Interprète",
+        "InterventionNote": "Quintette Arcis"
+      },
+      "ScheduledDateTime": "2017-03-06T00:04:20+01:00",
+      "composer": "http://data.doremus.org/artist/6e270830-b051-3d6f-aff0-ce0d920fcb39"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:09:05:00",
+      "ScheduledDuration": "00:06:41:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quintette à vent en Ré Maj op 91 n°3 : Lento - Allegro assai - pour flûte traversière clarinette hautbois cor et basson",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quintette à vent en Ré Maj op 91 n°3 : Lento - Allegro assai - pour flûte traversière clarinette hautbois cor et basson",
+      "Label": "ARS MUSICI",
+      "ExternalID": "RF00000031205-1-10",
+      "AlbumTitle": "Quintettes à vents de Haydn Hindemith Reicha et Villa Lobos",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000031205",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Reicha",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quintette Arcis",
+        "Profession": "Interprète",
+        "InterventionNote": "Quintette Arcis"
+      },
+      "ScheduledDateTime": "2017-03-06T00:09:05+01:00",
+      "composer": "http://data.doremus.org/artist/6e270830-b051-3d6f-aff0-ce0d920fcb39"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:15:46:00",
+      "ScheduledDuration": "00:03:16:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quintette à vent en Ré Maj op 91 n°3 : Scherzo - pour flûte traversière clarinette hautbois cor et basson",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quintette à vent en Ré Maj op 91 n°3 : Scherzo - pour flûte traversière clarinette hautbois cor et basson",
+      "Label": "ARS MUSICI",
+      "ExternalID": "RF00000031205-1-12",
+      "AlbumTitle": "Quintettes à vents de Haydn Hindemith Reicha et Villa Lobos",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000031205",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Reicha",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quintette Arcis",
+        "Profession": "Interprète",
+        "InterventionNote": "Quintette Arcis"
+      },
+      "ScheduledDateTime": "2017-03-06T00:15:46+01:00",
+      "composer": "http://data.doremus.org/artist/6e270830-b051-3d6f-aff0-ce0d920fcb39"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:19:02:00",
+      "ScheduledDuration": "00:04:56:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quintette à vent en Ré Maj op 91 n°3 : Allegretto - pour flûte traversière clarinette hautbois cor et basson",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quintette à vent en Ré Maj op 91 n°3 : Allegretto - pour flûte traversière clarinette hautbois cor et basson",
+      "Label": "ARS MUSICI",
+      "ExternalID": "RF00000031205-1-13",
+      "AlbumTitle": "Quintettes à vents de Haydn Hindemith Reicha et Villa Lobos",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000031205",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Reicha",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quintette Arcis",
+        "Profession": "Interprète",
+        "InterventionNote": "Quintette Arcis"
+      },
+      "ScheduledDateTime": "2017-03-06T00:19:02+01:00",
+      "composer": "http://data.doremus.org/artist/6e270830-b051-3d6f-aff0-ce0d920fcb39"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:24:02:00",
+      "ScheduledDuration": "00:22:56:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Ré Maj op 61 : Allegro ma non tro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Ré Maj op 61 : Allegro ma non tro",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902105",
+      "ExternalID": "3149020210529-1-3",
+      "AlbumTitle": "Alban Berg et Ludwig van Beethoven : Concertos pour violon",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020210529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Isabelle Faust",
+        "Profession": "Interprète",
+        "InterventionNote": "Isabelle Faust : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Mozart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:24:02+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:46:58:00",
+      "ScheduledDuration": "00:09:22:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Ré Maj op 61 : Larghetto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Ré Maj op 61 : Larghetto",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902105",
+      "ExternalID": "3149020210529-1-4",
+      "AlbumTitle": "Alban Berg et Ludwig van Beethoven : Concertos pour violon",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020210529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Isabelle Faust",
+        "Profession": "Interprète",
+        "InterventionNote": "Isabelle Faust : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Mozart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:46:58+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "00:56:20:00",
+      "ScheduledDuration": "00:08:34:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto en Ré Maj op 61 : Rondo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto en Ré Maj op 61 : Rondo",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMC 902105",
+      "ExternalID": "3149020210529-1-5",
+      "AlbumTitle": "Alban Berg et Ludwig van Beethoven : Concertos pour violon",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020210529",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Isabelle Faust",
+        "Profession": "Interprète",
+        "InterventionNote": "Isabelle Faust : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Mozart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T00:56:20+01:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:04:57:00",
+      "ScheduledDuration": "00:08:23:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Comala : Still ist die Jagd (Comala Melicoma Dersagrena choeur)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Comala : Still ist die Jagd (Comala Melicoma Dersagrena choeur)",
+      "Label": "KONTRAPUNKT",
+      "ReferenceLabel": "32180",
+      "ExternalID": "0716043218028-1-7",
+      "AlbumTitle": "Comala op 12 (intégrale)",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0716043218028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Niels Wilhelm Gade",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Anne Margrethe Dahl",
+          "Profession": "Interprète",
+          "InterventionNote": "Anne Margrethe Dahl : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Elisabeth Halling",
+          "Profession": "Interprète",
+          "InterventionNote": "Elisabeth Halling : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Hitomi Katagiri",
+          "Profession": "Interprète",
+          "InterventionNote": "Hitomi Katagiri : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Du Jutland Du Sud",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Canzone",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frans Rasmussen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:04:57+01:00",
+      "composer": "http://data.doremus.org/artist/358c2f16-4b84-37f9-81cb-640b635fbc99"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:13:20:00",
+      "ScheduledDuration": "00:04:49:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Comala : Wir wandeln auf dem Sturm durch's Feld (Choeur Comala)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Comala : Wir wandeln auf dem Sturm durch's Feld (Choeur Comala)",
+      "Label": "KONTRAPUNKT",
+      "ReferenceLabel": "32180",
+      "ExternalID": "0716043218028-1-8",
+      "AlbumTitle": "Comala op 12 (intégrale)",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0716043218028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Niels Wilhelm Gade",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Anne Margrethe Dahl",
+          "Profession": "Interprète",
+          "InterventionNote": "Anne Margrethe Dahl : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Elisabeth Halling",
+          "Profession": "Interprète",
+          "InterventionNote": "Elisabeth Halling : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Hitomi Katagiri",
+          "Profession": "Interprète",
+          "InterventionNote": "Hitomi Katagiri : Contralto",
+          "mop": "Contralto"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Du Jutland Du Sud",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Canzone",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frans Rasmussen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:13:20+01:00",
+      "composer": "http://data.doremus.org/artist/358c2f16-4b84-37f9-81cb-640b635fbc99"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:18:09:00",
+      "ScheduledDuration": "00:07:38:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sérénade italienne en Sol Maj - pour cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sérénade italienne en Sol Maj - pour cordes",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "434108-2",
+      "ExternalID": "0028943410823-1-5",
+      "AlbumTitle": "Tchaikovsky et Wolf : Sérénades",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943410823",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hugo Wolf",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Semyon Bychkov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:18:09+01:00",
+      "composer": "http://data.doremus.org/artist/9746c711-322d-34dc-9cc1-1cd19e7f39c0",
+      "best": "http://data.doremus.org/expression/bf1eaf28-096d-3891-af84-229bfc1a9dff",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:25:47:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gloria RV 589 : Domine Deus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gloria RV 589 : Domine Deus",
+      "Label": "EMI",
+      "ReferenceLabel": "CDC 7479902",
+      "ExternalID": "0077774799027-1-17",
+      "AlbumTitle": "Antonio Vivaldi : Gloria rv 589 et magnificat rv 611",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "1977-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0077774799027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Antonio Vivaldi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Teresa Berganza",
+        "Profession": "Interprète",
+        "InterventionNote": "Teresa Berganza : Mezzo-soprano",
+        "mop": "Mezzo-soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Philharmonia Chorus",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Riccardo Muti",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:25:47+01:00",
+      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0",
+      "best": "http://data.doremus.org/expression/dd6b13c6-2184-3f29-b16e-8c11ed1bf990",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:29:39:00",
+      "ScheduledDuration": "00:01:35:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantata: Jubilate Domino, part 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantata: Jubilate Domino, part 1",
+      "Label": "ASTREE",
+      "ReferenceLabel": "E 8851",
+      "ExternalID": "0709861088515-1-4",
+      "AlbumTitle": "Buxtehude : Cantates et sonates avec viole de gambe",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0709861088515",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dietrich Buxtehude",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ensemble Baroque De Limoges",
+        "Profession": "Interprète",
+        "InterventionNote": "Ensemble Baroque De Limoges"
+      },
+      "ScheduledDateTime": "2017-03-06T01:29:39+01:00",
+      "composer": "http://data.doremus.org/artist/25973374-a895-3966-9445-8f695ef5a5f0",
+      "best": "http://data.doremus.org/expression/76ad7bd6-cc84-3310-af76-399fd8e062e1",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:31:14:00",
+      "ScheduledDuration": "00:09:13:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Andante con moto en ut min EG 116 - pour violoncelle et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Andante con moto en ut min EG 116 - pour violoncelle et piano",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-2120",
+      "ExternalID": "7318599921204-1-6",
+      "AlbumTitle": "Edvard Grieg : Sonate pour violoncelle et Percy Grainger : Suite scandinave",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599921204",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Edouard Grieg",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Andreas Brantelid",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Brantelid : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Christian Ihle Hadland",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Ihle Hadland : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T01:31:14+01:00",
+      "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
+      "best": "http://data.doremus.org/expression/028cb24c-957b-3b2c-ba41-3a0d40c990b7",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:40:31:00",
+      "ScheduledDuration": "00:12:44:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Tempo giusto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Tempo giusto",
+      "Label": "LONDON SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "LSO0789",
+      "ExternalID": "0822231178927-3-4",
+      "AlbumTitle": "Carl Nielsen : Symphonies n°1 à 6",
+      "Rank": 4,
+      "NumVolume": 3,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231178927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Nielsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Colin Davis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:40:31+01:00",
+      "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
+      "best": "http://data.doremus.org/expression/97add7ae-281b-37bd-825f-81966967a92f",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:53:15:00",
+      "ScheduledDuration": "00:05:18:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Humoreske",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Humoreske",
+      "Label": "LONDON SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "LSO0789",
+      "ExternalID": "0822231178927-3-5",
+      "AlbumTitle": "Carl Nielsen : Symphonies n°1 à 6",
+      "Rank": 5,
+      "NumVolume": 3,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231178927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Nielsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Colin Davis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:53:15+01:00",
+      "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
+      "best": "http://data.doremus.org/expression/97add7ae-281b-37bd-825f-81966967a92f",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "01:58:33:00",
+      "ScheduledDuration": "00:05:39:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Proposta seria",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Proposta seria",
+      "Label": "LONDON SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "LSO0789",
+      "ExternalID": "0822231178927-3-6",
+      "AlbumTitle": "Carl Nielsen : Symphonies n°1 à 6",
+      "Rank": 6,
+      "NumVolume": 3,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231178927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Nielsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Colin Davis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T01:58:33+01:00",
+      "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
+      "best": "http://data.doremus.org/expression/97add7ae-281b-37bd-825f-81966967a92f",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:04:12:00",
+      "ScheduledDuration": "00:11:12:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Tema con variazioni",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Symphonie n°6 FS 116 (Sinfonia semplice) : Tema con variazioni",
+      "Label": "LONDON SYMPHONY ORCHESTRA",
+      "ReferenceLabel": "LSO0789",
+      "ExternalID": "0822231178927-3-7",
+      "AlbumTitle": "Carl Nielsen : Symphonies n°1 à 6",
+      "Rank": 7,
+      "NumVolume": 3,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822231178927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Carl Nielsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Colin Davis",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T02:04:12+01:00",
+      "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
+      "best": "http://data.doremus.org/expression/97add7ae-281b-37bd-825f-81966967a92f",
+      "best_matching_score": "0.89"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:15:27:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en trio en si min pour 2 violons et basse continue : I larghetto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en trio en si min pour 2 violons et basse continue : I larghetto",
+      "Label": "MUSICA SVECIA",
+      "ReferenceLabel": "MSCD 905",
+      "ExternalID": "7392068209055-1-10",
+      "AlbumTitle": "Johan helmich roman : Un portrait musical",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7392068209055",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johan Helmich Roman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Sonnerie",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Sonnerie"
+        },
+        {
+          "FullName": "Monica Huggett",
+          "Profession": "Interprète",
+          "InterventionNote": "Monica Huggett : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Kreeta Maria Kentala",
+          "Profession": "Interprète",
+          "InterventionNote": "Kreeta Maria Kentala : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sarah Cunningham",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Cunningham : Viole de gambe",
+          "mop": "Viole de gambe"
+        },
+        {
+          "FullName": "Gary Cooper",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Cooper : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T02:15:27+01:00",
+      "composer": "http://data.doremus.org/artist/24fabf3e-8b58-3307-a0b3-d18c0cc64a9f"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:18:41:00",
+      "ScheduledDuration": "00:02:46:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en trio en si min pour 2 violons et basse continue : II allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en trio en si min pour 2 violons et basse continue : II allegro",
+      "Label": "MUSICA SVECIA",
+      "ReferenceLabel": "MSCD 905",
+      "ExternalID": "7392068209055-1-11",
+      "AlbumTitle": "Johan helmich roman : Un portrait musical",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7392068209055",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johan Helmich Roman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Sonnerie",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Sonnerie"
+        },
+        {
+          "FullName": "Monica Huggett",
+          "Profession": "Interprète",
+          "InterventionNote": "Monica Huggett : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Kreeta Maria Kentala",
+          "Profession": "Interprète",
+          "InterventionNote": "Kreeta Maria Kentala : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sarah Cunningham",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Cunningham : Viole de gambe",
+          "mop": "Viole de gambe"
+        },
+        {
+          "FullName": "Gary Cooper",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Cooper : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T02:18:41+01:00",
+      "composer": "http://data.doremus.org/artist/24fabf3e-8b58-3307-a0b3-d18c0cc64a9f"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:21:27:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en trio en si min pour 2 violons et basse continue : III andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en trio en si min pour 2 violons et basse continue : III andante",
+      "Label": "MUSICA SVECIA",
+      "ReferenceLabel": "MSCD 905",
+      "ExternalID": "7392068209055-1-12",
+      "AlbumTitle": "Johan helmich roman : Un portrait musical",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7392068209055",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johan Helmich Roman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Sonnerie",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Sonnerie"
+        },
+        {
+          "FullName": "Monica Huggett",
+          "Profession": "Interprète",
+          "InterventionNote": "Monica Huggett : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Kreeta Maria Kentala",
+          "Profession": "Interprète",
+          "InterventionNote": "Kreeta Maria Kentala : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sarah Cunningham",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Cunningham : Viole de gambe",
+          "mop": "Viole de gambe"
+        },
+        {
+          "FullName": "Gary Cooper",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Cooper : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T02:21:27+01:00",
+      "composer": "http://data.doremus.org/artist/24fabf3e-8b58-3307-a0b3-d18c0cc64a9f"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:23:23:00",
+      "ScheduledDuration": "00:03:22:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate en trio en si min pour 2 violons et basse continue : IV allegro",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate en trio en si min pour 2 violons et basse continue : IV allegro",
+      "Label": "MUSICA SVECIA",
+      "ReferenceLabel": "MSCD 905",
+      "ExternalID": "7392068209055-1-13",
+      "AlbumTitle": "Johan helmich roman : Un portrait musical",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7392068209055",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johan Helmich Roman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Sonnerie",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Sonnerie"
+        },
+        {
+          "FullName": "Monica Huggett",
+          "Profession": "Interprète",
+          "InterventionNote": "Monica Huggett : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Kreeta Maria Kentala",
+          "Profession": "Interprète",
+          "InterventionNote": "Kreeta Maria Kentala : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Sarah Cunningham",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Cunningham : Viole de gambe",
+          "mop": "Viole de gambe"
+        },
+        {
+          "FullName": "Gary Cooper",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Cooper : Clavecin",
+          "mop": "Clavecin"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T02:23:23+01:00",
+      "composer": "http://data.doremus.org/artist/24fabf3e-8b58-3307-a0b3-d18c0cc64a9f"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:26:48:00",
+      "ScheduledDuration": "00:17:20:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour violon et orchestre en ré min op 47 : Allegro moderato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour violon et orchestre en ré min op 47 : Allegro moderato",
+      "Label": "DGG",
+      "ReferenceLabel": "477 7346",
+      "ExternalID": "0028947773467-1-4",
+      "AlbumTitle": "Schoenberg / Sibelius / Hahn",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947773467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hilary Hahn",
+        "Profession": "Interprète",
+        "InterventionNote": "Hilary Hahn : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Suedoise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Esa Pekka Salonen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T02:26:48+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/a549d77e-2396-3e28-825a-6288f9563056",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:44:08:00",
+      "ScheduledDuration": "00:08:36:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour violon et orchestre en ré min op 47 : Adagio di molto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour violon et orchestre en ré min op 47 : Adagio di molto",
+      "Label": "DGG",
+      "ReferenceLabel": "477 7346",
+      "ExternalID": "0028947773467-1-5",
+      "AlbumTitle": "Schoenberg / Sibelius / Hahn",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947773467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hilary Hahn",
+        "Profession": "Interprète",
+        "InterventionNote": "Hilary Hahn : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Suedoise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Esa Pekka Salonen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T02:44:08+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/a549d77e-2396-3e28-825a-6288f9563056",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "02:52:44:00",
+      "ScheduledDuration": "00:07:16:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto pour violon et orchestre en ré min op 47 : Allegro ma non tanto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto pour violon et orchestre en ré min op 47 : Allegro ma non tanto",
+      "Label": "DGG",
+      "ReferenceLabel": "477 7346",
+      "ExternalID": "0028947773467-1-6",
+      "AlbumTitle": "Schoenberg / Sibelius / Hahn",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947773467",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Hilary Hahn",
+        "Profession": "Interprète",
+        "InterventionNote": "Hilary Hahn : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Suedoise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Esa Pekka Salonen",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-06T02:52:44+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/a549d77e-2396-3e28-825a-6288f9563056",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "03:00:00:00",
+      "ScheduledDuration": "00:00:45:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Canon en ré min - pour trio à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Canon en ré min - pour trio à cordes",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1924/26",
+      "ExternalID": "7318591924265-4-9",
+      "AlbumTitle": "Jean Sibélius : Intégrale de la musique de chambre / Vol. 2 - Edition Sibelius / Vol. 9",
+      "Rank": 9,
+      "NumVolume": 4,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318591924265",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jaakko Kuusisto",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaakko Kuusisto : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Anna Kreetta Gribajcevic",
+          "Profession": "Interprète",
+          "InterventionNote": "Anna Kreetta Gribajcevic : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Taneli Turunen",
+          "Profession": "Interprète",
+          "InterventionNote": "Taneli Turunen : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-06T03:00:00+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
+      "best": "http://data.doremus.org/expression/dc797437-6a8c-326f-b05a-eb2f25839d07",
+      "best_matching_score": "0.74"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-06",
+      "ScheduledTime": "03:00:45:00",
+      "ScheduledDuration": "00:00:45:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gouttes d'eau pour violon et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gouttes d'eau pour violon et violoncelle",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 850-2",
+      "ExternalID": "0761195085028-1-12",
+      "AlbumTitle": "Sibelius / Early chamber music vol 2",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195085028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sibelius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quatuor Jean Sibelius",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Jean Sibelius"
+      },
+      "ScheduledDateTime": "2017-03-06T03:00:45+01:00",
+      "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74"
+    }
+  ],
+  "total": 27,
+  "matched": 13
+}

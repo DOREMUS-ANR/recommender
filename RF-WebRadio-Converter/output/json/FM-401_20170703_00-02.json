@@ -1,0 +1,2506 @@
+{
+  "id": "FM-401_20170703_00-02",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:05:15:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Taras bulba rapsodie pour orchestre : The death of ostap",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Taras bulba rapsodie pour orchestre : The death of ostap",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "112000",
+      "ExternalID": "8596911200025-1-7",
+      "AlbumTitle": "Janacek / Sinfonietta / Neumann",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8596911200025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Philharmonie Tcheque De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vaclav Neuman",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:00:06+02:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:05:21:00",
+      "ScheduledDuration": "00:03:14:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Procession : Salva stella (rondellus avec percussions)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Procession : Salva stella (rondellus avec percussions)",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD 1103",
+      "ExternalID": "3760058361139-1-1",
+      "AlbumTitle": "Historia Sancti Martini / Grand office solennel de la Saint Martin d'hiver",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058361139",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anonyme Xiiieme Siecle",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Antoine Guerber",
+          "Profession": "Interprète",
+          "InterventionNote": "Antoine Guerber"
+        },
+        {
+          "FullName": "Diabolus In Musica",
+          "Profession": "Interprète",
+          "InterventionNote": "Diabolus In Musica"
+        },
+        {
+          "FullName": "Olivier Germond",
+          "Profession": "Interprète",
+          "InterventionNote": "Olivier Germond : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Branislav Rakic",
+          "Profession": "Interprète",
+          "InterventionNote": "Branislav Rakic : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jean Paul Rigaud",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Paul Rigaud : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Geoffroy Buffière",
+          "Profession": "Interprète",
+          "InterventionNote": "Geoffroy Buffière : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Emmanuel Vistorky",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Vistorky : Baryton-basse (voix)",
+          "mop": "Baryton-basse (voix)"
+        },
+        {
+          "FullName": "Philippe Roche",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Roche : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Non Identifie",
+          "Profession": "Interprète",
+          "InterventionNote": "Non Identifie : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T00:05:21+02:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:08:35:00",
+      "ScheduledDuration": "00:03:13:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Maerchenbilder, op. 113 - contes en images op 113 : Not fast / Pour alto et piano / Integrale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Maerchenbilder, op. 113 - contes en images op 113 : Not fast / Pour alto et piano / Integrale",
+      "Label": "CALA ET CALA RECORDS",
+      "ReferenceLabel": "CACD 0510",
+      "ExternalID": "0667549051025-1-15",
+      "AlbumTitle": "Recital : Cynthia phelps 1er alto de l'orchestre philharmonique de new york",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0667549051025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Cynthia Phelps",
+          "Profession": "Interprète",
+          "InterventionNote": "Cynthia Phelps : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Judith Gordon",
+          "Profession": "Interprète",
+          "InterventionNote": "Judith Gordon : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T00:08:35+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/5dd09efe-bf2e-3519-bfe6-539c367e7e7a",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:11:48:00",
+      "ScheduledDuration": "00:04:18:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Contes de jeunesse op 46 : Hommage à Chopin op 46 n°9",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Contes de jeunesse op 46 : Hommage à Chopin op 46 n°9",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA67803",
+      "ExternalID": "0034571178035-1-29",
+      "AlbumTitle": "Hommage à Chopin",
+      "Rank": 29,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571178035",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Theodor Leschetizky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jonathan Plowright",
+        "Profession": "Interprète",
+        "InterventionNote": "Jonathan Plowright : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T00:11:48+02:00",
+      "composer": "http://data.doremus.org/artist/fa388fe8-9dbf-34c0-a799-f435239d5961",
+      "best": "http://data.doremus.org/expression/72fe1454-62a4-3526-b044-7bdf45dc7674",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:16:06:00",
+      "ScheduledDuration": "00:07:59:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Märchen aus dem Orient op 444 - valse pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Märchen aus dem Orient op 444 - valse pour orchestre",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "88875035492",
+      "ExternalID": "0888750354921-1-2",
+      "AlbumTitle": "Concert du Nouvel An 2015",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888750354921",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Strauss Fils",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Vienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Zubin Mehta",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:16:06+02:00",
+      "composer": "http://data.doremus.org/artist/0fcfbd78-4865-3594-b869-6525f54d855f",
+      "best": "http://data.doremus.org/expression/9ab3d861-1595-37ec-be32-8dd23edf4b89",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:24:09:00",
+      "ScheduledDuration": "00:04:48:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Belle au bois dormant op 66 : Polacca (procession des contes de fees)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Belle au bois dormant op 66 : Polacca (procession des contes de fees)",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "PHPS 420792-2",
+      "ExternalID": "0028942079229-3-2",
+      "AlbumTitle": "La belle au bois dormant op 66",
+      "Rank": 2,
+      "NumVolume": 3,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028942079229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Royal Du Concertgebouw D'Amsterdam",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Antal Dorati",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:24:09+02:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:28:57:00",
+      "ScheduledDuration": "00:07:24:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La légende de la ville invisible de Kitège et de la demoiselle Fevronia : Le cortège nuptial / L'invasion tartare / La bataille des Kerjenets - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La légende de la ville invisible de Kitège et de la demoiselle Fevronia : Le cortège nuptial / L'invasion tartare / La bataille des Kerjenets - pour orchestre",
+      "Label": "MELODIYA",
+      "ReferenceLabel": "MELCD1002480/42",
+      "ExternalID": "RF00000060321-1-2",
+      "AlbumTitle": "Anthology of Russian Symphonic Music : Vol 1 / CD 42",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000060321",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Nicolas Rimski-Korsakov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Maximilian Steinberg",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Maximilian Steinberg : Arrangeur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Television Russe",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Svetlanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:28:57+02:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:36:21:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "L'Arlesiana : E la solita storia (Acte II) Air de Federico - arrangement pour hautbois et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "L'Arlesiana : E la solita storia (Acte II) Air de Federico - arrangement pour hautbois et orchestre",
+      "Label": "DISQUES MUSIART",
+      "ReferenceLabel": "MACD-5842",
+      "ExternalID": "0776693584225-1-9",
+      "AlbumTitle": "Les aventures Amati / Vol.2",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0776693584225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francesco Cilea",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Lise Beauchamp",
+        "Profession": "Interprète",
+        "InterventionNote": "Lise Beauchamp : Hautbois",
+        "mop": "Hautbois"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Amati (orchestre Quebec)",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Raymond Dessaints",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:36:21+02:00",
+      "composer": "http://data.doremus.org/artist/0c965ec4-f91c-34fc-8bf1-d59ed26bdee9",
+      "best": "http://data.doremus.org/expression/f5c0b207-62e5-33f0-b818-b1fd5b7f27cb",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:40:08:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Raymonda op 57 : L'histoire de la Comtesse (Acte I Sc 2)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Raymonda op 57 : L'histoire de la Comtesse (Acte I Sc 2)",
+      "Label": "MELODIYA",
+      "ReferenceLabel": "MLDY 74321496092",
+      "ExternalID": "0743214960929-1-7",
+      "AlbumTitle": "Alexandre Glazounov : Raymonda",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1961-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743214960929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Glazounov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Theatre Bolchoi",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Svetlanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:40:08+02:00",
+      "composer": "http://data.doremus.org/artist/064a15a4-b08d-3300-9b18-91ca4e79671c"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:41:58:00",
+      "ScheduledDuration": "00:03:01:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fairy tale suite \"\"Suite Conte de fée\"\" - pour piano : 1 - the princess \"\"La princesse\"\"",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fairy tale suite \"\"Suite Conte de fée\"\" - pour piano : 1 - the princess \"\"La princesse\"\"",
+      "Label": "SOMM RECORDINGS",
+      "ReferenceLabel": "SOMMCD 082",
+      "ExternalID": "0748871308220-1-1",
+      "AlbumTitle": "Musique pour piano / Vol. 2",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0748871308220",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frank Bridge",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mark Bebbington",
+        "Profession": "Interprète",
+        "InterventionNote": "Mark Bebbington : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T00:41:58+02:00",
+      "composer": "http://data.doremus.org/artist/5ae7ea4a-1b28-3569-af2c-d08df8ca80d0"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:44:59:00",
+      "ScheduledDuration": "00:08:21:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Legende pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Legende pour violon et orchestre",
+      "Label": "UNICORN",
+      "ReferenceLabel": "UNCN DKP CD 9040",
+      "ExternalID": "0000000000744-1-6",
+      "AlbumTitle": "Frederick Delius : Oeuvres pour violon et orchestre",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0000000000744",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederick Delius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Ralph Holmes",
+        "Profession": "Interprète",
+        "InterventionNote": "Ralph Holmes : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Royal Philharmonic Orchestra De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vernon Handley",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:44:59+02:00",
+      "composer": "http://data.doremus.org/artist/f92bcc45-052e-342d-a00b-1b7cdbd89828"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:53:31:00",
+      "ScheduledDuration": "00:02:39:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Su le sponde del tebro pour soprano trompette 2 violons et basse continue : Contentatevi o fidi pensieri (ritournelle et air)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Su le sponde del tebro pour soprano trompette 2 violons et basse continue : Contentatevi o fidi pensieri (ritournelle et air)",
+      "Label": "LIGIA DIGITAL",
+      "ReferenceLabel": "LIDI 0202167-06",
+      "ExternalID": "3487549901673-1-23",
+      "AlbumTitle": "Scarlatti Alessandro / Con voce festiva / Poulenard",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3487549901673",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alessandro Scarlatti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Les Passions",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Marc Andrieu",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:53:31+02:00",
+      "composer": "http://data.doremus.org/artist/d07ec69a-da7c-36ab-a098-44c0cdc9741d"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:56:10:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mors Saülis et Jonathae H 403 - Rumor bellicus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mors Saülis et Jonathae H 403 - Rumor bellicus",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "E 8821",
+      "ExternalID": "3298490088210-1-1",
+      "AlbumTitle": "Trois histoires sacrées",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490088210",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gerard Lesne",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:56:10+02:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/851b76f7-36b7-363e-a2ed-5ca17a99ae3d",
+      "best_matching_score": "0.79"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:57:58:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mors Saülis et Jonathae H 403 - Cecidit repente Saül",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mors Saülis et Jonathae H 403 - Cecidit repente Saül",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "E 8821",
+      "ExternalID": "3298490088210-1-8",
+      "AlbumTitle": "Trois histoires sacrées",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490088210",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marc Antoine Charpentier",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gerard Lesne",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:57:58+02:00",
+      "composer": "http://data.doremus.org/artist/42746cc5-cb57-3b5c-aef3-4855bbadfbe5",
+      "best": "http://data.doremus.org/expression/851b76f7-36b7-363e-a2ed-5ca17a99ae3d",
+      "best_matching_score": "0.79"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "00:59:50:00",
+      "ScheduledDuration": "00:04:13:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Historia di jephte pour soli et basse continue: Cum autem victor jephte",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Historia di jephte pour soli et basse continue: Cum autem victor jephte",
+      "Label": "DEUTSCHE HARMONIA MUNDI",
+      "ReferenceLabel": "05472 77322 2",
+      "ExternalID": "0054727732225-1-2",
+      "AlbumTitle": "Carissimi / Jephte / Junghanel",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0054727732225",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Giacomo Carissimi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Cantus Colln",
+        "Profession": "Interprète",
+        "InterventionNote": "Cantus Colln"
+      },
+      "OrchestraLeader": {
+        "FullName": "Konrad Junghanel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T00:59:50+02:00",
+      "composer": "http://data.doremus.org/artist/2b0ac4e7-2b03-31f9-ba95-379697af26f7"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:04:03:00",
+      "ScheduledDuration": "00:05:39:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Légende d'été op 29 : Midi",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Légende d'été op 29 : Midi",
+      "Label": "DECCA",
+      "ReferenceLabel": "466443-2",
+      "ExternalID": "0028946644324-1-2",
+      "AlbumTitle": "Charles Mackerras dirige Josef Suk",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946644324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Josef Suk",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Tcheque",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Charles Mackerras",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:04:03+02:00",
+      "composer": "http://data.doremus.org/artist/5d0623ff-a5eb-3887-8913-afe4aa6c8063",
+      "best": "http://data.doremus.org/expression/072d84ae-cff6-39e4-b964-11c678609724",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:09:42:00",
+      "ScheduledDuration": "00:02:36:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bagatelles et impromtus B 40 JB 1 : 19 : Pohadka - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bagatelles et impromtus B 40 JB 1 : 19 : Pohadka - pour piano",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SU 3845-2",
+      "ExternalID": "0099925384524-1-6",
+      "AlbumTitle": "Bedrich Smetana : Oeuvres pour piano / Vol 5",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925384524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bedrich Smetana",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jitka Cechova",
+        "Profession": "Interprète",
+        "InterventionNote": "Jitka Cechova : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T01:09:42+02:00",
+      "composer": "http://data.doremus.org/artist/9dbaadc5-e795-3306-982c-8b2bd5187340"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:12:18:00",
+      "ScheduledDuration": "00:01:15:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "8 chants populaires russes op 58 : Chant de Noël",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "8 chants populaires russes op 58 : Chant de Noël",
+      "Label": "MELODIYA RUSSIE",
+      "ReferenceLabel": "MEL CD 10 01873",
+      "ExternalID": "4600317118731-1-7",
+      "AlbumTitle": "Anatole Liadov : Oeuvres pour orchestre",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4600317118731",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anatole Liadov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat De Russie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Svetlanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:12:18+02:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:13:33:00",
+      "ScheduledDuration": "00:01:27:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "8 chants populaires russes op 58 : Légende des oiseaux",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "8 chants populaires russes op 58 : Légende des oiseaux",
+      "Label": "MELODIYA RUSSIE",
+      "ReferenceLabel": "MEL CD 10 01873",
+      "ExternalID": "4600317118731-1-10",
+      "AlbumTitle": "Anatole Liadov : Oeuvres pour orchestre",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4600317118731",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anatole Liadov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Etat De Russie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Evgueni Svetlanov",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:13:33+02:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:15:11:00",
+      "ScheduledDuration": "00:05:53:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Valse triste - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Valse triste - pour orchestre",
+      "Label": "SUPRAPHON",
+      "ReferenceLabel": "SPHN SU 3163-2 011",
+      "ExternalID": "0099925316327-1-3",
+      "AlbumTitle": "Petites perles de la musique classique tchèque",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925316327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Oskar Nedbal",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Philharmonie Tcheque De Prague",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Vaclav Neumann",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:15:11+02:00",
+      "composer": "http://data.doremus.org/artist/006f5b4d-ab53-30c7-b6ed-7e14de9171ea"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:21:04:00",
+      "ScheduledDuration": "00:02:46:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La légende des ours : Epilogue - pour soprano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La légende des ours : Epilogue - pour soprano et orchestre",
+      "Label": "EDICIONES SINGULARES",
+      "ReferenceLabel": "ES1022",
+      "ExternalID": "9788460830177-1-6",
+      "AlbumTitle": "Marie Jaëll : Musique symphonique et musique pour piano / Vol 3",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9788460830177",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Marie Jaell",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Chantal Santon-Jeffery",
+        "Profession": "Interprète",
+        "InterventionNote": "Chantal Santon-Jeffery : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Herve Niquet",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:21:04+02:00",
+      "composer": "http://data.doremus.org/artist/78e90ce0-a863-321b-a337-c75d0857565a"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:23:50:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Album pour la jeunesse op 39 : Nanny's story - arrangement pour quatuor à cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Album pour la jeunesse op 39 : Nanny's story - arrangement pour quatuor à cordes",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 8365",
+      "ExternalID": "RF00000012318-1-43",
+      "AlbumTitle": "Peter Illich Tchaikovsky : Album pour la jeunesse op 39",
+      "Rank": 43,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000012318",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Trio Borodine",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Borodine"
+        },
+        {
+          "FullName": "Rostislav Dubinsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Rostislav Dubinsky : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Eleonora Turovksy",
+          "Profession": "Interprète",
+          "InterventionNote": "Eleonora Turovksy : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Yuli Turovsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Yuli Turovsky : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Leslie Malowany",
+          "Profession": "Interprète",
+          "InterventionNote": "Leslie Malowany : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T01:23:50+02:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:24:53:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Short story : arrangement pour clarinette et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Short story : arrangement pour clarinette et orchestre",
+      "Label": "SONY CLASSICAL",
+      "ReferenceLabel": "8895389642",
+      "ExternalID": "RF00000060879-1-8",
+      "AlbumTitle": "Richard Stoltzman : The Complete RCA Album Collection / CD 26 : Copland Jenkins Bernstein et Gershwin",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000060879",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Gershwin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Don Sebesky",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Don Sebesky : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Richard Stoltzman",
+        "Profession": "Interprète",
+        "InterventionNote": "Richard Stoltzman : Clarinette",
+        "mop": "Clarinette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Eric Stern",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:24:53+02:00",
+      "composer": "http://data.doremus.org/artist/5b2ec204-a456-3aa2-8ac7-25305464add8",
+      "best": "http://data.doremus.org/expression/358e5d24-5c7d-3f56-be9b-297f015948ba",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:28:00:00",
+      "ScheduledDuration": "00:01:35:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Historias da Carochinha : Palacio encantando",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Historias da Carochinha : Palacio encantando",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8.570503",
+      "ExternalID": "RF00000049933-1-11",
+      "AlbumTitle": "Heitor Villa Lobos : Oeuvres pour piano/Vol. 7",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000049933",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heitor Villa-Lobos",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Sonia Rubinsky",
+        "Profession": "Interprète",
+        "InterventionNote": "Sonia Rubinsky : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T01:28:00+02:00",
+      "composer": "http://data.doremus.org/artist/c51a1b01-5682-33da-a15a-67d7f36c8308"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:29:35:00",
+      "ScheduledDuration": "00:04:28:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The red pony : Grandfather's story - suite d'orchestre d'après la musique du film",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The red pony : Grandfather's story - suite d'orchestre d'après la musique du film",
+      "Label": "SONY",
+      "ReferenceLabel": "SM2K 47236/1",
+      "ExternalID": "RF00000019245-1-5",
+      "AlbumTitle": "Aaron Copland : Oeuvres symphoniques (cd 1)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000019245",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Aaron Copland",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "New Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Aaron Copland",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:29:35+02:00",
+      "composer": "http://data.doremus.org/artist/92da81d0-6e0c-3023-a0d7-5ccbbb30610d",
+      "best": "http://data.doremus.org/expression/d893b6ea-49bb-31b8-b8ee-1793d8316abc",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:34:15:00",
+      "ScheduledDuration": "00:07:46:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Legende op 17 / Pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Legende op 17 / Pour violon et orchestre",
+      "Label": "EMI",
+      "ReferenceLabel": "5554752",
+      "ExternalID": "0724355547521-1-8",
+      "AlbumTitle": "A la carte",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355547521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henryk Wieniawski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Itzhak Perlman",
+        "Profession": "Interprète",
+        "InterventionNote": "Itzhak Perlman : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Abbey Road",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lawrence Foster",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:34:15+02:00",
+      "composer": "http://data.doremus.org/artist/7a26e913-d87f-3838-a270-514946cbfdf4",
+      "best": "http://data.doremus.org/expression/153a0246-f8fa-3ec7-a8c4-cdd7e4581ca5",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:42:01:00",
+      "ScheduledDuration": "00:03:35:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Melodies norvegiennes : en fuglevise \"\"a birdsong (the bird's story)\"\" - pour mezzo soprano et piano / integrale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Melodies norvegiennes : en fuglevise \"\"a birdsong (the bird's story)\"\" - pour mezzo soprano et piano / integrale",
+      "Label": "SIMAX",
+      "ReferenceLabel": "PSC 1120",
+      "ExternalID": "7025560112027-1-24",
+      "AlbumTitle": "Grieg, Delius et Grainger : songs",
+      "Rank": 24,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7025560112027",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederick Delius",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marit Osnes-Aambo",
+          "Profession": "Interprète",
+          "InterventionNote": "Marit Osnes-Aambo : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        },
+        {
+          "FullName": "Graham Johnson",
+          "Profession": "Interprète",
+          "InterventionNote": "Graham Johnson : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T01:42:01+02:00",
+      "composer": "http://data.doremus.org/artist/f92bcc45-052e-342d-a00b-1b7cdbd89828"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:45:36:00",
+      "ScheduledDuration": "00:04:13:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Legende en Sol Maj op 59 n°2 b 122 n°2 pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Legende en Sol Maj op 59 n°2 b 122 n°2 pour orchestre",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "464647-2",
+      "ExternalID": "0028946464724-1-2",
+      "AlbumTitle": "Dvorak : Legendes et autres oeuvres pour orchestre / Fischer",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028946464724",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Du Festival De Budapest",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ivan Fischer",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:45:36+02:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:49:49:00",
+      "ScheduledDuration": "00:02:11:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eine sehr gewoehnliche geschichte",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eine sehr gewoehnliche geschichte",
+      "Label": "PHPS",
+      "ReferenceLabel": "420217-2",
+      "ExternalID": "0028942021723-1-21",
+      "AlbumTitle": "Recital elly ameling chante Joseph Haydn",
+      "Rank": 21,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028942021723",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Elly Ameling",
+          "Profession": "Interprète",
+          "InterventionNote": "Elly Ameling : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jorg Demus",
+          "Profession": "Interprète",
+          "InterventionNote": "Jorg Demus : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T01:49:49+02:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
+      "best": "http://data.doremus.org/expression/92b00cb4-4522-3176-9d78-9abc743d1c2f",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:52:00:00",
+      "ScheduledDuration": "00:01:33:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Histoires : La cage de cristal",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Histoires : La cage de cristal",
+      "Label": "ORFEO",
+      "ReferenceLabel": "C 349951",
+      "ExternalID": "4011790349121-1-9",
+      "AlbumTitle": "Beau soir / Oeuvres pour violoncelle et piano",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4011790349121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jacques Ibert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Boris Pergamentchikov",
+          "Profession": "Interprète",
+          "InterventionNote": "Boris Pergamentchikov : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Pavel Gililov",
+          "Profession": "Interprète",
+          "InterventionNote": "Pavel Gililov : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T01:52:00+02:00",
+      "composer": "http://data.doremus.org/artist/fe285a82-eb65-35f6-9dfb-5fb426610091",
+      "best": "http://data.doremus.org/expression/14392ede-c04b-3e97-b21f-2d6e88977ce9",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:53:33:00",
+      "ScheduledDuration": "00:02:14:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Histoire : Le petit ane blanc",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Histoire : Le petit ane blanc",
+      "Label": "ORFEO",
+      "ReferenceLabel": "C 349951",
+      "ExternalID": "4011790349121-1-11",
+      "AlbumTitle": "Beau soir / Oeuvres pour violoncelle et piano",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4011790349121",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jacques Ibert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Boris Pergamentchikov",
+          "Profession": "Interprète",
+          "InterventionNote": "Boris Pergamentchikov : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Pavel Gililov",
+          "Profession": "Interprète",
+          "InterventionNote": "Pavel Gililov : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T01:53:33+02:00",
+      "composer": "http://data.doremus.org/artist/fe285a82-eb65-35f6-9dfb-5fb426610091",
+      "best": "http://data.doremus.org/expression/14392ede-c04b-3e97-b21f-2d6e88977ce9",
+      "best_matching_score": "0.88"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:55:56:00",
+      "ScheduledDuration": "00:01:37:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les contes de la vieille grand-mère op 31 : Conte n°2 - pour violon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les contes de la vieille grand-mère op 31 : Conte n°2 - pour violon et piano",
+      "Label": "TELDEC",
+      "ReferenceLabel": "4509-95998-2",
+      "ExternalID": "0745099599829-1-11",
+      "AlbumTitle": "Nathan Milstein : Son dernier récital",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0745099599829",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Prokofiev",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Nathan Milstein",
+          "Profession": "Interprète",
+          "InterventionNote": "Nathan Milstein : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Georges Pludermacher",
+          "Profession": "Interprète",
+          "InterventionNote": "Georges Pludermacher : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T01:55:56+02:00",
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
+      "best": "http://data.doremus.org/expression/d6ebd891-78d1-3275-98dd-1023613f8456",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "01:57:33:00",
+      "ScheduledDuration": "00:16:18:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Saugefleurie op 21 - légende pour orchestre d'après un conte de Robert de Bonnieres",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Saugefleurie op 21 - légende pour orchestre d'après un conte de Robert de Bonnieres",
+      "Label": "NAXOS",
+      "ReferenceLabel": "NAXO 8.550638",
+      "ExternalID": "0730099563826-1-10",
+      "AlbumTitle": "Vincent d'Indy : Tableaux de voyage op 36 / Vol 2",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1994-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0730099563826",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Vincent D'Indy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Philharmonie Du Wurtemberg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gilles Nopre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T01:57:33+02:00",
+      "composer": "http://data.doremus.org/artist/ece1cb94-29b1-3ae8-bd23-f2d2f7cbf68d"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:13:51:00",
+      "ScheduledDuration": "00:04:55:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Conte de fée JW VII/5 : Con moto - pour violoncelle et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Conte de fée JW VII/5 : Con moto - pour violoncelle et piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA67948",
+      "ExternalID": "0034571179483-1-4",
+      "AlbumTitle": "Lieux retrouvés",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571179483",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leos Janacek",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Thomas Ades",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Ades : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Steven Isserlis",
+          "Profession": "Interprète",
+          "InterventionNote": "Steven Isserlis : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T02:13:51+02:00",
+      "composer": "http://data.doremus.org/artist/4385ce9c-1fe2-3b59-9df0-9ac506d9ab43"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:18:46:00",
+      "ScheduledDuration": "00:06:04:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Märchen",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Märchen",
+      "Label": "MARCO POLO",
+      "ReferenceLabel": "8.225350",
+      "ExternalID": "0636943535028-1-7",
+      "AlbumTitle": "Leopold Godowsky : Musique pour piano / Vol 11",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0636943535028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Leopold Godowsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Konstantin Scherbakov",
+        "Profession": "Interprète",
+        "InterventionNote": "Konstantin Scherbakov : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T02:18:46+02:00",
+      "composer": "http://data.doremus.org/artist/3c0a1084-0e49-3a26-8f17-a81a4befd8f2"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:24:54:00",
+      "ScheduledDuration": "00:03:58:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La légende de la fleur de pierre : Solo de la gitane et coda (Acte III sc 7)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La légende de la fleur de pierre : Solo de la gitane et coda (Acte III sc 7)",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 10058(2)",
+      "ExternalID": "0095115105825-2-13",
+      "AlbumTitle": "Serge Prokofiev : La légende de la fleur de pierre op 118",
+      "Rank": 13,
+      "NumVolume": 2,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115105825",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Serge Prokofiev",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Gianandrea Noseda",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T02:24:54+02:00",
+      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
+      "best": "http://data.doremus.org/expression/f65a209f-7ed4-35d9-a541-dad02241f5a4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:28:52:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les amours du poète op 48 : aus alten märchen winkt es n°15",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les amours du poète op 48 : aus alten märchen winkt es n°15",
+      "Label": "SONY",
+      "ReferenceLabel": "SM2K 46743",
+      "ExternalID": "5099704674322-2-15",
+      "AlbumTitle": "Le concert du siècle",
+      "Rank": 15,
+      "NumVolume": 2,
+      "PublicationDate": "1976-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704674322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dietrich Fischer-Dieskau",
+          "Profession": "Interprète",
+          "InterventionNote": "Dietrich Fischer-Dieskau : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Vladimir Horowitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Vladimir Horowitz : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T02:28:52+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/9dff4200-18ce-39c2-8d14-8cf25a930e89",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:31:37:00",
+      "ScheduledDuration": "00:00:30:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les amours du poète op 48 : Die rose die lilie die taube die sonne n°3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les amours du poète op 48 : Die rose die lilie die taube die sonne n°3",
+      "Label": "SONY",
+      "ReferenceLabel": "SM2K 46743",
+      "ExternalID": "5099704674322-2-3",
+      "AlbumTitle": "Le concert du siècle",
+      "Rank": 3,
+      "NumVolume": 2,
+      "PublicationDate": "1976-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704674322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dietrich Fischer-Dieskau",
+          "Profession": "Interprète",
+          "InterventionNote": "Dietrich Fischer-Dieskau : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Vladimir Horowitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Vladimir Horowitz : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T02:31:37+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/9dff4200-18ce-39c2-8d14-8cf25a930e89",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:32:07:00",
+      "ScheduledDuration": "00:00:59:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les amours du poète op 48 : ich will meine seele tauchen n°5",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les amours du poète op 48 : ich will meine seele tauchen n°5",
+      "Label": "SONY",
+      "ReferenceLabel": "SM2K 46743",
+      "ExternalID": "5099704674322-2-5",
+      "AlbumTitle": "Le concert du siècle",
+      "Rank": 5,
+      "NumVolume": 2,
+      "PublicationDate": "1976-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099704674322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Robert Schumann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dietrich Fischer-Dieskau",
+          "Profession": "Interprète",
+          "InterventionNote": "Dietrich Fischer-Dieskau : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        },
+        {
+          "FullName": "Vladimir Horowitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Vladimir Horowitz : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T02:32:07+02:00",
+      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
+      "best": "http://data.doremus.org/expression/9dff4200-18ce-39c2-8d14-8cf25a930e89",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:33:06:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Légende - pour violoncelle et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Légende - pour violoncelle et orchestre",
+      "Label": "MUSIQUE EN WALLONIE",
+      "ReferenceLabel": "MEW 0421",
+      "ExternalID": "5425008314211-1-8",
+      "AlbumTitle": "Sylvain Dupuis : Oeuvres symphoniques et concertantes",
+      "Rank": 8,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5425008314211",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Sylvain Dupuis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "David Cohen",
+        "Profession": "Interprète",
+        "InterventionNote": "David Cohen : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Liege Et De La Communaute Wallonie-Bruxelles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jean Pierre Haeck",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T02:33:06+02:00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:37:16:00",
+      "ScheduledDuration": "00:03:55:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Contes op 37 : Caprice",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Contes op 37 : Caprice",
+      "Label": "ACTE PREALABLE",
+      "ReferenceLabel": "AP0188",
+      "ExternalID": "5902634751882-1-16",
+      "AlbumTitle": "Oeuvres pour piano",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5902634751882",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Zygmunt Noskowski",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Valentina Seferinova",
+        "Profession": "Interprète",
+        "InterventionNote": "Valentina Seferinova : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T02:37:16+02:00",
+      "composer": "http://data.doremus.org/artist/cc451e5a-ebc9-3649-9506-43d9210aae37"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:41:11:00",
+      "ScheduledDuration": "00:07:00:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Légende op 46 - pour violon et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Légende op 46 - pour violon et orchestre",
+      "Label": "CPO",
+      "ReferenceLabel": "777 114-2",
+      "ExternalID": "0761203711420-1-4",
+      "AlbumTitle": "Christian Sinding : Concertos pour violon n°1 à 3",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203711420",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Christian Sinding",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Andrej Bielow",
+        "Profession": "Interprète",
+        "InterventionNote": "Andrej Bielow : Violon",
+        "mop": "Violon"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonie De La Radio Ndr De Hanovre",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Frank Beermann",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-03T02:41:11+02:00",
+      "composer": "http://data.doremus.org/artist/55522f09-699b-383b-9cd7-82e73f6b18da"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:48:11:00",
+      "ScheduledDuration": "00:02:16:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "2 études pour piano op 39 : 1. Folk tune",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "2 études pour piano op 39 : 1. Folk tune",
+      "Label": "GUILD",
+      "ReferenceLabel": "GMCD 7133",
+      "ExternalID": "0795754713329-1-1",
+      "AlbumTitle": "English romanticism III",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0795754713329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Eugene Goossens",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jeremy Filsell",
+        "Profession": "Interprète",
+        "InterventionNote": "Jeremy Filsell : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-03T02:48:11+02:00",
+      "composer": "http://data.doremus.org/artist/94812f43-e323-360b-8714-dddb26e593fb"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:50:27:00",
+      "ScheduledDuration": "00:07:08:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate L 137 : Pastorale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate L 137 : Pastorale",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM 2345",
+      "ExternalID": "0028948108800-1-2",
+      "AlbumTitle": "Takemitsu Debussy et Goubaidoulina : Musique de chambre",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948108800",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Marina Piccinini",
+          "Profession": "Interprète",
+          "InterventionNote": "Marina Piccinini : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Kim Kashkashian",
+          "Profession": "Interprète",
+          "InterventionNote": "Kim Kashkashian : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Sivan Magen",
+          "Profession": "Interprète",
+          "InterventionNote": "Sivan Magen : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T02:50:27+02:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "02:57:46:00",
+      "ScheduledDuration": "00:04:28:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bagatelles OP 47 B 79 : Poco allegro - pour 2 violons violoncelle et harmonium",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bagatelles OP 47 B 79 : Poco allegro - pour 2 violons violoncelle et harmonium",
+      "Label": "SUPRAPHON OU SUPRAPHONET",
+      "ReferenceLabel": "SU 3391",
+      "ExternalID": "0099925339128-1-11",
+      "AlbumTitle": "Anton Dvorak : Miniatures",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925339128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Panocha",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Panocha"
+        },
+        {
+          "FullName": "Jiri Panocha",
+          "Profession": "Interprète",
+          "InterventionNote": "Jiri Panocha : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Pavel Zejfart",
+          "Profession": "Interprète",
+          "InterventionNote": "Pavel Zejfart : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jaroslav Kulhan",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaroslav Kulhan : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaroslav Tuma",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaroslav Tuma : Harmonium",
+          "mop": "Harmonium"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T02:57:46+02:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-03",
+      "ScheduledTime": "03:02:14:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bagatelles OP 47 B 79 : Canon. Andante con moto - pour 2 violons violoncelle et harmonium",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bagatelles OP 47 B 79 : Canon. Andante con moto - pour 2 violons violoncelle et harmonium",
+      "Label": "SUPRAPHON OU SUPRAPHONET",
+      "ReferenceLabel": "SU 3391",
+      "ExternalID": "0099925339128-1-10",
+      "AlbumTitle": "Anton Dvorak : Miniatures",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0099925339128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anton Dvorak",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Panocha",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Panocha"
+        },
+        {
+          "FullName": "Jiri Panocha",
+          "Profession": "Interprète",
+          "InterventionNote": "Jiri Panocha : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Pavel Zejfart",
+          "Profession": "Interprète",
+          "InterventionNote": "Pavel Zejfart : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jaroslav Kulhan",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaroslav Kulhan : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Jaroslav Tuma",
+          "Profession": "Interprète",
+          "InterventionNote": "Jaroslav Tuma : Harmonium",
+          "mop": "Harmonium"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-03T03:02:14+02:00",
+      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+    }
+  ],
+  "total": 46,
+  "matched": 18
+}

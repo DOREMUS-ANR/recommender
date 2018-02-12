@@ -1,0 +1,978 @@
+{
+  "id": "FM-406_20170320_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "00:00:32:00",
+      "ScheduledDuration": "00:37:07:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Über die Linie II - pour clarinette et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Über die Linie II - pour clarinette et orchestre",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.283",
+      "ExternalID": "4010276025054-1-1",
+      "AlbumTitle": "Wolfgang Rihm : Über die Linie II et Coll'Arco",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276025054",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jorg Widmann",
+        "Profession": "Interprète",
+        "InterventionNote": "Jorg Widmann : Clarinette",
+        "mop": "Clarinette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sylvain Cambreling",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-20T00:00:32+01:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18",
+      "best": "http://data.doremus.org/expression/820facc8-b0c1-3f59-b146-dd1ff05ee121",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "00:38:14:00",
+      "ScheduledDuration": "00:07:03:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie pour clarinette",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie pour clarinette",
+      "Label": "GENUIN",
+      "ReferenceLabel": "GEN16432",
+      "ExternalID": "4260036254327-1-3",
+      "AlbumTitle": "Bettina Aust interprète des oeuvres pour clarinette",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260036254327",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jörg Widmann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Bettina Aust",
+        "Profession": "Interprète",
+        "InterventionNote": "Bettina Aust : Clarinette",
+        "mop": "Clarinette"
+      },
+      "ScheduledDateTime": "2017-03-20T00:38:14+01:00",
+      "composer": "http://data.doremus.org/artist/29cad646-8c7e-31a8-8295-4135f1fe4b20"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "00:45:52:00",
+      "ScheduledDuration": "00:14:35:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Flammenarie op 44 : Pour psalmodie byzantine tarhu et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Flammenarie op 44 : Pour psalmodie byzantine tarhu et piano",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS 11035",
+      "ExternalID": "4260063110351-1-4",
+      "AlbumTitle": "Konstantia Gourzi : Leratiki et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063110351",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Konstantia Gourzi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Vassilis Agrokostas",
+          "Profession": "Interprète",
+          "InterventionNote": "Vassilis Agrokostas"
+        },
+        {
+          "FullName": "Christian Elsasser",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Elsasser : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-20T00:45:52+01:00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:01:16:00",
+      "ScheduledDuration": "00:05:26:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Etude Digitale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Etude Digitale",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "902242",
+      "ISRC": "FR-Z14-15-28090",
+      "ExternalID": "3149020224229-1-9",
+      "AlbumTitle": "Thrace sunday morning sessions",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique du monde",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149020224229",
+      "EditorialComment": "Import iRF",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jörg Widmann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jean Guihen Queyras",
+        "Profession": "Interprète",
+        "InterventionNote": "Jean Guihen Queyras : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-03-20T01:01:16+01:00",
+      "composer": "http://data.doremus.org/artist/29cad646-8c7e-31a8-8295-4135f1fe4b20"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:06:42:00",
+      "ScheduledDuration": "00:16:11:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In an autum garden (1973) pour biwas shakuhachis et orchestre (pour orchestre de gagaku)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In an autum garden (1973) pour biwas shakuhachis et orchestre (pour orchestre de gagaku)",
+      "Label": "DEUTSCHE GRAMMOPHON",
+      "ReferenceLabel": "DGG 471590-2",
+      "ExternalID": "0028947159025-1-1",
+      "AlbumTitle": "In an autumn garden",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1977-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947159025",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Toru Takemitsu",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Non Identifie",
+        "Profession": "Interprète",
+        "InterventionNote": "Non Identifie : Biwa (luth), Shakuhachi (flûte)",
+        "mop": "Biwa (luth), Shakuhachi (flûte)"
+      },
+      "Orchestra": {
+        "EntityName": "Imperial Household Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-03-20T01:06:42+01:00",
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:23:26:00",
+      "ScheduledDuration": "00:00:38:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Koto machine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Koto machine",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 68870 2",
+      "ExternalID": "0090266887026-1-22",
+      "AlbumTitle": "Black on white/Noir sur blanc",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266887026",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heiner Goebbels",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Catherine Milliken",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Milliken : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Franck Ollu",
+          "Profession": "Interprète",
+          "InterventionNote": "Franck Ollu : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "William Forman",
+          "Profession": "Interprète",
+          "InterventionNote": "William Forman : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Freya Kirby",
+          "Profession": "Interprète",
+          "InterventionNote": "Freya Kirby : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Thomas Muller",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-20T01:23:26+01:00",
+      "composer": "http://data.doremus.org/artist/f651911f-59d6-3a9b-812e-2bb4ae990746"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:24:04:00",
+      "ScheduledDuration": "00:04:36:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Doch allmählich hören unsere lieder auf...",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Doch allmählich hören unsere lieder auf...",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 68870 2",
+      "ExternalID": "0090266887026-1-23",
+      "AlbumTitle": "Black on white/Noir sur blanc",
+      "Rank": 23,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266887026",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heiner Goebbels",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Catherine Milliken",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Milliken : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Franck Ollu",
+          "Profession": "Interprète",
+          "InterventionNote": "Franck Ollu : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "William Forman",
+          "Profession": "Interprète",
+          "InterventionNote": "William Forman : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Freya Kirby",
+          "Profession": "Interprète",
+          "InterventionNote": "Freya Kirby : Voix",
+          "mop": "Voix"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Thomas Muller",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-20T01:24:04+01:00",
+      "composer": "http://data.doremus.org/artist/f651911f-59d6-3a9b-812e-2bb4ae990746"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:28:40:00",
+      "ScheduledDuration": "00:19:27:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Twilight",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Twilight",
+      "Label": "DEEP LISTENING",
+      "ReferenceLabel": "DL 36-2007",
+      "ExternalID": "0600323360722-1-4",
+      "AlbumTitle": "Pauline Oliveros et Miya Masoka : Accordion koto / Courant experimental",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0600323360722",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Pauline Oliveros",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Pauline Oliveros",
+          "Profession": "Interprète",
+          "InterventionNote": "Pauline Oliveros : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Miya Masaoka",
+          "Profession": "Interprète",
+          "InterventionNote": "Miya Masaoka"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-20T01:28:40+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:48:07:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ecos : Va dans le jardin et apporte-moi une citrouille - pièce pour voix et accordéon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ecos : Va dans le jardin et apporte-moi une citrouille - pièce pour voix et accordéon",
+      "Label": "CHANT DU MONDE",
+      "ReferenceLabel": "LDC 278 1156",
+      "ExternalID": "3149024115608-1-18",
+      "AlbumTitle": "Oscar Strasnoy : An island far et autres oeuvres",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149024115608",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Oscar Strasnoy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pascal Contet",
+        "Profession": "Interprète",
+        "InterventionNote": "Pascal Contet : Accordéon, Voix",
+        "mop": "Accordéon, Voix"
+      },
+      "ScheduledDateTime": "2017-03-20T01:48:07+01:00",
+      "composer": "http://data.doremus.org/artist/a9751464-4255-3bf4-b9ca-a81ca2e4bec9"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "01:50:46:00",
+      "ScheduledDuration": "00:14:56:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hal - pour clarinette contrebasse accordéon contrebasse piano et sons enregistrés",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hal - pour clarinette contrebasse accordéon contrebasse piano et sons enregistrés",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6581 2",
+      "ExternalID": "4010228658125-1-1",
+      "AlbumTitle": "Gordon Kampe : Gassenhauermaschinensuite et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228658125",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gordon Kampe",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Carl Rosman",
+          "Profession": "Interprète",
+          "InterventionNote": "Carl Rosman : Clarinette contrebasse",
+          "mop": "Clarinette contrebasse"
+        },
+        {
+          "FullName": "John Eckhardt",
+          "Profession": "Interprète",
+          "InterventionNote": "John Eckhardt : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Eva Zollner",
+          "Profession": "Interprète",
+          "InterventionNote": "Eva Zollner : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Mark Knoop",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Knoop : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-20T01:50:46+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "02:05:42:00",
+      "ScheduledDuration": "00:08:56:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sequenza III / Pour voix solo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sequenza III / Pour voix solo",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 6021-2",
+      "ExternalID": "4010228602128-1-3",
+      "AlbumTitle": "Circles - sequenza...",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1967-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010228602128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Cathy Berberian",
+        "Profession": "Interprète",
+        "InterventionNote": "Cathy Berberian"
+      },
+      "ScheduledDateTime": "2017-03-20T02:05:42+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/b2f051d5-c50a-3f54-b024-b8a9216e219d",
+      "best_matching_score": "0.72"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "02:14:57:00",
+      "ScheduledDuration": "00:08:50:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Aoku",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Aoku",
+      "Label": "DC RECORDS",
+      "ReferenceLabel": "DC1",
+      "ExternalID": "4006180800122-1-2",
+      "AlbumTitle": "Ensemble de kotos Kazue Sawai / Live à Brème 1993",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4006180800122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hideaki Kuribayashi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble De Kotos Kazue Sawai",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kazue Sawai",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-20T02:14:57+01:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "02:24:26:00",
+      "ScheduledDuration": "00:19:29:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hi-Ten-Yu - pour taiko et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hi-Ten-Yu - pour taiko et orchestre",
+      "Label": "FONTEC",
+      "ReferenceLabel": "FOCD 2518",
+      "ExternalID": "RF00000042476-1-4",
+      "AlbumTitle": "Isao Matsushita : Oeuvres Symphoniques",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000042476",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Isao Matsushita",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Eitetsu Hayashi",
+        "Profession": "Interprète",
+        "InterventionNote": "Eitetsu Hayashi : Tambour",
+        "mop": "Tambour"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Shinsei Du Japon",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ondrej Lenard",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-03-20T02:24:26+01:00",
+      "composer": "http://data.doremus.org/artist/106c4a6c-3db2-370e-a9db-850734dc1131"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "02:43:55:00",
+      "ScheduledDuration": "00:12:40:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ryoanji - version pour hichiriki 2 ryûtekis et percussions",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ryoanji - version pour hichiriki 2 ryûtekis et percussions",
+      "Label": "COL LEGNO",
+      "ReferenceLabel": "WWE 2CD 20055",
+      "ExternalID": "5099702005524-1-8",
+      "AlbumTitle": "Internationale Ferienkurze für Neue Musik Darmstadt 98",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099702005524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "John Cage",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Isao Nakamura",
+          "Profession": "Interprète",
+          "InterventionNote": "Isao Nakamura : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Satoru Yaotani",
+          "Profession": "Interprète",
+          "InterventionNote": "Satoru Yaotani"
+        },
+        {
+          "FullName": "Sukeyasu Shiba",
+          "Profession": "Interprète",
+          "InterventionNote": "Sukeyasu Shiba"
+        },
+        {
+          "FullName": "Takeshi Sasamoto",
+          "Profession": "Interprète",
+          "InterventionNote": "Takeshi Sasamoto"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-20T02:43:55+01:00",
+      "composer": "http://data.doremus.org/artist/6a7ed0f4-153b-3795-a9f4-6d8c82040ad9",
+      "best": "http://data.doremus.org/expression/5d5ae375-e5f1-3a6b-84f8-229f88665431",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "02:57:02:00",
+      "ScheduledDuration": "00:08:16:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Improvisation nº7 pour piano cloches a vaches flute des andes clarinette flutes et claviers",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Improvisation nº7 pour piano cloches a vaches flute des andes clarinette flutes et claviers",
+      "Label": "EROL",
+      "ReferenceLabel": "EROL 7012",
+      "ExternalID": "3355385900351-1-7",
+      "AlbumTitle": "Hexameron",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3355385900351",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Bruno Chevillon",
+          "Profession": "Interprète",
+          "InterventionNote": "Bruno Chevillon : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Patrick Scheyder",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrick Scheyder : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-20T02:57:02+01:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "03:05:18:00",
+      "ScheduledDuration": "00:01:11:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Harpe eolienne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Harpe eolienne",
+      "Label": "BONDAGE RECORDS",
+      "ReferenceLabel": "562011",
+      "ExternalID": "3383005620112-1-4",
+      "AlbumTitle": "Transparence",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383005620112",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Marc Battier",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Marc Battier : Auteur"
+      },
+      "ScheduledDateTime": "2017-03-20T03:05:18+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "03:06:29:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Harpe eolienne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Harpe eolienne",
+      "Label": "BONDAGE RECORDS",
+      "ReferenceLabel": "562011",
+      "ExternalID": "3383005620112-1-5",
+      "AlbumTitle": "Transparence",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3383005620112",
+      "Author": {
+        "Highlight": true,
+        "FullName": "Marc Battier",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Marc Battier : Auteur"
+      },
+      "ScheduledDateTime": "2017-03-20T03:06:29+01:00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-20",
+      "ScheduledTime": "03:08:01:00",
+      "ScheduledDuration": "00:01:58:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Makrokosmos I : Music of shadows / Pour harpe éolienne / Balance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Makrokosmos I : Music of shadows / Pour harpe éolienne / Balance",
+      "Label": "L'EMPREINTE DIGITALE",
+      "ReferenceLabel": "ED 13165",
+      "ExternalID": "0742495316524-1-7",
+      "AlbumTitle": "George Crumb : Makrokosmos volume I et II",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0742495316524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Toros Can",
+        "Profession": "Interprète",
+        "InterventionNote": "Toros Can : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-20T03:08:01+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/66750252-ffc1-3389-8125-f19b6e5e7f08",
+      "best_matching_score": "0.92"
+    }
+  ],
+  "total": 18,
+  "matched": 4
+}

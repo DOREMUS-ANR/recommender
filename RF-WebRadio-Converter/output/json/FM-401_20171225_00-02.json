@@ -1,0 +1,1833 @@
+{
+  "id": "FM-401_20171225_00-02",
+  "channel": "402",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:00:23:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Biaute que toutes autres pere (pour trois voix)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Biaute que toutes autres pere (pour trois voix)",
+      "Label": "ECM NEW SERIES",
+      "ReferenceLabel": "4765121",
+      "ExternalID": "RF00000049365-1-1",
+      "AlbumTitle": "Heinz Holliger : Transcriptions de Machaut",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000049365",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Guillaume De Machaut",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Hilliard",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Hilliard"
+        },
+        {
+          "FullName": "James David",
+          "Profession": "Interprète",
+          "InterventionNote": "James David : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Rogers Covey-Crump",
+          "Profession": "Interprète",
+          "InterventionNote": "Rogers Covey-Crump : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Steven Harrold",
+          "Profession": "Interprète",
+          "InterventionNote": "Steven Harrold : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Jones Gordon",
+          "Profession": "Interprète",
+          "InterventionNote": "Jones Gordon : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-25T00:00:23+01:00",
+      "composer": "http://data.doremus.org/artist/94089a7d-d851-361a-ba86-7213379f8fb2"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:04:23:00",
+      "ScheduledDuration": "00:04:27:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Biaute que toutes autres pere (pour 3 altos)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Biaute que toutes autres pere (pour 3 altos)",
+      "Label": "ECM NEW SERIES",
+      "ReferenceLabel": "4765121",
+      "ExternalID": "RF00000049365-1-2",
+      "AlbumTitle": "Heinz Holliger : Transcriptions de Machaut",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000049365",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Heinz Holliger",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Guillaume De Machaut",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "FullName": "Genevieve Strosser",
+          "Profession": "Interprète",
+          "InterventionNote": "Genevieve Strosser : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Jurg Dahler",
+          "Profession": "Interprète",
+          "InterventionNote": "Jurg Dahler : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Muriel Cantoreggi",
+          "Profession": "Interprète",
+          "InterventionNote": "Muriel Cantoreggi : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-25T00:04:23+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:08:50:00",
+      "ScheduledDuration": "00:01:28:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Bransle de Bourgogne - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Bransle de Bourgogne - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-4",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:08:50+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:10:18:00",
+      "ScheduledDuration": "00:02:17:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Pavane - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Pavane - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-5",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:10:18+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:12:35:00",
+      "ScheduledDuration": "00:01:03:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Petite marche militaire - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Petite marche militaire - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-6",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:12:35+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:13:38:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Complainte - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Complainte - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-7",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:13:38+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:15:08:00",
+      "ScheduledDuration": "00:01:37:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Bransle de Champagne - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Bransle de Champagne - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-8",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:15:08+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:16:45:00",
+      "ScheduledDuration": "00:02:01:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Sicilienne - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Sicilienne - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-9",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:16:45+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:18:46:00",
+      "ScheduledDuration": "00:01:46:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite française FP 80 : Carillon - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite française FP 80 : Carillon - pour 2 hautbois 2 bassons 2 trompettes 3 trombones percussions et clavecin",
+      "Label": "ZIG ZAG TERRITOIRES",
+      "ReferenceLabel": "ZZT110403",
+      "ExternalID": "3760009292475-1-10",
+      "AlbumTitle": "Francis Poulenc : Concerto pour 2 pianos et autres oeuvres",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009292475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Francis Poulenc",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Anima Eterna",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Jos Van Immerseel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:18:46+01:00",
+      "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
+      "best": "http://data.doremus.org/expression/09526b44-347e-345c-9ffb-6b4f7ed30ec8",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:20:43:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schumann-fantasie : Prelude / Pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schumann-fantasie : Prelude / Pour grand orchestre",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0021592 BC",
+      "ExternalID": "0782124215927-1-1",
+      "AlbumTitle": "La junge deutsche philharmonie interprete Zender Debussy et Ravel",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124215927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Junge Deutsche Philharmonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:20:43+01:00",
+      "composer": "http://data.doremus.org/artist/8dbbe07c-8962-3087-a5ed-0573c36704df"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:23:54:00",
+      "ScheduledDuration": "00:13:43:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schumann-fantasie : Ruines / Pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schumann-fantasie : Ruines / Pour grand orchestre",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0021592 BC",
+      "ExternalID": "0782124215927-1-2",
+      "AlbumTitle": "La junge deutsche philharmonie interprete Zender Debussy et Ravel",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124215927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Junge Deutsche Philharmonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:23:54+01:00",
+      "composer": "http://data.doremus.org/artist/8dbbe07c-8962-3087-a5ed-0573c36704df"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:37:37:00",
+      "ScheduledDuration": "00:01:42:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schumann-fantasie : Interlude n°1 / Pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schumann-fantasie : Interlude n°1 / Pour grand orchestre",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0021592 BC",
+      "ExternalID": "0782124215927-1-3",
+      "AlbumTitle": "La junge deutsche philharmonie interprete Zender Debussy et Ravel",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124215927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Junge Deutsche Philharmonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:37:37+01:00",
+      "composer": "http://data.doremus.org/artist/8dbbe07c-8962-3087-a5ed-0573c36704df"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:39:19:00",
+      "ScheduledDuration": "00:09:07:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schumann-fantasie : Arc de triomphe / Pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schumann-fantasie : Arc de triomphe / Pour grand orchestre",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0021592 BC",
+      "ExternalID": "0782124215927-1-4",
+      "AlbumTitle": "La junge deutsche philharmonie interprete Zender Debussy et Ravel",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124215927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Junge Deutsche Philharmonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:39:19+01:00",
+      "composer": "http://data.doremus.org/artist/8dbbe07c-8962-3087-a5ed-0573c36704df"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:48:26:00",
+      "ScheduledDuration": "00:02:45:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schumann-fantasie : Interlude n°2 / Pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schumann-fantasie : Interlude n°2 / Pour grand orchestre",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0021592 BC",
+      "ExternalID": "0782124215927-1-5",
+      "AlbumTitle": "La junge deutsche philharmonie interprete Zender Debussy et Ravel",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124215927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Junge Deutsche Philharmonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:48:26+01:00",
+      "composer": "http://data.doremus.org/artist/8dbbe07c-8962-3087-a5ed-0573c36704df"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "00:51:11:00",
+      "ScheduledDuration": "00:12:54:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schumann-fantasie : Nuit etoilee / Pour grand orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schumann-fantasie : Nuit etoilee / Pour grand orchestre",
+      "Label": "BERLIN CLASSICS",
+      "ReferenceLabel": "0021592 BC",
+      "ExternalID": "0782124215927-1-6",
+      "AlbumTitle": "La junge deutsche philharmonie interprete Zender Debussy et Ravel",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0782124215927",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Junge Deutsche Philharmonie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T00:51:11+01:00",
+      "composer": "http://data.doremus.org/artist/8dbbe07c-8962-3087-a5ed-0573c36704df"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:04:11:00",
+      "ScheduledDuration": "00:06:15:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie en Ut Maj op 15 D 760 : Allegro con fuoco ma non troppo - arrangement pour orchestre et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie en Ut Maj op 15 D 760 : Allegro con fuoco ma non troppo - arrangement pour orchestre et piano",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.286",
+      "ExternalID": "4010276025122-1-10",
+      "AlbumTitle": "Charles Koechlin : Magicien orchestrateur",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276025122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Charles Koechlin",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Charles Koechlin : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Florian Hoelscher",
+        "Profession": "Interprète",
+        "InterventionNote": "Florian Hoelscher : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Stuttgart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Heinz Holliger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:04:11+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f4bdec5c-c4e8-347f-827b-9d022fc198aa",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:10:26:00",
+      "ScheduledDuration": "00:06:06:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie en Ut Maj op 15 D 760 : Adagio - arrangement pour orchestre et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie en Ut Maj op 15 D 760 : Adagio - arrangement pour orchestre et piano",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.286",
+      "ExternalID": "4010276025122-1-11",
+      "AlbumTitle": "Charles Koechlin : Magicien orchestrateur",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276025122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Charles Koechlin",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Charles Koechlin : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Florian Hoelscher",
+        "Profession": "Interprète",
+        "InterventionNote": "Florian Hoelscher : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Stuttgart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Heinz Holliger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:10:26+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f4bdec5c-c4e8-347f-827b-9d022fc198aa",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:16:32:00",
+      "ScheduledDuration": "00:05:07:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie en Ut Maj op 15 D 760 : Presto - arrangement pour orchestre et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie en Ut Maj op 15 D 760 : Presto - arrangement pour orchestre et piano",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.286",
+      "ExternalID": "4010276025122-1-12",
+      "AlbumTitle": "Charles Koechlin : Magicien orchestrateur",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276025122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Charles Koechlin",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Charles Koechlin : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Florian Hoelscher",
+        "Profession": "Interprète",
+        "InterventionNote": "Florian Hoelscher : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Stuttgart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Heinz Holliger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:16:32+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f4bdec5c-c4e8-347f-827b-9d022fc198aa",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:21:39:00",
+      "ScheduledDuration": "00:03:56:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fantaisie en Ut Maj op 15 D 760 : Allegro - arrangement pour orchestre et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fantaisie en Ut Maj op 15 D 760 : Allegro - arrangement pour orchestre et piano",
+      "Label": "HANSSLER CLASSIC",
+      "ReferenceLabel": "CD 93.286",
+      "ExternalID": "4010276025122-1-13",
+      "AlbumTitle": "Charles Koechlin : Magicien orchestrateur",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010276025122",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Charles Koechlin",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Charles Koechlin : Arrangeur"
+      },
+      "Interpreter": {
+        "FullName": "Florian Hoelscher",
+        "Profession": "Interprète",
+        "InterventionNote": "Florian Hoelscher : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Stuttgart",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Heinz Holliger",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:21:39+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/f4bdec5c-c4e8-347f-827b-9d022fc198aa",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:25:35:00",
+      "ScheduledDuration": "00:02:13:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Heidenröslein D 257",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Heidenröslein D 257",
+      "Label": "NOMADMUSIC",
+      "ReferenceLabel": "NMM032",
+      "ExternalID": "RF00000054477-1-1",
+      "AlbumTitle": "Cavanna et Schubert : Transcriptions de Lieder et Trios",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000054477",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Bernard Cavanna",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Bernard Cavanna : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Isa Lagarde",
+          "Profession": "Interprète",
+          "InterventionNote": "Isa Lagarde : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Noemi Schindler",
+          "Profession": "Interprète",
+          "InterventionNote": "Noemi Schindler : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Anthony Millet",
+          "Profession": "Interprète",
+          "InterventionNote": "Anthony Millet : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Atsushi Sakai",
+          "Profession": "Interprète",
+          "InterventionNote": "Atsushi Sakai : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-25T01:25:35+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/0b5ad5b1-efd5-340b-9bfe-ff173b14099e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:27:48:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Das Wandern op 25 n°1 D 795 n°1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Das Wandern op 25 n°1 D 795 n°1",
+      "Label": "NOMADMUSIC",
+      "ReferenceLabel": "NMM032",
+      "ExternalID": "RF00000054477-1-19",
+      "AlbumTitle": "Cavanna et Schubert : Transcriptions de Lieder et Trios",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Mélodie & Lied",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000054477",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Bernard Cavanna",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Bernard Cavanna : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Isa Lagarde",
+          "Profession": "Interprète",
+          "InterventionNote": "Isa Lagarde : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Noemi Schindler",
+          "Profession": "Interprète",
+          "InterventionNote": "Noemi Schindler : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Anthony Millet",
+          "Profession": "Interprète",
+          "InterventionNote": "Anthony Millet : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Atsushi Sakai",
+          "Profession": "Interprète",
+          "InterventionNote": "Atsushi Sakai : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-25T01:27:48+01:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/b285f289-8a9c-37a5-899a-7c0df6537075",
+      "best_matching_score": "0.76"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:30:49:00",
+      "ScheduledDuration": "00:13:53:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor n°1 en sol min op 25 : allegro - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor n°1 en sol min op 25 : allegro - arrangement pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1140",
+      "ExternalID": "7318590011409-1-1",
+      "AlbumTitle": "Johannes Brahms : Transcriptions pour orchestre par Schoenberg et Leinsdorf",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590011409",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Arnold Schoenberg : Arrangeur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Norrkoping",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lu Jia",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:30:49+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/27638134-9689-31ec-a2c6-7fb02f6f0fe2",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:44:42:00",
+      "ScheduledDuration": "00:07:39:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor n°1 en sol min op 25 : Intermezzo . allegro ma non troppo - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor n°1 en sol min op 25 : Intermezzo . allegro ma non troppo - arrangement pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1140",
+      "ExternalID": "7318590011409-1-2",
+      "AlbumTitle": "Johannes Brahms : Transcriptions pour orchestre par Schoenberg et Leinsdorf",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590011409",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Arnold Schoenberg : Arrangeur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Norrkoping",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lu Jia",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:44:42+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/27638134-9689-31ec-a2c6-7fb02f6f0fe2",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "01:52:21:00",
+      "ScheduledDuration": "00:10:42:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor n°1 en sol min op 25 : Andante con moto - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor n°1 en sol min op 25 : Andante con moto - arrangement pour orchestre",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1140",
+      "ExternalID": "7318590011409-1-3",
+      "AlbumTitle": "Johannes Brahms : Transcriptions pour orchestre par Schoenberg et Leinsdorf",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590011409",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Arnold Schoenberg : Arrangeur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Norrkoping",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lu Jia",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T01:52:21+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/27638134-9689-31ec-a2c6-7fb02f6f0fe2",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:03:03:00",
+      "ScheduledDuration": "00:09:15:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor n°1 en sol min op 25 : Rondo alla zingarese",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor n°1 en sol min op 25 : Rondo alla zingarese",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-CD-1140",
+      "ExternalID": "7318590011409-1-4",
+      "AlbumTitle": "Johannes Brahms : Transcriptions pour orchestre par Schoenberg et Leinsdorf",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318590011409",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johannes Brahms",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Arnold Schoenberg",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Arnold Schoenberg : Arrangeur"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Norrkoping",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Lu Jia",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:03:03+01:00",
+      "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
+      "best": "http://data.doremus.org/expression/27638134-9689-31ec-a2c6-7fb02f6f0fe2",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:12:24:00",
+      "ScheduledDuration": "00:10:57:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rendering : 1. Allegro - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rendering : 1. Allegro - pour orchestre",
+      "Label": "RCA",
+      "ReferenceLabel": "09026688942",
+      "ExternalID": "0090266889426-1-2",
+      "AlbumTitle": "Luciano Berio : Rendering et Echoing curves",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266889426",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Luciano Berio",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Franz Schubert",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:12:24+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:23:21:00",
+      "ScheduledDuration": "00:11:38:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rendering : 2. Andante - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rendering : 2. Andante - pour orchestre",
+      "Label": "RCA",
+      "ReferenceLabel": "09026688942",
+      "ExternalID": "0090266889426-1-3",
+      "AlbumTitle": "Luciano Berio : Rendering et Echoing curves",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266889426",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Luciano Berio",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Franz Schubert",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:23:21+01:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:34:59:00",
+      "ScheduledDuration": "00:12:53:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rendering : 3. Allegro - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rendering : 3. Allegro - pour orchestre",
+      "Label": "RCA",
+      "ReferenceLabel": "09026688942",
+      "ExternalID": "0090266889426-1-4",
+      "AlbumTitle": "Luciano Berio : Rendering et Echoing curves",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266889426",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Luciano Berio",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Franz Schubert",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:34:59+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:48:03:00",
+      "ScheduledDuration": "00:04:10:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Préludes livre I L 117 : Voiles - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Préludes livre I L 117 : Voiles - arrangement pour orchestre",
+      "Label": "GLOR CLASSICS",
+      "ReferenceLabel": "GC11431",
+      "ExternalID": "4260191310432-1-2",
+      "AlbumTitle": "Claude Debussy : Prélude à l'après-midi d'un faune et autres oeuvres",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260191310432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:48:03+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:52:13:00",
+      "ScheduledDuration": "00:03:40:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Préludes livre I L 117 : La danse de Puck - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Préludes livre I L 117 : La danse de Puck - arrangement pour orchestre",
+      "Label": "GLOR CLASSICS",
+      "ReferenceLabel": "GC11431",
+      "ExternalID": "4260191310432-1-3",
+      "AlbumTitle": "Claude Debussy : Prélude à l'après-midi d'un faune et autres oeuvres",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260191310432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:52:13+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:55:53:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Préludes livre II L 123 : Général Lavine eccentric - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Préludes livre II L 123 : Général Lavine eccentric - arrangement pour orchestre",
+      "Label": "GLOR CLASSICS",
+      "ReferenceLabel": "GC11431",
+      "ExternalID": "4260191310432-1-4",
+      "AlbumTitle": "Claude Debussy : Prélude à l'après-midi d'un faune et autres oeuvres",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260191310432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:55:53+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "02:59:04:00",
+      "ScheduledDuration": "00:04:09:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Préludes livre I L 117 : Des pas sur la neige - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Préludes livre I L 117 : Des pas sur la neige - arrangement pour orchestre",
+      "Label": "GLOR CLASSICS",
+      "ReferenceLabel": "GC11431",
+      "ExternalID": "4260191310432-1-5",
+      "AlbumTitle": "Claude Debussy : Prélude à l'après-midi d'un faune et autres oeuvres",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260191310432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T02:59:04+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-25",
+      "ScheduledTime": "03:03:13:00",
+      "ScheduledDuration": "00:03:41:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Préludes livre I L 117 : Les collines d'Anacapri - arrangement pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Préludes livre I L 117 : Les collines d'Anacapri - arrangement pour orchestre",
+      "Label": "GLOR CLASSICS",
+      "ReferenceLabel": "GC11431",
+      "ExternalID": "4260191310432-1-6",
+      "AlbumTitle": "Claude Debussy : Prélude à l'après-midi d'un faune et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260191310432",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio De Baden-Baden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Zender",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-25T03:03:13+01:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6"
+    }
+  ],
+  "total": 33,
+  "matched": 17
+}

@@ -1,0 +1,2052 @@
+{
+  "id": "FM-406_20171218_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:06:23:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°4 : 1. Light and airy (High in the sky singing)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°4 : 1. Light and airy (High in the sky singing)",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-1",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T00:00:08+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/b7484e1f-3753-3c65-a1c2-f1952d1fc336",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:06:31:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°4 : 2. 2. With motion (Dance of light)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°4 : 2. 2. With motion (Dance of light)",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-2",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T00:06:31+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/b7484e1f-3753-3c65-a1c2-f1952d1fc336",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:10:20:00",
+      "ScheduledDuration": "00:06:19:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°4 : 3. Dark heavy and earthy with heavy groove",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°4 : 3. Dark heavy and earthy with heavy groove",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-3",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T00:10:20+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/b7484e1f-3753-3c65-a1c2-f1952d1fc336",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:16:39:00",
+      "ScheduledDuration": "00:03:59:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°4 : 4. Gently rocking with utmost sensitivity babbling",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°4 : 4. Gently rocking with utmost sensitivity babbling",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-4",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T00:16:39+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/b7484e1f-3753-3c65-a1c2-f1952d1fc336",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:20:42:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ophelia sings : 1. How should I your true-love know - pour soprano voix et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ophelia sings : 1. How should I your true-love know - pour soprano voix et piano",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE297",
+      "ExternalID": "0764593029724-1-14",
+      "AlbumTitle": "Modern Lied",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593029724",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "William Shakespeare",
+        "Profession": "Bruiteur",
+        "InterventionNote": "William Shakespeare : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sarah Maria Sun",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Maria Sun : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jan Philip Schulze",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan Philip Schulze : Piano, Voix",
+          "mop": "Piano, Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-18T00:20:42+01:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:23:06:00",
+      "ScheduledDuration": "00:02:28:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ophelia sings : 2. Tomorrow is Saint Valentine's day - pour soprano voix et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ophelia sings : 2. Tomorrow is Saint Valentine's day - pour soprano voix et piano",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE297",
+      "ExternalID": "0764593029724-1-15",
+      "AlbumTitle": "Modern Lied",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593029724",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "William Shakespeare",
+        "Profession": "Bruiteur",
+        "InterventionNote": "William Shakespeare : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sarah Maria Sun",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Maria Sun : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jan Philip Schulze",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan Philip Schulze : Piano, Voix",
+          "mop": "Piano, Voix"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-18T00:23:06+01:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:25:34:00",
+      "ScheduledDuration": "00:04:54:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ophelia sings : 3. They bore him barefaced on the bier - pour soprano et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ophelia sings : 3. They bore him barefaced on the bier - pour soprano et piano",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE297",
+      "ExternalID": "0764593029724-1-16",
+      "AlbumTitle": "Modern Lied",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0764593029724",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Wolfgang Rihm",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "William Shakespeare",
+        "Profession": "Bruiteur",
+        "InterventionNote": "William Shakespeare : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sarah Maria Sun",
+          "Profession": "Interprète",
+          "InterventionNote": "Sarah Maria Sun : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jan Philip Schulze",
+          "Profession": "Interprète",
+          "InterventionNote": "Jan Philip Schulze : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-18T00:25:34+01:00",
+      "composer": "http://data.doremus.org/artist/0cae7124-354e-35d1-bba3-9e028559ba18"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:30:28:00",
+      "ScheduledDuration": "00:08:21:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Puppenspiel III - pour piccolo flûte traversière flûte en sol et 14 instrumentistes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Puppenspiel III - pour piccolo flûte traversière flûte en sol et 14 instrumentistes",
+      "Label": "STRADIVARIUS",
+      "ReferenceLabel": "STR37075",
+      "ExternalID": "8011570370754-1-3",
+      "AlbumTitle": "Franco Donatoni : Abyss",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8011570370754",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franco Donatoni",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Mario Caroli",
+        "Profession": "Interprète",
+        "InterventionNote": "Mario Caroli : Piccolo, Flûte traversière, Flûte traversière alto",
+        "mop": "Piccolo, Flûte traversière, Flûte traversière alto"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Padoue Et De Venetie",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Marco Angius",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:30:28+01:00",
+      "composer": "http://data.doremus.org/artist/318977a7-3be0-3482-9dd2-1e3fc1f66069",
+      "best": "http://data.doremus.org/expression/1736f6c6-fd08-3e4e-a1c0-dc343864c953",
+      "best_matching_score": "0.80"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:38:58:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Introduzione - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Introduzione - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-1",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:38:58+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:42:18:00",
+      "ScheduledDuration": "00:01:39:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Primo intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Primo intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-2",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:42:18+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:43:57:00",
+      "ScheduledDuration": "00:07:48:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Hellucination 1 (Drowningirl) - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Hellucination 1 (Drowningirl) - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-3",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Donatienne Michel-Dansac",
+        "Profession": "Interprète",
+        "InterventionNote": "Donatienne Michel-Dansac : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:43:57+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:51:45:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Secondo intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Secondo intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-4",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:51:45+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "00:53:49:00",
+      "ScheduledDuration": "00:09:48:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Drowningirl II - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Drowningirl II - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-5",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Donatienne Michel-Dansac",
+        "Profession": "Interprète",
+        "InterventionNote": "Donatienne Michel-Dansac : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T00:53:49+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:03:37:00",
+      "ScheduledDuration": "00:01:21:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Terzo intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Terzo intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-6",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:03:37+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:04:58:00",
+      "ScheduledDuration": "00:06:26:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Drowningirl III - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Drowningirl III - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-7",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Donatienne Michel-Dansac",
+        "Profession": "Interprète",
+        "InterventionNote": "Donatienne Michel-Dansac : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:04:58+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:11:24:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Adagio - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Adagio - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-8",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:11:24+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:15:07:00",
+      "ScheduledDuration": "00:00:50:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Quarto intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Quarto intermezzo - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-9",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:15:07+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:15:57:00",
+      "ScheduledDuration": "00:07:01:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Hellucinations 2 (Risingirl) / Hellucinations 3 (Earpiercingbells) - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Hellucinations 2 (Risingirl) / Hellucinations 3 (Earpiercingbells) - pour soprano ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-10",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Donatienne Michel-Dansac",
+        "Profession": "Interprète",
+        "InterventionNote": "Donatienne Michel-Dansac : Soprano",
+        "mop": "Soprano"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:15:57+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:22:58:00",
+      "ScheduledDuration": "00:02:23:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Finale - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Finale - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-11",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:22:58+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:25:21:00",
+      "ScheduledDuration": "00:02:58:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An index of metals : Cadenza - pour ensemble instrumental et dispositif électroacoustique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An index of metals : Cadenza - pour ensemble instrumental et dispositif électroacoustique",
+      "Label": "CYPRES",
+      "ReferenceLabel": "CYP5622",
+      "ExternalID": "5412217056223-1-12",
+      "AlbumTitle": "Fausto Romitelli : An index of metals",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5412217056223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Fausto Romitelli",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Ensemble Ictus",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "OrchestraLeader": {
+        "FullName": "Georges Elie Octors",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:25:21+01:00",
+      "composer": "http://data.doremus.org/artist/10addc6f-6772-3d3d-933e-8647cfc7f35d"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:28:42:00",
+      "ScheduledDuration": "00:13:52:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Aide-mémoire C - pour erhu accordéon et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Aide-mémoire C - pour erhu accordéon et piano",
+      "Label": "L'EMPREINTE DIGITALE",
+      "ReferenceLabel": "ED13253",
+      "ExternalID": "3341348161297-1-4",
+      "AlbumTitle": "Arbre nuage",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3341348161297",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heng Chen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ying-Chieh Wang",
+          "Profession": "Interprète",
+          "InterventionNote": "Ying-Chieh Wang : Erhu (vièle)",
+          "mop": "Erhu (vièle)"
+        },
+        {
+          "FullName": "Fanny Vincens",
+          "Profession": "Interprète",
+          "InterventionNote": "Fanny Vincens : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Jennifer Hymer",
+          "Profession": "Interprète",
+          "InterventionNote": "Jennifer Hymer : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-12-18T01:28:42+01:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "01:42:34:00",
+      "ScheduledDuration": "00:20:42:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chemins V - pour guitare et orchestre de chambre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chemins V - pour guitare et orchestre de chambre",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM2485",
+      "ExternalID": "0028948150342-1-6",
+      "AlbumTitle": "Now and then",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948150342",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pablo Marquez",
+        "Profession": "Interprète",
+        "InterventionNote": "Pablo Marquez : Guitare",
+        "mop": "Guitare"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De La Radio Television Suisse Italienne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Dennis Russell-Davies",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T01:42:34+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/2cbf95b6-fafa-3710-91f2-4331ce0b0604",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:03:20:00",
+      "ScheduledDuration": "00:02:38:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 1. The visitation - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 1. The visitation - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-5",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:03:20+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:05:58:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 2. Berceuse for the Infant Jesu - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 2. Berceuse for the Infant Jesu - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-6",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:05:58+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:07:32:00",
+      "ScheduledDuration": "00:01:15:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 3. The shepherds' Noël - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 3. The shepherds' Noël - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-7",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:07:32+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:08:47:00",
+      "ScheduledDuration": "00:01:23:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 4. Adoration of the Magi - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 4. Adoration of the Magi - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-8",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:08:47+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:10:10:00",
+      "ScheduledDuration": "00:00:59:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 5. Nativity dance - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 5. Nativity dance - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-9",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:10:10+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:11:09:00",
+      "ScheduledDuration": "00:03:06:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 6. Canticle of the Holy Night - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 6. Canticle of the Holy Night - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-10",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:11:09+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:14:15:00",
+      "ScheduledDuration": "00:02:09:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A little suite for Chritmas AD 1979 : 7. Carol of the bells - pour piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A little suite for Chritmas AD 1979 : 7. Carol of the bells - pour piano",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDA68108",
+      "ExternalID": "0034571281087-1-11",
+      "AlbumTitle": "Feldman : Palais de Mari et Crumb : A little suite for Christmas",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571281087",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Steven Osborne",
+        "Profession": "Interprète",
+        "InterventionNote": "Steven Osborne : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-12-18T02:14:15+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:16:30:00",
+      "ScheduledDuration": "00:15:35:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "At the Royal Majestic : Negro Hall - pour orgue et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "At the Royal Majestic : Negro Hall - pour orgue et orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8559739",
+      "ExternalID": "0636943973929-1-9",
+      "AlbumTitle": "Terry Riley : The palmian chord ryddle et At the royal majestic",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0636943973929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Terry Riley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Todd Wilson",
+        "Profession": "Interprète",
+        "InterventionNote": "Todd Wilson : Orgue",
+        "mop": "Orgue"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Nashville",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Giancarlo Guerrero",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:16:30+01:00",
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:32:05:00",
+      "ScheduledDuration": "00:04:36:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "At the Royal Majestic : The Lizard tower gang - pour orgue et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "At the Royal Majestic : The Lizard tower gang - pour orgue et orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8559739",
+      "ExternalID": "0636943973929-1-10",
+      "AlbumTitle": "Terry Riley : The palmian chord ryddle et At the royal majestic",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0636943973929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Terry Riley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Todd Wilson",
+        "Profession": "Interprète",
+        "InterventionNote": "Todd Wilson : Orgue",
+        "mop": "Orgue"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Nashville",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Giancarlo Guerrero",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:32:05+01:00",
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:36:41:00",
+      "ScheduledDuration": "00:13:39:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "At the Royal Majestic : Circling Kailash - pour orgue et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "At the Royal Majestic : Circling Kailash - pour orgue et orchestre",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8559739",
+      "ExternalID": "0636943973929-1-11",
+      "AlbumTitle": "Terry Riley : The palmian chord ryddle et At the royal majestic",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0636943973929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Terry Riley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Todd Wilson",
+        "Profession": "Interprète",
+        "InterventionNote": "Todd Wilson : Orgue",
+        "mop": "Orgue"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De Nashville",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Giancarlo Guerrero",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-12-18T02:36:41+01:00",
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:50:26:00",
+      "ScheduledDuration": "00:01:00:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°3 : 1. Calmo con tenerezza e simplicita",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°3 : 1. Calmo con tenerezza e simplicita",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-5",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:50:26+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/28d7bd3a-15a6-37eb-8a30-3ef2fd38de4f",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:51:26:00",
+      "ScheduledDuration": "00:05:15:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°3 : 2ème mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°3 : 2ème mouvement",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-6",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:51:26+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/28d7bd3a-15a6-37eb-8a30-3ef2fd38de4f",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:56:41:00",
+      "ScheduledDuration": "00:00:52:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°3 : 3ème mouvement",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°3 : 3ème mouvement",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-7",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:56:41+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/28d7bd3a-15a6-37eb-8a30-3ef2fd38de4f",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-12-18",
+      "ScheduledTime": "02:57:33:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Quatuor à cordes n°3 : 4. Molto tranquillo et lontano e legato",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Quatuor à cordes n°3 : 4. Molto tranquillo et lontano e legato",
+      "Label": "WINTER & WINTER",
+      "ReferenceLabel": "9102422",
+      "ExternalID": "0025091024223-1-8",
+      "AlbumTitle": "Hans Abrahamsen : Quatuors à cordes n°1 à n°4",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091024223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hans Abrahamsen",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Irvine Arditti",
+          "Profession": "Interprète",
+          "InterventionNote": "Irvine Arditti : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ashot Sarkissjan",
+          "Profession": "Interprète",
+          "InterventionNote": "Ashot Sarkissjan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ralf Ehlers",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralf Ehlers : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Lucas Fels",
+          "Profession": "Interprète",
+          "InterventionNote": "Lucas Fels : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Quatuor Arditti",
+        "EntityType": "Ensemble Instrumental"
+      },
+      "ScheduledDateTime": "2017-12-18T02:57:33+01:00",
+      "composer": "http://data.doremus.org/artist/f7a36223-ea53-3e76-9955-4ccfe30ad8d6",
+      "best": "http://data.doremus.org/expression/28d7bd3a-15a6-37eb-8a30-3ef2fd38de4f",
+      "best_matching_score": "0.94"
+    }
+  ],
+  "total": 36,
+  "matched": 10
+}

@@ -1,0 +1,589 @@
+{
+  "id": "FM-406_20170925_00-23",
+  "channel": "406",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "00:00:08:00",
+      "ScheduledDuration": "00:30:54:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le désenchantement du monde - concerto symphonique pour piano et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le désenchantement du monde - concerto symphonique pour piano et orchestre",
+      "Label": "NEOS MUSIC",
+      "ReferenceLabel": "NEOS11422",
+      "ExternalID": "4260063114229-1-2",
+      "AlbumTitle": "Ligeti : Lontano Murail : Le désenchantement du monde et Benjamin : Palimpsests / Vol 22",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4260063114229",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Pierre Laurent Aimard",
+        "Profession": "Interprète",
+        "InterventionNote": "Pierre Laurent Aimard : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Bavaroise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "George Benjamin",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T00:00:08+02:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "00:31:25:00",
+      "ScheduledDuration": "00:15:22:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Solo pour deux - pour clarinette et trombone",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Solo pour deux - pour clarinette et trombone",
+      "Label": "KAIROS PRODUCTION",
+      "ReferenceLabel": "0012502KAI",
+      "ExternalID": "9120010281006-1-1",
+      "AlbumTitle": "Gérard Grisey : Solo pour deux et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010281006",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerard Grisey",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ernesto Molinari",
+          "Profession": "Interprète",
+          "InterventionNote": "Ernesto Molinari : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Uwe Dierksen",
+          "Profession": "Interprète",
+          "InterventionNote": "Uwe Dierksen : Trombone",
+          "mop": "Trombone"
+        }
+      ],
+      "ScheduledDateTime": "2017-09-25T00:31:25+02:00",
+      "composer": "http://data.doremus.org/artist/c4ef4da5-5668-36b4-8f95-6aca037d04d8",
+      "best": "http://data.doremus.org/expression/0ef299e8-5727-397f-b0d4-f94c65e75a71",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "00:46:47:00",
+      "ScheduledDuration": "00:22:02:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Espaces acoustiques : Partiels - pour orchestre de 18 musiciens",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Espaces acoustiques : Partiels - pour orchestre de 18 musiciens",
+      "Label": "KAIROS",
+      "ReferenceLabel": "KAIROS 0012422KAI",
+      "ExternalID": "9120010280191-1-3",
+      "AlbumTitle": "Gérard Grisey : Les espaces acoustiques",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "9120010280191",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gerard Grisey",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique Du Wdr De Cologne",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Stefan Asbury",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T00:46:47+02:00",
+      "composer": "http://data.doremus.org/artist/c4ef4da5-5668-36b4-8f95-6aca037d04d8",
+      "best": "http://data.doremus.org/expression/eb9f0f76-7072-3959-a53e-9df654f005b3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "01:09:00:00",
+      "ScheduledDuration": "00:22:29:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le partage des eaux - pour grand orchestre avec un synthétiseur",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le partage des eaux - pour grand orchestre avec un synthétiseur",
+      "Label": "AEON",
+      "ReferenceLabel": "AECD1222",
+      "ExternalID": "3760058360224-1-1",
+      "AlbumTitle": "Tristan Murail : Le partage des eaux et autres oeuvres",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760058360224",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Non Identifie",
+        "Profession": "Interprète",
+        "InterventionNote": "Non Identifie"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Bbc",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Andre Valade",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T01:09:00+02:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "01:31:33:00",
+      "ScheduledDuration": "00:16:28:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cantate n°4 (Komm Jesu komm) : Komm Jesu komm - Drum schliess ich mich in deine Hände",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cantate n°4 (Komm Jesu komm) : Komm Jesu komm - Drum schliess ich mich in deine Hände",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V5420",
+      "ExternalID": "0822186054208-1-4",
+      "AlbumTitle": "Voices",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186054208",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Bruno Mantovani",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonia Wieder-Atherton",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonia Wieder-Atherton : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Pascal Contet",
+          "Profession": "Interprète",
+          "InterventionNote": "Pascal Contet : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Laurence Equilbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Laurence Equilbey"
+        },
+        {
+          "FullName": "Vahrenkamp Kristina",
+          "Profession": "Interprète",
+          "InterventionNote": "Vahrenkamp Kristina : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Caroline Chassany",
+          "Profession": "Interprète",
+          "InterventionNote": "Caroline Chassany : Soprano",
+          "mop": "Soprano"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Accentus",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-09-25T01:31:33+02:00",
+      "composer": "http://data.doremus.org/artist/8d84287a-4718-3624-954c-99121c478066",
+      "best": "http://data.doremus.org/expression/18690186-b5bd-34dc-a64f-08c14614a20c",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "01:48:05:00",
+      "ScheduledDuration": "00:11:53:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La barque mystique / Pour 5 instruments",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La barque mystique / Pour 5 instruments",
+      "Label": "ACCORD",
+      "ReferenceLabel": "204672",
+      "ExternalID": "3229262046725-1-5",
+      "AlbumTitle": "Couleur de mer - l'attente - treize couleurs du soleil couchant...",
+      "Rank": 5,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262046725",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ensemble Court Circuit",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Court Circuit"
+        },
+        {
+          "FullName": "Antoine Ladrette",
+          "Profession": "Interprète",
+          "InterventionNote": "Antoine Ladrette : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Catherine Bowie",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Bowie : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Pierre Dutrieu",
+          "Profession": "Interprète",
+          "InterventionNote": "Pierre Dutrieu : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Jean Marie Cottet",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Marie Cottet : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Carmen Fournier",
+          "Profession": "Interprète",
+          "InterventionNote": "Carmen Fournier : Violon",
+          "mop": "Violon"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Pierre Andre Valade",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T01:48:05+02:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "01:59:58:00",
+      "ScheduledDuration": "00:10:07:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La mandragore",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La mandragore",
+      "Label": "ACCORD",
+      "ReferenceLabel": "205752",
+      "ExternalID": "3229262057523-1-1",
+      "AlbumTitle": "Le piano contemporain par Dominique My",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229262057523",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Dominique My",
+        "Profession": "Interprète",
+        "InterventionNote": "Dominique My : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-09-25T01:59:58+02:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "02:10:11:00",
+      "ScheduledDuration": "00:27:56:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Surgir / Pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Surgir / Pour orchestre",
+      "Label": "TIMPANI",
+      "ReferenceLabel": "1C1112",
+      "ExternalID": "3377891311124-1-2",
+      "AlbumTitle": "Dufourt Hugues / Cypres blanc",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3377891311124",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hugues Dufourt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Gerard Causse",
+        "Profession": "Interprète",
+        "InterventionNote": "Gerard Causse : Alto (instrument)",
+        "mop": "Alto (instrument)"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique Du Luxembourg",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Pierre Andre Valade",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T02:10:11+02:00",
+      "composer": "http://data.doremus.org/artist/f9be0f12-f30c-354b-9495-37062c53a992"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "02:38:16:00",
+      "ScheduledDuration": "00:16:48:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gondwana - pour orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gondwana - pour orchestre",
+      "Label": "SALABERT TRAJECTOIRES",
+      "ReferenceLabel": "SCD8902",
+      "ExternalID": "3330448900028-1-3",
+      "AlbumTitle": "Tristan Murail : Gondwana Désintégrations Time and again",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1989-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3330448900028",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Tristan Murail",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De France",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Yves Prin",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T02:38:16+02:00",
+      "composer": "http://data.doremus.org/artist/4bfb8d78-0e8a-3b18-a0b5-d26d2284908e"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-09-25",
+      "ScheduledTime": "02:55:04:00",
+      "ScheduledDuration": "00:06:11:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "D'om le vrai sens : A mon seul désir - concerto pour clarinette et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "D'om le vrai sens : A mon seul désir - concerto pour clarinette et orchestre",
+      "Label": "ONDINE",
+      "ReferenceLabel": "ODE 1173-2",
+      "ExternalID": "0761195117323-1-6",
+      "AlbumTitle": "Kaija Saariaho : Concerto pour clarinette et autres oeuvres",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761195117323",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Kaija Saariaho",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kari Kriikku",
+        "Profession": "Interprète",
+        "InterventionNote": "Kari Kriikku : Clarinette",
+        "mop": "Clarinette"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De La Radio Finlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sakari Oramo",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-09-25T02:55:04+02:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
+    }
+  ],
+  "total": 10,
+  "matched": 3
+}

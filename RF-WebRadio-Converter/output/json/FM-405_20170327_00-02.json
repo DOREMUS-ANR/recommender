@@ -1,0 +1,2600 @@
+{
+  "id": "FM-405_20170327_00-02",
+  "channel": "405",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:00:15:00",
+      "ScheduledDuration": "00:02:56:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Sonate n°37 en La Maj K 402 : Fugue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Sonate n°37 en La Maj K 402 : Fugue",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "826948-2",
+      "ExternalID": "0042282694829-1-4",
+      "AlbumTitle": "Anyone for Mozart Bach Haendel Vivaldi",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042282694829",
+      "Compositor": {
+        "FullName": "Wolfgang Amadeus Mozart",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "Highlight": true,
+        "FullName": "Swingle Singers",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Swingle Singers : Adaptation"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Swingle Singers",
+        "Profession": "Interprète",
+        "InterventionNote": "Swingle Singers"
+      },
+      "ScheduledDateTime": "2017-03-27T00:00:15+02:00",
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/5ace7ea6-6f0c-3742-9b0a-a7b161c2de9d",
+      "best_matching_score": "0.94"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:03:11:00",
+      "ScheduledDuration": "00:06:08:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Song of praise / Jesu ein freund bwv 227 : Partie II",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Song of praise / Jesu ein freund bwv 227 : Partie II",
+      "Label": "ZIGZAG",
+      "ReferenceLabel": "ZZT080101",
+      "ExternalID": "3760009291614-1-14",
+      "AlbumTitle": "Bach / Coltrane",
+      "Rank": 14,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760009291614",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Raphael Imbert Project",
+        "Profession": "Interprète",
+        "InterventionNote": "Raphael Imbert Project"
+      },
+      "ScheduledDateTime": "2017-03-27T00:03:11+02:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:09:19:00",
+      "ScheduledDuration": "00:02:44:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Partita n°2 en ut min BWV 826 : Courante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Partita n°2 en ut min BWV 826 : Courante",
+      "Label": "MUSIKPRODUKTION DABRINGHAUS UND GRIMM",
+      "ReferenceLabel": "MDG 6100916-2",
+      "ExternalID": "0760623091624-1-7",
+      "AlbumTitle": "Bach en jazz/Thomas Gabriel trio",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0760623091624",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Thomas Gabriel",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Gabriel : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gunnar Polansky",
+          "Profession": "Interprète",
+          "InterventionNote": "Gunnar Polansky : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Martin Klusmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Martin Klusmann : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:09:19+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/4a6389a3-ee42-3895-a3a7-59dfeb8469ac",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:12:03:00",
+      "ScheduledDuration": "00:04:58:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Blues in b flat",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Blues in b flat",
+      "Label": "ATLANTIC",
+      "ReferenceLabel": "781393-2",
+      "ExternalID": "0075678139321-1-2",
+      "AlbumTitle": "Blues on Bach",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1974-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075678139321",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Modern Jazz Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "Modern Jazz Quartet"
+        },
+        {
+          "FullName": "John Lewis",
+          "Profession": "Interprète",
+          "InterventionNote": "John Lewis : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Milt Jackson",
+          "Profession": "Interprète",
+          "InterventionNote": "Milt Jackson : Vibraphone",
+          "mop": "Vibraphone"
+        },
+        {
+          "FullName": "Percy Heath",
+          "Profession": "Interprète",
+          "InterventionNote": "Percy Heath : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Kay Connie",
+          "Profession": "Interprète",
+          "InterventionNote": "Kay Connie : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:12:03+02:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:17:01:00",
+      "ScheduledDuration": "00:05:33:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Take bach",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Take bach",
+      "Label": "DJAZ RECORDS",
+      "ReferenceLabel": "DJ 732-2",
+      "ExternalID": "3322420073226-1-1",
+      "AlbumTitle": "For Oscar",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2004-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3322420073226",
+      "Interpreter": [
+        {
+          "FullName": "Philippe Duchemin",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Duchemin : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Dano Haider",
+          "Profession": "Interprète",
+          "InterventionNote": "Dano Haider : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Manu Marches",
+          "Profession": "Interprète",
+          "InterventionNote": "Manu Marches : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Trio Philippe Duchemin",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-03-27T00:17:01+02:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:22:45:00",
+      "ScheduledDuration": "00:02:44:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bach goes to town (1938)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bach goes to town (1938)",
+      "Label": "SAGA",
+      "ReferenceLabel": "066473-2",
+      "ExternalID": "0044006647326-1-2",
+      "AlbumTitle": "Jazzin' the classics vol. 1",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044006647326",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Benny Goodman & His Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-03-27T00:22:45+02:00"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:25:29:00",
+      "ScheduledDuration": "00:04:24:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bachianas brasileiras n°5 : Danca - Martelo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bachianas brasileiras n°5 : Danca - Martelo",
+      "Label": "TRATORE",
+      "ReferenceLabel": "AA0003000",
+      "ExternalID": "7898515692475-1-6",
+      "AlbumTitle": "Villa-Lobos superstar",
+      "Rank": 6,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7898515692475",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heitor Villa-Lobos",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Pau Brasil",
+          "Profession": "Interprète",
+          "InterventionNote": "Pau Brasil"
+        },
+        {
+          "FullName": "Nelson Ayres",
+          "Profession": "Interprète",
+          "InterventionNote": "Nelson Ayres : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Rodolfo Stroeter",
+          "Profession": "Interprète",
+          "InterventionNote": "Rodolfo Stroeter : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Paulo Bellinati",
+          "Profession": "Interprète",
+          "InterventionNote": "Paulo Bellinati : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Teco Cardoso",
+          "Profession": "Interprète",
+          "InterventionNote": "Teco Cardoso : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Ricardo Mosca",
+          "Profession": "Interprète",
+          "InterventionNote": "Ricardo Mosca : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Ensemble Sp",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Sp"
+        },
+        {
+          "FullName": "Betina Stegmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Betina Stegmann : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Nelson Rios",
+          "Profession": "Interprète",
+          "InterventionNote": "Nelson Rios : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Marcelo Jaffe",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcelo Jaffe : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Bob Suetholz",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Suetholz : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:25:29+02:00",
+      "composer": "http://data.doremus.org/artist/c51a1b01-5682-33da-a15a-67d7f36c8308",
+      "best": "http://data.doremus.org/expression/c104d66f-0c51-30a0-a587-f192e971a77e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:29:53:00",
+      "ScheduledDuration": "00:03:29:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Improhandel 439 / Courante en Sol Maj HWV 439",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Improhandel 439 / Courante en Sol Maj HWV 439",
+      "Label": "CAM JAZZ",
+      "ReferenceLabel": "CAMJ 7837-2",
+      "ExternalID": "8052405140142-1-9",
+      "AlbumTitle": "1685 / Enrico Pieranunzi interprète Bach Haendel Scarlatti et improvise autour de leurs oeuvres",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8052405140142",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Enrico Pieranunzi",
+        "Profession": "Interprète",
+        "InterventionNote": "Enrico Pieranunzi : Pianoforte",
+        "mop": "Pianoforte"
+      },
+      "ScheduledDateTime": "2017-03-27T00:29:53+02:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/052f06b4-24ea-3323-9d58-10c053dab14a",
+      "best_matching_score": "0.79"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:33:22:00",
+      "ScheduledDuration": "00:03:24:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Apres un reve",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Apres un reve",
+      "Label": "EMI",
+      "ReferenceLabel": "EMI 5572572",
+      "ExternalID": "0724355725721-1-4",
+      "AlbumTitle": "Into the blue",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355725721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "Highlight": true,
+        "FullName": "Gabriel Faure",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Gabriel Faure : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Emmanuel Pahud",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Pahud : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Jacky Terrasson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacky Terrasson : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ali Jackson",
+          "Profession": "Interprète",
+          "InterventionNote": "Ali Jackson"
+        },
+        {
+          "FullName": "Sean Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Sean Smith : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:33:22+02:00",
+      "composer": "http://data.doremus.org/artist/6447cde9-fbd7-3da3-a1bf-ff1176456cd7",
+      "best": "http://data.doremus.org/expression/782ff0b2-1d53-3c06-8552-a921e300f767",
+      "best_matching_score": "0.85"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:36:46:00",
+      "ScheduledDuration": "00:04:05:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Paraphrase gnossienne",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Paraphrase gnossienne",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V 5339",
+      "ExternalID": "0822186053393-1-1",
+      "AlbumTitle": "Miroir(s)",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186053393",
+      "Compositor": {
+        "FullName": "Erik Satie",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ensemble Contraste",
+          "Profession": "Interprète",
+          "InterventionNote": "Ensemble Contraste"
+        },
+        {
+          "FullName": "Arnaud Thorette",
+          "Profession": "Interprète",
+          "InterventionNote": "Arnaud Thorette"
+        },
+        {
+          "FullName": "Johan Farjot",
+          "Profession": "Interprète",
+          "InterventionNote": "Johan Farjot"
+        },
+        {
+          "FullName": "Raphael Imbert",
+          "Profession": "Interprète",
+          "InterventionNote": "Raphael Imbert"
+        },
+        {
+          "FullName": "Karol Beffa",
+          "Profession": "Interprète",
+          "InterventionNote": "Karol Beffa"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:36:46+02:00",
+      "composer": "http://data.doremus.org/artist/c536e11e-7871-3469-b913-1883b0b60e98"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:40:51:00",
+      "ScheduledDuration": "00:05:26:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Cherubino underground",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Cherubino underground",
+      "Label": "NOCTURNE",
+      "ReferenceLabel": "NTCD 322",
+      "ExternalID": "3700193303229-1-2",
+      "AlbumTitle": "Mozart la nuit",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3700193303229",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Antoine Herve",
+        "Profession": "Interprète",
+        "InterventionNote": "Antoine Herve"
+      },
+      "ScheduledDateTime": "2017-03-27T00:40:51+02:00"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:46:17:00",
+      "ScheduledDuration": "00:10:00:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Medley: our waltz - adagio - bach's blues",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Medley: our waltz - adagio - bach's blues",
+      "Label": "TELARC",
+      "ReferenceLabel": "CD-83314",
+      "ExternalID": "0089408331428-1-5",
+      "AlbumTitle": "Last call /At the Blue Note",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0089408331428",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Oscar Peterson Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Oscar Peterson Trio"
+        },
+        {
+          "FullName": "Oscar Peterson",
+          "Profession": "Interprète",
+          "InterventionNote": "Oscar Peterson : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Herb Ellis",
+          "Profession": "Interprète",
+          "InterventionNote": "Herb Ellis : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Ray Brown",
+          "Profession": "Interprète",
+          "InterventionNote": "Ray Brown : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Bobby Durham",
+          "Profession": "Interprète",
+          "InterventionNote": "Bobby Durham : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:46:17+02:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:56:22:00",
+      "ScheduledDuration": "00:03:25:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Midnight variation (the) : D'apres les variations Goldberg BWV 988 de Jean Sebastien Bach",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Midnight variation (the) : D'apres les variations Goldberg BWV 988 de Jean Sebastien Bach",
+      "Label": "WIWI",
+      "ReferenceLabel": "910 145-2",
+      "ExternalID": "0025091014521-1-8",
+      "AlbumTitle": "The classical variations",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091014521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Uri Caine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Uri Caine",
+          "Profession": "Interprète",
+          "InterventionNote": "Uri Caine : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ralph Alessi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralph Alessi : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Greg Osby",
+          "Profession": "Interprète",
+          "InterventionNote": "Greg Osby : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Josh Roseman",
+          "Profession": "Interprète",
+          "InterventionNote": "Josh Roseman : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "James Genus",
+          "Profession": "Interprète",
+          "InterventionNote": "James Genus : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Ralph Peterson",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralph Peterson : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:56:22+02:00",
+      "composer": "http://data.doremus.org/artist/e8f27ec5-a209-3678-b5ce-483208a04d30"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "00:59:47:00",
+      "ScheduledDuration": "00:02:32:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Brass and drums variation (the) : D'apres les variations Goldberg BWV 988 de Jean Sebastien Bach",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Brass and drums variation (the) : D'apres les variations Goldberg BWV 988 de Jean Sebastien Bach",
+      "Label": "WIWI",
+      "ReferenceLabel": "910 145-2",
+      "ExternalID": "0025091014521-1-9",
+      "AlbumTitle": "The classical variations",
+      "Rank": 9,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091014521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Uri Caine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ralph Alessi",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralph Alessi : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Don Byron",
+          "Profession": "Interprète",
+          "InterventionNote": "Don Byron : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Bob Stewart",
+          "Profession": "Interprète",
+          "InterventionNote": "Bob Stewart : Tuba",
+          "mop": "Tuba"
+        },
+        {
+          "FullName": "Ralph Peterson",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralph Peterson : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T00:59:47+02:00",
+      "composer": "http://data.doremus.org/artist/e8f27ec5-a209-3678-b5ce-483208a04d30"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:02:19:00",
+      "ScheduledDuration": "00:02:19:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fats variation (the) : D'apres les variations Goldberg BWV 988 de Jean Sebastien Bach",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fats variation (the) : D'apres les variations Goldberg BWV 988 de Jean Sebastien Bach",
+      "Label": "WIWI",
+      "ReferenceLabel": "910 145-2",
+      "ExternalID": "0025091014521-1-12",
+      "AlbumTitle": "The classical variations",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091014521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Uri Caine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Uri Caine",
+        "Profession": "Interprète",
+        "InterventionNote": "Uri Caine : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-27T01:02:19+02:00",
+      "composer": "http://data.doremus.org/artist/e8f27ec5-a209-3678-b5ce-483208a04d30"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:04:38:00",
+      "ScheduledDuration": "00:01:21:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Volière",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Volière",
+      "Label": "EMI",
+      "ReferenceLabel": "EMI 5572572",
+      "ExternalID": "0724355725721-1-1",
+      "AlbumTitle": "Into the blue",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2002-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0724355725721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Camille Saint Saens",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "Highlight": true,
+        "FullName": "Camille Saint Saens",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Camille Saint Saens : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Emmanuel Pahud",
+          "Profession": "Interprète",
+          "InterventionNote": "Emmanuel Pahud : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Jacky Terrasson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacky Terrasson : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Ali Jackson",
+          "Profession": "Interprète",
+          "InterventionNote": "Ali Jackson"
+        },
+        {
+          "FullName": "Sean Smith",
+          "Profession": "Interprète",
+          "InterventionNote": "Sean Smith : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:04:38+02:00",
+      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:05:59:00",
+      "ScheduledDuration": "00:10:07:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Beethoven Peru",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Beethoven Peru",
+      "Label": "PAQUITO RECORDS",
+      "ReferenceLabel": "SSC 4555",
+      "ExternalID": "0016728455527-1-2",
+      "AlbumTitle": "Jazz meets the classics",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0016728455527",
+      "Compositor": {
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Paquito D'Rivera",
+          "Profession": "Interprète",
+          "InterventionNote": "Paquito D'Rivera : Saxophone soprano, Clarinette",
+          "mop": "Saxophone soprano, Clarinette"
+        },
+        {
+          "FullName": "Diego Urcola",
+          "Profession": "Interprète",
+          "InterventionNote": "Diego Urcola : Trompette, Trombone",
+          "mop": "Trompette, Trombone"
+        },
+        {
+          "FullName": "Alex Brown",
+          "Profession": "Interprète",
+          "InterventionNote": "Alex Brown : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Oscar Stagnaro",
+          "Profession": "Interprète",
+          "InterventionNote": "Oscar Stagnaro : Basse électrique",
+          "mop": "Basse électrique"
+        },
+        {
+          "FullName": "Arturo Stable",
+          "Profession": "Interprète",
+          "InterventionNote": "Arturo Stable : Percussions",
+          "mop": "Percussions"
+        },
+        {
+          "FullName": "Mark Walker",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Walker : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:05:59+02:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:16:06:00",
+      "ScheduledDuration": "00:04:30:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prelude no. 7 opus 28 - Chopin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prelude no. 7 opus 28 - Chopin",
+      "Label": "VWC RECORDS",
+      "ReferenceLabel": "VWCD 4108",
+      "ExternalID": "0033135410826-1-5",
+      "AlbumTitle": "A tribute to Art Tatum",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0033135410826",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Adam Makowicz",
+        "Profession": "Interprète",
+        "InterventionNote": "Adam Makowicz : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-27T01:16:06+02:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:20:36:00",
+      "ScheduledDuration": "00:04:44:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Humoresque",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Humoresque",
+      "Label": "VWC RECORDS",
+      "ReferenceLabel": "VWCD 4108",
+      "ExternalID": "0033135410826-1-2",
+      "AlbumTitle": "A tribute to Art Tatum",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0033135410826",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Adam Makowicz",
+        "Profession": "Interprète",
+        "InterventionNote": "Adam Makowicz : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-27T01:20:36+02:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:25:20:00",
+      "ScheduledDuration": "00:04:29:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La plus que lente",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La plus que lente",
+      "Label": "EMARCY",
+      "ExternalID": "0602498376591-1-7",
+      "AlbumTitle": "Waltz club",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498376591",
+      "EditorialComment": "[Import MusicCenter]",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Didier Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Lockwood"
+        },
+        {
+          "FullName": "Marcel Azzola",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcel Azzola : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Martin Taylor",
+          "Profession": "Interprète",
+          "InterventionNote": "Martin Taylor : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Jean Philippe Viret",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Viret : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:25:20+02:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/fc107e28-8b56-311a-bf47-1f1c7e7d9929",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:29:52:00",
+      "ScheduledDuration": "00:03:28:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Piano concerto no1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Piano concerto no1",
+      "Label": "PHONTASTIC",
+      "ReferenceLabel": "PHONT-CD-7581",
+      "ExternalID": "RF00000013853-1-3",
+      "AlbumTitle": "Hallberg's surprise",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000013853",
+      "Compositor": {
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Bengt Hallberg",
+        "Profession": "Interprète",
+        "InterventionNote": "Bengt Hallberg : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-27T01:29:52+02:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:33:20:00",
+      "ScheduledDuration": "00:07:13:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mozart goes dancing",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mozart goes dancing",
+      "Label": "UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)",
+      "ReferenceLabel": "0888072333635",
+      "ExternalID": "0888072333635-1-10",
+      "AlbumTitle": "Hot house",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0888072333635",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Corea Chick & Burton Gary",
+        "Profession": "Interprète",
+        "InterventionNote": "Corea Chick & Burton Gary"
+      },
+      "ScheduledDateTime": "2017-03-27T01:33:20+02:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:40:33:00",
+      "ScheduledDuration": "00:02:52:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Presto aus der fantasie in be-bop",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Presto aus der fantasie in be-bop",
+      "Label": "DJAZ RECORDS",
+      "ReferenceLabel": "DJ 803-2",
+      "ExternalID": "3322420080323-1-4",
+      "AlbumTitle": "The swingin' violin of Helmut Zacharias",
+      "Rank": 4,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3322420080323",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Helmut Zacharias",
+          "Profession": "Interprète",
+          "InterventionNote": "Helmut Zacharias : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Coco Schumann",
+          "Profession": "Interprète",
+          "InterventionNote": "Coco Schumann : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:40:33+02:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:43:25:00",
+      "ScheduledDuration": "00:06:05:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Der wegweiser (Franz Schubert, arr. Roman Rofalski)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Der wegweiser (Franz Schubert, arr. Roman Rofalski)",
+      "Label": "NEU KLANG",
+      "ReferenceLabel": "NCD4085",
+      "ExternalID": "4012116408539-1-7",
+      "AlbumTitle": "Der wegweiser",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4012116408539",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Raoman Rofalski Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Raoman Rofalski Trio"
+        },
+        {
+          "FullName": "Johannes Felscher",
+          "Profession": "Interprète",
+          "InterventionNote": "Johannes Felscher : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Philippe Lemm",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Lemm : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Roman Rofalski",
+          "Profession": "Interprète",
+          "InterventionNote": "Roman Rofalski : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:43:25+02:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:49:30:00",
+      "ScheduledDuration": "00:05:58:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Adagietto (of the symphony n° 5)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Adagietto (of the symphony n° 5)",
+      "Label": "BEE JAZZ",
+      "ReferenceLabel": "BEE 022",
+      "ExternalID": "3760002137957-1-1",
+      "AlbumTitle": "Adagietto",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760002137957",
+      "Compositor": {
+        "FullName": "Gustav Mahler",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jean-Paul Celea",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean-Paul Celea : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Francois Couturier",
+          "Profession": "Interprète",
+          "InterventionNote": "Francois Couturier : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Daniel Humair",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Humair : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:49:30+02:00",
+      "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:55:28:00",
+      "ScheduledDuration": "00:02:33:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bachpolska",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bachpolska",
+      "Label": "ACT MUSIC & VISION",
+      "ReferenceLabel": "ACT 9547-2",
+      "ExternalID": "0614427954725-1-10",
+      "AlbumTitle": "New eyes on baroque",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0614427954725",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jeanette Kohn",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeanette Kohn : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Choeur De La Radio Suedoise",
+          "Profession": "Interprète",
+          "InterventionNote": "Choeur De La Radio Suedoise"
+        },
+        {
+          "FullName": "Nils Landgren",
+          "Profession": "Interprète",
+          "InterventionNote": "Nils Landgren : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Johan Norberg",
+          "Profession": "Interprète",
+          "InterventionNote": "Johan Norberg : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Jonas Knutsson",
+          "Profession": "Interprète",
+          "InterventionNote": "Jonas Knutsson : Saxophone",
+          "mop": "Saxophone"
+        },
+        {
+          "FullName": "Eva Kruse",
+          "Profession": "Interprète",
+          "InterventionNote": "Eva Kruse : Basse",
+          "mop": "Basse"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:55:28+02:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "01:58:06:00",
+      "ScheduledDuration": "00:05:03:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don muerte - Don Giovanni k 527 : ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don muerte - Don Giovanni k 527 : ouverture",
+      "Label": "SONY",
+      "ReferenceLabel": "82876844532",
+      "ExternalID": "0828768445327-1-8",
+      "AlbumTitle": "Mozart meets Cuba",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0828768445327",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Klazz Brothers",
+          "Profession": "Interprète",
+          "InterventionNote": "Klazz Brothers"
+        },
+        {
+          "FullName": "Cuba Percussion",
+          "Profession": "Interprète",
+          "InterventionNote": "Cuba Percussion"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T01:58:06+02:00"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:03:09:00",
+      "ScheduledDuration": "00:05:03:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Mond und schein",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Mond und schein",
+      "Label": "ACT MUSIC & VISION",
+      "ReferenceLabel": "ACT95822",
+      "ExternalID": "RF00000045498-1-13",
+      "AlbumTitle": "Mein beethoven",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000045498",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ilg Dieter",
+          "Profession": "Interprète",
+          "InterventionNote": "Ilg Dieter : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Rainer Bohm",
+          "Profession": "Interprète",
+          "InterventionNote": "Rainer Bohm : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Patrice Heral",
+          "Profession": "Interprète",
+          "InterventionNote": "Patrice Heral : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T02:03:09+02:00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:08:12:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Winterreise D 911 : Erstarrung",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Winterreise D 911 : Erstarrung",
+      "Label": "VERVE",
+      "ReferenceLabel": "527672-2",
+      "ExternalID": "0731452767226-1-10",
+      "AlbumTitle": "European songbook",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0731452767226",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Vienna Art Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-03-27T02:08:12+02:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/0c40dade-a4da-3288-87db-22735863462c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:12:37:00",
+      "ScheduledDuration": "00:03:10:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Am leuchtenden sommermorgen : D'apres les amours du poete op 48 de Robert Schumann",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Am leuchtenden sommermorgen : D'apres les amours du poete op 48 de Robert Schumann",
+      "Label": "WIWI",
+      "ReferenceLabel": "910 145-2",
+      "ExternalID": "0025091014521-1-7",
+      "AlbumTitle": "The classical variations",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0025091014521",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Uri Caine",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Mark Ledford",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Ledford : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Julie Patton",
+          "Profession": "Interprète",
+          "InterventionNote": "Julie Patton : Voix",
+          "mop": "Voix"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Uri Caine",
+          "Profession": "Interprète",
+          "InterventionNote": "Uri Caine : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "David Gilmore",
+          "Profession": "Interprète",
+          "InterventionNote": "David Gilmore : Guitare électrique",
+          "mop": "Guitare électrique"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Ensemble Uri Caine",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Uri Caine",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-03-27T02:12:37+02:00",
+      "composer": "http://data.doremus.org/artist/e8f27ec5-a209-3678-b5ce-483208a04d30"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:15:47:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prelude op. 28 no. 3",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prelude op. 28 no. 3",
+      "Label": "NAIVE RECORDS",
+      "ReferenceLabel": "V5229",
+      "ExternalID": "0822186052297-1-12",
+      "AlbumTitle": "Impressions on Chopin",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Musique soliste",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186052297",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Mozdzer Leszek",
+        "Profession": "Interprète",
+        "InterventionNote": "Mozdzer Leszek : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-03-27T02:15:47+02:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:20:10:00",
+      "ScheduledDuration": "00:08:00:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Brahms' lullabye",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Brahms' lullabye",
+      "Label": "CHALLENGE RECORDS",
+      "ReferenceLabel": "CHR 70050",
+      "ExternalID": "0608917005028-1-2",
+      "AlbumTitle": "Intimate stories",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0608917005028",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Terry Clark",
+        "Profession": "Interprète",
+        "InterventionNote": "Terry Clark : Trompette",
+        "mop": "Trompette"
+      },
+      "ScheduledDateTime": "2017-03-27T02:20:10+02:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:28:10:00",
+      "ScheduledDuration": "00:06:20:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variation on a theme by Giacomo Puccini",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variation on a theme by Giacomo Puccini",
+      "Label": "MACK AVENUE",
+      "ReferenceLabel": "MAC 1056",
+      "ExternalID": "0673203105621-1-4",
+      "AlbumTitle": "Legacy",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0673203105621",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Wilson Gerald Orchestra",
+        "Profession": "Interprète",
+        "InterventionNote": "Wilson Gerald Orchestra"
+      },
+      "ScheduledDateTime": "2017-03-27T02:28:10+02:00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:34:30:00",
+      "ScheduledDuration": "00:03:35:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Variation on a theme by Igor Stravinsky",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Variation on a theme by Igor Stravinsky",
+      "Label": "MACK AVENUE",
+      "ReferenceLabel": "MAC 1056",
+      "ExternalID": "0673203105621-1-1",
+      "AlbumTitle": "Legacy",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0673203105621",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Wilson Gerald Orchestra",
+        "Profession": "Interprète",
+        "InterventionNote": "Wilson Gerald Orchestra"
+      },
+      "ScheduledDateTime": "2017-03-27T02:34:30+02:00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:38:05:00",
+      "ScheduledDuration": "00:05:25:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Incontro con Stravinsky",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Incontro con Stravinsky",
+      "Label": "ACT MUSIC & VISION",
+      "ReferenceLabel": "95982",
+      "ExternalID": "0814427959829-1-1",
+      "AlbumTitle": "Timeless suite",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0814427959829",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Klaus Paier",
+          "Profession": "Interprète",
+          "InterventionNote": "Klaus Paier : Accordéon",
+          "mop": "Accordéon"
+        },
+        {
+          "FullName": "Valcic Asja",
+          "Profession": "Interprète",
+          "InterventionNote": "Valcic Asja : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T02:38:05+02:00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:43:30:00",
+      "ScheduledDuration": "00:04:27:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "N°9 En La Bémol Majeur, Opus 69/N°1 Valse De L'Adieu",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "N°9 En La Bémol Majeur, Opus 69/N°1 Valse De L'Adieu",
+      "Label": "EMARCY",
+      "ExternalID": "0602498376591-1-2",
+      "AlbumTitle": "Waltz club",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602498376591",
+      "EditorialComment": "[Import MusicCenter]Réparé",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederic Chopin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Didier Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Didier Lockwood : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Marcel Azzola",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcel Azzola : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Martin Taylo",
+          "Profession": "Interprète",
+          "InterventionNote": "Martin Taylo : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Jean Philippe Viret",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Philippe Viret : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T02:43:30+02:00",
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "best": "http://data.doremus.org/expression/988511d6-9101-3bf9-85d5-52f727a53880",
+      "best_matching_score": "0.85"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:48:06:00",
+      "ScheduledDuration": "00:02:03:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Valse du petit chien / valse minute : Valse n°6 en Ré bémol Maj op 64 n°1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Valse du petit chien / valse minute : Valse n°6 en Ré bémol Maj op 64 n°1",
+      "Label": "CBS",
+      "ReferenceLabel": "62 602",
+      "ExternalID": "RF00000013684-1-1",
+      "AlbumTitle": "Chop'in new time",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1962-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000013684",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Frederic Chopin",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Guy Boyer",
+          "Profession": "Interprète",
+          "InterventionNote": "Guy Boyer : Vibraphone",
+          "mop": "Vibraphone"
+        },
+        {
+          "FullName": "Eleck Bacsik",
+          "Profession": "Interprète",
+          "InterventionNote": "Eleck Bacsik : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Willy Lockwood",
+          "Profession": "Interprète",
+          "InterventionNote": "Willy Lockwood : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Michel Delaporte",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Delaporte : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T02:48:06+02:00",
+      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "best": "http://data.doremus.org/expression/fa89f240-200d-375a-baeb-2e0f3f3922af",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:50:09:00",
+      "ScheduledDuration": "00:02:24:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bounce of the sugar plum fairy",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bounce of the sugar plum fairy",
+      "Label": "SAGA",
+      "ReferenceLabel": "066474-2",
+      "ExternalID": "0044006647425-1-19",
+      "AlbumTitle": "Jazz / Jazzin' the classics / Vol.2",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044006647425",
+      "Compositor": {
+        "FullName": "Peter Illich Tchaikovsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "John Kirby",
+        "Profession": "Interprète",
+        "InterventionNote": "John Kirby"
+      },
+      "ScheduledDateTime": "2017-03-27T02:50:09+02:00"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:52:33:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bolero",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bolero",
+      "Label": "SAGA",
+      "ReferenceLabel": "066474-2",
+      "ExternalID": "0044006647425-1-8",
+      "AlbumTitle": "Jazz / Jazzin' the classics / Vol.2",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044006647425",
+      "Compositor": {
+        "FullName": "Maurice Ravel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Benny Goodman",
+        "Profession": "Interprète",
+        "InterventionNote": "Benny Goodman"
+      },
+      "ScheduledDateTime": "2017-03-27T02:52:33+02:00",
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
+      "best": "http://data.doremus.org/expression/16c4f521-9fd4-3408-ab31-c850a6f8e1cf",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:55:04:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Beethoven Riffs on (1941/42)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Beethoven Riffs on (1941/42)",
+      "Label": "SAGA",
+      "ReferenceLabel": "066473-2",
+      "ExternalID": "0044006647326-1-3",
+      "AlbumTitle": "Jazzin' the classics vol. 1",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0044006647326",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "John Kirby & His Orchesta",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-03-27T02:55:04+02:00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "02:57:35:00",
+      "ScheduledDuration": "00:05:53:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "First one (d'après le menuet de la Symphonie n°1 en Ut Maj op 21)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "First one (d'après le menuet de la Symphonie n°1 en Ut Maj op 21)",
+      "Label": "EDITION COLLAGE",
+      "ReferenceLabel": "EC 539-2",
+      "ExternalID": "4014063153920-1-1",
+      "AlbumTitle": "9 Symphonies",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4014063153920",
+      "Compositor": {
+        "FullName": "Ludwig Van Beethoven",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Marcus Schinkel Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Marcus Schinkel Trio"
+        },
+        {
+          "FullName": "Indigo Streichquartet",
+          "Profession": "Interprète",
+          "InterventionNote": "Indigo Streichquartet"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T02:57:35+02:00",
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "03:03:31:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Son de Mozart - fantaisie en ut min k 475 : théme n°1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Son de Mozart - fantaisie en ut min k 475 : théme n°1",
+      "Label": "SONY",
+      "ReferenceLabel": "82876844532",
+      "ExternalID": "0828768445327-1-16",
+      "AlbumTitle": "Mozart meets Cuba",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0828768445327",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Klazz Brothers",
+          "Profession": "Interprète",
+          "InterventionNote": "Klazz Brothers"
+        },
+        {
+          "FullName": "Cuba Percussion",
+          "Profession": "Interprète",
+          "InterventionNote": "Cuba Percussion"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T03:03:31+02:00"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "03:07:52:00",
+      "ScheduledDuration": "00:07:07:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water games - Ravel re-imagined (feat. Eldar, Casey Benjamin, Troy Roberts, BIGYUKI, Vicente Archer & Mark Colenburg)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water games - Ravel re-imagined (feat. Eldar, Casey Benjamin, Troy Roberts, BIGYUKI, Vicente Archer & Mark Colenburg)",
+      "Label": "BLUE NOTE RECORDS",
+      "ExternalID": "RF00000049135-1-6",
+      "AlbumTitle": "Revive music presents Supreme Sonacy",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2015-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000049135",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Terry Slingbaum",
+          "Profession": "Interprète",
+          "InterventionNote": "Terry Slingbaum"
+        },
+        {
+          "FullName": "Eldar",
+          "Profession": "Interprète",
+          "InterventionNote": "Eldar"
+        },
+        {
+          "FullName": "Casey Benjamin",
+          "Profession": "Interprète",
+          "InterventionNote": "Casey Benjamin"
+        },
+        {
+          "FullName": "Roy Roberts",
+          "Profession": "Interprète",
+          "InterventionNote": "Roy Roberts"
+        },
+        {
+          "FullName": "Bigyuki",
+          "Profession": "Interprète",
+          "InterventionNote": "Bigyuki"
+        },
+        {
+          "FullName": "Vicente Archer & Mark Colenburg",
+          "Profession": "Interprète",
+          "InterventionNote": "Vicente Archer & Mark Colenburg"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T03:07:52+02:00"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "03:14:59:00",
+      "ScheduledDuration": "00:03:21:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ride of the Valkyries from Die Walkuere",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ride of the Valkyries from Die Walkuere",
+      "Label": "CAPITOL",
+      "ReferenceLabel": "SMK 83 897",
+      "ExternalID": "RF00000035516-1-1",
+      "AlbumTitle": "Kenton / Wagner",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1964-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000035516",
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Kenton Stan & His Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-03-27T03:14:59+02:00"
+    },
+    {
+      "id": "54",
+      "StepID": "54",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "03:18:20:00",
+      "ScheduledDuration": "00:05:55:00",
+      "NumPhase": 53,
+      "Inclusion": 0,
+      "NumEventCond": 54,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Vivace (inspired by Bach's concerto for 2 violins and orchestra BWV 1043",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Vivace (inspired by Bach's concerto for 2 violins and orchestra BWV 1043",
+      "Label": "SONY",
+      "ExternalID": "RF00000033150-1-10",
+      "AlbumTitle": "Recital",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2013-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000033150",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Nigel Kennedy",
+        "Profession": "Interprète",
+        "InterventionNote": "Nigel Kennedy : Violon",
+        "mop": "Violon"
+      },
+      "ScheduledDateTime": "2017-03-27T03:18:20+02:00"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-03-27",
+      "ScheduledTime": "03:24:15:00",
+      "ScheduledDuration": "00:01:08:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "St. matthew passion suite : Der heilande fallt vor seinem vater nie",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "St. matthew passion suite : Der heilande fallt vor seinem vater nie",
+      "Label": "ENJA",
+      "ReferenceLabel": "ENJ-93692",
+      "ExternalID": "0063757936923-1-2",
+      "AlbumTitle": "Words Within Music",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1999-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0063757936923",
+      "Compositor": {
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Daniel Schnyder",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Schnyder : Saxophone soprano, Flûte traversière",
+          "mop": "Saxophone soprano, Flûte traversière"
+        },
+        {
+          "FullName": "Kenny Drew Junior",
+          "Profession": "Interprète",
+          "InterventionNote": "Kenny Drew Junior : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "David Taylor",
+          "Profession": "Interprète",
+          "InterventionNote": "David Taylor : Trombone",
+          "mop": "Trombone"
+        }
+      ],
+      "ScheduledDateTime": "2017-03-27T03:24:15+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/f8acde74-99ac-39e3-a0fb-437bc8426d33",
+      "best_matching_score": "0.72"
+    }
+  ],
+  "total": 46,
+  "matched": 12
+}

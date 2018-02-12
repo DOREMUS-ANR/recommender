@@ -1,0 +1,2481 @@
+{
+  "id": "FM-406_20171030_00-02",
+  "channel": "406",
+  "records": [
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:00:46:00",
+      "ScheduledDuration": "00:14:37:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Replica pour alto et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Replica pour alto et orchestre",
+      "Label": "ECM",
+      "ReferenceLabel": "465420-2",
+      "ExternalID": "RF00000000390-1-4",
+      "AlbumTitle": "Bartok - Eotvos - Kurtag : Oeuvres pour alto",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000000390",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Eotvos",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Kim Kashkashian",
+        "Profession": "Interprète",
+        "InterventionNote": "Kim Kashkashian : Alto (instrument)",
+        "mop": "Alto (instrument)"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De Chambre De La Radio Neerlandaise",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Peter Eotvos",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T00:00:46+01:00",
+      "composer": "http://data.doremus.org/artist/0d006d0b-f1e4-3cc7-a97c-f258736fa6ec"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:15:45:00",
+      "ScheduledDuration": "00:01:56:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Pilinszky janos",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Pilinszky janos",
+      "Label": "RCA",
+      "ReferenceLabel": "74321 84355 2",
+      "ExternalID": "0743218435522-1-2",
+      "AlbumTitle": "Au commencement Monteverdi",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2001-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0743218435522",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Sonia Wieder-Atherton",
+          "Profession": "Interprète",
+          "InterventionNote": "Sonia Wieder-Atherton : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Natalia Shakhoskaya",
+          "Profession": "Interprète",
+          "InterventionNote": "Natalia Shakhoskaya : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T00:15:45+01:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:17:41:00",
+      "ScheduledDuration": "00:02:31:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stele op 33 : Adagio",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stele op 33 : Adagio",
+      "Label": "DGG (DEUTSCHE GRAMOPHON)",
+      "ReferenceLabel": "447761-2",
+      "ExternalID": "0028944776126-1-3",
+      "AlbumTitle": "Claudio Abbado dirige Stockhausen et Kurtag",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944776126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T00:17:41+01:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:20:12:00",
+      "ScheduledDuration": "00:04:07:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stele op 33 : Lamentoso - disperato con moto",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stele op 33 : Lamentoso - disperato con moto",
+      "Label": "DGG (DEUTSCHE GRAMOPHON)",
+      "ReferenceLabel": "447761-2",
+      "ExternalID": "0028944776126-1-4",
+      "AlbumTitle": "Claudio Abbado dirige Stockhausen et Kurtag",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028944776126",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Kurtag",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Philharmonique De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Claudio Abbado",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T00:20:12+01:00",
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+    },
+    {
+      "id": "10",
+      "StepID": "10",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:24:22:00",
+      "ScheduledDuration": "00:04:38:00",
+      "NumPhase": 9,
+      "Inclusion": 0,
+      "NumEventCond": 10,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stèle in memoriam Igor Stravinsky : Elegia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stèle in memoriam Igor Stravinsky : Elegia",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 777 449-2",
+      "ExternalID": "0761203744923-1-4",
+      "AlbumTitle": "Alexandre Tansman : Oeuvres pour orchestre",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203744923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Tansman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christian Seibert",
+        "Profession": "Interprète",
+        "InterventionNote": "Christian Seibert : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre D'Etat Du Brandenbourg De Francfort-Sur-L'Oder",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Howard Griffiths",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T00:24:22+01:00",
+      "composer": "http://data.doremus.org/artist/a12d0c1e-1725-3641-9e57-b63556e85f26"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:29:00:00",
+      "ScheduledDuration": "00:04:46:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stèle in memoriam Igor Stravinsky : Studio ritmico",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stèle in memoriam Igor Stravinsky : Studio ritmico",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 777 449-2",
+      "ExternalID": "0761203744923-1-5",
+      "AlbumTitle": "Alexandre Tansman : Oeuvres pour orchestre",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203744923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Tansman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christian Seibert",
+        "Profession": "Interprète",
+        "InterventionNote": "Christian Seibert : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre D'Etat Du Brandenbourg De Francfort-Sur-L'Oder",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Howard Griffiths",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T00:29:00+01:00",
+      "composer": "http://data.doremus.org/artist/a12d0c1e-1725-3641-9e57-b63556e85f26"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:33:46:00",
+      "ScheduledDuration": "00:04:46:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Stèle in memoriam Igor Stravinsky : Lamento",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Stèle in memoriam Igor Stravinsky : Lamento",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 777 449-2",
+      "ExternalID": "0761203744923-1-6",
+      "AlbumTitle": "Alexandre Tansman : Oeuvres pour orchestre",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203744923",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexandre Tansman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Christian Seibert",
+        "Profession": "Interprète",
+        "InterventionNote": "Christian Seibert : Piano",
+        "mop": "Piano"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre D'Etat Du Brandenbourg De Francfort-Sur-L'Oder",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Howard Griffiths",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T00:33:46+01:00",
+      "composer": "http://data.doremus.org/artist/a12d0c1e-1725-3641-9e57-b63556e85f26"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:38:32:00",
+      "ScheduledDuration": "00:02:54:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Makrokosmos II : The Mystic chord / Sagittaire",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Makrokosmos II : The Mystic chord / Sagittaire",
+      "Label": "L'EMPREINTE DIGITALE",
+      "ReferenceLabel": "ED 13165",
+      "ExternalID": "0742495316524-1-14",
+      "AlbumTitle": "George Crumb : Makrokosmos volume I et II",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0742495316524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Toros Can",
+        "Profession": "Interprète",
+        "InterventionNote": "Toros Can : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-30T00:38:32+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/66750252-ffc1-3389-8125-f19b6e5e7f08",
+      "best_matching_score": "0.86"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:41:26:00",
+      "ScheduledDuration": "00:02:54:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Makrokosmos II : Ghost-nocturne for the druids of Stonehenge / Night-spell II / Vierge",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Makrokosmos II : Ghost-nocturne for the druids of Stonehenge / Night-spell II / Vierge",
+      "Label": "L'EMPREINTE DIGITALE",
+      "ReferenceLabel": "ED 13165",
+      "ExternalID": "0742495316524-1-17",
+      "AlbumTitle": "George Crumb : Makrokosmos volume I et II",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0742495316524",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "George Crumb",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Toros Can",
+        "Profession": "Interprète",
+        "InterventionNote": "Toros Can : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-10-30T00:41:26+01:00",
+      "composer": "http://data.doremus.org/artist/3abc8276-4cd7-38e0-855e-4e8c920cd7a8",
+      "best": "http://data.doremus.org/expression/66750252-ffc1-3389-8125-f19b6e5e7f08",
+      "best_matching_score": "0.86"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:45:58:00",
+      "ScheduledDuration": "00:10:10:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Acte IV. : Metal and stone / Metal et Pierre / Pour voix quatuor a cordes et pipa avec eau pierres papier et metal",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Acte IV. : Metal and stone / Metal et Pierre / Pour voix quatuor a cordes et pipa avec eau pierres papier et metal",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79445",
+      "ExternalID": "0075597944525-1-4",
+      "AlbumTitle": "Ghost opera / Opera fantome",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597944525",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Tan Dun",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jean Sebastien Bach",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Tradit. Chinois",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Quatuor Kronos",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Kronos"
+      },
+      "ScheduledDateTime": "2017-10-30T00:45:58+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:56:08:00",
+      "ScheduledDuration": "00:06:40:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Acte V. : Song of paper / Le chant du papier / Pour voix quatuor a cordes et pipa avec eau pierres papier et metal",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Acte V. : Song of paper / Le chant du papier / Pour voix quatuor a cordes et pipa avec eau pierres papier et metal",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79445",
+      "ExternalID": "0075597944525-1-5",
+      "AlbumTitle": "Ghost opera / Opera fantome",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597944525",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Tan Dun",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Jean Sebastien Bach",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Tradit. Chinois",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": {
+        "FullName": "Quatuor Kronos",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Kronos"
+      },
+      "ScheduledDateTime": "2017-10-30T00:56:08+01:00"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:02:48:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jaanilaulud \"\"Chanson de la Saint Jean\"\" : Venez au feu du solstice I - cycle pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jaanilaulud \"\"Chanson de la Saint Jean\"\" : Venez au feu du solstice I - cycle pour choeur mixte a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 807485",
+      "ExternalID": "0093046748562-1-11",
+      "AlbumTitle": "Baltic runes",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046748562",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Veljo Tormis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Hillier",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Hillier"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre Philharmonique D'Estonie",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-10-30T01:02:48+01:00",
+      "composer": "http://data.doremus.org/artist/54530101-69a7-3fdb-8e71-d4ebba544ec9"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:04:47:00",
+      "ScheduledDuration": "00:01:16:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jaanilaulud \"\"Chanson de la Saint Jean\"\" : Venez au feu du solstice II - cycle pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jaanilaulud \"\"Chanson de la Saint Jean\"\" : Venez au feu du solstice II - cycle pour choeur mixte a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 807485",
+      "ExternalID": "0093046748562-1-12",
+      "AlbumTitle": "Baltic runes",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046748562",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Veljo Tormis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Hillier",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Hillier"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre Philharmonique D'Estonie",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-10-30T01:04:47+01:00",
+      "composer": "http://data.doremus.org/artist/54530101-69a7-3fdb-8e71-d4ebba544ec9"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:06:03:00",
+      "ScheduledDuration": "00:01:50:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jaanilaulud \"\"Chanson de la Saint Jean\"\" : Pourquoi nous attendons la venue de Saint Jean - cycle pour choeur mixte a cappella",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jaanilaulud \"\"Chanson de la Saint Jean\"\" : Pourquoi nous attendons la venue de Saint Jean - cycle pour choeur mixte a cappella",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 807485",
+      "ExternalID": "0093046748562-1-14",
+      "AlbumTitle": "Baltic runes",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2010-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046748562",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Veljo Tormis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Paul Hillier",
+        "Profession": "Interprète",
+        "InterventionNote": "Paul Hillier"
+      },
+      "Choir": {
+        "EntityName": "Choeur De Chambre Philharmonique D'Estonie",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-10-30T01:06:03+01:00",
+      "composer": "http://data.doremus.org/artist/54530101-69a7-3fdb-8e71-d4ebba544ec9"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:08:28:00",
+      "ScheduledDuration": "00:18:25:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The stones and lonely places sing - Pour ensemble instrumental",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The stones and lonely places sing - Pour ensemble instrumental",
+      "Label": "NMC RECORDINGS",
+      "ReferenceLabel": "NMC D130",
+      "ExternalID": "5023363013024-1-7",
+      "AlbumTitle": "The stones and lonely places sing",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5023363013024",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anthony Payne",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jane'S Minstrels",
+          "Profession": "Interprète",
+          "InterventionNote": "Jane'S Minstrels"
+        },
+        {
+          "FullName": "Dov Goldberg",
+          "Profession": "Interprète",
+          "InterventionNote": "Dov Goldberg : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Sue Gill",
+          "Profession": "Interprète",
+          "InterventionNote": "Sue Gill : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Richard Steggall",
+          "Profession": "Interprète",
+          "InterventionNote": "Richard Steggall : Cor",
+          "mop": "Cor"
+        },
+        {
+          "FullName": "Susanne Stanzeleit",
+          "Profession": "Interprète",
+          "InterventionNote": "Susanne Stanzeleit : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Adrian Bradbury",
+          "Profession": "Interprète",
+          "InterventionNote": "Adrian Bradbury : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Roger Montgomery",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T01:08:28+01:00",
+      "composer": "http://data.doremus.org/artist/f3596e01-71a9-3f9d-bf39-13a38a6d6498"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:27:02:00",
+      "ScheduledDuration": "00:08:01:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water passion after Saint Matthew : Stone song",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water passion after Saint Matthew : Stone song",
+      "Label": "COLUMBIA",
+      "ReferenceLabel": "S2K 89927",
+      "ExternalID": "5099708992729-2-1",
+      "AlbumTitle": "Water passion after Saint Matthew (intégrale)",
+      "Rank": 1,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099708992729",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Dun Tan",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-10-30T01:27:02+01:00",
+      "composer": "http://data.doremus.org/artist/8112a5e4-6fd4-3109-8cdc-ee50a4b2b713"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:35:59:00",
+      "ScheduledDuration": "00:08:09:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "It raged pour quatuor a cordes voix sur bande magnetique et percussions electroniques",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "It raged pour quatuor a cordes voix sur bande magnetique et percussions electroniques",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79394-2",
+      "ExternalID": "0075597939422-2-2",
+      "AlbumTitle": "Released and unreleased",
+      "Rank": 2,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597939422",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Scott Johnson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Quatuor Kronos",
+        "Profession": "Interprète",
+        "InterventionNote": "Quatuor Kronos"
+      },
+      "ScheduledDateTime": "2017-10-30T01:35:59+01:00",
+      "composer": "http://data.doremus.org/artist/f4540f16-94b1-35ec-acd8-3992f5738067"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:44:44:00",
+      "ScheduledDuration": "00:11:04:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Runes from a holy island",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Runes from a holy island",
+      "Label": "UNICORN",
+      "ReferenceLabel": "UKCD 2038",
+      "ExternalID": "0053068203821-1-5",
+      "AlbumTitle": "Runes from a holy island",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1990-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0053068203821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Peter Maxwell Davies",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Philippa Davies",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippa Davies : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "David Campbell",
+          "Profession": "Interprète",
+          "InterventionNote": "David Campbell : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Rosemary Furniss",
+          "Profession": "Interprète",
+          "InterventionNote": "Rosemary Furniss : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Jonathan Williams",
+          "Profession": "Interprète",
+          "InterventionNote": "Jonathan Williams : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Stephen Pruslin",
+          "Profession": "Interprète",
+          "InterventionNote": "Stephen Pruslin : Piano, Célesta",
+          "mop": "Piano, Célesta"
+        },
+        {
+          "FullName": "Gregory Knowles",
+          "Profession": "Interprète",
+          "InterventionNote": "Gregory Knowles : Percussions",
+          "mop": "Percussions"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Fires Of London",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "Highlight": true,
+        "FullName": "Peter Maxwell Davies",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T01:44:44+01:00",
+      "composer": "http://data.doremus.org/artist/ce9a201f-a0d4-346c-bd88-031345756720",
+      "best": "http://data.doremus.org/expression/026c6ec3-3bfd-3331-9757-b0f9203ece93",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:56:33:00",
+      "ScheduledDuration": "00:02:42:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Black is the colour of my true love's hair",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Black is the colour of my true love's hair",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-12",
+      "AlbumTitle": "Ayre",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T01:56:33+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:59:15:00",
+      "ScheduledDuration": "00:02:05:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : I wonder as I wander",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : I wonder as I wander",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-13",
+      "AlbumTitle": "Ayre",
+      "Rank": 13,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T01:59:15+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "37",
+      "StepID": "37",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:01:20:00",
+      "ScheduledDuration": "00:02:35:00",
+      "NumPhase": 36,
+      "Inclusion": 0,
+      "NumEventCond": 37,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Loosin yelav",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Loosin yelav",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-14",
+      "AlbumTitle": "Ayre",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:01:20+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:03:55:00",
+      "ScheduledDuration": "00:01:28:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Rossignolet du bois",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Rossignolet du bois",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-15",
+      "AlbumTitle": "Ayre",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:03:55+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:05:23:00",
+      "ScheduledDuration": "00:01:32:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : A la flemminisca",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : A la flemminisca",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-16",
+      "AlbumTitle": "Ayre",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:05:23+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:06:55:00",
+      "ScheduledDuration": "00:01:17:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : La donna ideale",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : La donna ideale",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-17",
+      "AlbumTitle": "Ayre",
+      "Rank": 17,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:06:55+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:08:12:00",
+      "ScheduledDuration": "00:01:34:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Ballo",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Ballo",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-18",
+      "AlbumTitle": "Ayre",
+      "Rank": 18,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:08:12+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:09:46:00",
+      "ScheduledDuration": "00:01:53:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Mottetu de tristura",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Mottetu de tristura",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-19",
+      "AlbumTitle": "Ayre",
+      "Rank": 19,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:09:46+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:11:39:00",
+      "ScheduledDuration": "00:01:01:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Malurous qu'o uno fenno",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Malurous qu'o uno fenno",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-20",
+      "AlbumTitle": "Ayre",
+      "Rank": 20,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:11:39+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:12:40:00",
+      "ScheduledDuration": "00:02:56:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Lo fiolaire",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Lo fiolaire",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-21",
+      "AlbumTitle": "Ayre",
+      "Rank": 21,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:12:40+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "45",
+      "StepID": "45",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:15:36:00",
+      "ScheduledDuration": "00:02:48:00",
+      "NumPhase": 44,
+      "Inclusion": 0,
+      "NumEventCond": 45,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Folk songs : Azerbaidjan love song",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Folk songs : Azerbaidjan love song",
+      "Label": "DGG",
+      "ReferenceLabel": "00289 477 5414",
+      "ExternalID": "0028947754145-1-22",
+      "AlbumTitle": "Ayre",
+      "Rank": 22,
+      "NumVolume": 1,
+      "PublicationDate": "2005-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947754145",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dawn Upshaw",
+          "Profession": "Interprète",
+          "InterventionNote": "Dawn Upshaw : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Tara O'Connor",
+          "Profession": "Interprète",
+          "InterventionNote": "Tara O'Connor : Flûte traversière",
+          "mop": "Flûte traversière"
+        },
+        {
+          "FullName": "Todd Palmer",
+          "Profession": "Interprète",
+          "InterventionNote": "Todd Palmer : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Ljova,",
+          "Profession": "Interprète",
+          "InterventionNote": "Ljova, : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Erik Friedlander",
+          "Profession": "Interprète",
+          "InterventionNote": "Erik Friedlander : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Bridget Kibbey",
+          "Profession": "Interprète",
+          "InterventionNote": "Bridget Kibbey : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:15:36+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:18:58:00",
+      "ScheduledDuration": "00:01:13:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The modification and instrumentation of a famous hornpipe as a merry and altogether sincere homage to uncle Alfred - pour flûte batterie clavecin viole et violoncelle",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The modification and instrumentation of a famous hornpipe as a merry and altogether sincere homage to uncle Alfred - pour flûte batterie clavecin viole et violoncelle",
+      "Label": "UNIVERSAL EDITION",
+      "ReferenceLabel": "ID 104",
+      "ExternalID": "RF00000012713-1-5",
+      "AlbumTitle": "A garland for doctor K",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1969-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000012713",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Luciano Berio",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Vicente Sempere-Gomis",
+          "Profession": "Interprète",
+          "InterventionNote": "Vicente Sempere-Gomis : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Jose Vadillo Vadillo",
+          "Profession": "Interprète",
+          "InterventionNote": "Jose Vadillo Vadillo : Clarinette",
+          "mop": "Clarinette"
+        },
+        {
+          "FullName": "Luis Jorda-Ayats Juan",
+          "Profession": "Interprète",
+          "InterventionNote": "Luis Jorda-Ayats Juan : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Angel Gonzalez Quinones",
+          "Profession": "Interprète",
+          "InterventionNote": "Angel Gonzalez Quinones : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Maria Manuela Caro De Halffter",
+          "Profession": "Interprète",
+          "InterventionNote": "Maria Manuela Caro De Halffter : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:18:58+01:00",
+      "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:20:11:00",
+      "ScheduledDuration": "00:05:12:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hungarian rock - pour clavecin",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hungarian rock - pour clavecin",
+      "Label": "WERGO",
+      "ReferenceLabel": "WER 60100-50",
+      "ExternalID": "RF00000030055-1-6",
+      "AlbumTitle": "Gyorgy Ligeti : Musique de chambre",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000030055",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gyorgy Ligeti",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Elisabeth Chojnacka",
+        "Profession": "Interprète",
+        "InterventionNote": "Elisabeth Chojnacka : Clavecin",
+        "mop": "Clavecin"
+      },
+      "ScheduledDateTime": "2017-10-30T02:20:11+01:00",
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:25:46:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto op 40 - II. Vivace / Pour clavecin et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto op 40 - II. Vivace / Pour clavecin et cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79362-2",
+      "ExternalID": "0075597936223-1-6",
+      "AlbumTitle": "Kleines requiem für eine polka",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597936223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henryk Gorecki",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Elisabeth Chojnacka",
+        "Profession": "Interprète",
+        "InterventionNote": "Elisabeth Chojnacka : Clavecin",
+        "mop": "Clavecin"
+      },
+      "Orchestra": {
+        "EntityName": "Sinfonietta De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Markus Stenz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T02:25:46+01:00",
+      "composer": "http://data.doremus.org/artist/02ad1bab-64ff-32b3-857d-ba87aea1d257",
+      "best": "http://data.doremus.org/expression/a017e5ce-20cd-33e0-b17c-786e1914dad7",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:30:11:00",
+      "ScheduledDuration": "00:04:37:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Concerto op 40 - I. Allegro / Pour clavecin et cordes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Concerto op 40 - I. Allegro / Pour clavecin et cordes",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79362-2",
+      "ExternalID": "0075597936223-1-5",
+      "AlbumTitle": "Kleines requiem für eine polka",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1995-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0075597936223",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Henryk Gorecki",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Elisabeth Chojnacka",
+        "Profession": "Interprète",
+        "InterventionNote": "Elisabeth Chojnacka : Clavecin",
+        "mop": "Clavecin"
+      },
+      "Orchestra": {
+        "EntityName": "Sinfonietta De Londres",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Markus Stenz",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T02:30:11+01:00",
+      "composer": "http://data.doremus.org/artist/02ad1bab-64ff-32b3-857d-ba87aea1d257",
+      "best": "http://data.doremus.org/expression/a017e5ce-20cd-33e0-b17c-786e1914dad7",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "55",
+      "StepID": "55",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:35:46:00",
+      "ScheduledDuration": "00:08:04:00",
+      "NumPhase": 54,
+      "Inclusion": 0,
+      "NumEventCond": 55,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shaker loops: Shaking and trembling",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shaker loops: Shaking and trembling",
+      "Label": "RCA",
+      "ReferenceLabel": "090026 68674 2",
+      "ExternalID": "0090266867424-1-1",
+      "AlbumTitle": "Shaker loops phrygian gates et symphonie de chambre",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266867424",
+      "Compositor": {
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sian Edwards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T02:35:46+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/953bcea5-d7eb-3b11-a60c-615e6efdea9c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "56",
+      "StepID": "56",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:43:50:00",
+      "ScheduledDuration": "00:08:11:00",
+      "NumPhase": 55,
+      "Inclusion": 0,
+      "NumEventCond": 56,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shaker loops:",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shaker loops:",
+      "Label": "RCA",
+      "ReferenceLabel": "090026 68674 2",
+      "ExternalID": "0090266867424-1-2",
+      "AlbumTitle": "Shaker loops phrygian gates et symphonie de chambre",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266867424",
+      "Compositor": {
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sian Edwards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T02:43:50+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/953bcea5-d7eb-3b11-a60c-615e6efdea9c",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "57",
+      "StepID": "57",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:52:01:00",
+      "ScheduledDuration": "00:08:02:00",
+      "NumPhase": 56,
+      "Inclusion": 0,
+      "NumEventCond": 57,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shaker loops: Loops and verses",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shaker loops: Loops and verses",
+      "Label": "RCA",
+      "ReferenceLabel": "090026 68674 2",
+      "ExternalID": "0090266867424-1-3",
+      "AlbumTitle": "Shaker loops phrygian gates et symphonie de chambre",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266867424",
+      "Compositor": {
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sian Edwards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T02:52:01+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/953bcea5-d7eb-3b11-a60c-615e6efdea9c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "58",
+      "StepID": "58",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "03:00:03:00",
+      "ScheduledDuration": "00:04:01:00",
+      "NumPhase": 57,
+      "Inclusion": 0,
+      "NumEventCond": 58,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shaker loops: A final shaking",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shaker loops: A final shaking",
+      "Label": "RCA",
+      "ReferenceLabel": "090026 68674 2",
+      "ExternalID": "0090266867424-1-4",
+      "AlbumTitle": "Shaker loops phrygian gates et symphonie de chambre",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266867424",
+      "Compositor": {
+        "FullName": "John Adams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Ensemble Modern",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Sian Edwards",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T03:00:03+01:00",
+      "composer": "http://data.doremus.org/artist/134fcbf2-47d5-3b77-8586-97c9dbbb6738",
+      "best": "http://data.doremus.org/expression/953bcea5-d7eb-3b11-a60c-615e6efdea9c",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "59",
+      "StepID": "59",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "03:04:04:00",
+      "ScheduledDuration": "00:05:02:00",
+      "NumPhase": 58,
+      "Inclusion": 0,
+      "NumEventCond": 59,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Rebonds A et B - pour percussions : Rebonds B",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Rebonds A et B - pour percussions : Rebonds B",
+      "Label": "MODE",
+      "ReferenceLabel": "MODE 189",
+      "ExternalID": "RF00000013821-1-5",
+      "AlbumTitle": "Roland Auzet interprète Xenakis et Pape",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000013821",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Iannis Xenakis",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Roland Auzet",
+        "Profession": "Interprète",
+        "InterventionNote": "Roland Auzet : Percussions",
+        "mop": "Percussions"
+      },
+      "ScheduledDateTime": "2017-10-30T03:04:04+01:00",
+      "composer": "http://data.doremus.org/artist/af8d601a-21f0-3a0f-af45-210b5c57c4f6"
+    },
+    {
+      "id": "60",
+      "StepID": "60",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "03:09:06:00",
+      "ScheduledDuration": "00:06:15:00",
+      "NumPhase": 59,
+      "Inclusion": 0,
+      "NumEventCond": 60,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Royal wedding",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Royal wedding",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79959-8",
+      "ExternalID": "RF00000003568-1-4",
+      "AlbumTitle": "The cusps of magic",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000003568",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Terry Riley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "Wu Man",
+          "Profession": "Interprète",
+          "InterventionNote": "Wu Man : Pipa (luth)",
+          "mop": "Pipa (luth)"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T03:09:06+01:00",
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384"
+    },
+    {
+      "id": "61",
+      "StepID": "61",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "03:15:21:00",
+      "ScheduledDuration": "00:04:09:00",
+      "NumPhase": 60,
+      "Inclusion": 0,
+      "NumEventCond": 61,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Emily and Alice",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Emily and Alice",
+      "Label": "NONESUCH",
+      "ReferenceLabel": "7559-79959-8",
+      "ExternalID": "RF00000003568-1-5",
+      "AlbumTitle": "The cusps of magic",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2008-01-01",
+      "LibMusicalKind": "Musique contemporaine",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000003568",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Terry Riley",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Quatuor Kronos",
+          "Profession": "Interprète",
+          "InterventionNote": "Quatuor Kronos"
+        },
+        {
+          "FullName": "Wu Man",
+          "Profession": "Interprète",
+          "InterventionNote": "Wu Man : Pipa (luth)",
+          "mop": "Pipa (luth)"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T03:15:21+01:00",
+      "composer": "http://data.doremus.org/artist/02cf5aad-05f0-38dc-b906-34c7ade64384"
+    }
+  ],
+  "total": 40,
+  "matched": 20
+}

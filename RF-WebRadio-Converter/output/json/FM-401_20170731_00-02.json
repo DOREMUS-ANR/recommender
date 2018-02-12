@@ -1,0 +1,2623 @@
+{
+  "id": "FM-401_20170731_00-02",
+  "channel": "401",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:00:06:00",
+      "ScheduledDuration": "00:05:31:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petite suite L 65 : En bateau - arrangement pour alto et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petite suite L 65 : En bateau - arrangement pour alto et piano",
+      "Label": "ICA",
+      "ReferenceLabel": "ICAB5136/1",
+      "ExternalID": "RF00000055639-1-18",
+      "AlbumTitle": "A tribute to Rudolf Barshai / CD1",
+      "Rank": 18,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055639",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Non Identifie",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Non Identifie : Arrangeur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Rudolf Barshai",
+          "Profession": "Interprète",
+          "InterventionNote": "Rudolf Barshai : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Vladimir Shraibman",
+          "Profession": "Interprète",
+          "InterventionNote": "Vladimir Shraibman : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T00:00:06+02:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/9b76ff25-7514-3a7b-af33-858893a21478",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:05:37:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Attendez le prochain bateau : Pour mezzo-soprano et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Attendez le prochain bateau : Pour mezzo-soprano et piano",
+      "Label": "ADES",
+      "ReferenceLabel": "14 018",
+      "ExternalID": "RF00000038286-1-2",
+      "AlbumTitle": "Georges Auric : Musique de chambre et mélodies",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000038286",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georges Auric",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Christian Ivaldi",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Ivaldi : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jane Berbie",
+          "Profession": "Interprète",
+          "InterventionNote": "Jane Berbie : Mezzo-soprano",
+          "mop": "Mezzo-soprano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T00:05:37+02:00",
+      "composer": "http://data.doremus.org/artist/ef599a39-dd9f-3824-9a28-8c721a847f84"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:08:37:00",
+      "ScheduledDuration": "00:05:28:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wasserfahrt am Traunsee (Voyage en bateau sur le Traunsee) - pour 2 guitares",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wasserfahrt am Traunsee (Voyage en bateau sur le Traunsee) - pour 2 guitares",
+      "Label": "NAXOS",
+      "ReferenceLabel": "8573055",
+      "ExternalID": "0747313305575-1-7",
+      "AlbumTitle": "Johann Kaspar Mertz : Duos de guitares",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2014-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0747313305575",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Johann Kaspar Mertz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Johannes Moller",
+          "Profession": "Interprète",
+          "InterventionNote": "Johannes Moller : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Laura Fraticelli",
+          "Profession": "Interprète",
+          "InterventionNote": "Laura Fraticelli : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T00:08:37+02:00",
+      "composer": "http://data.doremus.org/artist/f3ef706c-9c83-3ab8-8bf3-531ef0b01271"
+    },
+    {
+      "id": "6",
+      "StepID": "6",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:14:05:00",
+      "ScheduledDuration": "00:01:49:00",
+      "NumPhase": 5,
+      "Inclusion": 0,
+      "NumEventCond": 6,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Don Quichote op 35 TrV 184 : Variation VIII : Le voyage dans le bateau magique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Don Quichote op 35 TrV 184 : Variation VIII : Le voyage dans le bateau magique",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "470251-2",
+      "ExternalID": "0028947025023-2-11",
+      "AlbumTitle": "Heinrich Schiff interprète des oeuvres de Dvorak Schumann Strauss et Prokofiev",
+      "Rank": 11,
+      "NumVolume": 2,
+      "PublicationDate": "1981-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947025023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Strauss",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Heinrich Schiff",
+          "Profession": "Interprète",
+          "InterventionNote": "Heinrich Schiff : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Dietmar Hallmann",
+          "Profession": "Interprète",
+          "InterventionNote": "Dietmar Hallmann : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Du Gewandhaus De Leipzig",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Kurt Masur",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:14:05+02:00",
+      "composer": "http://data.doremus.org/artist/157157ef-1cb3-3fc7-a4f7-2531989fc942",
+      "best": "http://data.doremus.org/expression/195d8876-6798-3348-baae-90a87c08dada",
+      "best_matching_score": "0.99"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:15:54:00",
+      "ScheduledDuration": "00:06:13:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Overture to the Boatswain's Mate - version réorchestrée pour grand orchestre de 1930",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Overture to the Boatswain's Mate - version réorchestrée pour grand orchestre de 1930",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN10898",
+      "ExternalID": "0095115189825-1-4",
+      "AlbumTitle": "Overtures from the british isles / Vol 2",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115189825",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ethel Smyth",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De La Bbc Du Pays De Galles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Rumon Gamba",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:15:54+02:00",
+      "composer": "http://data.doremus.org/artist/8eb7484b-5e58-3559-a84c-a4905d48dbbb"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:22:07:00",
+      "ScheduledDuration": "00:04:25:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A sea symphony op 1 pour soprano baryton choeur et orchestre : I A song for all seas all ships : Andante maestoso : Token of all brave captains",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A sea symphony op 1 pour soprano baryton choeur et orchestre : I A song for all seas all ships : Andante maestoso : Token of all brave captains",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 61197 2",
+      "ExternalID": "0090266119721-1-4",
+      "AlbumTitle": "Williams / A sea symphony op 1 / Slatki",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266119721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ralph Vaughan Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Benita Valente",
+          "Profession": "Interprète",
+          "InterventionNote": "Benita Valente : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Thomas Allen",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Allen : Voix, Baryton (voix)",
+          "mop": "Voix, Baryton (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Philharmonia",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leonard Slatkin",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:22:07+02:00",
+      "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:26:32:00",
+      "ScheduledDuration": "00:03:30:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "A sea symphony op 1 pour soprano baryton choeur et orchestre : I A song for all seas all ships : Andante maestoso : A pennant universal",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "A sea symphony op 1 pour soprano baryton choeur et orchestre : I A song for all seas all ships : Andante maestoso : A pennant universal",
+      "Label": "RCA",
+      "ReferenceLabel": "09026 61197 2",
+      "ExternalID": "0090266119721-1-5",
+      "AlbumTitle": "Williams / A sea symphony op 1 / Slatki",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0090266119721",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ralph Vaughan Williams",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Benita Valente",
+          "Profession": "Interprète",
+          "InterventionNote": "Benita Valente : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Thomas Allen",
+          "Profession": "Interprète",
+          "InterventionNote": "Thomas Allen : Voix, Baryton (voix)",
+          "mop": "Voix, Baryton (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Philharmonia Orchestra",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Philharmonia",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Leonard Slatkin",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:26:32+02:00",
+      "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:30:11:00",
+      "ScheduledDuration": "00:02:05:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Wassermusik c-dur-hamburger ebb´ und flut´-Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Sarabande / Die schlafende Thetis",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Wassermusik c-dur-hamburger ebb´ und flut´-Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Sarabande / Die schlafende Thetis",
+      "Label": "ARCHIV PRODUKTION",
+      "ReferenceLabel": "413 788-2",
+      "ExternalID": "0028941378828-1-2",
+      "AlbumTitle": "Georg Philipp Telemann : Wassermusik",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941378828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Musica Antiqua De Cologne",
+        "Profession": "Interprète",
+        "InterventionNote": "Musica Antiqua De Cologne"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinhard Goebel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:30:11+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
+      "best": "http://data.doremus.org/expression/1d7ba96b-fb85-3b93-86d7-3f174aef1b1b",
+      "best_matching_score": "0.78"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:32:16:00",
+      "ScheduledDuration": "00:01:46:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Bourrée / Die erwachende Thetis",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Bourrée / Die erwachende Thetis",
+      "Label": "ARCHIV PRODUKTION",
+      "ReferenceLabel": "413 788-2",
+      "ExternalID": "0028941378828-1-3",
+      "AlbumTitle": "Georg Philipp Telemann : Wassermusik",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941378828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Musica Antiqua De Cologne",
+        "Profession": "Interprète",
+        "InterventionNote": "Musica Antiqua De Cologne"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinhard Goebel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:32:16+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
+      "best": "http://data.doremus.org/expression/e222ebe1-fd66-3b24-8c04-b190ff990192",
+      "best_matching_score": "0.74"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:34:02:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Loure / Der verliebte Neptunus",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Loure / Der verliebte Neptunus",
+      "Label": "ARCHIV PRODUKTION",
+      "ReferenceLabel": "413 788-2",
+      "ExternalID": "0028941378828-1-4",
+      "AlbumTitle": "Georg Philipp Telemann : Wassermusik",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941378828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Musica Antiqua De Cologne",
+        "Profession": "Interprète",
+        "InterventionNote": "Musica Antiqua De Cologne"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinhard Goebel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:34:02+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
+      "best": "http://data.doremus.org/expression/e222ebe1-fd66-3b24-8c04-b190ff990192",
+      "best_matching_score": "0.74"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:35:54:00",
+      "ScheduledDuration": "00:05:22:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Choral bwv 653b : An wasserflussen babylon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Choral bwv 653b : An wasserflussen babylon",
+      "Label": "ERATO",
+      "ReferenceLabel": "R30E-509/11",
+      "ExternalID": "RF00000009813-3-2",
+      "AlbumTitle": "Bach/Oeuvre pour orgue vol 3",
+      "Rank": 2,
+      "NumVolume": 3,
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000009813",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Jean Sebastien Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Marie Claire Alain",
+        "Profession": "Interprète",
+        "InterventionNote": "Marie Claire Alain : Orgue",
+        "mop": "Orgue"
+      },
+      "ScheduledDateTime": "2017-07-31T00:35:54+02:00",
+      "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
+      "best": "http://data.doremus.org/expression/35221546-f584-38cc-a922-61ca819a2dbc",
+      "best_matching_score": "0.91"
+    },
+    {
+      "id": "15",
+      "StepID": "15",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:41:16:00",
+      "ScheduledDuration": "00:02:20:00",
+      "NumPhase": 14,
+      "Inclusion": 0,
+      "NumEventCond": 15,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I saw three ships",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I saw three ships",
+      "Label": "VANGUARD",
+      "ReferenceLabel": "MC 192",
+      "ExternalID": "0851950001926-2-16",
+      "AlbumTitle": "Alfred Deller complet Vanguard ed volume 3 / Christmas Carols of old England",
+      "Rank": 16,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0851950001926",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Deller Consort",
+        "Profession": "Interprète",
+        "InterventionNote": "Deller Consort : Voix",
+        "mop": "Voix"
+      },
+      "ScheduledDateTime": "2017-07-31T00:41:16+02:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:43:36:00",
+      "ScheduledDuration": "00:06:20:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ach dass ich wassers gnug hatte - pour haute-contre cordes et basse continue",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ach dass ich wassers gnug hatte - pour haute-contre cordes et basse continue",
+      "Label": "CHRISTOPHORUS",
+      "ReferenceLabel": "CHR 77305",
+      "ExternalID": "4010072773050-1-12",
+      "AlbumTitle": "Ich will friede fahren",
+      "Rank": 12,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4010072773050",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heinrich Bach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Franz Vitzthum",
+          "Profession": "Interprète",
+          "InterventionNote": "Franz Vitzthum : Haute-contre",
+          "mop": "Haute-contre"
+        },
+        {
+          "FullName": "Les Escapades",
+          "Profession": "Interprète",
+          "InterventionNote": "Les Escapades"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T00:43:36+02:00",
+      "composer": "http://data.doremus.org/artist/e1262811-e4d7-3807-bf23-1ff4ebc73dac"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:49:56:00",
+      "ScheduledDuration": "00:04:02:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "5 chants op 13 : Die Wasserrose",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "5 chants op 13 : Die Wasserrose",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHAN 9075",
+      "ExternalID": "0095115907528-1-10",
+      "AlbumTitle": "Niels Wilhelm Gade : Oeuvres orchestrales",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115907528",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Niels Wilhelm Gade",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Stefan Parkman",
+        "Profession": "Interprète",
+        "InterventionNote": "Stefan Parkman"
+      },
+      "Choir": {
+        "EntityName": "Choeur De La Radio Danoise",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-07-31T00:49:56+02:00",
+      "composer": "http://data.doremus.org/artist/358c2f16-4b84-37f9-81cb-640b635fbc99",
+      "best": "http://data.doremus.org/expression/45a28f1c-5f02-3a7d-8356-16b9fe706b7f",
+      "best_matching_score": "0.92"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:53:58:00",
+      "ScheduledDuration": "00:05:40:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Psaume 137 op 14 : An den Wassern zu Babel (Choeur)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Psaume 137 op 14 : An den Wassern zu Babel (Choeur)",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 999316-2",
+      "ExternalID": "0761203931620-1-2",
+      "AlbumTitle": "Hermann Goetz : Nenie Psaume 137 et ouvertures",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203931620",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Hermann Goetz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Philharmonie De La Radio Ndr De Hanovre",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Du Ndr De Hambourg",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Werner Andreas Albert",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:53:58+02:00",
+      "composer": "http://data.doremus.org/artist/bc9cda24-780d-3903-8a30-2d4cdf7a09cd"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "00:59:38:00",
+      "ScheduledDuration": "00:02:39:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Fontane di Roma P 106 : La fontana del Tritone al matino - poème symphonique",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Fontane di Roma P 106 : La fontana del Tritone al matino - poème symphonique",
+      "Label": "PHILIPS",
+      "ReferenceLabel": "6 514 202",
+      "ExternalID": "RF00000044794-1-11",
+      "AlbumTitle": "Ottorino Respighi : Pins de Rome Les oiseaux et Les fontaines de Rome",
+      "Rank": 11,
+      "NumVolume": 1,
+      "PublicationDate": "1983-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000044794",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ottorino Respighi",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique De San Francisco",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Edo De Waart",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T00:59:38+02:00",
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d",
+      "best": "http://data.doremus.org/expression/618fc7f1-0eaf-3e65-a1aa-84a6ddf3f801",
+      "best_matching_score": "0.71"
+    },
+    {
+      "id": "20",
+      "StepID": "20",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:02:17:00",
+      "ScheduledDuration": "00:10:39:00",
+      "NumPhase": 19,
+      "Inclusion": 0,
+      "NumEventCond": 20,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gesang der Geister über den Wassern op posth 167 D 714 - pour choeur d'hommes à 8 voix 2 altos 2 violoncelles et contrebasse",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gesang der Geister über den Wassern op posth 167 D 714 - pour choeur d'hommes à 8 voix 2 altos 2 violoncelles et contrebasse",
+      "Label": "BIS",
+      "ReferenceLabel": "BIS-SACD-1869",
+      "ExternalID": "7318599918693-1-16",
+      "AlbumTitle": "Brahms et Schubert : Oeuvres pour choeur / Im Herbst",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2011-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "7318599918693",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Grete Pedersen",
+          "Profession": "Interprète",
+          "InterventionNote": "Grete Pedersen"
+        },
+        {
+          "FullName": "Catherine Bullock",
+          "Profession": "Interprète",
+          "InterventionNote": "Catherine Bullock : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Madelene Berg",
+          "Profession": "Interprète",
+          "InterventionNote": "Madelene Berg : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Oystein Birkeland",
+          "Profession": "Interprète",
+          "InterventionNote": "Oystein Birkeland : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Ole Eirik Ree",
+          "Profession": "Interprète",
+          "InterventionNote": "Ole Eirik Ree : Violoncelle",
+          "mop": "Violoncelle"
+        },
+        {
+          "FullName": "Dan Styffe",
+          "Profession": "Interprète",
+          "InterventionNote": "Dan Styffe : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur Des Solistes Norvegiens",
+        "EntityType": "Choeur"
+      },
+      "ScheduledDateTime": "2017-07-31T01:02:17+02:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/33bca0c2-52d0-3aed-8122-6a1d911a1b34",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:13:07:00",
+      "ScheduledDuration": "00:07:54:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Les jeux d'eaux à la villa d'este",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Les jeux d'eaux à la villa d'este",
+      "Label": "DECCA",
+      "ReferenceLabel": "472963-2",
+      "ExternalID": "0028947296324-1-2",
+      "AlbumTitle": "Musique classique pour les enfants (volume 5)",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947296324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Liszt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Jorge Bolet",
+        "Profession": "Interprète",
+        "InterventionNote": "Jorge Bolet : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-31T01:13:07+02:00",
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
+      "best": "http://data.doremus.org/expression/bd00e8a1-6e43-3249-bdf3-3735f00af132",
+      "best_matching_score": "0.97"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:21:01:00",
+      "ScheduledDuration": "00:03:56:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An Wasserflüssen Babylon",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An Wasserflüssen Babylon",
+      "Label": "DEUTSCHE HARMONIA MUNDI",
+      "ReferenceLabel": "88697901812",
+      "ExternalID": "0886979018129-1-4",
+      "AlbumTitle": "Sacred arias",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0886979018129",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Tunder",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dorothee Mields",
+          "Profession": "Interprète",
+          "InterventionNote": "Dorothee Mields : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Concerto Melante",
+          "Profession": "Interprète",
+          "InterventionNote": "Concerto Melante"
+        },
+        {
+          "FullName": "Bernhard Forck",
+          "Profession": "Interprète",
+          "InterventionNote": "Bernhard Forck : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Raimar Orlovsky",
+          "Profession": "Interprète",
+          "InterventionNote": "Raimar Orlovsky : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Ulrich Wolff",
+          "Profession": "Interprète",
+          "InterventionNote": "Ulrich Wolff : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Heidi Groger",
+          "Profession": "Interprète",
+          "InterventionNote": "Heidi Groger : Basse de viole",
+          "mop": "Basse de viole"
+        },
+        {
+          "FullName": "Dane Roberts",
+          "Profession": "Interprète",
+          "InterventionNote": "Dane Roberts"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T01:21:01+02:00",
+      "composer": "http://data.doremus.org/artist/a304aa45-4d3e-37c3-9b37-5c1ba4057635",
+      "best": "http://data.doremus.org/expression/332a3035-4d0c-3526-ae0d-7978af922b26",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:24:57:00",
+      "ScheduledDuration": "00:12:13:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gesang der geister uber den wassern D 714 op posth 167",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gesang der geister uber den wassern D 714 op posth 167",
+      "Label": "SOLI DEO GLORIA",
+      "ReferenceLabel": "SDG 703",
+      "ExternalID": "0843183070329-1-2",
+      "AlbumTitle": "John Eliot Gardiner dirige Johannes Brahms et Franz Schubert",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0843183070329",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre Revolutionnaire Et Romantique",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Choeur Monteverdi",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Eliot Gardiner",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T01:24:57+02:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:37:10:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "LOGAN WATER HOB XXXIa : 163",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "LOGAN WATER HOB XXXIa : 163",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "92278",
+      "ExternalID": "5028421922782-1-26",
+      "AlbumTitle": "Haydn / Melodies ecossaises / Vol.1 / Anderson",
+      "Rank": 26,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421922782",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Trio Haydn D'Eisenstadt",
+        "Profession": "Interprète",
+        "InterventionNote": "Trio Haydn D'Eisenstadt"
+      },
+      "ScheduledDateTime": "2017-07-31T01:37:10+02:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04"
+    },
+    {
+      "id": "26",
+      "StepID": "26",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:40:57:00",
+      "ScheduledDuration": "00:03:43:00",
+      "NumPhase": 25,
+      "Inclusion": 0,
+      "NumEventCond": 26,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Gala water HOB XXXIa : 15",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Gala water HOB XXXIa : 15",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "93059",
+      "ExternalID": "5028421930596-2-5",
+      "AlbumTitle": "Joseph Haydn : Scottish and Welsh songs / Vol. 3",
+      "Rank": 5,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421930596",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "ScheduledDateTime": "2017-07-31T01:40:57+02:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:44:49:00",
+      "ScheduledDuration": "00:11:24:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le vaisseau fantome : Ouverture",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le vaisseau fantome : Ouverture",
+      "Label": "DECCA",
+      "ReferenceLabel": "472963-2",
+      "ExternalID": "0028947296324-1-5",
+      "AlbumTitle": "Musique classique pour les enfants (volume 5)",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028947296324",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Richard Wagner",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre De L'Opera Royal De Covent Garden",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Antal Dorati",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T01:44:49+02:00",
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
+      "best": "http://data.doremus.org/expression/349e9f2b-2543-3bc7-abff-f87dfd1cb3c6",
+      "best_matching_score": "0.95"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:56:13:00",
+      "ScheduledDuration": "00:02:03:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Choral hymns from the rig veda h 99 groupe 3 op 26 n°3 : Hymn to the waters / Pour choeur de femmes et harpe / Sur des textes religieux hindous",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Choral hymns from the rig veda h 99 groupe 3 op 26 n°3 : Hymn to the waters / Pour choeur de femmes et harpe / Sur des textes religieux hindous",
+      "Label": "HYPERION",
+      "ReferenceLabel": "CDH 55050",
+      "ExternalID": "0034571150505-1-3",
+      "AlbumTitle": "Britten : Choral dances - bliss : Pastoral - Holst : Rig veda",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1988-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0034571150505",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Holst",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Thelma Owen",
+        "Profession": "Interprète",
+        "InterventionNote": "Thelma Owen : Harpe",
+        "mop": "Harpe"
+      },
+      "Choir": {
+        "EntityName": "Holst Singers",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hilary Davan Wetton",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T01:56:13+02:00",
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
+      "best": "http://data.doremus.org/expression/5d1dbfbc-402e-3756-b828-dd026f47e9c6",
+      "best_matching_score": "0.82"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "01:58:16:00",
+      "ScheduledDuration": "00:04:34:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Songs of sunset : By the sad water of separation - pour soprano baryton choeur mixte et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Songs of sunset : By the sad water of separation - pour soprano baryton choeur mixte et orchestre",
+      "Label": "DANACORD",
+      "ReferenceLabel": "DACOCD 721",
+      "ExternalID": "5709499721001-1-5",
+      "AlbumTitle": "Frederick Delius : English masterworks",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "2012-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5709499721001",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Frederick Delius",
+          "Profession": "Interprète",
+          "InterventionNote": "Frederick Delius"
+        },
+        {
+          "FullName": "Henriette Bonde-Hansen",
+          "Profession": "Interprète",
+          "InterventionNote": "Henriette Bonde-Hansen : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Johan Reuter",
+          "Profession": "Interprète",
+          "InterventionNote": "Johan Reuter : Baryton (voix)",
+          "mop": "Baryton (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Symphonique D'Aarhus",
+        "EntityType": "Orchestre"
+      },
+      "Choir": [
+        {
+          "EntityName": "Choeur De L'Orchestre Symphonique D'Aarhus",
+          "EntityType": "Choeur"
+        },
+        {
+          "EntityName": "Choeur De La Cathedrale D'Aarhus",
+          "EntityType": "Choeur"
+        }
+      ],
+      "OrchestraLeader": {
+        "FullName": "Bo Holten",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T01:58:16+02:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:02:50:00",
+      "ScheduledDuration": "00:03:03:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The perfect fool op 39 h 150 : Dance of spirits of water",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The perfect fool op 39 h 150 : Dance of spirits of water",
+      "Label": "CHANDOS",
+      "ReferenceLabel": "CHSA 5069",
+      "ExternalID": "0095115506929-1-3",
+      "AlbumTitle": "Oeuvres orchestrales / Volume 1",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "2009-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0095115506929",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Gustav Holst",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National De La Bbc Du Pays De Galles",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Richard Hickox",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:02:50+02:00",
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
+      "best": "http://data.doremus.org/expression/df99dc02-b490-3703-8cf5-f6286306e3de",
+      "best_matching_score": "0.73"
+    },
+    {
+      "id": "32",
+      "StepID": "32",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:05:53:00",
+      "ScheduledDuration": "00:05:42:00",
+      "NumPhase": 31,
+      "Inclusion": 0,
+      "NumEventCond": 32,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An den wassern zu babel",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An den wassern zu babel",
+      "Label": "DISQUES PIERRE VERANY",
+      "ReferenceLabel": "PV 700013",
+      "ExternalID": "3325487000136-1-4",
+      "AlbumTitle": "Heinrich Schutz : Les sept paroles du christ en croix et autres oeuvres religieuses",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3325487000136",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heinrich Schutz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Divers",
+        "Profession": "Interprète",
+        "InterventionNote": "Divers"
+      },
+      "Orchestra": {
+        "EntityName": "Akademia",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Francoise Lasserre",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:05:53+02:00",
+      "composer": "http://data.doremus.org/artist/35f762fc-78ef-3d48-bfe9-2d85076f6c53",
+      "best": "http://data.doremus.org/expression/27494310-fb47-39e1-b1be-0136fab69f0e",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:11:35:00",
+      "ScheduledDuration": "00:01:59:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ach dass ich Wassers genug hätte : Sonate (instrumental)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ach dass ich Wassers genug hätte : Sonate (instrumental)",
+      "Label": "CPO",
+      "ReferenceLabel": "CPO 777 346-2",
+      "ExternalID": "0761203734627-2-12",
+      "AlbumTitle": "Philipp Heinrich Erlebach : Die Liebe Gottes ist ausgegossen et autres extraits de cantates",
+      "Rank": 12,
+      "NumVolume": 2,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203734627",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Philipp Heinrich Erlebach",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dorothee Mields",
+          "Profession": "Interprète",
+          "InterventionNote": "Dorothee Mields : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Margret Hunter",
+          "Profession": "Interprète",
+          "InterventionNote": "Margret Hunter : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Alexander Schneider",
+          "Profession": "Interprète",
+          "InterventionNote": "Alexander Schneider : Contre-ténor",
+          "mop": "Contre-ténor"
+        },
+        {
+          "FullName": "Andreas Post",
+          "Profession": "Interprète",
+          "InterventionNote": "Andreas Post : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Matthias Vieweg",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthias Vieweg : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Les Amis De Philippe",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Ludger Remy",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:11:35+02:00",
+      "composer": "http://data.doremus.org/artist/68eca5c2-9340-3dee-8670-786167f3dfce"
+    },
+    {
+      "id": "34",
+      "StepID": "34",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:13:34:00",
+      "ScheduledDuration": "00:02:12:00",
+      "NumPhase": 33,
+      "Inclusion": 0,
+      "NumEventCond": 34,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nocturne en 3 scènes op 72 : Les étoiles scintillent",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nocturne en 3 scènes op 72 : Les étoiles scintillent",
+      "Label": "FINLANDIA RECORDS",
+      "ReferenceLabel": "0630-15251-2",
+      "ExternalID": "0706301525128-1-1",
+      "AlbumTitle": "Selim Palmgren : Dernières oeuvres pour piano",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0706301525128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Selim Palmgren",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Izumi Tateno",
+        "Profession": "Interprète",
+        "InterventionNote": "Izumi Tateno : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-31T02:13:34+02:00",
+      "composer": "http://data.doremus.org/artist/a82e5e2c-eb84-3f2f-8ad5-7583b2f2f018",
+      "best": "http://data.doremus.org/expression/1c7bb1fc-e263-3eb8-8e70-c084c3aa618f",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:15:46:00",
+      "ScheduledDuration": "00:02:04:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Silhouettes du brouillard op 71 n°2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Silhouettes du brouillard op 71 n°2",
+      "Label": "FINLANDIA RECORDS",
+      "ReferenceLabel": "0630-15251-2",
+      "ExternalID": "0706301525128-1-8",
+      "AlbumTitle": "Selim Palmgren : Dernières oeuvres pour piano",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0706301525128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Selim Palmgren",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Izumi Tateno",
+        "Profession": "Interprète",
+        "InterventionNote": "Izumi Tateno : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-31T02:15:46+02:00",
+      "composer": "http://data.doremus.org/artist/a82e5e2c-eb84-3f2f-8ad5-7583b2f2f018"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:17:50:00",
+      "ScheduledDuration": "00:01:18:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Soleil et nuages op 102 : Voyage en bateau en août",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Soleil et nuages op 102 : Voyage en bateau en août",
+      "Label": "FINLANDIA RECORDS",
+      "ReferenceLabel": "0630-15251-2",
+      "ExternalID": "0706301525128-1-29",
+      "AlbumTitle": "Selim Palmgren : Dernières oeuvres pour piano",
+      "Rank": 29,
+      "NumVolume": 1,
+      "PublicationDate": "1997-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0706301525128",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Selim Palmgren",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Izumi Tateno",
+        "Profession": "Interprète",
+        "InterventionNote": "Izumi Tateno : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2017-07-31T02:17:50+02:00",
+      "composer": "http://data.doremus.org/artist/a82e5e2c-eb84-3f2f-8ad5-7583b2f2f018",
+      "best": "http://data.doremus.org/expression/02dbd50e-9fe4-3824-a531-a858611b2f0e",
+      "best_matching_score": "0.93"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:19:19:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lady in the dark : My ship",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lady in the dark : My ship",
+      "Label": "DECCA",
+      "ReferenceLabel": "436417-2",
+      "ExternalID": "0028943641722-1-14",
+      "AlbumTitle": "Ute Lemper sings Kurt Weill / Vol.2",
+      "Rank": 14,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028943641722",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Weill Kurt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Ute Lemper",
+          "Profession": "Interprète",
+          "InterventionNote": "Ute Lemper"
+        },
+        {
+          "FullName": "Jeff Cohen",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeff Cohen : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Sinfonietta Du Rias De Berlin",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "John Mauceri",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:19:19+02:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:22:18:00",
+      "ScheduledDuration": "00:03:47:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Petite suite : En bateau - arrangement pour 2 guitares acoustiques",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Petite suite : En bateau - arrangement pour 2 guitares acoustiques",
+      "Label": "OTTAVO",
+      "ReferenceLabel": "OTR C49135",
+      "ExternalID": "8711599491354-1-7",
+      "AlbumTitle": "Rêverie",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1991-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "8711599491354",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Duo Groningen",
+        "Profession": "Interprète",
+        "InterventionNote": "Duo Groningen"
+      },
+      "ScheduledDateTime": "2017-07-31T02:22:18+02:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/c9f1a31f-d77d-3cf4-977a-0d1ae46ae5a3",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:26:05:00",
+      "ScheduledDuration": "00:06:05:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "La cathedrale engloutie - preludes livre I / Pour piano / Arrangement pour 12 violoncelles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "La cathedrale engloutie - preludes livre I / Pour piano / Arrangement pour 12 violoncelles",
+      "Label": "EMI",
+      "ReferenceLabel": "3570302",
+      "ExternalID": "0094635703023-1-6",
+      "AlbumTitle": "Angel dances",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "2006-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0094635703023",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Claude Debussy",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Orchestre Philharmonique De Berlin",
+        "Profession": "Interprète",
+        "InterventionNote": "Orchestre Philharmonique De Berlin : Violoncelle",
+        "mop": "Violoncelle"
+      },
+      "ScheduledDateTime": "2017-07-31T02:26:05+02:00",
+      "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
+      "best": "http://data.doremus.org/expression/f8547e7a-a1ce-3d47-93c4-f3bc8eccf60f",
+      "best_matching_score": "0.96"
+    },
+    {
+      "id": "41",
+      "StepID": "41",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:32:10:00",
+      "ScheduledDuration": "00:01:52:00",
+      "NumPhase": 40,
+      "Inclusion": 0,
+      "NumEventCond": 41,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water music HWV 348 à 350 : Suite n°1 en Fa Maj HWV 348 : 7. Bourrée",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water music HWV 348 à 350 : Suite n°1 en Fa Maj HWV 348 : 7. Bourrée",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A432",
+      "ExternalID": "3760195734322-1-7",
+      "AlbumTitle": "Haendel : Water music et Telemann : Wassermusik",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760195734322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Zefiro",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Alfredo Bernardini",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:32:10+02:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/619a373b-2b00-3f0b-8ab2-b66358a8e21a",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "42",
+      "StepID": "42",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:34:02:00",
+      "ScheduledDuration": "00:03:44:00",
+      "NumPhase": 41,
+      "Inclusion": 0,
+      "NumEventCond": 42,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Water music HWV 348 à 350 : Suite n°1 en Fa Maj HWV 348 : 8. Andante",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Water music HWV 348 à 350 : Suite n°1 en Fa Maj HWV 348 : 8. Andante",
+      "Label": "ARCANA",
+      "ReferenceLabel": "A432",
+      "ExternalID": "3760195734322-1-8",
+      "AlbumTitle": "Haendel : Water music et Telemann : Wassermusik",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3760195734322",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Friedrich Haendel",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Zefiro",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Alfredo Bernardini",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:34:02+02:00",
+      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "best": "http://data.doremus.org/expression/619a373b-2b00-3f0b-8ab2-b66358a8e21a",
+      "best_matching_score": "0.90"
+    },
+    {
+      "id": "43",
+      "StepID": "43",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:37:46:00",
+      "ScheduledDuration": "00:04:00:00",
+      "NumPhase": 42,
+      "Inclusion": 0,
+      "NumEventCond": 43,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Auf dem wasser zu singen : D774",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Auf dem wasser zu singen : D774",
+      "Label": "DEUTSCHE GRAMMOPHON / DECCA",
+      "ReferenceLabel": "4827402",
+      "ExternalID": "0028948274024-2-9",
+      "AlbumTitle": "Dans ta chambre",
+      "Rank": 9,
+      "NumVolume": 2,
+      "PublicationDate": "2016-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028948274024",
+      "Compositor": {
+        "FullName": "Franz Schubert",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Renee Fleming",
+          "Profession": "Interprète",
+          "InterventionNote": "Renee Fleming : Chant",
+          "mop": "Chant"
+        },
+        {
+          "FullName": "Christoph Eschenbach",
+          "Profession": "Interprète",
+          "InterventionNote": "Christoph Eschenbach : Pianino",
+          "mop": "Pianino"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T02:37:46+02:00",
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
+      "best": "http://data.doremus.org/expression/e8fe19f3-d154-34fe-8c15-718902cfedd4",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "44",
+      "StepID": "44",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:41:46:00",
+      "ScheduledDuration": "00:03:49:00",
+      "NumPhase": 43,
+      "Inclusion": 0,
+      "NumEventCond": 44,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Die stille Wasserrose S 321",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Die stille Wasserrose S 321",
+      "Label": "TELDEC",
+      "ReferenceLabel": "643342",
+      "ExternalID": "4001406433429-1-5",
+      "AlbumTitle": "Franz Liszt : Lieder",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4001406433429",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Franz Liszt",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Margaret Price",
+          "Profession": "Interprète",
+          "InterventionNote": "Margaret Price : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Cyprien Katsaris",
+          "Profession": "Interprète",
+          "InterventionNote": "Cyprien Katsaris : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T02:41:46+02:00",
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81"
+    },
+    {
+      "id": "46",
+      "StepID": "46",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:45:39:00",
+      "ScheduledDuration": "00:01:48:00",
+      "NumPhase": 45,
+      "Inclusion": 0,
+      "NumEventCond": 46,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ayres : So beautie on the waters stood",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ayres : So beautie on the waters stood",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 907140",
+      "ExternalID": "0093046714024-1-15",
+      "AlbumTitle": "Angleterre / 16eme S. / A candle in the dark / Newberry consort",
+      "Rank": 15,
+      "NumVolume": 1,
+      "PublicationDate": "2000-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046714024",
+      "Compositor": {
+        "FullName": "Alfonso Ferrabosco",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Newberry Consort",
+          "Profession": "Interprète",
+          "InterventionNote": "Newberry Consort"
+        },
+        {
+          "FullName": "Drew Minter",
+          "Profession": "Interprète",
+          "InterventionNote": "Drew Minter : Haute-contre",
+          "mop": "Haute-contre"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T02:45:39+02:00",
+      "composer": "http://data.doremus.org/artist/08ac89f6-c433-3605-bef5-88facaf74c10"
+    },
+    {
+      "id": "47",
+      "StepID": "47",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:47:27:00",
+      "ScheduledDuration": "00:05:40:00",
+      "NumPhase": 46,
+      "Inclusion": 0,
+      "NumEventCond": 47,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "An Wasserflüssen Babylon SWV 242",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "An Wasserflüssen Babylon SWV 242",
+      "Label": "CARUS",
+      "ReferenceLabel": "83.276",
+      "ExternalID": "4009350832763-1-16",
+      "AlbumTitle": "Heinrich Schütz : Becker-Psalter",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "2017-01-01",
+      "LibMusicalKind": "Musique religieuse & sacrée",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4009350832763",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Heinrich Schutz",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Michaela Hasselt",
+          "Profession": "Interprète",
+          "InterventionNote": "Michaela Hasselt : Orgue",
+          "mop": "Orgue"
+        },
+        {
+          "FullName": "Stefan Maass",
+          "Profession": "Interprète",
+          "InterventionNote": "Stefan Maass : Théorbe",
+          "mop": "Théorbe"
+        },
+        {
+          "FullName": "Matthias Muller",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthias Muller : Violone (viole)",
+          "mop": "Violone (viole)"
+        }
+      ],
+      "Choir": {
+        "EntityName": "Choeur De Chambre De Dresde",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Hans Christoph Rademann",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:47:27+02:00",
+      "composer": "http://data.doremus.org/artist/35f762fc-78ef-3d48-bfe9-2d85076f6c53"
+    },
+    {
+      "id": "48",
+      "StepID": "48",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "02:53:07:00",
+      "ScheduledDuration": "00:07:56:00",
+      "NumPhase": 47,
+      "Inclusion": 0,
+      "NumEventCond": 48,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Le lac enchanté op 62",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Le lac enchanté op 62",
+      "Label": "NAIVE",
+      "ReferenceLabel": "V 5073",
+      "ExternalID": "0822186050736-1-10",
+      "AlbumTitle": "Pierre et le loup et autres pièces russes",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2007-01-01",
+      "LibMusicalKind": "Divers",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0822186050736",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Anatole Liadov",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Orchestra": {
+        "EntityName": "Orchestre National Du Capitole De Toulouse",
+        "EntityType": "Orchestre"
+      },
+      "OrchestraLeader": {
+        "FullName": "Tugan Sokhiev",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T02:53:07+02:00"
+    },
+    {
+      "id": "49",
+      "StepID": "49",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "03:01:03:00",
+      "ScheduledDuration": "00:01:05:00",
+      "NumPhase": 48,
+      "Inclusion": 0,
+      "NumEventCond": 49,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "3 chansons : My ship and I pour soprano et piano",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "3 chansons : My ship and I pour soprano et piano",
+      "Label": "THOROFON",
+      "ReferenceLabel": "CTH 2376",
+      "ExternalID": "4003913123763-1-8",
+      "AlbumTitle": "Alexander von Zemlinsky : Musique de chambre et lieder",
+      "Rank": 8,
+      "NumVolume": 1,
+      "PublicationDate": "1998-01-01",
+      "LibMusicalKind": "Musique de chambre",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "4003913123763",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Alexander Von Zemlinsky",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Author": {
+        "FullName": "Irma Stein-Firner",
+        "Profession": "Bruiteur",
+        "InterventionNote": "Irma Stein-Firner : Auteur"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Dagmar Hesse",
+          "Profession": "Interprète",
+          "InterventionNote": "Dagmar Hesse"
+        },
+        {
+          "FullName": "Antony Beaumont",
+          "Profession": "Interprète",
+          "InterventionNote": "Antony Beaumont : Piano",
+          "mop": "Piano"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T03:01:03+02:00",
+      "composer": "http://data.doremus.org/artist/2f1020fd-60ac-3b4d-9290-5bae9c611efd"
+    },
+    {
+      "id": "50",
+      "StepID": "50",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "03:02:08:00",
+      "ScheduledDuration": "00:02:59:00",
+      "NumPhase": 49,
+      "Inclusion": 0,
+      "NumEventCond": 50,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I saw three ships",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I saw three ships",
+      "Label": "HARMONIA MUNDI",
+      "ReferenceLabel": "HMU 907325",
+      "ExternalID": "0093046732523-1-10",
+      "AlbumTitle": "Wolcum yule",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "2003-01-01",
+      "LibMusicalKind": "Musique ancienne",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0093046732523",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Anonymous 4",
+          "Profession": "Interprète",
+          "InterventionNote": "Anonymous 4"
+        },
+        {
+          "FullName": "Marsha Genensky",
+          "Profession": "Interprète",
+          "InterventionNote": "Marsha Genensky : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Susan Hellauer",
+          "Profession": "Interprète",
+          "InterventionNote": "Susan Hellauer : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Jacqueline Horner",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacqueline Horner : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Johanna Maria Rose",
+          "Profession": "Interprète",
+          "InterventionNote": "Johanna Maria Rose : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Andrew Lawrence-King",
+          "Profession": "Interprète",
+          "InterventionNote": "Andrew Lawrence-King : Harpe",
+          "mop": "Harpe"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T03:02:08+02:00"
+    },
+    {
+      "id": "51",
+      "StepID": "51",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "03:05:07:00",
+      "ScheduledDuration": "00:01:37:00",
+      "NumPhase": 50,
+      "Inclusion": 0,
+      "NumEventCond": 51,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "GALLA WATER HOB XXXIa : 15bis POUR TENOR VIOLON VIOLONCELLE ET PIANO",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "GALLA WATER HOB XXXIa : 15bis POUR TENOR VIOLON VIOLONCELLE ET PIANO",
+      "Label": "BRILLIANT CLASSICS",
+      "ReferenceLabel": "93453",
+      "ExternalID": "5028421934532-3-16",
+      "AlbumTitle": "Haydn / Melodies ecossaises / Vol 4",
+      "Rank": 16,
+      "NumVolume": 3,
+      "LibMusicalKind": "Musique chorale et vocale",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5028421934532",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Joseph Haydn",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Jamie Mac Dougall",
+          "Profession": "Interprète",
+          "InterventionNote": "Jamie Mac Dougall : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Trio Haydn D'Eisenstadt",
+          "Profession": "Interprète",
+          "InterventionNote": "Trio Haydn D'Eisenstadt"
+        }
+      ],
+      "ScheduledDateTime": "2017-07-31T03:05:07+02:00",
+      "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04"
+    },
+    {
+      "id": "52",
+      "StepID": "52",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "03:06:44:00",
+      "ScheduledDuration": "00:01:30:00",
+      "NumPhase": 51,
+      "Inclusion": 0,
+      "NumEventCond": 52,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Canarie / Die lustigen Bootsleute",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Ouverture-suite en Ut Maj TWV 55:C3 Hamburger Ebb' und Flut : Canarie / Die lustigen Bootsleute",
+      "Label": "ARCHIV PRODUKTION",
+      "ReferenceLabel": "413 788-2",
+      "ExternalID": "0028941378828-1-10",
+      "AlbumTitle": "Georg Philipp Telemann : Wassermusik",
+      "Rank": 10,
+      "NumVolume": 1,
+      "PublicationDate": "1984-01-01",
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0028941378828",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "FullName": "Musica Antiqua De Cologne",
+        "Profession": "Interprète",
+        "InterventionNote": "Musica Antiqua De Cologne"
+      },
+      "OrchestraLeader": {
+        "FullName": "Reinhard Goebel",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T03:06:44+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51",
+      "best": "http://data.doremus.org/expression/e89269b9-43ab-37d5-905c-52ee8cf24198",
+      "best_matching_score": "0.74"
+    },
+    {
+      "id": "53",
+      "StepID": "53",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-07-31",
+      "ScheduledTime": "03:08:14:00",
+      "ScheduledDuration": "00:03:20:00",
+      "NumPhase": 52,
+      "Inclusion": 0,
+      "NumEventCond": 53,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Hamburger Admiralitätsmusik TWV 24 : 1 : Schwellt ihr wasserrichen Gründe (Air d'Albis) - sérénade our solistes choeur mixte et orchestre",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Hamburger Admiralitätsmusik TWV 24 : 1 : Schwellt ihr wasserrichen Gründe (Air d'Albis) - sérénade our solistes choeur mixte et orchestre",
+      "Label": "CPO",
+      "ReferenceLabel": "777 373-2",
+      "ExternalID": "0761203937325-2-6",
+      "AlbumTitle": "Georg Philipp Telemann : Hamburger Admiralitätsmusik et Ouverture en Ut Maj",
+      "Rank": 6,
+      "NumVolume": 2,
+      "LibMusicalKind": "Musique symphonique",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0761203937325",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Georg Philipp Telemann",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Mieke Van Der Sluis",
+          "Profession": "Interprète",
+          "InterventionNote": "Mieke Van Der Sluis : Soprano",
+          "mop": "Soprano"
+        },
+        {
+          "FullName": "Graham Pushee",
+          "Profession": "Interprète",
+          "InterventionNote": "Graham Pushee : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Rufus Muller",
+          "Profession": "Interprète",
+          "InterventionNote": "Rufus Muller : Ténor",
+          "mop": "Ténor"
+        },
+        {
+          "FullName": "Klaus Mertens",
+          "Profession": "Interprète",
+          "InterventionNote": "Klaus Mertens : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "David Thomas",
+          "Profession": "Interprète",
+          "InterventionNote": "David Thomas : Basse (voix)",
+          "mop": "Basse (voix)"
+        },
+        {
+          "FullName": "Michael Schopper",
+          "Profession": "Interprète",
+          "InterventionNote": "Michael Schopper : Basse (voix)",
+          "mop": "Basse (voix)"
+        }
+      ],
+      "Orchestra": {
+        "EntityName": "Orchestre Baroque De Breme",
+        "EntityType": "Orchestre"
+      },
+      "Choir": {
+        "EntityName": "Ensemble Vocal Alsfelder",
+        "EntityType": "Choeur"
+      },
+      "OrchestraLeader": {
+        "FullName": "Wolfgang Helbich",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2017-07-31T03:08:14+02:00",
+      "composer": "http://data.doremus.org/artist/f1f96c56-82c9-3169-a157-dad497493f51"
+    }
+  ],
+  "total": 46,
+  "matched": 23
+}

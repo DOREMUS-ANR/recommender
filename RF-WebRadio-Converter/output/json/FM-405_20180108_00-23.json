@@ -1,0 +1,1833 @@
+{
+  "id": "FM-405_20180108_00-23",
+  "channel": "405",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:00:15:00",
+      "ScheduledDuration": "00:08:26:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Breakfast wine",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Breakfast wine",
+      "Label": "PAUSA RECORDS",
+      "ReferenceLabel": "PT7171",
+      "ExternalID": "RF00000054010-1-1",
+      "AlbumTitle": "Breakfast wine",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1985-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000054010",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Bobby Shew Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "Bobby Shew Quartet : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Makoto Ozone",
+          "Profession": "Interprète",
+          "InterventionNote": "Makoto Ozone : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "John Patitucci",
+          "Profession": "Interprète",
+          "InterventionNote": "John Patitucci : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Sherman Ferguson",
+          "Profession": "Interprète",
+          "InterventionNote": "Sherman Ferguson : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T00:00:15+01:00"
+    },
+    {
+      "id": "4",
+      "StepID": "4",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:08:41:00",
+      "ScheduledDuration": "00:07:52:00",
+      "NumPhase": 3,
+      "Inclusion": 0,
+      "NumEventCond": 4,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Night has a thousand eyes",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Night has a thousand eyes",
+      "Label": "POLYDOR",
+      "ReferenceLabel": "2 393 281",
+      "ExternalID": "RF00000033391-1-3",
+      "AlbumTitle": "It's impossible",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000033391",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Stella Levitt",
+          "Profession": "Interprète",
+          "InterventionNote": "Stella Levitt"
+        },
+        {
+          "FullName": "Jacques Pelzer",
+          "Profession": "Interprète",
+          "InterventionNote": "Jacques Pelzer : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "Dennis Luxion",
+          "Profession": "Interprète",
+          "InterventionNote": "Dennis Luxion : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Riccardo Del Fra",
+          "Profession": "Interprète",
+          "InterventionNote": "Riccardo Del Fra : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Al Levitt",
+          "Profession": "Interprète",
+          "InterventionNote": "Al Levitt : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T00:08:41+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:16:33:00",
+      "ScheduledDuration": "00:02:56:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "It don't mean a thing",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "It don't mean a thing",
+      "Label": "SOUL NOTE",
+      "ReferenceLabel": "SN 1027",
+      "ExternalID": "RF00000042319-1-7",
+      "AlbumTitle": "Duke dreams",
+      "Rank": 7,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000042319",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Ran Blake",
+        "Profession": "Interprète",
+        "InterventionNote": "Ran Blake : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2018-01-08T00:16:33+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:19:32:00",
+      "ScheduledDuration": "00:10:02:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Webb city",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Webb city",
+      "Label": "CONCORD JAZZ",
+      "ReferenceLabel": "CJ 168",
+      "ExternalID": "RF00000044485-1-3",
+      "AlbumTitle": "Straight ahead",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000044485",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Art Blakey And The Messengers",
+          "Profession": "Interprète",
+          "InterventionNote": "Art Blakey And The Messengers"
+        },
+        {
+          "FullName": "Wynton Marsalis",
+          "Profession": "Interprète",
+          "InterventionNote": "Wynton Marsalis : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Bill Pierce",
+          "Profession": "Interprète",
+          "InterventionNote": "Bill Pierce : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Bobby Watson",
+          "Profession": "Interprète",
+          "InterventionNote": "Bobby Watson : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "James Williams",
+          "Profession": "Interprète",
+          "InterventionNote": "James Williams : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Charles Fambrough",
+          "Profession": "Interprète",
+          "InterventionNote": "Charles Fambrough : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Blakey Art",
+          "Profession": "Interprète",
+          "InterventionNote": "Blakey Art : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T00:19:32+01:00"
+    },
+    {
+      "id": "8",
+      "StepID": "8",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:29:34:00",
+      "ScheduledDuration": "00:03:07:00",
+      "NumPhase": 7,
+      "Inclusion": 0,
+      "NumEventCond": 8,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Douce ambiance",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Douce ambiance",
+      "Label": "ANTILLES",
+      "ReferenceLabel": "6 313 403",
+      "ExternalID": "RF00000045148-1-1",
+      "AlbumTitle": "15",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000045148",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Lagrene Bireli",
+        "Profession": "Interprète",
+        "InterventionNote": "Lagrene Bireli : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2018-01-08T00:29:34+01:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:32:41:00",
+      "ScheduledDuration": "00:03:13:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Schwarze augen",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Schwarze augen",
+      "Label": "ANTILLES",
+      "ReferenceLabel": "6 313 403",
+      "ExternalID": "RF00000045148-1-2",
+      "AlbumTitle": "15",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000045148",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Lagrene Bireli",
+        "Profession": "Interprète",
+        "InterventionNote": "Lagrene Bireli : Guitare",
+        "mop": "Guitare"
+      },
+      "ScheduledDateTime": "2018-01-08T00:32:41+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:36:03:00",
+      "ScheduledDuration": "00:02:43:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "The song is you",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "The song is you",
+      "Label": "REPRISE RECORDS",
+      "ReferenceLabel": "2 300/12",
+      "ExternalID": "RF00000050942-1-1",
+      "AlbumTitle": "Trilogy : Past / Present / Future",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050942",
+      "Compositor": {
+        "FullName": "Jerome Kern",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Frank Sinatra",
+        "Profession": "Interprète",
+        "InterventionNote": "Frank Sinatra"
+      },
+      "OrchestraLeader": {
+        "FullName": "Billy May",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-08T00:36:03+01:00",
+      "composer": "http://data.doremus.org/artist/0d3493ff-b0f9-35c3-bc75-1adfc0150cd2",
+      "best": "http://data.doremus.org/expression/76600746-d874-353e-8dc1-abba76dc2444",
+      "best_matching_score": "1.00"
+    },
+    {
+      "id": "12",
+      "StepID": "12",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:38:46:00",
+      "ScheduledDuration": "00:03:19:00",
+      "NumPhase": 11,
+      "Inclusion": 0,
+      "NumEventCond": 12,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I had the craziest dream",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I had the craziest dream",
+      "Label": "REPRISE RECORDS",
+      "ReferenceLabel": "2 300/12",
+      "ExternalID": "RF00000050942-1-3",
+      "AlbumTitle": "Trilogy : Past / Present / Future",
+      "Rank": 3,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000050942",
+      "Compositor": {
+        "FullName": "Harry Warren",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Frank Sinatra",
+        "Profession": "Interprète",
+        "InterventionNote": "Frank Sinatra"
+      },
+      "OrchestraLeader": {
+        "FullName": "Billy May",
+        "Profession": "Chef d'orchestre"
+      },
+      "ScheduledDateTime": "2018-01-08T00:38:46+01:00",
+      "composer": "http://data.doremus.org/artist/47306817-7138-3894-8280-c1acf3ddde35"
+    },
+    {
+      "id": "13",
+      "StepID": "13",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:42:05:00",
+      "ScheduledDuration": "00:06:43:00",
+      "NumPhase": 12,
+      "Inclusion": 0,
+      "NumEventCond": 13,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Thinkin' of you",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Thinkin' of you",
+      "Label": "LDH",
+      "ReferenceLabel": "LDH 1 004",
+      "ExternalID": "RF00000054642-1-2",
+      "AlbumTitle": "Steve Houben + strings",
+      "Rank": 2,
+      "NumVolume": 1,
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000054642",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Steve Houben",
+          "Profession": "Interprète",
+          "InterventionNote": "Steve Houben : Saxophone alto",
+          "mop": "Saxophone alto"
+        },
+        {
+          "FullName": "String Ensemble",
+          "Profession": "Interprète",
+          "InterventionNote": "String Ensemble"
+        },
+        {
+          "FullName": "Michel Herr",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Herr"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T00:42:05+01:00"
+    },
+    {
+      "id": "14",
+      "StepID": "14",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:48:48:00",
+      "ScheduledDuration": "00:06:15:00",
+      "NumPhase": 13,
+      "Inclusion": 0,
+      "NumEventCond": 14,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Suite Sandrine part 1",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Suite Sandrine part 1",
+      "Label": "PORTRAIT",
+      "ReferenceLabel": "4633301",
+      "ExternalID": "5099746333010-1-1",
+      "AlbumTitle": "Michel Camilo",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1988-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "5099746333010",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Michel Camilo",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Camilo : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Marc Johnson",
+          "Profession": "Interprète",
+          "InterventionNote": "Marc Johnson : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Dave Weckl",
+          "Profession": "Interprète",
+          "InterventionNote": "Dave Weckl : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Mongo Santamaria",
+          "Profession": "Interprète",
+          "InterventionNote": "Mongo Santamaria : Conga (tambour)",
+          "mop": "Conga (tambour)"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T00:48:48+01:00"
+    },
+    {
+      "id": "16",
+      "StepID": "16",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:55:09:00",
+      "ScheduledDuration": "00:03:00:00",
+      "NumPhase": 15,
+      "Inclusion": 0,
+      "NumEventCond": 16,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Moonlignt serenade",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Moonlignt serenade",
+      "Label": "7MBA",
+      "ReferenceLabel": "MBA 702",
+      "ExternalID": "RF00000010685-1-4",
+      "AlbumTitle": "Pourquoi tant de haine ? Deux !",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000010685",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "7 Mercenaires Fanfare Des Beaux-Arts",
+        "Profession": "Interprète",
+        "InterventionNote": "7 Mercenaires Fanfare Des Beaux-Arts"
+      },
+      "ScheduledDateTime": "2018-01-08T00:55:09+01:00"
+    },
+    {
+      "id": "17",
+      "StepID": "17",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "00:58:09:00",
+      "ScheduledDuration": "00:04:21:00",
+      "NumPhase": 16,
+      "Inclusion": 0,
+      "NumEventCond": 17,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Intra-action n°2",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Intra-action n°2",
+      "Label": "ENJA",
+      "ReferenceLabel": "5049",
+      "ExternalID": "RF00000016724-1-5",
+      "AlbumTitle": "Point venture",
+      "Rank": 5,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000016724",
+      "Compositor": [
+        {
+          "FullName": "Ellery Eskelin",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Phil Haynes",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Drew Gress",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "Highlight": true,
+          "FullName": "Paul Smoker",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Baker",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Paul Smoker",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Smoker : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Drew Gress",
+          "Profession": "Interprète",
+          "InterventionNote": "Drew Gress : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Phil Haynes",
+          "Profession": "Interprète",
+          "InterventionNote": "Phil Haynes : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Ellery Eskelin",
+          "Profession": "Interprète",
+          "InterventionNote": "Ellery Eskelin : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T00:58:09+01:00"
+    },
+    {
+      "id": "18",
+      "StepID": "18",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:02:30:00",
+      "ScheduledDuration": "00:04:33:00",
+      "NumPhase": 17,
+      "Inclusion": 0,
+      "NumEventCond": 18,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Jazz is alive",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Jazz is alive",
+      "Label": "NATO",
+      "ReferenceLabel": "994",
+      "ExternalID": "RF00000018177-1-1",
+      "AlbumTitle": "Uit",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000018177",
+      "Compositor": [
+        {
+          "Highlight": true,
+          "FullName": "Annick Nozati",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Fred Van Hove",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Annick Nozati",
+          "Profession": "Interprète",
+          "InterventionNote": "Annick Nozati"
+        },
+        {
+          "FullName": "Fred Van Hove",
+          "Profession": "Interprète",
+          "InterventionNote": "Fred Van Hove : Piano, Harmonium",
+          "mop": "Piano, Harmonium"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:02:30+01:00"
+    },
+    {
+      "id": "19",
+      "StepID": "19",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:07:03:00",
+      "ScheduledDuration": "00:08:24:00",
+      "NumPhase": 18,
+      "Inclusion": 0,
+      "NumEventCond": 19,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Three short stories of a great politician",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Three short stories of a great politician",
+      "Label": "MOERS MUSIC",
+      "ReferenceLabel": "MOMU 02052",
+      "ExternalID": "RF00000018286-1-1",
+      "AlbumTitle": "Three short stories of a great politician",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000018286",
+      "Compositor": [
+        {
+          "FullName": "Wolfgang Mitterer",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Wolfgang Reisinger",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Wolfgang Pushnig",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Linda Sharrock",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Pat Brothers",
+          "Profession": "Interprète",
+          "InterventionNote": "Pat Brothers"
+        },
+        {
+          "FullName": "Linda Sharrock",
+          "Profession": "Interprète",
+          "InterventionNote": "Linda Sharrock"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:07:03+01:00"
+    },
+    {
+      "id": "21",
+      "StepID": "21",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:15:39:00",
+      "ScheduledDuration": "00:03:11:00",
+      "NumPhase": 20,
+      "Inclusion": 0,
+      "NumEventCond": 21,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Retrouvailles",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Retrouvailles",
+      "Label": "ATTITUDE RECORDS",
+      "ReferenceLabel": "ATT 56",
+      "ExternalID": "3229260006295-1-1",
+      "AlbumTitle": "C'est quoi l'histoire",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229260006295",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Anches Doo Too Cool",
+          "Profession": "Interprète",
+          "InterventionNote": "Anches Doo Too Cool"
+        },
+        {
+          "FullName": "Philippe Herpin",
+          "Profession": "Interprète",
+          "InterventionNote": "Philippe Herpin"
+        },
+        {
+          "FullName": "Daniel Paboeuf",
+          "Profession": "Interprète",
+          "InterventionNote": "Daniel Paboeuf"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:15:39+01:00"
+    },
+    {
+      "id": "22",
+      "StepID": "22",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:18:50:00",
+      "ScheduledDuration": "00:03:48:00",
+      "NumPhase": 21,
+      "Inclusion": 0,
+      "NumEventCond": 22,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Little Willie Leaps",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Little Willie Leaps",
+      "Label": "BLACK HAWK",
+      "ReferenceLabel": "BKH 57501",
+      "ExternalID": "RF00000006833-1-3",
+      "AlbumTitle": "The Crossing",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000006833",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Sheila Jordan",
+        "Profession": "Interprète",
+        "InterventionNote": "Sheila Jordan"
+      },
+      "ScheduledDateTime": "2018-01-08T01:18:50+01:00"
+    },
+    {
+      "id": "23",
+      "StepID": "23",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:22:38:00",
+      "ScheduledDuration": "00:03:05:00",
+      "NumPhase": 22,
+      "Inclusion": 0,
+      "NumEventCond": 23,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Between the devil and the deep blue sea",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Between the devil and the deep blue sea",
+      "Label": "MUSE RECORDS",
+      "ReferenceLabel": "MR 5325",
+      "ExternalID": "RF00000018837-1-16",
+      "AlbumTitle": "Anyone would love you",
+      "Rank": 16,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000018837",
+      "Compositor": [
+        {
+          "FullName": "Harold Arlen",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Ted Koehler",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jonathan Schwartz",
+          "Profession": "Interprète",
+          "InterventionNote": "Jonathan Schwartz"
+        },
+        {
+          "FullName": "Mike Renzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Mike Renzi : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jay Leonhart",
+          "Profession": "Interprète",
+          "InterventionNote": "Jay Leonhart : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Marky Markowitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Marky Markowitz : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Tony Tedesco",
+          "Profession": "Interprète",
+          "InterventionNote": "Tony Tedesco : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:22:38+01:00"
+    },
+    {
+      "id": "24",
+      "StepID": "24",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:25:43:00",
+      "ScheduledDuration": "00:02:00:00",
+      "NumPhase": 23,
+      "Inclusion": 0,
+      "NumEventCond": 24,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nobody else but me",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nobody else but me",
+      "Label": "MUSE RECORDS",
+      "ReferenceLabel": "MR 5325",
+      "ExternalID": "RF00000018837-1-1",
+      "AlbumTitle": "Anyone would love you",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000018837",
+      "Compositor": [
+        {
+          "FullName": "Jerome Kern",
+          "Profession": "Compositeur/Compositrice"
+        },
+        {
+          "FullName": "Oscar Hammerstein",
+          "Profession": "Compositeur/Compositrice"
+        }
+      ],
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jonathan Schwartz",
+          "Profession": "Interprète",
+          "InterventionNote": "Jonathan Schwartz"
+        },
+        {
+          "FullName": "Tony Monte",
+          "Profession": "Interprète",
+          "InterventionNote": "Tony Monte : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jay Leonhart",
+          "Profession": "Interprète",
+          "InterventionNote": "Jay Leonhart : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Marky Markowitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Marky Markowitz : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Tony Tedesco",
+          "Profession": "Interprète",
+          "InterventionNote": "Tony Tedesco : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:25:43+01:00"
+    },
+    {
+      "id": "25",
+      "StepID": "25",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:27:43:00",
+      "ScheduledDuration": "00:08:04:00",
+      "NumPhase": 24,
+      "Inclusion": 0,
+      "NumEventCond": 25,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lament",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lament",
+      "Label": "VOGUE",
+      "ReferenceLabel": "502609",
+      "ExternalID": "RF00000062090-1-2",
+      "AlbumTitle": "Live at Club Saint-Germain",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000062090",
+      "Compositor": {
+        "FullName": "Jay Jay Johnson",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Lou Bennett Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Lou Bennett Trio"
+        },
+        {
+          "FullName": "Lou Bennett",
+          "Profession": "Interprète",
+          "InterventionNote": "Lou Bennett : Orgue Hammond",
+          "mop": "Orgue Hammond"
+        },
+        {
+          "FullName": "Andre Condouant",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Condouant : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Billy Brooks",
+          "Profession": "Interprète",
+          "InterventionNote": "Billy Brooks : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:27:43+01:00"
+    },
+    {
+      "id": "27",
+      "StepID": "27",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:35:50:00",
+      "ScheduledDuration": "00:06:40:00",
+      "NumPhase": 26,
+      "Inclusion": 0,
+      "NumEventCond": 27,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Not so softly",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Not so softly",
+      "Label": "VOGUE",
+      "ReferenceLabel": "502609",
+      "ExternalID": "RF00000062090-1-3",
+      "AlbumTitle": "Live at Club Saint-Germain",
+      "Rank": 3,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000062090",
+      "Compositor": {
+        "FullName": "Lou Bennett",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Lou Bennett Trio",
+          "Profession": "Interprète",
+          "InterventionNote": "Lou Bennett Trio"
+        },
+        {
+          "FullName": "Lou Bennett",
+          "Profession": "Interprète",
+          "InterventionNote": "Lou Bennett : Orgue Hammond",
+          "mop": "Orgue Hammond"
+        },
+        {
+          "FullName": "Andre Condouant",
+          "Profession": "Interprète",
+          "InterventionNote": "Andre Condouant : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Billy Brooks",
+          "Profession": "Interprète",
+          "InterventionNote": "Billy Brooks : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:35:50+01:00"
+    },
+    {
+      "id": "28",
+      "StepID": "28",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:42:30:00",
+      "ScheduledDuration": "00:04:41:00",
+      "NumPhase": 27,
+      "Inclusion": 0,
+      "NumEventCond": 28,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Lady of independent means",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Lady of independent means",
+      "Label": "LINE",
+      "ReferenceLabel": "624242AP",
+      "ExternalID": "RF00000055053-1-4",
+      "AlbumTitle": "Tuesday in New York",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000055053",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Jon Mark / Mark-Almond",
+          "Profession": "Interprète",
+          "InterventionNote": "Jon Mark / Mark-Almond"
+        },
+        {
+          "FullName": "Jay Lewis",
+          "Profession": "Interprète",
+          "InterventionNote": "Jay Lewis"
+        },
+        {
+          "FullName": "Jeannie Mclaine",
+          "Profession": "Interprète",
+          "InterventionNote": "Jeannie Mclaine"
+        },
+        {
+          "FullName": "Bobby Vega",
+          "Profession": "Interprète",
+          "InterventionNote": "Bobby Vega"
+        },
+        {
+          "FullName": "John Leftwich",
+          "Profession": "Interprète",
+          "InterventionNote": "John Leftwich"
+        },
+        {
+          "FullName": "Bill Berg",
+          "Profession": "Interprète",
+          "InterventionNote": "Bill Berg"
+        },
+        {
+          "FullName": "Mark Cranny",
+          "Profession": "Interprète",
+          "InterventionNote": "Mark Cranny"
+        },
+        {
+          "FullName": "Tommy Tedesco",
+          "Profession": "Interprète",
+          "InterventionNote": "Tommy Tedesco"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:42:30+01:00"
+    },
+    {
+      "id": "29",
+      "StepID": "29",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:47:11:00",
+      "ScheduledDuration": "00:05:29:00",
+      "NumPhase": 28,
+      "Inclusion": 0,
+      "NumEventCond": 29,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "In your own sweet way",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "In your own sweet way",
+      "Label": "BINGOW RECORDS",
+      "ReferenceLabel": "BGW 3 105",
+      "ExternalID": "RF00000043497-1-2",
+      "AlbumTitle": "Flash",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000043497",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Michel Petrucciani",
+          "Profession": "Interprète",
+          "InterventionNote": "Michel Petrucciani : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Mike Zwerin",
+          "Profession": "Interprète",
+          "InterventionNote": "Mike Zwerin : Trombone",
+          "mop": "Trombone"
+        },
+        {
+          "FullName": "Louis Petrucciani",
+          "Profession": "Interprète",
+          "InterventionNote": "Louis Petrucciani : Contrebasse",
+          "mop": "Contrebasse"
+        },
+        {
+          "FullName": "Aldo Romano",
+          "Profession": "Interprète",
+          "InterventionNote": "Aldo Romano : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:47:11+01:00"
+    },
+    {
+      "id": "30",
+      "StepID": "30",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:52:40:00",
+      "ScheduledDuration": "00:04:56:00",
+      "NumPhase": 29,
+      "Inclusion": 0,
+      "NumEventCond": 30,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Touch of evil",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Touch of evil",
+      "Label": "ARISTA",
+      "ReferenceLabel": "AN 3019",
+      "ExternalID": "RF00000042330-1-7",
+      "AlbumTitle": "Film noir",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000042330",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Ran Blake",
+          "Profession": "Interprète",
+          "InterventionNote": "Ran Blake : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Daryl Lowery",
+          "Profession": "Interprète",
+          "InterventionNote": "Daryl Lowery : Saxophone soprano",
+          "mop": "Saxophone soprano"
+        },
+        {
+          "FullName": "Ed Jackson",
+          "Profession": "Interprète",
+          "InterventionNote": "Ed Jackson : Saxophone soprano",
+          "mop": "Saxophone soprano"
+        },
+        {
+          "FullName": "Ingrid Manson",
+          "Profession": "Interprète",
+          "InterventionNote": "Ingrid Manson : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Frank London",
+          "Profession": "Interprète",
+          "InterventionNote": "Frank London : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Christopher Brooks",
+          "Profession": "Interprète",
+          "InterventionNote": "Christopher Brooks : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Paul Meyers",
+          "Profession": "Interprète",
+          "InterventionNote": "Paul Meyers : Basse électrique",
+          "mop": "Basse électrique"
+        },
+        {
+          "FullName": "Jon Hazilla",
+          "Profession": "Interprète",
+          "InterventionNote": "Jon Hazilla : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T01:52:40+01:00"
+    },
+    {
+      "id": "31",
+      "StepID": "31",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "01:57:36:00",
+      "ScheduledDuration": "00:03:26:00",
+      "NumPhase": 30,
+      "Inclusion": 0,
+      "NumEventCond": 31,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Eve (from All about Eve)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Eve (from All about Eve)",
+      "Label": "ARISTA",
+      "ReferenceLabel": "AN 3019",
+      "ExternalID": "RF00000042330-1-2",
+      "AlbumTitle": "Film noir",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1980-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000042330",
+      "Interpreter": {
+        "Highlight": true,
+        "FullName": "Ran Blake",
+        "Profession": "Interprète",
+        "InterventionNote": "Ran Blake : Piano",
+        "mop": "Piano"
+      },
+      "ScheduledDateTime": "2018-01-08T01:57:36+01:00"
+    },
+    {
+      "id": "33",
+      "StepID": "33",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "02:01:06:00",
+      "ScheduledDuration": "00:21:25:00",
+      "NumPhase": 32,
+      "Inclusion": 0,
+      "NumEventCond": 33,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prime time",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prime time",
+      "Label": "CARAVAN OF DREAMS PRODUCTIONS",
+      "ReferenceLabel": "CDP 85002",
+      "ExternalID": "RF00000048130-1-1",
+      "AlbumTitle": "Prime design / Time design",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000048130",
+      "Compositor": {
+        "Highlight": true,
+        "FullName": "Ornette Coleman",
+        "Profession": "Compositeur/Compositrice"
+      },
+      "Interpreter": [
+        {
+          "FullName": "Matthew Meister",
+          "Profession": "Interprète",
+          "InterventionNote": "Matthew Meister"
+        },
+        {
+          "FullName": "Denardo Coleman",
+          "Profession": "Interprète",
+          "InterventionNote": "Denardo Coleman"
+        },
+        {
+          "FullName": "Alex Deych",
+          "Profession": "Interprète",
+          "InterventionNote": "Alex Deych"
+        },
+        {
+          "FullName": "Gregory Gelman",
+          "Profession": "Interprète",
+          "InterventionNote": "Gregory Gelman"
+        },
+        {
+          "FullName": "Larissa Blitz",
+          "Profession": "Interprète",
+          "InterventionNote": "Larissa Blitz"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T02:01:06+01:00",
+      "composer": "http://data.doremus.org/artist/9cf45376-b330-3df0-9e4d-19411918c76f"
+    },
+    {
+      "id": "35",
+      "StepID": "35",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "02:22:37:00",
+      "ScheduledDuration": "00:07:15:00",
+      "NumPhase": 34,
+      "Inclusion": 0,
+      "NumEventCond": 35,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Waltz",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Waltz",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM 1260",
+      "ExternalID": "0042281527418-1-2",
+      "AlbumTitle": "Lyric suite for sextet",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1983-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0042281527418",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Chick Corea",
+          "Profession": "Interprète",
+          "InterventionNote": "Chick Corea : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Gary Burton",
+          "Profession": "Interprète",
+          "InterventionNote": "Gary Burton : Vibraphone",
+          "mop": "Vibraphone"
+        },
+        {
+          "FullName": "Hwan Bae Ik",
+          "Profession": "Interprète",
+          "InterventionNote": "Hwan Bae Ik : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Carol Shive",
+          "Profession": "Interprète",
+          "InterventionNote": "Carol Shive : Violon",
+          "mop": "Violon"
+        },
+        {
+          "FullName": "Karen Dreyfus",
+          "Profession": "Interprète",
+          "InterventionNote": "Karen Dreyfus : Alto (instrument)",
+          "mop": "Alto (instrument)"
+        },
+        {
+          "FullName": "Fred Sherry",
+          "Profession": "Interprète",
+          "InterventionNote": "Fred Sherry : Violoncelle",
+          "mop": "Violoncelle"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T02:22:37+01:00"
+    },
+    {
+      "id": "36",
+      "StepID": "36",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "02:29:52:00",
+      "ScheduledDuration": "00:08:55:00",
+      "NumPhase": 35,
+      "Inclusion": 0,
+      "NumEventCond": 36,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Music maestro please",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Music maestro please",
+      "Label": "CONCORD JAZZ",
+      "ReferenceLabel": "CJ 178",
+      "ExternalID": "RF00000011431-1-1",
+      "AlbumTitle": "Paper moon",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1982-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000011431",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Dave Brubeck",
+          "Profession": "Interprète",
+          "InterventionNote": "Dave Brubeck : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Jerry Bergonzi",
+          "Profession": "Interprète",
+          "InterventionNote": "Jerry Bergonzi : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Chris Brubeck",
+          "Profession": "Interprète",
+          "InterventionNote": "Chris Brubeck : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Randy Jones",
+          "Profession": "Interprète",
+          "InterventionNote": "Randy Jones : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T02:29:52+01:00"
+    },
+    {
+      "id": "38",
+      "StepID": "38",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "02:38:50:00",
+      "ScheduledDuration": "00:09:12:00",
+      "NumPhase": 37,
+      "Inclusion": 0,
+      "NumEventCond": 38,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "I'm getting sentimental over you",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "I'm getting sentimental over you",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM 1 224",
+      "ExternalID": "RF00000010862-1-1",
+      "AlbumTitle": "Opening night",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1982-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000010862",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Enrico Rava Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "Enrico Rava Quartet : Trompette",
+          "mop": "Trompette"
+        },
+        {
+          "FullName": "Franco D'Andrea",
+          "Profession": "Interprète",
+          "InterventionNote": "Franco D'Andrea : Piano",
+          "mop": "Piano"
+        },
+        {
+          "FullName": "Furio Di Castri",
+          "Profession": "Interprète",
+          "InterventionNote": "Furio Di Castri : Basse",
+          "mop": "Basse"
+        },
+        {
+          "FullName": "Aldo Romano",
+          "Profession": "Interprète",
+          "InterventionNote": "Aldo Romano : Batterie",
+          "mop": "Batterie"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T02:38:50+01:00"
+    },
+    {
+      "id": "39",
+      "StepID": "39",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "02:48:02:00",
+      "ScheduledDuration": "00:06:36:00",
+      "NumPhase": 38,
+      "Inclusion": 0,
+      "NumEventCond": 39,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Prinsex",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Prinsex",
+      "Label": "GRIM",
+      "ReferenceLabel": "MUSIQUES 4",
+      "ExternalID": "RF00000033500-1-6",
+      "AlbumTitle": "Elogio dell' ombra",
+      "Rank": 6,
+      "NumVolume": 1,
+      "PublicationDate": "1986-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000033500",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Maucci Thierry Quartet",
+          "Profession": "Interprète",
+          "InterventionNote": "Maucci Thierry Quartet"
+        },
+        {
+          "FullName": "Thierry Maucci",
+          "Profession": "Interprète",
+          "InterventionNote": "Thierry Maucci : Saxophone ténor",
+          "mop": "Saxophone ténor"
+        },
+        {
+          "FullName": "Jean Marc Montera",
+          "Profession": "Interprète",
+          "InterventionNote": "Jean Marc Montera : Guitare électrique",
+          "mop": "Guitare électrique"
+        },
+        {
+          "FullName": "Gerard Siracusa",
+          "Profession": "Interprète",
+          "InterventionNote": "Gerard Siracusa : Batterie",
+          "mop": "Batterie"
+        },
+        {
+          "FullName": "Bruno Chevillon",
+          "Profession": "Interprète",
+          "InterventionNote": "Bruno Chevillon : Contrebasse",
+          "mop": "Contrebasse"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T02:48:02+01:00"
+    },
+    {
+      "id": "40",
+      "StepID": "40",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2018-01-08",
+      "ScheduledTime": "02:54:38:00",
+      "ScheduledDuration": "00:09:53:00",
+      "NumPhase": 39,
+      "Inclusion": 0,
+      "NumEventCond": 40,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Bumabia",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Bumabia",
+      "Label": "ECM",
+      "ReferenceLabel": "ECM 1207",
+      "ExternalID": "0602537435135-1-7",
+      "AlbumTitle": "Five years later",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1982-01-01",
+      "LibMusicalKind": "Jazz",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "0602537435135",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "John Abercrombie",
+          "Profession": "Interprète",
+          "InterventionNote": "John Abercrombie : Guitare",
+          "mop": "Guitare"
+        },
+        {
+          "FullName": "Ralph Towner",
+          "Profession": "Interprète",
+          "InterventionNote": "Ralph Towner : Guitare",
+          "mop": "Guitare"
+        }
+      ],
+      "ScheduledDateTime": "2018-01-08T02:54:38+01:00"
+    }
+  ],
+  "total": 30,
+  "matched": 1
+}
