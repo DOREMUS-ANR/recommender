@@ -68,7 +68,7 @@ class Record {
         let valueIsArray = Array.isArray(value);
         if (!subProp) return valueIsArray ? value.join(';') : value;
         return valueIsArray ? value.map((v) => v[subProp]).filter((e) => !!e).join(';') : value[subProp];
-      }).filter((e) => !!e).join(';').replace(/[,\n]/g, '');
+      }).filter((e) => !!e).join(';').replace(/[,"\n]/g, '');
     }).join(',');
   }
 }
