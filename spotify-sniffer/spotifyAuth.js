@@ -15,7 +15,7 @@ module.exports = {
 
 function login(callback = noop) {
   // Retrieve an access token
-  spotifyApi.clientCredentialsGrant()
+  return spotifyApi.clientCredentialsGrant()
     .then((data) => {
       console.log('The access token expires in ' + data.body.expires_in);
       console.log('The access token is ' + data.body.access_token);
@@ -24,7 +24,8 @@ function login(callback = noop) {
       spotifyApi.setAccessToken(data.body.access_token);
 
       callback(null, spotifyApi);
-    }, (err) => {
+      return spotifyApi;
+    }).catch(err => {
       console.error('Something went wrong when retrieving an access token', err.message);
       callback(err);
     });

@@ -1,10 +1,14 @@
+/*************************************
+* Simulate recommendation from Spotify
+* starting from the seed specified in
+* config.json
+*************************************/
 const fs = require('fs'),
   async = require('async'),
   noop = require('noop'),
   spotifyAuth = require('./spotifyAuth');
 
 const config = require('./config.json');
-
 
 var {
   seeds
@@ -17,28 +21,24 @@ function run(err, api) {
   if (err) return;
   spotifyApi = api;
   async.map(seeds, (seed, callback) => {
-
     spotifyApi.searchTracks(seed, {
         limit: 1
-      })
-      .then((data) => {
+      }).then((data) => {
         var track = data.body.tracks.items[0];
 
         let recOptions = {
           seed_tracks: [track.id]
         };
 
-        spotifyApi.getRecommendations(recOptions).then((data) => {
-          readData(data, (err, res) => {
-            if (err) return callback(err);
-            res.input = seed;
-            callback(null, res);
-          });
-        }, callback);
-
-      }, callback);
+        return spotifyApi.getRecommendations(recOptions);
+      })
+      .then(readData)
+      .then((res) => {
+        res.input = seed;
+        callback(null, res);
+      }).catch(callback);
   }, function(err, results) {
-    if (err) return printError(err);
+    if (err) return console.error(err);
 
     fs.writeFileSync('output.json', JSON.stringify(results, null, 2));
     console.log('done');
@@ -46,60 +46,43 @@ function run(err, api) {
 
 }
 
+function getArtistIds(trackList) {
+  let artist_list = trackList.map(track => track.artists);
+  return flatten(artist_list).map(artist => artist.id);
+}
 
-function readData(data, callbackFn) {
+function readData(data) {
   let trackList = data.body.tracks;
 
-  let track_list = [],
-    album_list = [],
-    artist_list = [];
-
-  async.parallel([
-    (callback) => {
-      spotifyApi.getAudioFeaturesForTracks(trackList.map(track => track.id))
-        .then(function(data) {
-          track_list = data.body.audio_features;
-          callback(null, album_list);
-        }, callback);
-
-    },
-    (callback) => {
-      spotifyApi.getAlbums(trackList.map(track => track.album.id))
-        .then(function(data) {
-          album_list = data.body.albums;
-          callback(null, album_list);
-        }, callback);
-    },
-    (callback) => {
-      let artists = flatten(trackList.map(track => track.artists)).map(artist => artist.id);
-      getArtistsInfo(artists, artist_list, callback);
-    }
-  ], function cb(err, data) {
-    if (err) callbackFn(err);
+  return Promise.all([
+    spotifyApi.getAudioFeaturesForTracks(trackList.map(track => track.id))
+    .then((data) => data.body.audio_features),
+    spotifyApi.getAlbums(trackList.map(track => track.album.id))
+    .then((data) => data.body.albums),
+    getArtistsInfo(getArtistIds(trackList))
+  ]).then(values => {
+    let [track_list, album_list, artist_list] = values;
 
     trackList.forEach((track, i) => {
       Object.assign(track, track_list[i]);
       track.album = album_list[i];
-
       track.artists.forEach((artist, j) => {
         track.artists[j] = artist_list.shift();
       });
     });
 
-    callbackFn(null, filterFeatures(trackList));
+    return filterFeatures(trackList);
   });
-
-
 }
 
-function getArtistsInfo(artistIds, previousData = [], callback = noop) {
-  spotifyApi.getArtists(artistIds.splice(0, 50))
+function getArtistsInfo(artistIds, previousData = []) {
+  return spotifyApi.getArtists(artistIds.splice(0, 50))
     .then((data) => {
       Array.prototype.push.apply(previousData, data.body.artists);
 
-      if (!artistIds.length) callback(null, previousData);
-      else getArtistsInfo(artistIds, previousData, callback);
-    }, callback);
+      if (!artistIds.length) return previousData;
+      return getArtistsInfo(artistIds, previousData, callback);
+    });
 }
 
 function filterFeatures(array) {
@@ -121,10 +104,6 @@ function filterFeatures(array) {
 
     return output;
   });
-}
-
-function printError(err) {
-  console.error(err);
 }
 
 function flatten(arr) {

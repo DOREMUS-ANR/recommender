@@ -1,3 +1,9 @@
+/********************************
+ * Retrieve the content of the
+ * playlists in config.json
+ * and interlink them with DOREMUS
+ *********************************/
+
 const fs = require('fs'),
   async = require('async'),
   noop = require('node-noop').noop,
@@ -31,29 +37,26 @@ function run(err, api) {
   spotifyApi = api;
 
   async.map(playlists, (playlist, callback) => {
-    let outPath =`output/playlists/json/${playlist.id}.json`;
-    if(!full && fs.existsSync(outPath)){
+    let outPath = `output/playlists/json/${playlist.id}.json`;
+    if (!full && fs.existsSync(outPath))
       return callback();
-    }
-    spotifyApi.getPlaylist(playlist.user, playlist.id)
+
+    spotifyApi
+      .getPlaylist(playlist.user, playlist.id)
       .then((data) => {
         data = data.body;
         playlist.name = data.name;
         playlist.followers = data.followers.total;
 
-        let trackList = [];
-        data.tracks.items.forEach((t) => {
-          let track = new Track(t.track);
-          trackList.push(track);
-          // console.log(track.artists[0] + ' | ' + track.title);
-        });
-        playlist.tracks = trackList;
-        async.eachSeries(trackList, (r, cb) => {
+        playlist.tracks = data.tracks.items
+          .map((t) => new Track(t.track));
+
+        async.eachSeries(playlist.tracks, (r, cb) => {
           let title = r.title.toLowerCase(),
             composer = r.artists[0].toLowerCase();
           matcher(composer, title, (err, res) => {
-            if(!res) return cb();
-            if(res.composerUri) r.composer = res.composerUri;
+            if (!res) return cb();
+            if (res.composerUri) r.composer = res.composerUri;
             let bests = res.bests;
             if (bests && bests[0]) {
               let best = bests[0];
@@ -65,10 +68,9 @@ function run(err, api) {
             cb();
           });
         }, err => {
-          if (err)
-            console.error(err);
+          if (err) console.error(err);
           else {
-            let matched = playlist.tracks.filter(t=>t.best).length;
+            let matched = playlist.tracks.filter(t => t.best).length;
             playlist.n_matched = matched;
             playlist.n_total = playlist.tracks.length;
             console.log(`Playlist ${playlist.id} "${playlist.name}"
@@ -79,9 +81,8 @@ function run(err, api) {
         });
 
       }, callback);
-  }, function(err, results) {
+  }, (err, results) => {
     if (err) return printError(err);
-
     console.log('done');
   });
 }
