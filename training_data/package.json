@@ -1,12 +1,13 @@
 {
-  "name": "rf-web-radio-converter",
+  "name": "training-data-scripts",
   "version": "0.1.0",
-  "description": "Convert the xml of the Web Radio schedule of Radio France to other formats",
+  "description": "Scripts for retrieving and managing the training data",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DOREMUS-ANR/recommender.git"
   },
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,12 +21,14 @@
     "fast-levenshtein": "^2.0.6",
     "fs-extra": "^5.0.0",
     "json-2-csv": "^2.1.2",
-    "jsonfile": "^3.0.1",
+    "jsonfile": "^4.0.0",
     "klaw-sync": "^3.0.2",
     "moment": "^2.20.1",
     "node-noop": "^1.0.0",
     "sparql-client2": "^0.2.0",
+    "spotify-web-api-node": "^2.5.0",
     "translitterify": "^1.0.0",
+    "tsv": "^0.2.0",
     "virtuoso-sparql-client": "^0.1.5",
     "xml2js": "^0.4.19"
   }

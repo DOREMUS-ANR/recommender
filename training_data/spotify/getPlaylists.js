@@ -8,7 +8,7 @@ const fs = require('fs'),
   async = require('async'),
   noop = require('node-noop').noop,
   Track = require('./Track'),
-  matcher = require('../RF-WebRadio-Converter/matcher.js'),
+  matcher = require('../matcher.js'),
   spotifyAuth = require('./spotifyAuth');
 
 const config = require('./config.json');

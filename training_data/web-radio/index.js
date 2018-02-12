@@ -4,7 +4,7 @@ const path = require('path');
 const async = require('async');
 const xml2js = require('xml2js').Parser();
 const json2csv = require('json-2-csv').json2csv;
-const matcher = require('./matcher');
+const matcher = require('../matcher');
 const Record = require('./Record');
 const klawSync = require('klaw-sync');
 
