@@ -11,11 +11,10 @@ const klawSync = require('klaw-sync');
 let inputPath = path.join(__dirname, 'input');
 let outputPath = path.join(__dirname, 'output');
 
-if (!fs.existsSync(outputPath)) fs.mkdirSync(outputPath);
-
+fs.ensureDirSync(outputPath);
 for (let subFolder of ['json', 'csv']) {
   let subpath = path.join(outputPath, subFolder);
-  if (!fs.existsSync(subpath)) fs.mkdirSync(subpath);
+  fs.ensureDirSync(subpath);
 }
 
 let inputFiles = klawSync(inputPath, {
