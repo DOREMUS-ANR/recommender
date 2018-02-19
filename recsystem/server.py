@@ -4,7 +4,8 @@ import concurrent.futures
 from itertools import repeat
 
 from embedder import get_neighborhood, tell_me_why
-from recommending import recommend
+
+# from recommending import recommend
 
 sys.path.pop(0)
 
@@ -13,37 +14,42 @@ app = Flask(__name__)
 
 @app.route('/expression/<string:exp>')
 def recommend_expression(exp):
-    result = recommend.main({'expression': 'http://data.doremus.org/expression/%s' % exp})
-    return jsonify(result)
+    # result = recommend.main({'expression': 'http://data.doremus.org/expression/%s' % exp})
+    return jsonify(recommend_something("expression", exp, request))
 
 
 @app.route('/artist/<string:artist>')
 def recommend_artist(artist):
-    uri = 'http://data.doremus.org/artist/%s' % artist
-    print('recommending artist %s' % uri)
-    n = int(request.args.get('n', default=-1))
-    w = request.args.get('w', default=None)
+    return jsonify(recommend_something("artist", artist, request))
+
+
+def recommend_something(type, seed, rq):
+    uri = 'http://data.doremus.org/%s/%s' % (type, seed)
+    print('recommending %s %s' % (type, uri))
+    n = int(rq.args.get('n', default=-1))
+    w = rq.args.get('w', default=None)
     if w is not None:
         w = list(map(int, w.split(",")))
 
-    explain = request.args.get('explain', default=True)
+    explain = rq.args.get('explain', default=True)
     if explain == "false":
         explain = False
     print('n=%d' % n)
 
-    most_similar = get_neighborhood.find(uri, n=n, explain=explain, w=w)
+    most_similar = get_neighborhood.find(uri, ftype=type, n=n, w=w)
 
-    # we can swap out ProcessPoolExecutor for ThreadPoolExecutor
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        for result in executor.map(twCall, repeat(uri), most_similar):
-            pass
+    if explain:
+        # we can swap out ProcessPoolExecutor for ThreadPoolExecutor
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            for result in executor.map(twCall, repeat(uri), repeat(type), most_similar):
+                pass
 
-    return jsonify(most_similar)
+    return most_similar
 
 
 # call to tell_me_why
-def twCall(uri, _a):
-    shared = tell_me_why.main(uri, _a['uri'])
+def twCall(uri, type, _a):
+    shared = tell_me_why.main(uri, _a['uri'], type)
     _a['why'] = []
     for s in shared:
         selected = s['selected']

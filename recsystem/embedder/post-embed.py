@@ -1,7 +1,6 @@
 import codecs
 import numpy as np
 import sklearn.preprocessing as skpreprocess
-from sklearn.decomposition import PCA
 from SPARQLWrapper import SPARQLWrapper, JSON
 
 import config as cs

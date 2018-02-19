@@ -7,7 +7,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from sklearn.decomposition import PCA
 
 import config as cs
-from config import config
+from .config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
@@ -130,10 +130,23 @@ def main():
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
+    head = []
+    for ft in sorted(feature_list, key=lambda x: x['group']):
+        last = head[-1]
+        cur = {
+            "label": ft['label'],
+            "emb": 0
+        }
+        if last and last.label == ft['label']:
+            cur = last
+        else:
+            head.append(cur)
+        cur.emb += feat_len[ft.get('embedding', 'default')]
+
     with open(header_file, 'w') as fh:
-        fh.write(' '.join([ft['label'].replace(' ', '_') for ft in feature_list]))
+        fh.write(' '.join([h.label.replace(' ', '_') for h in head]))
         fh.write('\n')
-        fh.write(' '.join([str(feat_len[ft.get('embedding', 'default')]) for ft in feature_list]))
+        fh.write(' '.join([str(h.emb) for h in head]))
 
     results = results["results"]["bindings"]
     for i, result in enumerate(results):

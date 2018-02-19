@@ -1,0 +1,66 @@
+{
+  "endpoint": "http://data.doremus.org/sparql",
+  "sparqlDir": "./sparql",
+  "edgelistDir": "edgelist",
+  "embDir": "/emb",
+  "chosenFeature": "mop",
+  "num_results": 3,
+  "node2vec": {
+    "directed": false,
+    "preprocessing": false,
+    "weighted": false,
+    "p": 1,
+    "q": 1,
+    "walk_length": 5,
+    "num_walks": 10,
+    "dimensions": 100,
+    "window_size": 10,
+    "workers": 5,
+    "iter": 3
+  },
+  "features": {
+    "activity": {},
+    "key": {
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/key/"
+      ]
+    },
+    "artist": {
+      "dependencies": [
+        "casting",
+        "activity",
+        "genre",
+        "expression",
+        "key",
+        "mop",
+        "performance"
+      ]
+    },
+    "mop": {
+      "dependencies": [
+        "casting",
+        "activity"
+      ],
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/iaml/mop/",
+        "http://data.doremus.org/vocabulary/redomi/mop/",
+        "http://data.doremus.org/vocabulary/itema3/mop/",
+        "http://data.doremus.org/vocabulary/diabolo/mop/",
+        "http://www.mimo-db.eu/InstrumentsKeywords"
+      ]
+    },
+    "genre": {
+      "dependencies": [
+        "expression"
+      ],
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/iaml/genre/",
+        "http://data.doremus.org/vocabulary/redomi/genre/",
+        "http://data.doremus.org/vocabulary/itema3/genre/",
+        "http://data.doremus.org/vocabulary/itema3/genre/musdoc/",
+        "http://data.doremus.org/vocabulary/diabolo/genre/",
+        "http://data.bnf.fr/ark:/12148/"
+      ]
+    }
+  }
+}

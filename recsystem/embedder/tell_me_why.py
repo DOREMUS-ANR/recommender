@@ -12,20 +12,19 @@ from .config import config
 sparql = SPARQLWrapper(config.endpoint)
 
 
-def main(seed, target):
+def main(seed, target, type):
     if seed is None:
         raise RuntimeError('The seed "-s" has not been specified')
     if target is None:
         raise RuntimeError('The target "-t" has not been specified')
 
-    f = config.chosenFeature
     print("Seed: %s" % seed)
     print("Target: %s" % target)
     # print("Type: %s" % f)
 
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    with open('%s/artist-similarity.json' % dir_path) as json_data_file:
-        feature_list = json.load(json_data_file)
+    with open('%s/%s-similarity.json' % (dir_path, type)) as json_data_file:
+        feature_list = json.load(json_data_file)['features']
 
     intersections = [get_partials_intersections(f, "<%s>" % seed, "<%s>" % target) for f in feature_list]
     intersections = [x for x in intersections if x is not None]
@@ -72,7 +71,6 @@ def to_humans(x):
 
 def get_partials_intersections(f, uri1, uri2):
     f = SimpleNamespace(**f)
-    # print(f.label)
     how_many = config.num_results
     v1 = get_feature_values(f, uri1)
 

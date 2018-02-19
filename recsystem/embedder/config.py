@@ -2,7 +2,7 @@ import argparse
 import json
 from types import SimpleNamespace
 
-with open('../config/config.json') as json_data_file:
+with open('config/config.json') as json_data_file:
     config = json.load(json_data_file)
 
 if type(config) == dict:
@@ -24,3 +24,7 @@ def parse_args():
     config.seed = args.seed
     config.target = args.target
     config.num_results = args.num_results
+
+
+def getConfig():
+    return config

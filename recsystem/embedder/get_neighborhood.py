@@ -3,7 +3,7 @@ import codecs
 import config as cs
 import numpy as np
 
-from config import config
+from .config import config
 
 max_distance = 0
 
