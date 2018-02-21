@@ -42,3 +42,7 @@ bower_components
 .DS_Store
 *.rdb
 *.pyc
+/training/.ipynb_checkpoints/
+recsystem/__pycache__/
+recsystem/embedder/__pycache__/
+recsystem/embedder/lib/__pycache__/
