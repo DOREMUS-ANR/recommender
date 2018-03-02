@@ -6,8 +6,11 @@ var main_dir = path.join(__dirname, './output/json/');
 var out_dir = path.join(__dirname, './output/rec/');
 fs.ensureDirSync(out_dir);
 
-let expressionScores = [],
-  artistScores = [];
+var channel = {};
+var scores = {
+  expression: [],
+  artist: []
+};
 
 fs.readdirSync(main_dir).forEach(file => {
   // if (!file.includes('FM-401_20171218_00-23')) return;
@@ -17,16 +20,46 @@ fs.readdirSync(main_dir).forEach(file => {
   console.log('Loaded ' + pl_id);
 
   let records = takeDistinctFrom(pl.records, r => r.best || r.AlbumTitle);
-  expressionScores.push(...scoresFormSet(records));
+  scores.expression.push(...scoresFormSet(records));
 
   let records_artist = takeDistinctFrom(pl.records,
     r => r.composer || (r.Compositor && r.Compositor.FullName));
-  artistScores.push(...scoresFormSet(records_artist));
+  scores.artist.push(...scoresFormSet(records_artist));
+
+  let ch = getChannel(pl.channel);
+  ch.expression.push(...records.map(e => e.value).filter(isAnUri));
+  ch.artist.push(...records_artist.map(e => e.value).filter(isAnUri));
 });
 
-fs.writeFileSync(`${out_dir}/expression.dat`, expressionScores.join('\n'));
-fs.writeFileSync(`${out_dir}/artist.dat`, artistScores.join('\n'));
+//mix from different channels as negative
+let ch_ids = Object.keys(channel);
+for (var i = 0; i < 1000; i++) {
+  let c1 = randomFrom(ch_ids);
+  let c2 = randomFrom(ch_ids.filter(i => i != c1));
+  let what = randomFrom(['artist', 'expression']);
+  let e1 = randomFrom(channel[c1][what]);
+  let e2 = randomFrom(channel[c2][what]);
+  scores[what].push([e1, e2, 0].join(' '));
+}
+
+fs.writeFileSync(`${out_dir}/expression.dat`, scores.expression.join('\n'));
+fs.writeFileSync(`${out_dir}/artist.dat`, scores.artist.join('\n'));
 console.log("done");
+
+function randomFrom(array) {
+  return array[Math.floor(Math.random() * array.length)];
+}
+
+function getChannel(id) {
+  // cannels 402 and 401 are too similar, count as 1
+  if (id == 402) id = 401;
+
+  channel[id] = channel[id] || {
+    expression: [],
+    artist: []
+  };
+  return channel[id];
+}
 
 function takeDistinctFrom(array, mapFn) {
   let results = [],
@@ -61,7 +94,8 @@ function toSeconds(string) {
 function scoresFormSet(records) {
   let scores = [];
   let x_max = 30 * 60; // 30 min
-  let c = 0.4;
+  // let c = 0.4;
+  let c = 1;
   let a = -c / Math.pow(x_max, 2);
   let sqF = squareFun(a, c);
   for (let i in records) {
@@ -91,10 +125,15 @@ function toDatLine(record, playlist_id) {
 
 function squareFun(a, b) {
   'use strict';
-  return x => (a * Math.pow(x, 2) + b);
+  // return x => (a * Math.pow(x, 2) + b);
+  return x => 1;
 }
 
 function notAnUri(input) {
-  return !input.startsWith('http://');
+  return !isAnUri(input);
+}
+
+function isAnUri(input) {
+  return input.startsWith('http://');
 }
 // user_id item_id rating timestamp
