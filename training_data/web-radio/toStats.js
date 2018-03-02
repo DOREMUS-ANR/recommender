@@ -2,6 +2,16 @@ const fs = require('fs-extra');
 const path = require('path');
 const jsonfile = require('jsonfile');
 
+const CHANNEL_LABEL = {
+  406: 'CONTEMPORAINE',
+  401: 'EASY CLASSIQUE',
+  407: 'EVENMENT',
+  405: 'JAZZ',
+  404: 'MONDE',
+  402: 'CLASSIQUE PLUS'
+};
+const csv_header = 'code, channel, works tot, works mapped tot, works mapped distinct, artist tot, artist mapped tot\n';
+
 var main_dir = path.join(__dirname, './output/json/');
 var out_dir = path.join(__dirname, './output/');
 fs.ensureDirSync(out_dir);
@@ -40,11 +50,11 @@ for (let ch of Object.keys(channel)) {
   let artist_tot = artist.length,
     artist_mapped_tot = artist_mapped.length;
 
-  cur_channel.stats = [ch, works_tot, works_mapped_tot, works_mapped_distinct, artist_tot, artist_mapped_tot];
+  cur_channel.stats = [ch, CHANNEL_LABEL[ch], works_tot, works_mapped_tot, works_mapped_distinct, artist_tot, artist_mapped_tot];
 }
 
 var sts = Object.keys(channel).map(c => channel[c].stats);
-fs.writeFileSync(`${out_dir}/stats.csv`, sts.join('\n'));
+fs.writeFileSync(`${out_dir}/stats.csv`, csv_header + sts.join('\n'));
 console.log("done");
 
 function randomFrom(array) {
