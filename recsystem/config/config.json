@@ -2,7 +2,7 @@
   "endpoint": "http://data.doremus.org/sparql",
   "sparqlDir": "./sparql",
   "edgelistDir": "edgelist",
-  "embDir": "/Users/pasquale/git/recommender/embeddings",
+  "embDir": "/Users/pasquale/git/music-embeddings",
   "chosenFeature": "mop",
   "num_results": 3,
   "node2vec": {

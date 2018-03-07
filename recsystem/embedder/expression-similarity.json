@@ -4,7 +4,7 @@
     {
       "label": "composition date",
       "group": "period",
-      "query": "[] efrbroo:R17_created ?a ; ecrm:P4_has_time_span / time:hasBeginning / time:inXSDDate ?o"
+      "query": "[] efrbroo:R17_created ?a ; ecrm:P4_has_time-span / time:hasBeginning / time:inXSDDate ?o"
     },
     {
       "label": "key",
