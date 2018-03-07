@@ -104,13 +104,13 @@ def main():
     with open('%s-similarity.json' % what) as json_data_file:
         _json = json.load(json_data_file)
 
-    feature_list = _json['features']
+    feature_list = sorted(_json['features'], key=lambda x: x['group'])
     main_query_select = _json['select']
 
     entity_uris_done = []
 
     uri_file = '%s/%s.emb.u' % (config.embDir, what)
-    # label_file = '%s/%s.emb.l' % (config.embDir, what)
+    label_file = '%s/%s.emb.l' % (config.embDir, what)
     vector_file = '%s/%s.emb.v' % (config.embDir, what)
     header_file = '%s/%s.emb.h' % (config.embDir, what)
 
@@ -124,29 +124,35 @@ def main():
                 feat_len[emb_f] = f['dimensions'] or count_emb_len(emb_f)
 
     # giuseppeverdi = '<http://data.doremus.org/artist/b82c0771-5280-39af-ad2e-8ace2f4ebda3>'
-    main_query = "SELECT DISTINCT * WHERE { %s } ORDER BY DESC(COUNT(?a))" % main_query_select
+    main_query = "SELECT DISTINCT ?a SAMPLE(?label) AS ?label " \
+                 "WHERE { %s . OPTIONAL { ?a rdfs:label ?label } }" \
+                 " GROUP BY ?a" \
+                 " ORDER BY DESC(COUNT(?a))" % main_query_select
+    print(main_query)
 
     sparql.setQuery(main_query)
     sparql.setReturnFormat(JSON)
     results = sparql.query().convert()
 
     head = []
-    for ft in sorted(feature_list, key=lambda x: x['group']):
-        last = head[-1]
+    last = None
+    for ft in feature_list:
+        label = ft['label']
         cur = {
-            "label": ft['label'],
-            "emb": 0
+            'label': label,
+            'emb': 0
         }
-        if last and last.label == ft['label']:
+        if last and last['label'] == label:
             cur = last
         else:
             head.append(cur)
-        cur.emb += feat_len[ft.get('embedding', 'default')]
+        cur['emb'] += feat_len[ft.get('embedding', 'default')]
+        last = cur
 
     with open(header_file, 'w') as fh:
-        fh.write(' '.join([h.label.replace(' ', '_') for h in head]))
+        fh.write(' '.join([h['label'].replace(' ', '_') for h in head]))
         fh.write('\n')
-        fh.write(' '.join([str(h.emb) for h in head]))
+        fh.write(' '.join([str(h['emb']) for h in head]))
 
     results = results["results"]["bindings"]
     for i, result in enumerate(results):
@@ -154,8 +160,14 @@ def main():
         if uri in entity_uris_done:
             continue
 
+        label = result['label']['value'] if ('label' in result) else 'no_label'
+
         print('%d/%d %s' % (i, len(results), uri))
         vector = flatten([get_partial_emb(f, "<%s>" % uri) for f in feature_list])
+
+        with open(label_file, 'a+') as lf:
+            lf.write(label)
+            lf.write('\n')
 
         with open(vector_file, 'a+') as f:
             nums = [str(n) for n in vector]

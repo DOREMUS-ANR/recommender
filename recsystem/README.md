@@ -19,7 +19,7 @@ Build
 
 Run
 
-    docker run -d --restart=unless-stopped  -v /var/docker/doremus/recommender/embeddings/emb:/emb -v /var/docker/doremus/recommender/recsystem/config_prod:/config -t --network doremus --name recommender doremus/recommender
+    docker run -d --restart=unless-stopped  -v /var/docker/doremus/recommender/embeddings:/emb -v /var/docker/doremus/recommender/recsystem/config_prod:/config -t --network doremus --name recommender doremus/recommender
 
 
 <!-- docker run -d --restart=unless-stopped -v  /Users/pasquale/git/recommender/recsystem/config_prod:/config -v /Users/pasquale/git/recommender/embeddings:/emb --network doremus -t --name recommender doremus/recommender -->

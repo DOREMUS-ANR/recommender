@@ -139,4 +139,4 @@ def get_feature_values(f, uri):
 
 if __name__ == '__main__':
     cs.parse_args()
-    main(config.seed, config.target)
+    main(config.seed, config.target, config.chosenFeature)
