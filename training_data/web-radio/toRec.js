@@ -4,6 +4,7 @@ const jsonfile = require('jsonfile');
 
 var main_dir = path.join(__dirname, './output/json/');
 var out_dir = path.join(__dirname, './output/rec/');
+var list_dir = path.join(__dirname, './output/list/');
 fs.ensureDirSync(out_dir);
 
 var channel = {};
@@ -26,6 +27,26 @@ fs.readdirSync(main_dir).forEach(file => {
     r => r.composer || (r.Compositor && r.Compositor.FullName));
   scores.artist.push(...scoresFormSet(records_artist));
 
+  // flat list playlist by playlist
+  for (let what of ['artist', 'expression']) {
+
+    let list = (what == 'artist') ? records_artist : records;
+    list = list.map(l => l.value)
+      .filter(l => l.startsWith('http'));
+
+
+    if (list.length < 8) {
+      if (pl_id.startsWith('401'))
+        console.log('-', what, list.length, file);
+      continue;
+    }
+    let folder = path.join(list_dir, what);
+    let filename = `${file.replace('.json', '')}.${what}.txt`;
+
+    fs.ensureDirSync(folder);
+    fs.writeFileSync(path.join(folder, filename), list.join('\n'));
+  }
+
   let ch = getChannel(pl.channel);
   ch.expression.push(...records.map(e => e.value).filter(isAnUri));
   ch.artist.push(...records_artist.map(e => e.value).filter(isAnUri));
@@ -35,12 +56,13 @@ fs.readdirSync(main_dir).forEach(file => {
 let ch_ids = Object.keys(channel);
 for (var i = 0; i < 1000; i++) {
   let c1 = randomFrom(ch_ids);
-  let c2 = randomFrom(ch_ids.filter(i => i != c1));
+  let c2 = randomFrom(ch_ids.filter(not(c1)));
   let what = randomFrom(['artist', 'expression']);
   let e1 = randomFrom(channel[c1][what]);
   let e2 = randomFrom(channel[c2][what]);
   scores[what].push([e1, e2, 0].join(' '));
 }
+
 
 fs.writeFileSync(`${out_dir}/expression.dat`, scores.expression.join('\n'));
 fs.writeFileSync(`${out_dir}/artist.dat`, scores.artist.join('\n'));
@@ -50,13 +72,18 @@ function randomFrom(array) {
   return array[Math.floor(Math.random() * array.length)];
 }
 
+function not(x) {
+  return y => x != y;
+}
+
 function getChannel(id) {
   // cannels 402 and 401 are too similar, count as 1
   if (id == 402) id = 401;
 
   channel[id] = channel[id] || {
     expression: [],
-    artist: []
+    artist: [],
+    id: id
   };
   return channel[id];
 }
