@@ -20,16 +20,15 @@
     "async": "^2.6.0",
     "fast-levenshtein": "^2.0.6",
     "fs-extra": "^5.0.0",
-    "json-2-csv": "^2.1.2",
+    "json-2-csv": "^2.2.0",
     "jsonfile": "^4.0.0",
     "klaw-sync": "^3.0.2",
-    "moment": "^2.20.1",
+    "moment": "^2.21.0",
     "node-noop": "^1.0.0",
-    "sparql-client2": "^0.2.0",
     "spotify-web-api-node": "^2.5.0",
     "translitterify": "^1.0.0",
     "tsv": "^0.2.0",
-    "virtuoso-sparql-client": "^0.1.5",
+    "virtuoso-sparql-client": "^0.1.8",
     "xml2js": "^0.4.19"
   }
 }
