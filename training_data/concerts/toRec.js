@@ -41,9 +41,9 @@ function run(institution) {
 
             fs.writeFileSync(`${out_dir}/${uuid}.json`, JSON.stringify(concert, null, 2));
             fs.writeFileSync(`${list_dir_artist}/${uuid}.json`,
-              concert.expression.map(e => e.composer).join('\n'));
+              unique(concert.expression.map(e => e.composer)).join('\n'));
             fs.writeFileSync(`${list_dir_expression}/${uuid}.json`,
-              concert.expression.map(e => e.id).join('\n'));
+              unique(concert.expression.map(e => e.id)).join('\n'));
           });
         }
       )
@@ -64,4 +64,8 @@ function manageConcert(json) {
     id: json[0].concert.value,
     expression
   };
+}
+
+function unique(input) {
+  return input.filter((v, i, a) => a.indexOf(v) === i);
 }
