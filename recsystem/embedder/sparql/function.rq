@@ -1,0 +1,20 @@
+DEFINE input:inference 'mus'
+
+SELECT DISTINCT ?s ?o
+FROM <http://data.doremus.org/vocabulary>
+WHERE {
+  ?s skos:inScheme <http://data.doremus.org/vocabulary/function/> .
+  {
+   ?s ?p ?o .
+
+  FILTER (?p NOT IN (
+      rdf:type,
+      owl:sameAs, skos:exactMatch,
+      skos:inScheme, skos:topConceptOf,
+      skos:altLabel, skos:prefLabel,
+      skos:editorialNote, skos:definition))
+
+  } UNION {
+   ?o skos:member ?s .
+  }
+}

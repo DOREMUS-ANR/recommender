@@ -1,5 +1,5 @@
 {
-  "select": "?a a ecrm:E21_Person . [] ecrm:P14_carried_out_by ?a .",
+  "select": "?a a ecrm:E21_Person . [] ecrm:P14_carried_out_by ?a",
   "features": [
     {
       "label": "birth date",

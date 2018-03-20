@@ -11,5 +11,5 @@ WHERE {
       owl:sameAs, skos:exactMatch,
       skos:inScheme, skos:topConceptOf,
       skos:altLabel, skos:prefLabel,
-      skos:note, skos:editorialNote, skos:definition))
+      skos:editorialNote, skos:definition))
 }
