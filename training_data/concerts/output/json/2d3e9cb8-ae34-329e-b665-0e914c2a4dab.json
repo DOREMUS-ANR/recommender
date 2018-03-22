@@ -2,52 +2,68 @@
   "id": "http://data.doremus.org/performance/2d3e9cb8-ae34-329e-b665-0e914c2a4dab",
   "expression": [
     {
-      "id": "http://data.doremus.org/expression/b6203fdf-83c5-36fc-a429-0af7d9b15a37"
-    },
-    {
-      "id": "http://data.doremus.org/expression/fc3cb0e1-3cee-3821-98cf-ba295b47c02e"
-    },
-    {
-      "id": "http://data.doremus.org/expression/a97ac0b4-5f0e-368b-a339-bf36d4667ed8"
-    },
-    {
-      "id": "http://data.doremus.org/expression/75c47d97-eab1-3404-bd52-2444e00ef38b"
-    },
-    {
-      "id": "http://data.doremus.org/expression/6f8b59e1-e669-36a3-8c62-334403aada74"
-    },
-    {
-      "id": "http://data.doremus.org/expression/f7993c32-8ef4-35e4-bc44-30d20165f46f"
-    },
-    {
-      "id": "http://data.doremus.org/expression/454ec6aa-92a9-3ca8-8636-6b1ae2d481fa"
-    },
-    {
-      "id": "http://data.doremus.org/expression/409f8708-ef0a-3673-ba38-aa4173503312"
-    },
-    {
-      "id": "http://data.doremus.org/expression/b53b1aca-7352-3d30-8a30-4d396de27cb0"
-    },
-    {
-      "id": "http://data.doremus.org/expression/53e69219-9791-3eb4-bde7-609f1db28c32"
-    },
-    {
-      "id": "http://data.doremus.org/expression/f6b73a2d-0297-3778-8011-ce7e0ab975c9"
-    },
-    {
-      "id": "http://data.doremus.org/expression/ddd01afa-7b2b-3006-b4fe-f770c5510861"
-    },
-    {
-      "id": "http://data.doremus.org/expression/60f58c4c-b589-3450-9723-b4e11176dc65"
-    },
-    {
+      "composer": "http://data.doremus.org/artist/f995ddf2-936f-3dfc-a8e6-847fae441348",
       "id": "http://data.doremus.org/expression/a76f47ef-d411-38a4-9c3a-cf979c7a6ed0"
     },
     {
+      "composer": "http://data.doremus.org/artist/4a379ee4-c7dd-3b36-99f1-7ac6043d0305",
+      "id": "http://data.doremus.org/expression/454ec6aa-92a9-3ca8-8636-6b1ae2d481fa"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb",
+      "id": "http://data.doremus.org/expression/a97ac0b4-5f0e-368b-a339-bf36d4667ed8"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/a3422c70-d602-369a-961b-7e6dc5dc58a0",
+      "id": "http://data.doremus.org/expression/ddd01afa-7b2b-3006-b4fe-f770c5510861"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/5ad2e7a0-5d02-3b28-8d82-364b26d69cf7",
+      "id": "http://data.doremus.org/expression/60f58c4c-b589-3450-9723-b4e11176dc65"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/a1eeff63-c227-3582-85a8-06a1f7dd4cda",
+      "id": "http://data.doremus.org/expression/fc3cb0e1-3cee-3821-98cf-ba295b47c02e"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/0deea945-505d-3cca-9a9e-a5a20b4830c7",
+      "id": "http://data.doremus.org/expression/53e69219-9791-3eb4-bde7-609f1db28c32"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/f995ddf2-936f-3dfc-a8e6-847fae441348",
       "id": "http://data.doremus.org/expression/7ae70251-151b-3290-884c-1e48d454bb2a"
     },
     {
+      "composer": "http://data.doremus.org/artist/0b6db3b0-9a9d-3e7f-b52e-58ee5f989ade",
+      "id": "http://data.doremus.org/expression/b6203fdf-83c5-36fc-a429-0af7d9b15a37"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/57241216-1624-31d9-96d4-ee1529f3f699",
+      "id": "http://data.doremus.org/expression/75c47d97-eab1-3404-bd52-2444e00ef38b"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/4a379ee4-c7dd-3b36-99f1-7ac6043d0305",
+      "id": "http://data.doremus.org/expression/f6b73a2d-0297-3778-8011-ce7e0ab975c9"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/bd5140b0-1f97-3e08-b8ad-364a5d5944a8",
+      "id": "http://data.doremus.org/expression/6f8b59e1-e669-36a3-8c62-334403aada74"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/d2d71363-7c25-3286-bc70-e56a04f4cad9",
+      "id": "http://data.doremus.org/expression/409f8708-ef0a-3673-ba38-aa4173503312"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/631a7f7d-1b98-3cf3-96d8-1f463adec82a",
       "id": "http://data.doremus.org/expression/9c1ce1f9-b121-31b6-939e-f6acca762d03"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/84bb4a91-8cac-3e38-94fe-9bc93254f84d",
+      "id": "http://data.doremus.org/expression/b53b1aca-7352-3d30-8a30-4d396de27cb0"
+    },
+    {
+      "composer": "http://data.doremus.org/artist/84bb4a91-8cac-3e38-94fe-9bc93254f84d",
+      "id": "http://data.doremus.org/expression/f7993c32-8ef4-35e4-bc44-30d20165f46f"
     }
   ]
 }

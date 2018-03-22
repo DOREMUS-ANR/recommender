@@ -12,7 +12,7 @@ var out_dir = path.join(__dirname, './output/json/');
 var list_dir = path.join(__dirname, './output/list/');
 fs.ensureDirSync(out_dir);
 
-const INSTITUTION_LIST = ['Radio_France', 'Philharmonie_de_Paris'];
+const INSTITUTION_LIST = ['itema3', 'euterpe', 'philharmonie'];
 const QUERY_CONCERTS = fs.readFileSync(path.join(input_dir, '/query_concerts.rq'), 'utf8');
 const QUERY_PIECES = fs.readFileSync(path.join(input_dir, '/query_played_expression.rq'), 'utf8');
 
@@ -24,9 +24,9 @@ function run(institution) {
   fs.ensureDirSync(list_dir_artist);
   fs.ensureDirSync(list_dir_expression);
 
-  let inst_uri = `<http://data.doremus.org/organization/${institution}>`;
+  let graph_uri = `<http://data.doremus.org/${institution}>`;
 
-  let query_concerts = QUERY_CONCERTS.replace('?institution', inst_uri);
+  let query_concerts = QUERY_CONCERTS.replace('?g', graph_uri);
   client.query(query_concerts)
     .then(result => result.results.bindings)
     .then(bindings => bindings.map(b => b.s.value))

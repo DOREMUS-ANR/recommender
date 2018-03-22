@@ -1,11 +1,16 @@
 SELECT DISTINCT ?s  WHERE {
-  ?s a efrbroo:F31_Performance;
-     prov:wasDerivedFrom / prov:wasAttributedTo ?institution .
+  GRAPH ?g {
+    VALUES ?concertClass { efrbroo:F31_Performance mus:M26_Foreseen_Performance }
 
-  { ?s efrbroo:R25_performed / ecrm:P165_incorporates ?expression }
-  UNION { ?s efrbroo:R66_included_performed_version_of ?expression  }
+    ?s a ?concertClass ;
+      prov:wasDerivedFrom / prov:wasAttributedTo ?institution .
 
-  ?expression a efrbroo:F22_Self-Contained_Expression
+    { ?s efrbroo:R66_included_performed_version_of ?expression }
+    UNION
+    { ?s mus:U77_foresees_performing_plan / ecrm:P165_incorporates ?expression }
+
+    ?expression a efrbroo:F22_Self-Contained_Expression
+  }
 }
-GROUP BY ?s
+GROUP BY ?s ?g
 HAVING (count(DISTINCT ?expression) > 6)
