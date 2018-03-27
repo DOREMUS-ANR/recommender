@@ -33,6 +33,13 @@
       "query": "[] efrbroo:R17_created [mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance_of_type ?o]; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a ."
     },
     {
+      "label": "function",
+      "embedding": "function",
+      "dimensions": 3,
+      "group": "work:function",
+      "query": "[] ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?a ; mus:U31_had_function ?o ]"
+    },
+    {
       "label": "mop",
       "embedding": "mop",
       "dimensions": 3,

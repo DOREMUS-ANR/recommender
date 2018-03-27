@@ -2,7 +2,7 @@ import codecs
 
 import config as cs
 import numpy as np
-
+from scipy import spatial as spatial
 from .config import config
 
 max_distance = 0
@@ -28,8 +28,8 @@ def find(seed, ftype='artist', n=config.num_results, w=None):
     print('loading embeddings')
     vectors = np.genfromtxt('%s/%s.emb.v' % (config.embDir, ftype))
     uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (config.embDir, ftype), 'r', 'utf-8')])
-    f_length = np.array([line.strip() for line in codecs.open('%s/%s.emb.h' % (config.embDir, ftype), 'r', 'utf-8')])
-    f_length = list(map(int, f_length[1].split()))
+    # f_length = np.array([line.strip() for line in codecs.open('%s/%s.emb.h' % (config.embDir, ftype), 'r', 'utf-8')])
+    # f_length = list(map(int, f_length[1].split()))
 
     pos = np.where(uris == seed)[0][0]
     _seed = vectors[pos]
@@ -39,8 +39,9 @@ def find(seed, ftype='artist', n=config.num_results, w=None):
         w = w / w.sum()
     else:
         w = np.array(w)
-        temp = [np.ones(f_length[k]) * w[k] for k in range(len(w))]
-        w = np.array([item for sublist in temp for item in sublist])
+        if len(w) < len(_seed):
+            temp = [np.ones(k, np.float32) * w[i] for i, k in enumerate([3, 2, 3, 3, 3, 3])]
+            w = np.array([item for sublist in temp for item in sublist])
 
     max_distance = weightedL2(np.ones(len(_seed)), np.ones(len(_seed)) * -1, w)
 
@@ -83,10 +84,8 @@ def compute_similarity(seed, target, w):
 
 
 def weightedL2(a, b, w=1):
-    # https://stackoverflow.com/a/8861999/1218213
-    q = a - b
-    # return np.sqrt((w * q * q).sum())
-    return (w * q * q).sum()
+    return spatial.distance.minkowski(a, b, w=w)
+    # return spatial.distance.cosine(a, b)
 
 
 if __name__ == '__main__':

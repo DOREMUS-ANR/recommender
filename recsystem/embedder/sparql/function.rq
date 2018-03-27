@@ -12,7 +12,7 @@ WHERE {
       owl:sameAs, skos:exactMatch,
       skos:inScheme, skos:topConceptOf,
       skos:altLabel, skos:prefLabel,
-      skos:editorialNote, skos:definition))
+      skos:editorialNote, skos:scopeNote, skos:definition))
 
   } UNION {
    ?o skos:member ?s .

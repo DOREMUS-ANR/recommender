@@ -44,6 +44,8 @@ def main():
     workers = n2vOpt["workers"]
     iter = n2vOpt["iter"]
 
+    print(n2vOpt)
+
     node2vec_graph = node2vec.Node2Vec(directed, preprocessing, weighted, p, q, walk_length,
                                        num_walks, dimensions, window_size, workers, iter)
 

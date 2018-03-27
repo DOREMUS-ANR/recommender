@@ -18,6 +18,8 @@ def get_label(uri):
     results = sparql.query().convert()
 
     r = results["results"]["bindings"][0]
+    if r is None or 'label' not in r:
+        return None
     return r["label"]["value"]
 
 
@@ -47,11 +49,16 @@ def main():
                 if not any(ext in word for ext in namespaces):
                     continue
 
+            lb = get_label(word)
+            if lb is None:
+                continue
+
             vectors.append(vector.flatten())
-            labels.append(get_label(word))
+            labels.append(lb)
             uris.append(word)
 
-    vectors = skpreprocess.normalize(vectors, 'l2', 0)
+    # vectors = skpreprocess.normalize(np.power(np.array(vectors, dtype=np.float), 3), 'l2', 0)
+    vectors = skpreprocess.normalize(np.array(vectors, dtype=np.float), 'l2', 0)
     # why? because of https://www.quora.com/Should-I-do-normalization-to-word-embeddings-from-word2vec-if-I-want-to-do-semantic-tasks
 
     with open(embeddings_file + '.v', 'w') as f:

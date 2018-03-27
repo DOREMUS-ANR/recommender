@@ -20,7 +20,14 @@
   },
   "features": {
     "activity": {},
-    "function": {},
+    "function": {
+      "namespaces": [
+        "http://data.doremus.org/vocabulary/function/"
+      ],
+      "dependencies": [
+        "activity"
+      ]
+    },
     "key": {
       "namespaces": [
         "http://data.doremus.org/vocabulary/key/"

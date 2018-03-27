@@ -13,10 +13,10 @@ def main():
     labels = [line.strip() for line in labels_file]
 
     rows = [labels.index(word) for word in labels if word in labels]
-    target_matrix = vectors[rows, :]
+    target_matrix = vectors[rows, :] / 2
     reduced_matrix = tsne(target_matrix, 2)
 
-    Plot.figure(figsize=(200, 200), dpi=100)
+    Plot.figure(figsize=(20, 20), dpi=100)
     max_x = np.amax(reduced_matrix, axis=0)[0]
     max_y = np.amax(reduced_matrix, axis=0)[1]
     Plot.xlim((-max_x, max_x))
