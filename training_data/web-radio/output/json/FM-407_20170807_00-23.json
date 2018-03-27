@@ -1052,8 +1052,7 @@
         "FullName": "Carmine Coppola",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-08-07T16:14:57+02:00",
-      "composer": "http://data.doremus.org/artist/a0efdc00-fac6-3ee0-9030-45f1c022e0ba"
+      "ScheduledDateTime": "2017-08-07T16:14:57+02:00"
     },
     {
       "id": "30",
@@ -1092,7 +1091,8 @@
         "FullName": "Ryuichi Sakamoto",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-08-07T16:17:50+02:00"
+      "ScheduledDateTime": "2017-08-07T16:17:50+02:00",
+      "composer": "http://data.doremus.org/artist/285f11eb-6e37-3939-9c83-218ea256d2f3"
     },
     {
       "id": "32",
@@ -1442,7 +1442,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T16:48:35+02:00",
-      "composer": "http://data.doremus.org/artist/cd876b1f-63b7-379f-b5e9-f64bbd8dbde9"
+      "composer": "http://data.doremus.org/artist/8ac9ca76-6c46-3cd7-a4ed-4eaa9a1a5e15"
     },
     {
       "id": "41",
@@ -1508,7 +1508,7 @@
         }
       ],
       "ScheduledDateTime": "2017-08-07T16:52:25+02:00",
-      "composer": "http://data.doremus.org/artist/cd876b1f-63b7-379f-b5e9-f64bbd8dbde9"
+      "composer": "http://data.doremus.org/artist/8ac9ca76-6c46-3cd7-a4ed-4eaa9a1a5e15"
     },
     {
       "id": "42",
@@ -1573,7 +1573,7 @@
         }
       ],
       "ScheduledDateTime": "2017-08-07T16:54:20+02:00",
-      "composer": "http://data.doremus.org/artist/cd876b1f-63b7-379f-b5e9-f64bbd8dbde9"
+      "composer": "http://data.doremus.org/artist/8ac9ca76-6c46-3cd7-a4ed-4eaa9a1a5e15"
     },
     {
       "id": "43",
@@ -1619,7 +1619,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T16:57:03+02:00",
-      "composer": "http://data.doremus.org/artist/cd876b1f-63b7-379f-b5e9-f64bbd8dbde9"
+      "composer": "http://data.doremus.org/artist/8ac9ca76-6c46-3cd7-a4ed-4eaa9a1a5e15"
     },
     {
       "id": "45",
@@ -2036,7 +2036,9 @@
         }
       ],
       "ScheduledDateTime": "2017-08-07T17:30:12+02:00",
-      "composer": "http://data.doremus.org/artist/bc6597e7-bc66-3d5d-8bca-98aa651d540a"
+      "composer": "http://data.doremus.org/artist/d825a98d-48df-3682-8292-7cc4c1518231",
+      "best": "http://data.doremus.org/expression/0a886d0a-4ec8-30dd-85b0-ee69f0837bc5",
+      "best_matching_score": "1.00"
     },
     {
       "id": "54",
@@ -2422,5 +2424,5 @@
     }
   ],
   "total": 52,
-  "matched": 1
+  "matched": 2
 }

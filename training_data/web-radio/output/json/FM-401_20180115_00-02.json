@@ -119,7 +119,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T00:02:08+01:00",
-      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+      "composer": "http://data.doremus.org/artist/7740c865-8153-37b8-9dec-d496d592ce96"
     },
     {
       "id": "5",
@@ -167,7 +167,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T00:07:00+01:00",
-      "composer": "http://data.doremus.org/artist/5e166265-3cbf-3b0c-b7f5-a09b82e3a279"
+      "composer": "http://data.doremus.org/artist/550348ea-82c1-3823-8f89-036fe612b4ea"
     },
     {
       "id": "6",
@@ -594,7 +594,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T00:38:54+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/27dfe287-ef4c-3648-9978-e66c0dfa4418",
+      "best_matching_score": "1.00"
     },
     {
       "id": "14",
@@ -643,7 +645,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T00:41:03+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/27dfe287-ef4c-3648-9978-e66c0dfa4418",
+      "best_matching_score": "1.00"
     },
     {
       "id": "15",
@@ -692,7 +696,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T00:41:43+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/27dfe287-ef4c-3648-9978-e66c0dfa4418",
+      "best_matching_score": "1.00"
     },
     {
       "id": "16",
@@ -742,7 +748,7 @@
         "EntityType": "Choeur"
       },
       "ScheduledDateTime": "2018-01-15T00:43:36+01:00",
-      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
+      "composer": "http://data.doremus.org/artist/aa8eafd4-28a5-35c1-8c8b-2e0284f23eda",
       "best": "http://data.doremus.org/expression/268deba6-5b08-3cc2-8e91-1b5d4f7cc338",
       "best_matching_score": "0.94"
     },
@@ -836,7 +842,7 @@
         "InterventionNote": "La Maurache"
       },
       "ScheduledDateTime": "2018-01-15T00:49:56+01:00",
-      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+      "composer": "http://data.doremus.org/artist/7740c865-8153-37b8-9dec-d496d592ce96"
     },
     {
       "id": "19",
@@ -991,7 +997,7 @@
       },
       "ScheduledDateTime": "2018-01-15T01:02:12+01:00",
       "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/4a25b777-40f4-3ccb-9db0-79344931c184",
+      "best": "http://data.doremus.org/expression/88a123a9-7ecd-340f-8b64-a4ccec579bf1",
       "best_matching_score": "1.00"
     },
     {
@@ -1054,7 +1060,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T01:04:12+01:00",
-      "composer": "http://data.doremus.org/artist/916a5a71-42ba-30c2-b2e9-fd1ec5e99a9b",
+      "composer": "http://data.doremus.org/artist/e50b316c-bcc7-3535-9398-f64309d89d58",
       "best": "http://data.doremus.org/expression/a5c660eb-3296-37a5-92dd-f017a3b38580",
       "best_matching_score": "0.88"
     },
@@ -1488,7 +1494,7 @@
         }
       ],
       "ScheduledDateTime": "2018-01-15T01:46:01+01:00",
-      "composer": "http://data.doremus.org/artist/5dc75a67-7470-3c2b-9703-a804e3a881d5",
+      "composer": "http://data.doremus.org/artist/075e5741-ee98-3059-bc86-41758e5e6038",
       "best": "http://data.doremus.org/expression/7bbf199d-bcde-3836-8739-d0ebaf108d0d",
       "best_matching_score": "1.00"
     },
@@ -1537,8 +1543,7 @@
         "FullName": "Michail Jurowski",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2018-01-15T01:50:00+01:00",
-      "composer": "http://data.doremus.org/artist/79163e69-6afa-30bb-86c3-744f4a9d1bb5"
+      "ScheduledDateTime": "2018-01-15T01:50:00+01:00"
     },
     {
       "id": "34",
@@ -1932,7 +1937,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T02:09:49+01:00",
-      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+      "composer": "http://data.doremus.org/artist/7740c865-8153-37b8-9dec-d496d592ce96"
     },
     {
       "id": "40",
@@ -2076,7 +2081,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2018-01-15T02:19:09+01:00",
-      "composer": "http://data.doremus.org/artist/5dc75a67-7470-3c2b-9703-a804e3a881d5"
+      "composer": "http://data.doremus.org/artist/075e5741-ee98-3059-bc86-41758e5e6038"
     },
     {
       "id": "44",
@@ -2207,8 +2212,8 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-15T02:27:58+01:00",
-      "composer": "http://data.doremus.org/artist/5e166265-3cbf-3b0c-b7f5-a09b82e3a279",
-      "best": "http://data.doremus.org/expression/4c632ee1-189f-375b-8e1d-6be446ba35f1",
+      "composer": "http://data.doremus.org/artist/550348ea-82c1-3823-8f89-036fe612b4ea",
+      "best": "http://data.doremus.org/expression/1d75b063-2e8a-3110-9010-33cde28de98a",
       "best_matching_score": "1.00"
     },
     {
@@ -2429,7 +2434,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2018-01-15T02:45:30+01:00",
-      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+      "composer": "http://data.doremus.org/artist/7740c865-8153-37b8-9dec-d496d592ce96"
     },
     {
       "id": "50",
@@ -2627,7 +2632,7 @@
       },
       "ScheduledDateTime": "2018-01-15T02:55:21+01:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
-      "best": "http://data.doremus.org/expression/2511c676-d062-31ad-8429-f3e93630f6a1",
+      "best": "http://data.doremus.org/expression/da23dfd4-5b9c-3fe5-a25a-641d2138d71d",
       "best_matching_score": "1.00"
     },
     {
@@ -2674,7 +2679,7 @@
         "InterventionNote": "La Maurache"
       },
       "ScheduledDateTime": "2018-01-15T02:56:31+01:00",
-      "composer": "http://data.doremus.org/artist/ccb9b2cb-3e4a-3c04-b77b-0829cd404452"
+      "composer": "http://data.doremus.org/artist/d0f4c9b1-a135-35e3-9584-af22ed6ae634"
     },
     {
       "id": "56",
@@ -2721,7 +2726,7 @@
       },
       "ScheduledDateTime": "2018-01-15T02:59:11+01:00",
       "composer": "http://data.doremus.org/artist/0879a7dd-91c3-3ac5-9453-bdec6c1b7424",
-      "best": "http://data.doremus.org/expression/b65434cc-db28-3692-9b8c-dd812d32ff3a",
+      "best": "http://data.doremus.org/expression/88e5d2ed-b4cd-3be1-afbc-100af6b5fc5d",
       "best_matching_score": "0.75"
     },
     {
@@ -2838,7 +2843,7 @@
         }
       ],
       "ScheduledDateTime": "2018-01-15T03:02:25+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452"
     },
     {
       "id": "59",
@@ -2920,7 +2925,7 @@
         "EntityType": "Choeur"
       },
       "ScheduledDateTime": "2018-01-15T03:04:57+01:00",
-      "composer": "http://data.doremus.org/artist/0cd5cbd3-6dbc-3bf2-b1d2-90bc7e510078"
+      "composer": "http://data.doremus.org/artist/e7b8f724-5d7b-36ca-a26a-0bdc17f072aa"
     },
     {
       "id": "60",
@@ -3175,5 +3180,5 @@
     }
   ],
   "total": 57,
-  "matched": 19
+  "matched": 22
 }

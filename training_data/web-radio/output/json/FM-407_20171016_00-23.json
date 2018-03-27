@@ -558,7 +558,7 @@
       },
       "ScheduledDateTime": "2017-10-16T06:36:48+02:00",
       "composer": "http://data.doremus.org/artist/b8cc85c8-20ad-3dda-901f-461042c7d710",
-      "best": "http://data.doremus.org/expression/4e80d486-437d-3835-9e04-b4ae9f42cce4",
+      "best": "http://data.doremus.org/expression/d6913684-3cc1-3cfb-ba39-0bd00946c540",
       "best_matching_score": "1.00"
     },
     {
@@ -1608,7 +1608,8 @@
         "FullName": "Alan Silvestri",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-10-16T07:50:29+02:00"
+      "ScheduledDateTime": "2017-10-16T07:50:29+02:00",
+      "composer": "http://data.doremus.org/artist/2d732174-c972-32e1-8aaa-16ff9ca9ed21"
     },
     {
       "id": "41",
@@ -1819,7 +1820,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-16T08:08:19+02:00",
-      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+      "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf",
+      "best": "http://data.doremus.org/expression/7419f8ae-58e2-37ac-8a27-bf017c5a33f4",
+      "best_matching_score": "1.00"
     },
     {
       "id": "46",
@@ -1901,7 +1904,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-16T08:13:44+02:00",
-      "composer": "http://data.doremus.org/artist/2019b0fb-aec4-384f-aba7-754831a27078"
+      "composer": "http://data.doremus.org/artist/9a6f618d-1e01-3a20-a6dd-19d5cd5e52d2"
     },
     {
       "id": "48",
@@ -2473,5 +2476,5 @@
     }
   ],
   "total": 52,
-  "matched": 2
+  "matched": 3
 }

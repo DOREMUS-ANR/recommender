@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DXdUer5rrvuGS",
   "name": "Classical World: Japan",
-  "followers": 8793,
+  "followers": 14954,
   "tracks": [
     {
       "artists": [
@@ -62,7 +62,8 @@
       "title": "Still Life In A",
       "album": "Three",
       "id": "194iOOsS86G4INDfv0K8pg",
-      "trackNum": 7
+      "trackNum": 7,
+      "composer": "http://data.doremus.org/artist/285f11eb-6e37-3939-9c83-218ea256d2f3"
     },
     {
       "artists": [
@@ -201,9 +202,7 @@
       "album": "Mitsukuri: 3 Pieces After the Flower / Hashimoto: 3 Piano Pieces",
       "id": "4QzkZxlTALfnkxlCor2M6g",
       "trackNum": 16,
-      "composer": "http://data.doremus.org/artist/76be25d1-2118-3515-9a9b-4eaad5dbca53",
-      "best": "http://data.doremus.org/expression/3b728148-a575-3be4-ab72-b7f60c4dd2af",
-      "best_matching_score": "0.88"
+      "composer": "http://data.doremus.org/artist/76be25d1-2118-3515-9a9b-4eaad5dbca53"
     },
     {
       "artists": [
@@ -273,7 +272,7 @@
       "trackNum": 2,
       "composer": "http://data.doremus.org/artist/df1ec033-c103-3123-acdd-f6848b8009b6",
       "best": "http://data.doremus.org/expression/25417a76-bae3-3a00-83fe-f2bfa54aba7a",
-      "best_matching_score": "0.94"
+      "best_matching_score": "0.91"
     },
     {
       "artists": [
@@ -284,7 +283,8 @@
       "title": "Final Fantasy",
       "album": "Game Music",
       "id": "3I59vtolLIBWdc3fRXNU9p",
-      "trackNum": 6
+      "trackNum": 6,
+      "composer": "http://data.doremus.org/artist/61211a92-2f13-3ab7-84ee-653fb0047efb"
     },
     {
       "artists": [
@@ -304,7 +304,8 @@
       "title": "Fantasy III: Chrono Trigger/Chrono Cross",
       "album": "Symphonic Fantasies",
       "id": "4A2ohsF82Mjl4h2AC6q1Fz",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/4945c64e-2b31-31f6-9312-1c898ed25f4f"
     },
     {
       "artists": [
@@ -405,7 +406,6 @@
     {
       "artists": [
         "Hikaru Hayashi",
-        "Moscow Soloists - Yuri Bashmet",
         "Yuri Bashmet",
         "Roman Balashov",
         "Moscow Soloists"
@@ -539,7 +539,7 @@
       "album": "Solo Migration (Modern Music for Solo Violin)",
       "id": "41VeRNrryrYm2F4vZVivak",
       "trackNum": 17,
-      "composer": "http://data.doremus.org/artist/55187583-fdd3-33eb-bbf0-3f01ce80b260"
+      "composer": "http://data.doremus.org/artist/34a5432d-ce68-329f-a1b3-98b6d88d770d"
     },
     {
       "artists": [
@@ -589,6 +589,6 @@
       "composer": "http://data.doremus.org/artist/fecfc906-80e3-3499-9524-ede5ac732de3"
     }
   ],
-  "n_matched": 7,
+  "n_matched": 6,
   "n_total": 50
 }

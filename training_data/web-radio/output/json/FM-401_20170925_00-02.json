@@ -166,7 +166,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T00:09:40+02:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/99425770-6135-3b30-90c0-757cc5c92e4b",
+      "best_matching_score": "0.78"
     },
     {
       "id": "6",
@@ -219,7 +221,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-09-25T00:12:32+02:00",
-      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127",
       "best": "http://data.doremus.org/expression/57dbb9b5-68cf-3124-a988-9c07e904d863",
       "best_matching_score": "1.00"
     },
@@ -276,7 +278,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-09-25T00:15:06+02:00",
-      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127",
       "best": "http://data.doremus.org/expression/57dbb9b5-68cf-3124-a988-9c07e904d863",
       "best_matching_score": "1.00"
     },
@@ -578,8 +580,7 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2017-09-25T00:28:13+02:00",
-      "composer": "http://data.doremus.org/artist/d5d92589-29e4-3ba5-a2ff-3fdf0e57b3db"
+      "ScheduledDateTime": "2017-09-25T00:28:13+02:00"
     },
     {
       "id": "14",
@@ -633,8 +634,7 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2017-09-25T00:29:56+02:00",
-      "composer": "http://data.doremus.org/artist/d5d92589-29e4-3ba5-a2ff-3fdf0e57b3db"
+      "ScheduledDateTime": "2017-09-25T00:29:56+02:00"
     },
     {
       "id": "15",
@@ -688,8 +688,7 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2017-09-25T00:31:07+02:00",
-      "composer": "http://data.doremus.org/artist/d5d92589-29e4-3ba5-a2ff-3fdf0e57b3db"
+      "ScheduledDateTime": "2017-09-25T00:31:07+02:00"
     },
     {
       "id": "16",
@@ -1178,7 +1177,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T01:14:45+02:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/07cf39f7-ec71-3135-b7f0-81ab42377f23",
+      "best_matching_score": "0.83"
     },
     {
       "id": "26",
@@ -1483,7 +1484,7 @@
       ],
       "ScheduledDateTime": "2017-09-25T01:44:28+02:00",
       "composer": "http://data.doremus.org/artist/3a3d167a-04ba-37d3-b32a-935937db23e4",
-      "best": "http://data.doremus.org/expression/fdcdc245-6541-3774-bd2c-f43e93fc222b",
+      "best": "http://data.doremus.org/expression/ffa310ff-850c-3098-91e7-b23ffbe354cd",
       "best_matching_score": "0.99"
     },
     {
@@ -1588,7 +1589,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T01:55:39+02:00",
-      "composer": "http://data.doremus.org/artist/064a15a4-b08d-3300-9b18-91ca4e79671c"
+      "composer": "http://data.doremus.org/artist/fb65a8a2-9e24-3b07-8382-477a9863f5cb"
     },
     {
       "id": "34",
@@ -1876,8 +1877,7 @@
         "InterventionNote": "Corinna Simon : Piano",
         "mop": "Piano"
       },
-      "ScheduledDateTime": "2017-09-25T02:12:42+02:00",
-      "composer": "http://data.doremus.org/artist/8d52ebef-7192-39f1-9b7f-3fba03d21e11"
+      "ScheduledDateTime": "2017-09-25T02:12:42+02:00"
     },
     {
       "id": "40",
@@ -1972,7 +1972,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T02:17:45+02:00",
-      "composer": "http://data.doremus.org/artist/3ed4f326-18a2-3cc1-bc8b-3d5d41d0c1dd"
+      "composer": "http://data.doremus.org/artist/8ea5dbb9-03f1-3bf3-bada-90b85750d1f1"
     },
     {
       "id": "42",
@@ -2094,7 +2094,7 @@
         }
       ],
       "ScheduledDateTime": "2017-09-25T02:23:46+02:00",
-      "composer": "http://data.doremus.org/artist/1d38dd94-17bf-3838-bbd5-16ab3f6f4d26"
+      "composer": "http://data.doremus.org/artist/340af343-19f8-36de-a251-8e97c8857381"
     },
     {
       "id": "44",
@@ -2141,7 +2141,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T02:26:40+02:00",
-      "composer": "http://data.doremus.org/artist/1d6e7231-f178-322c-aecc-3b3a8d80e8aa"
+      "composer": "http://data.doremus.org/artist/1d6e7231-f178-322c-aecc-3b3a8d80e8aa",
+      "best": "http://data.doremus.org/expression/0e350abe-d5f8-32b6-be13-a7b2fac86dc0",
+      "best_matching_score": "0.94"
     },
     {
       "id": "46",
@@ -2282,7 +2284,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-09-25T02:42:16+02:00",
-      "composer": "http://data.doremus.org/artist/321db57c-1c12-334e-8c97-9d237f13f2f8"
+      "composer": "http://data.doremus.org/artist/e1a9c9b9-4f3b-3002-bde6-26519b4b2cce"
     },
     {
       "id": "48",
@@ -2475,7 +2477,7 @@
         "InterventionNote": "Quatuor Joachim"
       },
       "ScheduledDateTime": "2017-09-25T02:50:52+02:00",
-      "composer": "http://data.doremus.org/artist/e77b0567-79f1-3605-8531-3295bfa204a9",
+      "composer": "http://data.doremus.org/artist/45262010-246a-361d-af8b-ed06c6bbe0cb",
       "best": "http://data.doremus.org/expression/13d940f5-3503-30f7-beca-a73f31f4621e",
       "best_matching_score": "1.00"
     },
@@ -2523,7 +2525,7 @@
         "InterventionNote": "Quatuor Joachim"
       },
       "ScheduledDateTime": "2017-09-25T02:53:00+02:00",
-      "composer": "http://data.doremus.org/artist/e77b0567-79f1-3605-8531-3295bfa204a9",
+      "composer": "http://data.doremus.org/artist/45262010-246a-361d-af8b-ed06c6bbe0cb",
       "best": "http://data.doremus.org/expression/13d940f5-3503-30f7-beca-a73f31f4621e",
       "best_matching_score": "1.00"
     },
@@ -2571,7 +2573,7 @@
         "InterventionNote": "Quatuor Joachim"
       },
       "ScheduledDateTime": "2017-09-25T02:55:56+02:00",
-      "composer": "http://data.doremus.org/artist/e77b0567-79f1-3605-8531-3295bfa204a9",
+      "composer": "http://data.doremus.org/artist/45262010-246a-361d-af8b-ed06c6bbe0cb",
       "best": "http://data.doremus.org/expression/13d940f5-3503-30f7-beca-a73f31f4621e",
       "best_matching_score": "1.00"
     },
@@ -2881,7 +2883,7 @@
       },
       "ScheduledDateTime": "2017-09-25T03:05:18+02:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
-      "best": "http://data.doremus.org/expression/32fda928-786f-398b-87ae-2a518caa581a",
+      "best": "http://data.doremus.org/expression/31169080-d5ad-37ad-b975-65282bf2a92e",
       "best_matching_score": "0.80"
     },
     {
@@ -2930,7 +2932,7 @@
       },
       "ScheduledDateTime": "2017-09-25T03:09:07+02:00",
       "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
-      "best": "http://data.doremus.org/expression/91c38619-e17e-33f6-b609-eb38c9c6a22d",
+      "best": "http://data.doremus.org/expression/615db1f4-5fa5-3efa-ab2a-a25995c7a43f",
       "best_matching_score": "0.99"
     },
     {
@@ -2979,10 +2981,10 @@
       },
       "ScheduledDateTime": "2017-09-25T03:11:04+02:00",
       "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
-      "best": "http://data.doremus.org/expression/91c38619-e17e-33f6-b609-eb38c9c6a22d",
+      "best": "http://data.doremus.org/expression/615db1f4-5fa5-3efa-ab2a-a25995c7a43f",
       "best_matching_score": "0.99"
     }
   ],
   "total": 53,
-  "matched": 23
+  "matched": 26
 }

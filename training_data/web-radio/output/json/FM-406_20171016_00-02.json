@@ -156,7 +156,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-16T00:06:37+02:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/0759843a-eb24-3294-a1bc-3a31ca26c07b",
+      "best_matching_score": "0.88"
     },
     {
       "id": "8",
@@ -211,7 +213,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-16T00:10:41+02:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/44584470-fc1c-3d71-9b8d-ae363c1d0ec5",
+      "best_matching_score": "0.88"
     },
     {
       "id": "9",
@@ -266,7 +270,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-16T00:17:02+02:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/94870bb5-ec69-34a7-b390-3122eb82a591",
+      "best_matching_score": "0.88"
     },
     {
       "id": "10",
@@ -321,7 +327,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-16T00:21:17+02:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/44584470-fc1c-3d71-9b8d-ae363c1d0ec5",
+      "best_matching_score": "0.88"
     },
     {
       "id": "11",
@@ -376,7 +384,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-16T00:26:49+02:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/0759843a-eb24-3294-a1bc-3a31ca26c07b",
+      "best_matching_score": "0.88"
     },
     {
       "id": "13",
@@ -3722,5 +3732,5 @@
     }
   ],
   "total": 69,
-  "matched": 31
+  "matched": 36
 }

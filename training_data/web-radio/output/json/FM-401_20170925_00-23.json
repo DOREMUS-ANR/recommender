@@ -49,9 +49,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-09-25T00:00:06+02:00",
-      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
-      "best": "http://data.doremus.org/expression/41d72206-e64a-3b80-ad93-588c2505054b",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81"
     },
     {
       "id": "5",
@@ -1360,7 +1358,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T02:21:59+02:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/cb773b09-1d09-38d0-b746-bfea3fddbae1",
+      "best_matching_score": "0.97"
     },
     {
       "id": "33",
@@ -1407,7 +1407,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T02:24:04+02:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/b46f6ed9-e32a-3fad-9616-1032d8729df1",
+      "best_matching_score": "0.97"
     },
     {
       "id": "34",
@@ -1454,7 +1456,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-09-25T02:27:05+02:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/cb773b09-1d09-38d0-b746-bfea3fddbae1",
+      "best_matching_score": "0.97"
     },
     {
       "id": "35",
@@ -1565,7 +1569,7 @@
       ],
       "ScheduledDateTime": "2017-09-25T02:33:39+02:00",
       "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
-      "best": "http://data.doremus.org/expression/34eb55d4-fd7f-3a6d-bc57-36483cd6c0f4",
+      "best": "http://data.doremus.org/expression/273de6d7-e145-347b-858b-91daf63b12ea",
       "best_matching_score": "1.00"
     },
     {
@@ -1738,5 +1742,5 @@
     }
   ],
   "total": 31,
-  "matched": 20
+  "matched": 22
 }

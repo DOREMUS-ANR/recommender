@@ -109,7 +109,7 @@
       "ScheduledDateTime": "2017-12-04T00:04:41+01:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/17b23bb7-0356-325d-a57c-2ae822b025eb",
-      "best_matching_score": "0.95"
+      "best_matching_score": "0.96"
     },
     {
       "id": "5",
@@ -166,7 +166,9 @@
         }
       ],
       "ScheduledDateTime": "2017-12-04T00:11:28+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/27b643ab-cd13-3c88-9307-4ed60da74c81",
+      "best_matching_score": "1.00"
     },
     {
       "id": "6",
@@ -329,7 +331,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2017-12-04T00:20:46+01:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c"
     },
     {
       "id": "10",
@@ -573,10 +575,7 @@
         "FullName": "James Gaffigan",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-12-04T00:39:16+01:00",
-      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
-      "best": "http://data.doremus.org/expression/1a3560b3-c1be-311c-be8a-81dc95d36001",
-      "best_matching_score": "0.99"
+      "ScheduledDateTime": "2017-12-04T00:39:16+01:00"
     },
     {
       "id": "14",
@@ -682,8 +681,8 @@
       },
       "ScheduledDateTime": "2017-12-04T00:42:46+01:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
-      "best": "http://data.doremus.org/expression/98aef3c3-b0a3-3252-b802-a039fc3434b7",
-      "best_matching_score": "1.00"
+      "best": "http://data.doremus.org/expression/3fad844f-3c64-39aa-9620-f373729db924",
+      "best_matching_score": "0.88"
     },
     {
       "id": "16",
@@ -738,8 +737,8 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T00:48:17+01:00",
-      "composer": "http://data.doremus.org/artist/e20f3055-68ec-3f7d-a1e7-8fd0447e2c90",
-      "best": "http://data.doremus.org/expression/fddfb90e-e754-31f3-9952-edbbae0f324d",
+      "composer": "http://data.doremus.org/artist/f00573f8-de45-3983-8ce7-e96f2a58cc72",
+      "best": "http://data.doremus.org/expression/25959557-42d1-30f9-a36f-52069e175b9a",
       "best_matching_score": "1.00"
     },
     {
@@ -786,7 +785,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-12-04T00:50:03+01:00",
-      "composer": "http://data.doremus.org/artist/1d6e7231-f178-322c-aecc-3b3a8d80e8aa"
+      "composer": "http://data.doremus.org/artist/1d6e7231-f178-322c-aecc-3b3a8d80e8aa",
+      "best": "http://data.doremus.org/expression/ca5d1e8c-3206-3ee3-8c4c-f472d9809292",
+      "best_matching_score": "1.00"
     },
     {
       "id": "19",
@@ -841,7 +842,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T00:55:14+01:00",
-      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
+      "composer": "http://data.doremus.org/artist/a4e8f64d-3411-3eb4-8e09-59e24bc26bf3",
       "best": "http://data.doremus.org/expression/72c8af4f-a0c0-355a-ba1b-664e6c9aff00",
       "best_matching_score": "0.99"
     },
@@ -955,7 +956,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T01:12:34+01:00",
-      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+      "composer": "http://data.doremus.org/artist/2fe8887e-bf27-352f-b756-6927beda3b99"
     },
     {
       "id": "22",
@@ -1091,7 +1092,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T01:20:37+01:00",
-      "composer": "http://data.doremus.org/artist/397d2850-f9d3-3ee7-9257-c2f029d0455f",
+      "composer": "http://data.doremus.org/artist/4f43b02b-12dc-31c4-b2d7-f899ffab96f7",
       "best": "http://data.doremus.org/expression/179d0dcf-88dc-34f2-96e9-ece5d949253f",
       "best_matching_score": "1.00"
     },
@@ -1258,9 +1259,9 @@
         }
       ],
       "ScheduledDateTime": "2017-12-04T01:33:01+01:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e",
-      "best": "http://data.doremus.org/expression/153b7baa-2c0b-35a0-b910-1aa1c5f3b1f9",
-      "best_matching_score": "0.96"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c",
+      "best": "http://data.doremus.org/expression/cd4e2776-da50-3273-a90b-0df0c0851388",
+      "best_matching_score": "0.74"
     },
     {
       "id": "28",
@@ -1310,8 +1311,8 @@
       },
       "ScheduledDateTime": "2017-12-04T01:39:15+01:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
-      "best": "http://data.doremus.org/expression/96376ce5-cbf5-3374-89b5-0d53eab70cd9",
-      "best_matching_score": "0.82"
+      "best": "http://data.doremus.org/expression/37d8dae8-03af-3daf-8fd5-346fd05e41f4",
+      "best_matching_score": "0.75"
     },
     {
       "id": "30",
@@ -1366,7 +1367,7 @@
         }
       ],
       "ScheduledDateTime": "2017-12-04T01:41:32+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c"
     },
     {
       "id": "31",
@@ -1461,7 +1462,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-12-04T01:52:34+01:00",
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
       "best": "http://data.doremus.org/expression/1d81c5c2-7d97-3397-8eab-50e86cba5c94",
       "best_matching_score": "0.87"
     },
@@ -1512,7 +1513,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T01:54:29+01:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/e8c18239-3a6a-3413-9bcb-5b1c312d1854",
+      "best_matching_score": "0.98"
     },
     {
       "id": "34",
@@ -1622,7 +1625,7 @@
       },
       "ScheduledDateTime": "2017-12-04T02:03:48+01:00",
       "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/9e4fea10-84c1-31e4-a081-11ed35d80585",
+      "best": "http://data.doremus.org/expression/39745f43-56e9-3c1a-9113-d653a6947821",
       "best_matching_score": "1.00"
     },
     {
@@ -1778,7 +1781,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T02:22:48+01:00",
-      "composer": "http://data.doremus.org/artist/f3086d8c-176a-3650-8679-5d2094763343"
+      "composer": "http://data.doremus.org/artist/d7803262-8b4a-3d68-83c3-818ae12a0c62"
     },
     {
       "id": "41",
@@ -1922,7 +1925,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-12-04T02:31:21+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/37932fbc-fef3-3edb-9fae-1eec9b4be01d",
+      "best_matching_score": "0.99"
     },
     {
       "id": "45",
@@ -1977,7 +1982,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-04T02:37:54+01:00",
-      "composer": "http://data.doremus.org/artist/0ea76b7f-9eca-35c3-8e32-8ba22b19a96e"
+      "composer": "http://data.doremus.org/artist/fdf137f3-2f21-3c74-b039-3c7c9dedac05",
+      "best": "http://data.doremus.org/expression/e628b31d-6f6f-3110-bead-ea4ef1cf0705",
+      "best_matching_score": "0.73"
     },
     {
       "id": "46",
@@ -2193,5 +2200,5 @@
     }
   ],
   "total": 40,
-  "matched": 25
+  "matched": 29
 }

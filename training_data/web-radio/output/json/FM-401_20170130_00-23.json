@@ -172,7 +172,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-01-30T00:15:03+01:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/99c8145f-96b2-34d7-8b95-ca68944fe170",
+      "best_matching_score": "0.93"
     },
     {
       "id": "7",
@@ -327,7 +329,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-01-30T00:40:59+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
+      "best": "http://data.doremus.org/expression/c12305e9-9df1-30c7-a3b7-7661a743caba",
+      "best_matching_score": "0.96"
     },
     {
       "id": "12",
@@ -374,7 +378,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-01-30T00:48:01+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
+      "best": "http://data.doremus.org/expression/c12305e9-9df1-30c7-a3b7-7661a743caba",
+      "best_matching_score": "0.97"
     },
     {
       "id": "13",
@@ -421,7 +427,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-01-30T00:56:04+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
+      "best": "http://data.doremus.org/expression/c12305e9-9df1-30c7-a3b7-7661a743caba",
+      "best_matching_score": "0.97"
     },
     {
       "id": "15",
@@ -469,10 +477,7 @@
         "FullName": "Mariss Jansons",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-01-30T01:09:39+01:00",
-      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
-      "best": "http://data.doremus.org/expression/a1045886-ee07-3ad8-a379-db633378c2fc",
-      "best_matching_score": "0.97"
+      "ScheduledDateTime": "2017-01-30T01:09:39+01:00"
     },
     {
       "id": "17",
@@ -885,7 +890,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-01-30T01:56:38+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/661ea0bf-5e5e-3cd8-ab16-4651870aa3ff",
+      "best_matching_score": "0.95"
     },
     {
       "id": "26",
@@ -940,7 +947,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-01-30T02:05:03+01:00",
-      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127",
       "best": "http://data.doremus.org/expression/e326d2f4-afbb-3d9c-bb8a-d30d7476a2a6",
       "best_matching_score": "1.00"
     },
@@ -997,7 +1004,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-01-30T02:09:51+01:00",
-      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1",
+      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127",
       "best": "http://data.doremus.org/expression/e326d2f4-afbb-3d9c-bb8a-d30d7476a2a6",
       "best_matching_score": "1.00"
     },
@@ -1344,7 +1351,7 @@
       ],
       "ScheduledDateTime": "2017-01-30T02:27:05+01:00",
       "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
-      "best": "http://data.doremus.org/expression/b6368e48-7c78-3648-bd8f-06d960acd0c7",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
       "best_matching_score": "1.00"
     },
     {
@@ -1612,7 +1619,7 @@
       ],
       "ScheduledDateTime": "2017-01-30T02:35:56+01:00",
       "composer": "http://data.doremus.org/artist/6bbf9ece-1902-30cf-b911-c973bc80f5ac",
-      "best": "http://data.doremus.org/expression/b6368e48-7c78-3648-bd8f-06d960acd0c7",
+      "best": "http://data.doremus.org/expression/004eb27b-25b0-3036-9d4f-1d8471169eef",
       "best_matching_score": "1.00"
     },
     {
@@ -2027,5 +2034,5 @@
     }
   ],
   "total": 34,
-  "matched": 24
+  "matched": 28
 }

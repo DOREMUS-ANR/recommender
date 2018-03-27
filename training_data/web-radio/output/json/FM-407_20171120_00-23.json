@@ -548,8 +548,7 @@
         "FullName": "Louis Sclavis",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-11-20T09:34:05+01:00",
-      "composer": "http://data.doremus.org/artist/ac481ecf-e1fa-378c-a26b-b6a7d82751eb"
+      "ScheduledDateTime": "2017-11-20T09:34:05+01:00"
     },
     {
       "id": "16",
@@ -634,7 +633,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-11-20T09:38:14+01:00",
-      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
+      "composer": "http://data.doremus.org/artist/41126109-1229-3215-b60e-4e322d905824"
     },
     {
       "id": "19",
@@ -1386,7 +1385,9 @@
         }
       ],
       "ScheduledDateTime": "2017-11-20T10:29:33+01:00",
-      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+      "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf",
+      "best": "http://data.doremus.org/expression/81c9e53c-6b00-38bb-871d-f25a8f31b632",
+      "best_matching_score": "1.00"
     },
     {
       "id": "37",
@@ -1962,7 +1963,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-11-20T11:14:47+01:00",
-      "composer": "http://data.doremus.org/artist/2019b0fb-aec4-384f-aba7-754831a27078"
+      "composer": "http://data.doremus.org/artist/9a6f618d-1e01-3a20-a6dd-19d5cd5e52d2"
     },
     {
       "id": "52",
@@ -2535,5 +2536,5 @@
     }
   ],
   "total": 55,
-  "matched": 3
+  "matched": 4
 }

@@ -55,7 +55,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-11-06T00:00:12+01:00",
-      "composer": "http://data.doremus.org/artist/0b724531-969e-3dcf-8954-fb5be05d28cb"
+      "composer": "http://data.doremus.org/artist/7740c865-8153-37b8-9dec-d496d592ce96"
     },
     {
       "id": "4",
@@ -321,7 +321,9 @@
         }
       ],
       "ScheduledDateTime": "2017-11-06T00:12:15+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/71b496b4-579b-3173-bb64-bb1f7ecf238f",
+      "best_matching_score": "0.99"
     },
     {
       "id": "8",
@@ -480,7 +482,7 @@
       },
       "ScheduledDateTime": "2017-11-06T00:27:39+01:00",
       "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
-      "best": "http://data.doremus.org/expression/e7c35348-0d8d-3b13-9f29-fb366408a203",
+      "best": "http://data.doremus.org/expression/7eb6a794-c153-3508-8943-6dbe3ebdb14a",
       "best_matching_score": "1.00"
     },
     {
@@ -644,7 +646,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-11-06T00:40:52+01:00",
-      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899"
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
+      "best": "http://data.doremus.org/expression/7c97636a-56f3-31df-9ab4-ae4ad2271be2",
+      "best_matching_score": "0.96"
     },
     {
       "id": "15",
@@ -827,7 +831,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-11-06T00:49:34+01:00",
-      "composer": "http://data.doremus.org/artist/40e88279-dc12-3dd0-8aeb-3b8dd41af302"
+      "composer": "http://data.doremus.org/artist/2fe8887e-bf27-352f-b756-6927beda3b99"
     },
     {
       "id": "19",
@@ -1131,10 +1135,7 @@
         "FullName": "Mikhail Pletnev",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-11-06T01:16:40+01:00",
-      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
-      "best": "http://data.doremus.org/expression/fce46b0e-b552-3b9f-82a7-afbac2439309",
-      "best_matching_score": "1.00"
+      "ScheduledDateTime": "2017-11-06T01:16:40+01:00"
     },
     {
       "id": "24",
@@ -1278,7 +1279,7 @@
         }
       ],
       "ScheduledDateTime": "2017-11-06T01:20:20+01:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c"
     },
     {
       "id": "27",
@@ -1347,8 +1348,8 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-11-06T01:22:52+01:00",
-      "composer": "http://data.doremus.org/artist/509b09ef-a4e5-3ad7-90d2-ef540c30617a",
-      "best": "http://data.doremus.org/expression/88b69ff1-8bab-3aca-a081-48762a6a0b4b",
+      "composer": "http://data.doremus.org/artist/69409d9c-408d-359c-9f8e-9cf5d0638c18",
+      "best": "http://data.doremus.org/expression/155271de-a245-3d7e-8389-f790e907bbee",
       "best_matching_score": "1.00"
     },
     {
@@ -1485,7 +1486,7 @@
         }
       ],
       "ScheduledDateTime": "2017-11-06T01:38:14+01:00",
-      "composer": "http://data.doremus.org/artist/2d7a8bf1-3355-3f09-b439-de255cd67599"
+      "composer": "http://data.doremus.org/artist/2f60b2da-b980-3ec0-a961-0e7f039cb302"
     },
     {
       "id": "31",
@@ -1686,7 +1687,7 @@
       },
       "ScheduledDateTime": "2017-11-06T01:49:14+01:00",
       "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
-      "best": "http://data.doremus.org/expression/7e609f39-10cb-327e-a8bd-658c834af10f",
+      "best": "http://data.doremus.org/expression/ebf02dd1-e490-3402-92ce-517b7d25fd71",
       "best_matching_score": "1.00"
     },
     {
@@ -1735,7 +1736,9 @@
         "InterventionNote": "Quatuor Debussy"
       },
       "ScheduledDateTime": "2017-11-06T01:51:27+01:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/54605396-c419-319b-8ebb-5ad8d06e0b54",
+      "best_matching_score": "0.87"
     },
     {
       "id": "36",
@@ -1886,7 +1889,7 @@
       },
       "ScheduledDateTime": "2017-11-06T01:58:26+01:00",
       "composer": "http://data.doremus.org/artist/6d6eafea-b4a8-36a5-b109-dad388cf838a",
-      "best": "http://data.doremus.org/expression/c79c0c61-a624-3407-a8cc-f177efa1c576",
+      "best": "http://data.doremus.org/expression/c20b2e31-0f36-3aaa-9c4b-fdc53aa3526b",
       "best_matching_score": "1.00"
     },
     {
@@ -2030,7 +2033,7 @@
       },
       "ScheduledDateTime": "2017-11-06T02:06:24+01:00",
       "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/a64bfe5c-cf5f-3c85-bf20-4077a1197a23",
+      "best": "http://data.doremus.org/expression/39745f43-56e9-3c1a-9113-d653a6947821",
       "best_matching_score": "1.00"
     },
     {
@@ -2184,7 +2187,9 @@
         }
       ],
       "ScheduledDateTime": "2017-11-06T02:13:22+01:00",
-      "composer": "http://data.doremus.org/artist/1dc7672a-639a-33f3-82f5-13542a062f9c"
+      "composer": "http://data.doremus.org/artist/1dc7672a-639a-33f3-82f5-13542a062f9c",
+      "best": "http://data.doremus.org/expression/7b4e1e7a-7ec5-3b69-973b-6fcbe244b3d1",
+      "best_matching_score": "1.00"
     },
     {
       "id": "43",
@@ -2293,7 +2298,9 @@
         }
       ],
       "ScheduledDateTime": "2017-11-06T02:25:18+01:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c",
+      "best": "http://data.doremus.org/expression/69f3d9bf-7cbe-3151-abc9-2df10db3a367",
+      "best_matching_score": "0.90"
     },
     {
       "id": "46",
@@ -2554,8 +2561,8 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2017-11-06T02:43:27+01:00",
-      "composer": "http://data.doremus.org/artist/c51a1b01-5682-33da-a15a-67d7f36c8308",
-      "best": "http://data.doremus.org/expression/c104d66f-0c51-30a0-a587-f192e971a77e",
+      "composer": "http://data.doremus.org/artist/ded35c7d-c496-3c17-8773-439fb62f60a8",
+      "best": "http://data.doremus.org/expression/9dfdf847-0b33-30b2-9616-e8d4191c9a6b",
       "best_matching_score": "0.94"
     },
     {
@@ -2742,5 +2749,5 @@
     }
   ],
   "total": 44,
-  "matched": 25
+  "matched": 29
 }

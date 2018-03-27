@@ -24,7 +24,6 @@ let inputFiles = klawSync(inputPath, {
 
 async.eachSeries(inputFiles, (item, callback) => {
   let filePath = item.path;
-
   console.log('Parsing file ' + filePath);
   parseFile(filePath)
     .then(processData)

@@ -56,7 +56,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-30T00:00:46+01:00",
-      "composer": "http://data.doremus.org/artist/0d006d0b-f1e4-3cc7-a97c-f258736fa6ec"
+      "composer": "http://data.doremus.org/artist/37a9653e-3fcc-3049-bc81-136a16c2318a"
     },
     {
       "id": "6",
@@ -111,7 +111,9 @@
         }
       ],
       "ScheduledDateTime": "2017-10-30T00:15:45+01:00",
-      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b",
+      "best": "http://data.doremus.org/expression/2651e2b5-e2c2-3f3c-ac91-e23b178d24c4",
+      "best_matching_score": "0.93"
     },
     {
       "id": "7",
@@ -160,7 +162,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-30T00:17:41+01:00",
-      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b",
+      "best": "http://data.doremus.org/expression/b67b0ebf-961a-3cb6-9c8c-f78ed302f333",
+      "best_matching_score": "1.00"
     },
     {
       "id": "8",
@@ -209,7 +213,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-30T00:20:12+01:00",
-      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b"
+      "composer": "http://data.doremus.org/artist/27018979-6c9d-32f1-ad49-c237e85b3d1b",
+      "best": "http://data.doremus.org/expression/b67b0ebf-961a-3cb6-9c8c-f78ed302f333",
+      "best_matching_score": "1.00"
     },
     {
       "id": "10",
@@ -987,9 +993,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-30T01:44:44+01:00",
-      "composer": "http://data.doremus.org/artist/ce9a201f-a0d4-346c-bd88-031345756720",
-      "best": "http://data.doremus.org/expression/026c6ec3-3bfd-3331-9757-b0f9203ece93",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/14ca60a4-8699-333f-bc20-6c98a29f1898"
     },
     {
       "id": "35",
@@ -1150,7 +1154,7 @@
       ],
       "ScheduledDateTime": "2017-10-30T01:59:15+01:00",
       "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
-      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
       "best_matching_score": "1.00"
     },
     {
@@ -1231,7 +1235,7 @@
       ],
       "ScheduledDateTime": "2017-10-30T02:01:20+01:00",
       "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
-      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
       "best_matching_score": "1.00"
     },
     {
@@ -1393,7 +1397,7 @@
       ],
       "ScheduledDateTime": "2017-10-30T02:05:23+01:00",
       "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
-      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
+      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
       "best_matching_score": "1.00"
     },
     {
@@ -1798,7 +1802,7 @@
       ],
       "ScheduledDateTime": "2017-10-30T02:12:40+01:00",
       "composer": "http://data.doremus.org/artist/f71cf790-a6a9-34cb-9f0e-1ddfb62f7fcd",
-      "best": "http://data.doremus.org/expression/c5288600-f371-389c-b6f7-6e1bca705e38",
+      "best": "http://data.doremus.org/expression/6dd50eb6-df56-373a-a9fd-841496c991a0",
       "best_matching_score": "1.00"
     },
     {
@@ -2000,7 +2004,9 @@
         "mop": "Clavecin"
       },
       "ScheduledDateTime": "2017-10-30T02:20:11+01:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/1af5f8e9-a472-38d0-916e-145f8ae66065",
+      "best_matching_score": "1.00"
     },
     {
       "id": "51",
@@ -2054,10 +2060,7 @@
         "FullName": "Markus Stenz",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-10-30T02:25:46+01:00",
-      "composer": "http://data.doremus.org/artist/02ad1bab-64ff-32b3-857d-ba87aea1d257",
-      "best": "http://data.doremus.org/expression/a017e5ce-20cd-33e0-b17c-786e1914dad7",
-      "best_matching_score": "0.93"
+      "ScheduledDateTime": "2017-10-30T02:25:46+01:00"
     },
     {
       "id": "52",
@@ -2111,10 +2114,7 @@
         "FullName": "Markus Stenz",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-10-30T02:30:11+01:00",
-      "composer": "http://data.doremus.org/artist/02ad1bab-64ff-32b3-857d-ba87aea1d257",
-      "best": "http://data.doremus.org/expression/a017e5ce-20cd-33e0-b17c-786e1914dad7",
-      "best_matching_score": "0.93"
+      "ScheduledDateTime": "2017-10-30T02:30:11+01:00"
     },
     {
       "id": "55",
@@ -2365,7 +2365,7 @@
         "mop": "Percussions"
       },
       "ScheduledDateTime": "2017-10-30T03:04:04+01:00",
-      "composer": "http://data.doremus.org/artist/af8d601a-21f0-3a0f-af45-210b5c57c4f6"
+      "composer": "http://data.doremus.org/artist/b39d9afb-ac44-34ae-a709-6f56bf8daa91"
     },
     {
       "id": "60",
@@ -2477,5 +2477,5 @@
     }
   ],
   "total": 40,
-  "matched": 20
+  "matched": 21
 }

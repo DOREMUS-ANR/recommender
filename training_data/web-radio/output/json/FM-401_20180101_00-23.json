@@ -898,7 +898,7 @@
       },
       "ScheduledDateTime": "2018-01-01T00:51:04+01:00",
       "composer": "http://data.doremus.org/artist/0fcfbd78-4865-3594-b869-6525f54d855f",
-      "best": "http://data.doremus.org/expression/7e296213-d55f-3a48-9d2b-445700cbfa8d",
+      "best": "http://data.doremus.org/expression/5ebc0aab-5964-35ef-bc78-3e9c2290b42c",
       "best_matching_score": "1.00"
     },
     {
@@ -1114,7 +1114,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2018-01-01T01:27:40+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/fa8439c2-fc74-3c4d-9d3b-ed8629b296d5",
+      "best_matching_score": "0.97"
     },
     {
       "id": "27",
@@ -1161,7 +1163,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2018-01-01T01:36:14+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/fa8439c2-fc74-3c4d-9d3b-ed8629b296d5",
+      "best_matching_score": "0.98"
     },
     {
       "id": "28",
@@ -1208,7 +1212,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2018-01-01T01:40:10+01:00",
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/fa8439c2-fc74-3c4d-9d3b-ed8629b296d5",
+      "best_matching_score": "0.97"
     },
     {
       "id": "30",
@@ -1319,7 +1325,7 @@
       },
       "ScheduledDateTime": "2018-01-01T01:56:19+01:00",
       "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
-      "best": "http://data.doremus.org/expression/cfaf2b92-1314-399d-b0db-298d38e95964",
+      "best": "http://data.doremus.org/expression/0fd718f1-1ade-37d9-ad84-5c924c49b95b",
       "best_matching_score": "1.00"
     },
     {
@@ -1506,7 +1512,7 @@
       },
       "ScheduledDateTime": "2018-01-01T02:05:15+01:00",
       "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
-      "best": "http://data.doremus.org/expression/0fd718f1-1ade-37d9-ad84-5c924c49b95b",
+      "best": "http://data.doremus.org/expression/cfaf2b92-1314-399d-b0db-298d38e95964",
       "best_matching_score": "1.00"
     },
     {
@@ -1561,7 +1567,7 @@
       },
       "ScheduledDateTime": "2018-01-01T02:06:44+01:00",
       "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
-      "best": "http://data.doremus.org/expression/cfaf2b92-1314-399d-b0db-298d38e95964",
+      "best": "http://data.doremus.org/expression/0fd718f1-1ade-37d9-ad84-5c924c49b95b",
       "best_matching_score": "1.00"
     },
     {
@@ -2080,5 +2086,5 @@
     }
   ],
   "total": 36,
-  "matched": 31
+  "matched": 34
 }

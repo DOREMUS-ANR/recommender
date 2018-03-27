@@ -93,7 +93,7 @@
       },
       "ScheduledDateTime": "2017-07-10T00:03:08+02:00",
       "composer": "http://data.doremus.org/artist/6fd5d8f8-7960-3fd1-a359-ba0551a3cac0",
-      "best": "http://data.doremus.org/expression/d6ce8a63-ff30-349a-9692-35c9709bed11",
+      "best": "http://data.doremus.org/expression/e86a9a70-c821-3682-a4f2-9866a97b1bcd",
       "best_matching_score": "0.86"
     },
     {
@@ -296,8 +296,7 @@
         "FullName": "Henry Pierre",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-07-10T00:29:27+02:00",
-      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+      "ScheduledDateTime": "2017-07-10T00:29:27+02:00"
     },
     {
       "id": "14",
@@ -529,7 +528,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-07-10T00:44:08+02:00",
-      "composer": "http://data.doremus.org/artist/6d88fda2-4b62-31fc-b595-0a817fc3d9c4",
+      "composer": "http://data.doremus.org/artist/ac22fc64-539e-3fba-9a28-f459dd9d334f",
       "best": "http://data.doremus.org/expression/7c3a0829-32c8-3b39-b8d8-c143ea0aa6ae",
       "best_matching_score": "0.95"
     },
@@ -572,7 +571,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-07-10T00:48:13+02:00",
-      "composer": "http://data.doremus.org/artist/6d88fda2-4b62-31fc-b595-0a817fc3d9c4",
+      "composer": "http://data.doremus.org/artist/ac22fc64-539e-3fba-9a28-f459dd9d334f",
       "best": "http://data.doremus.org/expression/7c3a0829-32c8-3b39-b8d8-c143ea0aa6ae",
       "best_matching_score": "0.95"
     },
@@ -1000,7 +999,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-07-10T01:43:01+02:00",
-      "composer": "http://data.doremus.org/artist/a895b8f9-e3aa-369d-b62f-5f7c0ba00e92",
+      "composer": "http://data.doremus.org/artist/e4cb7f31-609d-34ec-86c7-00a8fe03486f",
       "best": "http://data.doremus.org/expression/7bcbb7ea-917f-3423-b33e-fb6324b4fad7",
       "best_matching_score": "0.96"
     },
@@ -1511,7 +1510,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-07-10T02:47:38+02:00",
-      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040",
+      "best": "http://data.doremus.org/expression/5e781a9b-355b-3b28-9061-3fb8382b59bb",
+      "best_matching_score": "1.00"
     },
     {
       "id": "48",
@@ -1597,10 +1598,9 @@
         "FullName": "Henry Pierre",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-07-10T03:04:08+02:00",
-      "composer": "http://data.doremus.org/artist/e27d5478-9199-3fe3-a54e-27ba3279e2f7"
+      "ScheduledDateTime": "2017-07-10T03:04:08+02:00"
     }
   ],
   "total": 29,
-  "matched": 8
+  "matched": 9
 }

@@ -376,7 +376,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-07-24T00:36:59+02:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c"
     },
     {
       "id": "12",
@@ -467,7 +467,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-07-24T00:46:10+02:00",
-      "composer": "http://data.doremus.org/artist/bcb7cc8c-7784-3d08-a075-96fd50a3f4f8"
+      "composer": "http://data.doremus.org/artist/c02d29d9-0ab1-376e-a104-ae6184064092",
+      "best": "http://data.doremus.org/expression/6a3dc716-3a44-3fb2-8cc3-c3a4e0d7bec8",
+      "best_matching_score": "1.00"
     },
     {
       "id": "13",
@@ -858,7 +860,7 @@
       },
       "ScheduledDateTime": "2017-07-24T01:28:03+02:00",
       "composer": "http://data.doremus.org/artist/33e7c30d-fbf0-306c-8933-62926aef1bfd",
-      "best": "http://data.doremus.org/expression/187eaf8e-a048-33aa-94dd-8edf3a328721",
+      "best": "http://data.doremus.org/expression/856e025e-eedc-35e8-bcaa-89ac498833f1",
       "best_matching_score": "1.00"
     },
     {
@@ -1205,7 +1207,7 @@
       },
       "ScheduledDateTime": "2017-07-24T01:58:55+02:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/095ff2b2-7cbf-3330-b7c4-ca41e4e4e468",
+      "best": "http://data.doremus.org/expression/89e32e8c-8589-37d0-b753-01fe9b23da8a",
       "best_matching_score": "0.99"
     },
     {
@@ -1256,7 +1258,7 @@
       },
       "ScheduledDateTime": "2017-07-24T02:08:53+02:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/095ff2b2-7cbf-3330-b7c4-ca41e4e4e468",
+      "best": "http://data.doremus.org/expression/89e32e8c-8589-37d0-b753-01fe9b23da8a",
       "best_matching_score": "0.99"
     },
     {
@@ -1307,7 +1309,7 @@
       },
       "ScheduledDateTime": "2017-07-24T02:16:34+02:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/89e32e8c-8589-37d0-b753-01fe9b23da8a",
+      "best": "http://data.doremus.org/expression/095ff2b2-7cbf-3330-b7c4-ca41e4e4e468",
       "best_matching_score": "0.99"
     },
     {
@@ -1409,7 +1411,7 @@
       },
       "ScheduledDateTime": "2017-07-24T02:27:43+02:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/89e32e8c-8589-37d0-b753-01fe9b23da8a",
+      "best": "http://data.doremus.org/expression/095ff2b2-7cbf-3330-b7c4-ca41e4e4e468",
       "best_matching_score": "0.99"
     },
     {
@@ -1511,7 +1513,7 @@
       },
       "ScheduledDateTime": "2017-07-24T02:36:11+02:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/89e32e8c-8589-37d0-b753-01fe9b23da8a",
+      "best": "http://data.doremus.org/expression/095ff2b2-7cbf-3330-b7c4-ca41e4e4e468",
       "best_matching_score": "0.99"
     },
     {
@@ -1763,10 +1765,10 @@
       },
       "ScheduledDateTime": "2017-07-24T03:02:25+02:00",
       "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
-      "best": "http://data.doremus.org/expression/5419172a-1987-3c4e-b01a-c616acba1fe5",
+      "best": "http://data.doremus.org/expression/858270de-9531-3acc-b782-a7c63575bda4",
       "best_matching_score": "1.00"
     }
   ],
   "total": 35,
-  "matched": 18
+  "matched": 19
 }

@@ -141,9 +141,9 @@
         }
       ],
       "ScheduledDateTime": "2017-07-17T00:04:52+02:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e",
-      "best": "http://data.doremus.org/expression/1e363789-6162-3c65-b004-d9cbb56e5191",
-      "best_matching_score": "0.97"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c",
+      "best": "http://data.doremus.org/expression/6c12e0d8-da91-39f9-b1ff-56647f433fe3",
+      "best_matching_score": "0.93"
     },
     {
       "id": "5",
@@ -640,7 +640,7 @@
         }
       ],
       "ScheduledDateTime": "2017-07-17T00:43:05+02:00",
-      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1"
+      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127"
     },
     {
       "id": "14",
@@ -1274,7 +1274,7 @@
         }
       ],
       "ScheduledDateTime": "2017-07-17T01:35:54+02:00",
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
       "best": "http://data.doremus.org/expression/42360f32-2025-3b09-a9a4-1c44b77463f4",
       "best_matching_score": "0.80"
     },
@@ -1323,7 +1323,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-07-17T01:42:48+02:00",
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
       "best": "http://data.doremus.org/expression/be412f7f-99eb-3178-921f-379a2d943844",
       "best_matching_score": "0.74"
     },
@@ -1938,7 +1938,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-07-17T02:36:25+02:00",
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
       "best": "http://data.doremus.org/expression/ec9a07b7-e0e7-3546-9991-42e45962aeff",
       "best_matching_score": "0.93"
     },
@@ -2123,10 +2123,7 @@
           "mop": "Batterie"
         }
       ],
-      "ScheduledDateTime": "2017-07-17T02:50:04+02:00",
-      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
-      "best": "http://data.doremus.org/expression/cc2d603b-1bdb-34d5-906b-6cf0e3097da8",
-      "best_matching_score": "0.97"
+      "ScheduledDateTime": "2017-07-17T02:50:04+02:00"
     },
     {
       "id": "46",
@@ -2242,5 +2239,5 @@
     }
   ],
   "total": 39,
-  "matched": 13
+  "matched": 12
 }

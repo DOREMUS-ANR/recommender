@@ -147,7 +147,7 @@
       },
       "ScheduledDateTime": "2016-12-12T09:07:11+01:00",
       "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
-      "best": "http://data.doremus.org/expression/10cdb8f9-8702-3c5e-9dde-94657bd1eaeb",
+      "best": "http://data.doremus.org/expression/e8729d63-0695-314e-8082-5ca585fc8905",
       "best_matching_score": "1.00"
     },
     {
@@ -308,7 +308,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2016-12-12T09:25:57+01:00",
-      "composer": "http://data.doremus.org/artist/74bdcaab-4bbe-3428-938a-280d894e0c03"
+      "composer": "http://data.doremus.org/artist/d82ba730-fb4d-377d-ae36-86157b00afa7"
     },
     {
       "id": "11",
@@ -352,7 +352,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2016-12-12T09:26:57+01:00",
-      "composer": "http://data.doremus.org/artist/74bdcaab-4bbe-3428-938a-280d894e0c03"
+      "composer": "http://data.doremus.org/artist/d82ba730-fb4d-377d-ae36-86157b00afa7"
     },
     {
       "id": "12",
@@ -562,7 +562,7 @@
       },
       "ScheduledDateTime": "2016-12-12T09:38:49+01:00",
       "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
-      "best": "http://data.doremus.org/expression/2629fc79-5dc7-3fc0-9ff8-c29bab3c7148",
+      "best": "http://data.doremus.org/expression/477d2dd4-018a-3073-a7b0-948df942e208",
       "best_matching_score": "1.00"
     },
     {
@@ -653,7 +653,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T09:43:33+01:00",
-      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899"
+      "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
+      "best": "http://data.doremus.org/expression/7c97636a-56f3-31df-9ab4-ae4ad2271be2",
+      "best_matching_score": "1.00"
     },
     {
       "id": "21",
@@ -756,7 +758,7 @@
         }
       ],
       "ScheduledDateTime": "2016-12-12T09:51:19+01:00",
-      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
+      "composer": "http://data.doremus.org/artist/a4e8f64d-3411-3eb4-8e09-59e24bc26bf3",
       "best": "http://data.doremus.org/expression/6caa458f-291b-36b8-af8e-d665e3a05476",
       "best_matching_score": "1.00"
     },
@@ -845,7 +847,7 @@
       "ScheduledDateTime": "2016-12-12T09:56:58+01:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
       "best": "http://data.doremus.org/expression/44d60392-e4bc-3b37-8e21-2f72d69ecd6d",
-      "best_matching_score": "0.92"
+      "best_matching_score": "0.93"
     },
     {
       "id": "25",
@@ -894,7 +896,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T10:01:37+01:00",
-      "composer": "http://data.doremus.org/artist/7ceb06da-85a9-3304-94d3-faa898948f82"
+      "composer": "http://data.doremus.org/artist/7ceb06da-85a9-3304-94d3-faa898948f82",
+      "best": "http://data.doremus.org/expression/17e8ae8f-1d78-3ee5-8a54-372b5eb12928",
+      "best_matching_score": "0.98"
     },
     {
       "id": "27",
@@ -1005,10 +1009,7 @@
         "FullName": "Guennadi Rojdestvenski",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2016-12-12T10:16:46+01:00",
-      "composer": "http://data.doremus.org/artist/47e04849-715e-3773-a2d1-a2ce2c7d320d",
-      "best": "http://data.doremus.org/expression/a6b4cbab-a64f-3679-a092-89f029385d5b",
-      "best_matching_score": "0.98"
+      "ScheduledDateTime": "2016-12-12T10:16:46+01:00"
     },
     {
       "id": "29",
@@ -1068,7 +1069,9 @@
         }
       ],
       "ScheduledDateTime": "2016-12-12T10:18:21+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
+      "best": "http://data.doremus.org/expression/bf2e3d7f-1c6c-392d-aea0-607e0a013c79",
+      "best_matching_score": "0.86"
     },
     {
       "id": "31",
@@ -1292,7 +1295,7 @@
       },
       "ScheduledDateTime": "2016-12-12T10:34:18+01:00",
       "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123",
-      "best": "http://data.doremus.org/expression/3e2f53df-5221-3f48-a85e-77d40cf9484c",
+      "best": "http://data.doremus.org/expression/ad13f2a3-b64a-31b0-be46-08d158a1264e",
       "best_matching_score": "0.99"
     },
     {
@@ -1339,7 +1342,7 @@
         "mop": "Guitare"
       },
       "ScheduledDateTime": "2016-12-12T10:51:35+01:00",
-      "composer": "http://data.doremus.org/artist/920a4c9d-68f0-36c8-88a9-a4c882171aa6"
+      "composer": "http://data.doremus.org/artist/f146b700-a150-3e31-a67d-70a2d41ca53f"
     },
     {
       "id": "39",
@@ -1487,7 +1490,9 @@
         }
       ],
       "ScheduledDateTime": "2016-12-12T10:57:07+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
+      "best": "http://data.doremus.org/expression/9998f89b-6052-3b6b-8b1e-27c16b756a87",
+      "best_matching_score": "0.94"
     },
     {
       "id": "42",
@@ -1754,7 +1759,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:10:50+01:00",
-      "composer": "http://data.doremus.org/artist/b76f2517-7fdf-3d6b-85f8-6c0e0694b837",
+      "composer": "http://data.doremus.org/artist/723b6f2c-0afa-3dcd-b20e-c4f428403a35",
       "best": "http://data.doremus.org/expression/a7a875ac-04aa-314e-81e7-ca4963e994f8",
       "best_matching_score": "0.94"
     },
@@ -1805,7 +1810,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:11:56+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "49",
@@ -1854,7 +1859,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:12:51+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "50",
@@ -1903,7 +1908,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:13:20+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "51",
@@ -1952,7 +1957,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:14:28+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "52",
@@ -2001,7 +2006,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:15:33+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "53",
@@ -2050,7 +2055,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:16:28+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "54",
@@ -2099,7 +2104,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:18:07+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "55",
@@ -2148,7 +2153,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:19:10+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "56",
@@ -2197,7 +2202,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:20:20+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "57",
@@ -2246,7 +2251,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:21:07+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "58",
@@ -2295,7 +2300,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:21:58+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "59",
@@ -2344,7 +2349,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:22:51+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "60",
@@ -2393,7 +2398,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:23:29+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "61",
@@ -2442,7 +2447,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:23:38+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "62",
@@ -2491,7 +2496,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:24:32+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "63",
@@ -2540,7 +2545,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:25:20+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "64",
@@ -2589,7 +2594,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:26:50+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "65",
@@ -2638,7 +2643,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:30:20+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "66",
@@ -2687,7 +2692,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:30:38+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "67",
@@ -2736,7 +2741,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:32:02+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "68",
@@ -2785,7 +2790,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:34:17+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "69",
@@ -2834,7 +2839,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:36:30+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "70",
@@ -2883,7 +2888,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:37:20+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "71",
@@ -2932,7 +2937,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:37:41+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "72",
@@ -2981,7 +2986,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:40:01+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "73",
@@ -3030,7 +3035,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:42:11+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "74",
@@ -3079,7 +3084,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:43:21+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "75",
@@ -3128,7 +3133,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:45:35+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "76",
@@ -3177,7 +3182,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:46:37+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "77",
@@ -3226,7 +3231,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:47:04+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "78",
@@ -3275,7 +3280,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:48:54+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "79",
@@ -3324,7 +3329,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:49:20+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "80",
@@ -3373,7 +3378,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:49:32+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "81",
@@ -3422,7 +3427,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:51:01+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "82",
@@ -3471,7 +3476,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:51:50+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "83",
@@ -3520,7 +3525,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:52:37+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "84",
@@ -3569,7 +3574,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:54:32+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "85",
@@ -3618,7 +3623,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:54:47+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     },
     {
       "id": "86",
@@ -3667,9 +3672,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:58:01+01:00",
-      "composer": "http://data.doremus.org/artist/5bdba233-9bdf-3c43-a561-5583537389a5"
+      "composer": "http://data.doremus.org/artist/22acd7b0-bca0-34aa-8882-0ceed48be0d4"
     }
   ],
   "total": 72,
-  "matched": 12
+  "matched": 15
 }

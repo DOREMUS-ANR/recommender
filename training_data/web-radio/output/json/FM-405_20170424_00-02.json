@@ -1260,7 +1260,9 @@
         }
       ],
       "ScheduledDateTime": "2017-04-24T01:47:21+02:00",
-      "composer": "http://data.doremus.org/artist/062d866b-f68e-3b7f-9c85-143ec2a45cc8"
+      "composer": "http://data.doremus.org/artist/0b03edf6-c257-3911-9d73-48fe7eed6c1b",
+      "best": "http://data.doremus.org/expression/b0763e93-fa80-31aa-91df-1af7defec741",
+      "best_matching_score": "0.91"
     },
     {
       "id": "30",
@@ -2208,5 +2210,5 @@
     }
   ],
   "total": 39,
-  "matched": 1
+  "matched": 2
 }

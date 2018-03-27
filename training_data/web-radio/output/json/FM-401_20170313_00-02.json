@@ -221,8 +221,8 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-03-13T00:18:23+01:00",
-      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
-      "best": "http://data.doremus.org/expression/6caa458f-291b-36b8-af8e-d665e3a05476",
+      "composer": "http://data.doremus.org/artist/a4e8f64d-3411-3eb4-8e09-59e24bc26bf3",
+      "best": "http://data.doremus.org/expression/d547e458-a447-3ede-b664-3fb109c0fef0",
       "best_matching_score": "1.00"
     },
     {
@@ -326,7 +326,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-03-13T00:23:05+01:00",
-      "composer": "http://data.doremus.org/artist/754b3d18-3d0a-364b-b8b8-bbfd85b4d88a",
+      "composer": "http://data.doremus.org/artist/8591e657-6915-39af-a3ec-3715d0be8cb8",
       "best": "http://data.doremus.org/expression/1296568b-1b37-3077-b67c-81b4b7187fcc",
       "best_matching_score": "1.00"
     },
@@ -486,7 +486,9 @@
         }
       ],
       "ScheduledDateTime": "2017-03-13T00:39:11+01:00",
-      "composer": "http://data.doremus.org/artist/bc34d2db-b9ac-32aa-be95-95a21ef9c297"
+      "composer": "http://data.doremus.org/artist/bc34d2db-b9ac-32aa-be95-95a21ef9c297",
+      "best": "http://data.doremus.org/expression/bd0927a8-dccd-30ee-8738-14ff45109ca0",
+      "best_matching_score": "1.00"
     },
     {
       "id": "13",
@@ -589,7 +591,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-03-13T00:45:41+01:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c"
     },
     {
       "id": "16",
@@ -638,7 +640,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-03-13T00:51:02+01:00",
-      "composer": "http://data.doremus.org/artist/a3e06c5c-4d9d-323a-a3e9-5121acb70d3e"
+      "composer": "http://data.doremus.org/artist/4b43a26b-1a44-3d19-b257-758661f4859c"
     },
     {
       "id": "17",
@@ -1389,7 +1391,7 @@
         "mop": "Orgue positif"
       },
       "ScheduledDateTime": "2017-03-13T01:57:58+01:00",
-      "composer": "http://data.doremus.org/artist/14970460-189f-3593-a550-7bceb778072e",
+      "composer": "http://data.doremus.org/artist/473716cf-671b-3b7a-b6cc-d22325f1e835",
       "best": "http://data.doremus.org/expression/9b5113e4-59de-3f63-8111-bdb6bdf7fe93",
       "best_matching_score": "1.00"
     },
@@ -1553,7 +1555,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-03-13T02:11:34+01:00",
-      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
+      "composer": "http://data.doremus.org/artist/a4e8f64d-3411-3eb4-8e09-59e24bc26bf3",
       "best": "http://data.doremus.org/expression/e953e674-4c79-3e03-8512-68cc4dc4ccba",
       "best_matching_score": "1.00"
     },
@@ -1602,7 +1604,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-03-13T02:17:24+01:00",
-      "composer": "http://data.doremus.org/artist/3ed4f326-18a2-3cc1-bc8b-3d5d41d0c1dd"
+      "composer": "http://data.doremus.org/artist/8ea5dbb9-03f1-3bf3-bada-90b85750d1f1"
     },
     {
       "id": "38",
@@ -2009,7 +2011,7 @@
       "ScheduledDateTime": "2017-03-13T02:35:20+01:00",
       "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/38f09874-ac64-39e6-9240-5a12057e67c8",
-      "best_matching_score": "0.96"
+      "best_matching_score": "0.99"
     },
     {
       "id": "46",
@@ -2512,9 +2514,9 @@
         "EntityType": "Choeur"
       },
       "ScheduledDateTime": "2017-03-13T03:06:32+01:00",
-      "composer": "http://data.doremus.org/artist/5813bca1-0cfe-35ae-a528-1824eb9070f6"
+      "composer": "http://data.doremus.org/artist/5eeca621-0574-3bc8-83be-919777226017"
     }
   ],
   "total": 47,
-  "matched": 29
+  "matched": 30
 }

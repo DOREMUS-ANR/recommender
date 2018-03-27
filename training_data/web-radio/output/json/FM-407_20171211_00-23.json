@@ -201,7 +201,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-12-11T00:16:36+01:00",
-      "composer": "http://data.doremus.org/artist/91241c0b-2878-3b5d-8a6d-36289c12f287"
+      "composer": "http://data.doremus.org/artist/fed157ec-2f46-320b-8a5b-bff1da0c910e"
     },
     {
       "id": "8",
@@ -825,7 +825,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-11T00:54:26+01:00",
-      "composer": "http://data.doremus.org/artist/4bb4caff-600b-322b-9b8b-ef0d41d4a61f"
+      "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
+      "best": "http://data.doremus.org/expression/9998f89b-6052-3b6b-8b1e-27c16b756a87",
+      "best_matching_score": "0.94"
     },
     {
       "id": "23",
@@ -1283,7 +1285,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-12-11T01:26:15+01:00",
-      "composer": "http://data.doremus.org/artist/91241c0b-2878-3b5d-8a6d-36289c12f287"
+      "composer": "http://data.doremus.org/artist/fed157ec-2f46-320b-8a5b-bff1da0c910e"
     },
     {
       "id": "35",
@@ -1671,7 +1673,7 @@
         }
       ],
       "ScheduledDateTime": "2017-12-11T01:46:27+01:00",
-      "composer": "http://data.doremus.org/artist/cd876b1f-63b7-379f-b5e9-f64bbd8dbde9"
+      "composer": "http://data.doremus.org/artist/8ac9ca76-6c46-3cd7-a4ed-4eaa9a1a5e15"
     },
     {
       "id": "44",
@@ -1802,8 +1804,7 @@
         "EntityName": "Henri Mancini And His Orchestra",
         "EntityType": "Orchestre"
       },
-      "ScheduledDateTime": "2017-12-11T02:02:31+01:00",
-      "composer": "http://data.doremus.org/artist/f812bcfb-a58b-38cd-8600-bd93f2b03672"
+      "ScheduledDateTime": "2017-12-11T02:02:31+01:00"
     },
     {
       "id": "48",
@@ -1883,7 +1884,8 @@
         "FullName": "Michael Giacchino",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-12-11T02:07:41+01:00"
+      "ScheduledDateTime": "2017-12-11T02:07:41+01:00",
+      "composer": "http://data.doremus.org/artist/9e4da172-4606-3332-954e-59dfed4bcfb5"
     },
     {
       "id": "50",
@@ -2069,7 +2071,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-11T02:24:09+01:00",
-      "composer": "http://data.doremus.org/artist/b676acbe-b7d1-369e-a6f0-f7df7375c593"
+      "composer": "http://data.doremus.org/artist/d5831e3d-cd56-3466-ac3a-6d2b61b8c8db"
     },
     {
       "id": "55",
@@ -2119,7 +2121,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-11T02:28:06+01:00",
-      "composer": "http://data.doremus.org/artist/b676acbe-b7d1-369e-a6f0-f7df7375c593"
+      "composer": "http://data.doremus.org/artist/d5831e3d-cd56-3466-ac3a-6d2b61b8c8db"
     },
     {
       "id": "56",
@@ -2159,7 +2161,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-12-11T02:30:36+01:00",
-      "composer": "http://data.doremus.org/artist/142feeef-c325-3041-8cf6-370e93e61845"
+      "composer": "http://data.doremus.org/artist/142feeef-c325-3041-8cf6-370e93e61845",
+      "best": "http://data.doremus.org/expression/789fa3bf-fdaa-348d-ae84-ca1132cc0745",
+      "best_matching_score": "1.00"
     },
     {
       "id": "57",
@@ -2462,9 +2466,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-11T03:01:05+01:00",
-      "composer": "http://data.doremus.org/artist/35ddad40-c793-312a-86ec-6a1310c030a1"
+      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127"
     }
   ],
   "total": 54,
-  "matched": 0
+  "matched": 2
 }

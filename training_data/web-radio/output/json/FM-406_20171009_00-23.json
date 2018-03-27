@@ -1455,7 +1455,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-09T02:38:22+02:00",
-      "composer": "http://data.doremus.org/artist/2267aa34-8eb3-378f-bc51-c84c006ecd1d"
+      "composer": "http://data.doremus.org/artist/5de4573c-ebe5-3588-ba16-91365878855c",
+      "best": "http://data.doremus.org/expression/a77d37d1-dbe5-3d8b-96c1-18d79c43fd60",
+      "best_matching_score": "1.00"
     },
     {
       "id": "36",
@@ -1505,5 +1507,5 @@
     }
   ],
   "total": 28,
-  "matched": 17
+  "matched": 18
 }

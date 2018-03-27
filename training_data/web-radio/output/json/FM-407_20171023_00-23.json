@@ -799,7 +799,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-23T00:48:22+02:00",
-      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040",
+      "best": "http://data.doremus.org/expression/7e74f8c0-18b4-3810-8fb6-393344b3bf59",
+      "best_matching_score": "1.00"
     },
     {
       "id": "24",
@@ -883,7 +885,8 @@
         "FullName": "Ryuichi Sakamoto",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-10-23T00:54:19+02:00"
+      "ScheduledDateTime": "2017-10-23T00:54:19+02:00",
+      "composer": "http://data.doremus.org/artist/285f11eb-6e37-3939-9c83-218ea256d2f3"
     },
     {
       "id": "26",
@@ -922,7 +925,8 @@
         "FullName": "Ryuichi Sakamoto",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-10-23T00:56:23+02:00"
+      "ScheduledDateTime": "2017-10-23T00:56:23+02:00",
+      "composer": "http://data.doremus.org/artist/285f11eb-6e37-3939-9c83-218ea256d2f3"
     },
     {
       "id": "28",
@@ -963,7 +967,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-23T00:59:33+02:00",
-      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040",
+      "best": "http://data.doremus.org/expression/08fb2e62-5329-3d0a-b7c9-f968044ada89",
+      "best_matching_score": "1.00"
     },
     {
       "id": "29",
@@ -1997,7 +2003,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-23T02:27:31+02:00",
-      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040",
+      "best": "http://data.doremus.org/expression/cc139d52-4557-3605-b93b-1cef8cee7fa8",
+      "best_matching_score": "0.88"
     },
     {
       "id": "55",
@@ -2085,10 +2093,9 @@
         "Profession": "Interprète",
         "InterventionNote": "Divers"
       },
-      "ScheduledDateTime": "2017-10-23T02:48:44+02:00",
-      "composer": "http://data.doremus.org/artist/61c8afe6-5918-3088-b975-806d2686858b"
+      "ScheduledDateTime": "2017-10-23T02:48:44+02:00"
     }
   ],
   "total": 46,
-  "matched": 0
+  "matched": 3
 }

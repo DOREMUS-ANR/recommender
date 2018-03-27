@@ -2,7 +2,7 @@
   "user": "spotify",
   "id": "37i9dQZF1DX6K3W8KBiALe",
   "name": "Classical Moments in Movies",
-  "followers": 90179,
+  "followers": 108444,
   "tracks": [
     {
       "artists": [
@@ -14,7 +14,7 @@
       "id": "6l6gch6dBX1VWdIVTaGGpr",
       "trackNum": 6,
       "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
-      "best": "http://data.doremus.org/expression/d455bf3c-9ce7-39da-b518-236bd378080a",
+      "best": "http://data.doremus.org/expression/80e63f94-5c29-3215-9bb0-5a43d35fefcf",
       "best_matching_score": "1.00"
     },
     {
@@ -42,7 +42,7 @@
       "album": "The Pianist (Original Motion Picture Soundtrack)",
       "id": "664fcA80WZzNL7uJWcCkLe",
       "trackNum": 1,
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
       "best": "http://data.doremus.org/expression/5cb0fac2-027d-3bf1-8abc-69a9e890ee84",
       "best_matching_score": "1.00"
     },
@@ -64,7 +64,8 @@
       "title": "An der schönen blauen Donau, Op.314",
       "album": "2001 - A Space Odyssey",
       "id": "5siXMmAafNxDlgcsLsqL9R",
-      "trackNum": 4
+      "trackNum": 4,
+      "composer": "http://data.doremus.org/artist/6a66bd4b-bc35-3ffc-98ee-38b5cc49affa"
     },
     {
       "artists": [
@@ -76,7 +77,9 @@
       "album": "The King's Speech OST",
       "id": "4EcOBeGY1r0j26Z8FJ1nVZ",
       "trackNum": 12,
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/ef22a97d-7053-33e4-90ae-cdebe8d40656",
+      "best_matching_score": "0.92"
     },
     {
       "artists": [
@@ -119,7 +122,7 @@
       "id": "25iYMuutdrsscCNgOFe4Rj",
       "trackNum": 19,
       "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
-      "best": "http://data.doremus.org/expression/3c11a1b9-f77d-3de6-8493-06906f42e2c0",
+      "best": "http://data.doremus.org/expression/a0192a69-92f0-3875-9273-c771a50e807c",
       "best_matching_score": "0.93"
     },
     {
@@ -134,14 +137,12 @@
     },
     {
       "artists": [
-        "Antonio Vivaldi",
         "The London Metropolitan Ensemble"
       ],
       "title": "Stabat Mater (excerpt) - Alternate Version",
       "album": "The Talented Mr. Ripley - Music from The Motion Picture",
       "id": "6WuIVj9gYbIUWxx3Okglsg",
-      "trackNum": 18,
-      "composer": "http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0"
+      "trackNum": 18
     },
     {
       "artists": [
@@ -152,7 +153,9 @@
       "album": "Immortal Beloved Soundtrack",
       "id": "2zSiV8Ze0yyrFtbVzX2Ytg",
       "trackNum": 8,
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/0ed18cd8-5808-3e5c-a550-726489a8e240",
+      "best_matching_score": "0.97"
     },
     {
       "artists": [
@@ -161,13 +164,13 @@
         "Jacqueline du Pré",
         "Philadelphia Orchestra"
       ],
-      "title": "Concerto for Cello and Orchestra in E Minor, Op. 85: III. Adagio",
+      "title": "Cello Concerto in E Minor, Op. 85: III. Adagio",
       "album": "Hilary and Jackie - Music from the Motion Picture",
       "id": "0rIac8mqqnUu7g200X3zP2",
       "trackNum": 10,
       "composer": "http://data.doremus.org/artist/587fe034-c58f-3def-934c-0e0ac572ae06",
       "best": "http://data.doremus.org/expression/130f50e9-74b9-3e20-8834-804f70187f93",
-      "best_matching_score": "0.95"
+      "best_matching_score": "1.00"
     },
     {
       "artists": [
@@ -185,17 +188,12 @@
     },
     {
       "artists": [
-        "George Gershwin",
-        "Gary Graffman",
-        "New York Philharmonic"
+        "Gary Graffman"
       ],
-      "title": "Rhapsody in Blue - Instrumental",
+      "title": "Rhapsody in Blue",
       "album": "Manhattan: Original Motion Picture Soundtrack",
       "id": "4DRwOy4g0Y7smOS9hJrSps",
-      "trackNum": 1,
-      "composer": "http://data.doremus.org/artist/5b2ec204-a456-3aa2-8ac7-25305464add8",
-      "best": "http://data.doremus.org/expression/bf957ff7-af9b-3c67-b9f4-3c8b374caaf3",
-      "best_matching_score": "1.00"
+      "trackNum": 1
     },
     {
       "artists": [
@@ -286,7 +284,7 @@
         "Gilvan de Oliveira"
       ],
       "title": "Die Gitarrenprobe (Arr. After Jesus bleibet meine Freude, BWV 147) - Arr. By Gilvan De Oliveira",
-      "album": "Bach in Brazil (Original Soundtrack)",
+      "album": "Bach in Brazil (Original Motion Picture Soundtrack) [Original Soundtrack]",
       "id": "21Lig0KA3GHOQiT2KITjau",
       "trackNum": 5,
       "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b"
@@ -337,7 +335,9 @@
       "album": "The Man Who Wasn't There - OST",
       "id": "5hhzZtsoIWhRoh61kPazsu",
       "trackNum": 14,
-      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
+      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
+      "best": "http://data.doremus.org/expression/fee2d79e-8d75-3ef1-9272-6dc0ddb7e6a3",
+      "best_matching_score": "0.99"
     },
     {
       "artists": [
@@ -361,8 +361,8 @@
       "album": "Quartet (Original Motion Picture Soundtrack)",
       "id": "1m0qiTPNvlgLRyFuOzExJ9",
       "trackNum": 7,
-      "composer": "http://data.doremus.org/artist/499c5737-529f-32a1-9284-7d99b73b1be3",
-      "best": "http://data.doremus.org/expression/6caa458f-291b-36b8-af8e-d665e3a05476",
+      "composer": "http://data.doremus.org/artist/a4e8f64d-3411-3eb4-8e09-59e24bc26bf3",
+      "best": "http://data.doremus.org/expression/d547e458-a447-3ede-b664-3fb109c0fef0",
       "best_matching_score": "1.00"
     },
     {
@@ -376,14 +376,12 @@
       "id": "3Vo5NwAezmRMP2aH2xQVm1",
       "trackNum": 20,
       "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
-      "best": "http://data.doremus.org/expression/2beea861-be6b-3693-8d9e-1fc5835d274f",
+      "best": "http://data.doremus.org/expression/2c660b0b-9359-3060-bf65-26ba04db9476",
       "best_matching_score": "0.93"
     },
     {
       "artists": [
         "Giacomo Puccini",
-        "Giuseppe Adami",
-        "Renato Simoni",
         "Paul Potts",
         "Carmine Lauri",
         "David Snell"
@@ -466,35 +464,27 @@
       "album": "The Good Shepherd (Original Motion Picture Soundtrack)",
       "id": "2xPwUJ02U0lAPPIrF5Nr8Z",
       "trackNum": 27,
-      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
-      "best": "http://data.doremus.org/expression/74187b71-e3ae-3ed6-9d7f-22e87ad6d05a",
+      "composer": "http://data.doremus.org/artist/aa8eafd4-28a5-35c1-8c8b-2e0284f23eda",
+      "best": "http://data.doremus.org/expression/127b65aa-4f83-3554-bf97-f4f86ad41616",
       "best_matching_score": "1.00"
     },
     {
       "artists": [
-        "Franz Schubert",
         "Clare Hammond"
       ],
       "title": "Impromptu No. 3 in G-Flat Major, Op.90, D 899",
       "album": "The Lady in the Van (Original Motion Picture Soundtrack)",
       "id": "4wfQloMIfnbW205v8fh3nC",
-      "trackNum": 21,
-      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/90d4709b-b612-3653-a699-db5932406796",
-      "best_matching_score": "0.97"
+      "trackNum": 21
     },
     {
       "artists": [
-        "Frédéric Chopin",
         "Daniela Jakubowicz"
       ],
       "title": "Nocturne in E-Flat Major, Op. 9, No. 2",
       "album": "Hands of Stone (Original Motion Picture Soundtrack)",
       "id": "6UXdpxKebkZYtS9X8HY2QS",
-      "trackNum": 7,
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
-      "best": "http://data.doremus.org/expression/c0b0c8d7-5f16-3504-a88a-30b7a54aa235",
-      "best_matching_score": "0.96"
+      "trackNum": 7
     },
     {
       "artists": [
@@ -507,7 +497,7 @@
       "album": "Combien tu m'aimes [Original Soundtrack Recording]",
       "id": "1XMnmZMaiepmwNQv9lNXZx",
       "trackNum": 7,
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6",
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
       "best": "http://data.doremus.org/expression/285c4c34-5284-3b9f-9281-715033304f92",
       "best_matching_score": "0.97"
     },
@@ -519,8 +509,8 @@
       "album": "Mother Night (Original Motion Picture Soundtrack)",
       "id": "2ux87ulIxFZMgr7843eoJt",
       "trackNum": 8,
-      "composer": "http://data.doremus.org/artist/0b448b47-7bb5-36cd-843d-c2a4e3b5cd83",
-      "best": "http://data.doremus.org/expression/cdcf8bb9-fe3a-33e2-8aee-bda2f6ba96ba",
+      "composer": "http://data.doremus.org/artist/aa8eafd4-28a5-35c1-8c8b-2e0284f23eda",
+      "best": "http://data.doremus.org/expression/911d9229-26c6-3e0f-ba0f-b8b919b25b31",
       "best_matching_score": "1.00"
     },
     {
@@ -532,7 +522,7 @@
       "album": "The Truman Show",
       "id": "1yAvn8CD3gA8qyP6ZWwzdu",
       "trackNum": 8,
-      "composer": "http://data.doremus.org/artist/62348fad-974d-38db-a5a7-505f6a7a7db6"
+      "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123"
     },
     {
       "artists": [
@@ -553,7 +543,8 @@
       "title": "Concerto For Clarinet & String Orchestra",
       "album": "The War, A Ken Burns Film, The Soundtrack",
       "id": "7jmaYAqOm1jV782F84HeDI",
-      "trackNum": 15
+      "trackNum": 15,
+      "composer": "http://data.doremus.org/artist/b9daf851-63d6-37a1-83e9-8846ee151b3d"
     },
     {
       "artists": [
@@ -579,8 +570,8 @@
       "id": "4Xp9cm67pwc2kbBDGbtd3j",
       "trackNum": 11,
       "composer": "http://data.doremus.org/artist/15871fdd-5523-3f09-beb2-82cdd26c2766",
-      "best": "http://data.doremus.org/expression/858421ac-c50a-310e-9310-96c1d237652b",
-      "best_matching_score": "0.96"
+      "best": "http://data.doremus.org/expression/1a410876-006e-33f0-86d0-b26debffed79",
+      "best_matching_score": "0.95"
     },
     {
       "artists": [

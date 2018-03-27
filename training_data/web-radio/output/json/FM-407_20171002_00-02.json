@@ -546,7 +546,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-02T00:44:21+02:00",
-      "composer": "http://data.doremus.org/artist/8f760a28-d0d8-3c9f-bc15-995df141cc30"
+      "composer": "http://data.doremus.org/artist/8b9a3629-8a81-3ef4-8a6f-1efa3ad8601a"
     },
     {
       "id": "16",
@@ -619,7 +619,7 @@
         }
       ],
       "ScheduledDateTime": "2017-10-02T00:46:44+02:00",
-      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+      "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf"
     },
     {
       "id": "18",
@@ -669,7 +669,7 @@
       },
       "ScheduledDateTime": "2017-10-02T00:49:35+02:00",
       "composer": "http://data.doremus.org/artist/b8cc85c8-20ad-3dda-901f-461042c7d710",
-      "best": "http://data.doremus.org/expression/9c8d9c92-b3a7-3f68-8b8b-cb720c46b3a4",
+      "best": "http://data.doremus.org/expression/20314a38-7d90-36f3-9f61-aa51df8da363",
       "best_matching_score": "1.00"
     },
     {
@@ -900,7 +900,9 @@
         "InterventionNote": "Divers"
       },
       "ScheduledDateTime": "2017-10-02T01:03:59+02:00",
-      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040",
+      "best": "http://data.doremus.org/expression/c8ffa14e-c0b3-320d-afe0-4138ada29bb4",
+      "best_matching_score": "0.83"
     },
     {
       "id": "25",
@@ -941,7 +943,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-02T01:10:32+02:00",
-      "composer": "http://data.doremus.org/artist/cfb1b272-3036-3e67-be3b-cd478aacfb5f"
+      "composer": "http://data.doremus.org/artist/45d40e2a-bd4a-3829-b0c7-8cd44417e1d0"
     },
     {
       "id": "26",
@@ -1324,7 +1326,8 @@
         "Profession": "Interprète",
         "InterventionNote": "Ryuichi Sakamoto"
       },
-      "ScheduledDateTime": "2017-10-02T01:32:03+02:00"
+      "ScheduledDateTime": "2017-10-02T01:32:03+02:00",
+      "composer": "http://data.doremus.org/artist/285f11eb-6e37-3939-9c83-218ea256d2f3"
     },
     {
       "id": "35",
@@ -1785,7 +1788,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-02T02:19:43+02:00",
-      "composer": "http://data.doremus.org/artist/8f760a28-d0d8-3c9f-bc15-995df141cc30"
+      "composer": "http://data.doremus.org/artist/8b9a3629-8a81-3ef4-8a6f-1efa3ad8601a"
     },
     {
       "id": "47",
@@ -1826,7 +1829,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-10-02T02:23:13+02:00",
-      "composer": "http://data.doremus.org/artist/08227d5f-2048-314d-9e05-ae14c28ec8cb"
+      "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf",
+      "best": "http://data.doremus.org/expression/e8a8f8d3-08c4-32de-849a-219c0781358e",
+      "best_matching_score": "1.00"
     },
     {
       "id": "48",
@@ -1870,7 +1875,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-02T02:25:17+02:00",
-      "composer": "http://data.doremus.org/artist/cd6e18c7-a0da-3c3d-91ce-ac68eb7a4226"
+      "composer": "http://data.doremus.org/artist/31fb357e-fd0a-3119-96f3-d61e943702f5"
     },
     {
       "id": "49",
@@ -2473,5 +2478,5 @@
     }
   ],
   "total": 54,
-  "matched": 5
+  "matched": 7
 }

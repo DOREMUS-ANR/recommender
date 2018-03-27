@@ -244,7 +244,9 @@
         }
       ],
       "ScheduledDateTime": "2017-08-07T00:26:43+02:00",
-      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73"
+      "composer": "http://data.doremus.org/artist/06362f05-8225-3431-ad18-32075bcf5d73",
+      "best": "http://data.doremus.org/expression/f1661fde-de13-3cc6-a2c0-b41267d45c1c",
+      "best_matching_score": "1.00"
     },
     {
       "id": "12",
@@ -624,7 +626,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T00:44:12+02:00",
-      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040"
+      "composer": "http://data.doremus.org/artist/40ebbc9d-1cd3-383f-9683-5201184fe040",
+      "best": "http://data.doremus.org/expression/e8e0577b-f211-3d6c-9b32-ea6879382924",
+      "best_matching_score": "1.00"
     },
     {
       "id": "21",
@@ -778,7 +782,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T01:08:27+02:00",
-      "composer": "http://data.doremus.org/artist/a895b8f9-e3aa-369d-b62f-5f7c0ba00e92",
+      "composer": "http://data.doremus.org/artist/e4cb7f31-609d-34ec-86c7-00a8fe03486f",
       "best": "http://data.doremus.org/expression/7bcbb7ea-917f-3423-b33e-fb6324b4fad7",
       "best_matching_score": "1.00"
     },
@@ -938,7 +942,7 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2017-08-07T01:56:40+02:00",
-      "composer": "http://data.doremus.org/artist/60eba381-f3fc-38e4-841b-de8f090d1eea",
+      "composer": "http://data.doremus.org/artist/ac36a523-19db-396f-af2d-4cae3dd35234",
       "best": "http://data.doremus.org/expression/8c248be1-6c47-3d2a-b073-2b5317a161a6",
       "best_matching_score": "1.00"
     },
@@ -1004,7 +1008,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T01:59:40+02:00",
-      "composer": "http://data.doremus.org/artist/4081d1c4-0b8e-39f1-bec9-63648ece4c7c"
+      "composer": "http://data.doremus.org/artist/a1934e8b-a590-34b2-a74b-97e6bbd942aa"
     },
     {
       "id": "36",
@@ -1062,7 +1066,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T02:09:08+02:00",
-      "composer": "http://data.doremus.org/artist/4081d1c4-0b8e-39f1-bec9-63648ece4c7c"
+      "composer": "http://data.doremus.org/artist/a1934e8b-a590-34b2-a74b-97e6bbd942aa"
     },
     {
       "id": "37",
@@ -1126,7 +1130,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T02:14:35+02:00",
-      "composer": "http://data.doremus.org/artist/4081d1c4-0b8e-39f1-bec9-63648ece4c7c"
+      "composer": "http://data.doremus.org/artist/a1934e8b-a590-34b2-a74b-97e6bbd942aa"
     },
     {
       "id": "39",
@@ -1185,7 +1189,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-07T02:20:36+02:00",
-      "composer": "http://data.doremus.org/artist/5459e620-8ce1-3418-a1b1-78d22fd16825"
+      "composer": "http://data.doremus.org/artist/49b7c490-1768-380b-b051-372eb7c567b8",
+      "best": "http://data.doremus.org/expression/435a6fe2-feee-3488-8401-946d5de9e958",
+      "best_matching_score": "1.00"
     },
     {
       "id": "42",
@@ -1290,7 +1296,10 @@
           "InterventionNote": "American Contemporary Music Ensemble"
         }
       ],
-      "ScheduledDateTime": "2017-08-07T02:41:10+02:00"
+      "ScheduledDateTime": "2017-08-07T02:41:10+02:00",
+      "composer": "http://data.doremus.org/artist/7de3ad2e-600e-3a7e-914d-f78db72c233b",
+      "best": "http://data.doremus.org/expression/754f3783-7f27-342f-bcf3-d36db7cfe395",
+      "best_matching_score": "1.00"
     },
     {
       "id": "46",
@@ -1374,7 +1383,10 @@
           "mop": "Violoncelle"
         }
       ],
-      "ScheduledDateTime": "2017-08-07T02:52:24+02:00"
+      "ScheduledDateTime": "2017-08-07T02:52:24+02:00",
+      "composer": "http://data.doremus.org/artist/7de3ad2e-600e-3a7e-914d-f78db72c233b",
+      "best": "http://data.doremus.org/expression/754f3783-7f27-342f-bcf3-d36db7cfe395",
+      "best_matching_score": "1.00"
     },
     {
       "id": "47",
@@ -1458,9 +1470,12 @@
           "mop": "Violoncelle"
         }
       ],
-      "ScheduledDateTime": "2017-08-07T02:57:39+02:00"
+      "ScheduledDateTime": "2017-08-07T02:57:39+02:00",
+      "composer": "http://data.doremus.org/artist/7de3ad2e-600e-3a7e-914d-f78db72c233b",
+      "best": "http://data.doremus.org/expression/754f3783-7f27-342f-bcf3-d36db7cfe395",
+      "best_matching_score": "1.00"
     }
   ],
   "total": 24,
-  "matched": 10
+  "matched": 16
 }

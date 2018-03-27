@@ -62,8 +62,7 @@ module.exports = function(composer, title, cb = noop) {
       OPTIONAL { ?expression mus:U11_has_key / skos:prefLabel ?key }
       ?expCreation efrbroo:R17_created ?expression;
               ecrm:P9_consists_of / ecrm:P14_carried_out_by <${composerUri}> .
-    }`;
-
+      }`;
       return sparqlExec(sparql).then((data) => {
         // console.log(composer, '|', title);
         let output = {

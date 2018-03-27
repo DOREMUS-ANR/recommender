@@ -9,7 +9,8 @@ const fs = require('fs'),
   noop = require('node-noop').noop,
   Track = require('./Track'),
   matcher = require('../matcher.js'),
-  spotifyAuth = require('./spotifyAuth');
+  spotifyAuth = require('./spotifyAuth'),
+  path = require('path');
 
 const config = require('./config.json');
 
@@ -32,14 +33,18 @@ var {
 var spotifyApi;
 spotifyAuth.login(run);
 
+var outputPath = path.join(__dirname, 'output/playlists/json/');
+
 function run(err, api) {
   if (err) return console.error(err);
   spotifyApi = api;
 
-  async.map(playlists, (playlist, callback) => {
-    let outPath = `output/playlists/json/${playlist.id}.json`;
+  async.mapSeries(playlists, (playlist, callback) => {
+    let outPath = path.join(outputPath, `${playlist.id}.json`);
     if (!full && fs.existsSync(outPath))
       return callback();
+
+    console.log(playlist.id);
 
     spotifyApi
       .getPlaylist(playlist.user, playlist.id)
