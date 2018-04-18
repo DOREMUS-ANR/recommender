@@ -8,8 +8,10 @@ from sklearn.decomposition import PCA
 import sklearn.preprocessing as skpreprocess
 
 
-import config as cs
-from .config import config
+# import config as cs
+import common.config as cs
+
+config = cs.getConfig()
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
