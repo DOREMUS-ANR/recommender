@@ -14,6 +14,7 @@ let expressionScores = [],
 fs.readdirSync(main_dir).forEach(file => {
   let pl = jsonfile.readFileSync(main_dir + file);
   let pl_id = pl.id;
+  let pl_name = pl.name
   console.log('Loaded ' + pl_id);
 
   let records = takeDistinctFrom(pl.tracks, r => r.best || r.album);
@@ -31,7 +32,7 @@ fs.readdirSync(main_dir).forEach(file => {
     if (list.length < 8) continue;
 
     let folder = path.join(list_dir, what);
-    let filename = `${file.replace('.json', '')}.${what}.txt`;
+    let filename = `${file.replace('.json', '')}.${pl_name}.${what}.txt`;
 
     fs.ensureDirSync(folder);
     fs.writeFileSync(path.join(folder, filename), list.join('\n'));

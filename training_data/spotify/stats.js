@@ -2,13 +2,17 @@ const fs = require('fs');
 const path = require('path');
 const TSV = require('tsv');
 
-var folder = 'output/playlists';
+var outFolder = path.join(__dirname, 'output/');
+var folder = path.join(outFolder, 'playlists', 'json');
+
 fs.readdir(folder, (err, files) => {
   if (err)
     return console.error("Could not list the directory.", err);
 
   var table = [];
   files.forEach((file, index) => {
+    if(!file.endsWith('.json')) return;
+
     // Make one pass and make the file complete
     var filePath = path.join(folder, file);
 
@@ -38,6 +42,6 @@ fs.readdir(folder, (err, files) => {
   });
   table.push(total);
 
-  fs.writeFileSync('output/stats.tsv', TSV.stringify(table));
+  fs.writeFileSync(path.join(outFolder, 'stats.tsv'), TSV.stringify(table));
 
 });

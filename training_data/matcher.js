@@ -50,7 +50,8 @@ module.exports = function(composer, title, cb = noop) {
       let tokens = extractTokens(title, composerUri);
       let sparql = `SELECT DISTINCT * WHERE {
       ?titleProp rdfs:subPropertyOf dc:title .
-      ?expression ?titleProp ?title .
+      ?expression a efrbroo:F22_Self-Contained_Expression ;
+                ?titleProp ?title .
       OPTIONAL {  ?expression mus:U16_has_catalogue_statement  ?catStat.
                   ?catStat mus:U40_has_catalogue_name / modsrdf:identifier ?catLabel;
                            mus:U41_has_catalogue_number ?catNum

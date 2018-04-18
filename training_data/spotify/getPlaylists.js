@@ -4,7 +4,7 @@
  * and interlink them with DOREMUS
  *********************************/
 
-const fs = require('fs'),
+const fs = require('fs-extra'),
   async = require('async'),
   noop = require('node-noop').noop,
   Track = require('./Track'),
@@ -34,6 +34,7 @@ var spotifyApi;
 spotifyAuth.login(run);
 
 var outputPath = path.join(__dirname, 'output/playlists/json/');
+fs.ensureDir(outputPath)
 
 function run(err, api) {
   if (err) return console.error(err);
@@ -41,6 +42,7 @@ function run(err, api) {
 
   async.mapSeries(playlists, (playlist, callback) => {
     let outPath = path.join(outputPath, `${playlist.id}.json`);
+
     if (!full && fs.existsSync(outPath))
       return callback();
 

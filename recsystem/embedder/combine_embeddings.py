@@ -5,6 +5,8 @@ import codecs
 from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
 from sklearn.decomposition import PCA
+import sklearn.preprocessing as skpreprocess
+
 
 import config as cs
 from .config import config
@@ -35,6 +37,7 @@ def load_embedding(file):
     pca = PCA(n_components=3)
     pca.fit(vectors)
     vectors_short = pca.transform(vectors)
+    vectors_short = skpreprocess.normalize(np.array(vectors_short, dtype=np.float), 'l2', 0)
 
     embedding_cache[file] = vectors, vectors_short, uris
     return vectors, vectors_short, uris
@@ -118,10 +121,10 @@ def main():
 
     uri_file = '%s/%s.emb.u' % (config.embDir, what)
     label_file = '%s/%s.emb.l' % (config.embDir, what)
-    vector_file = '%s/%s.emb.v' % (config.embDir, what)
-    vector_file_short = '%s/%s.emb.short.v' % (config.embDir, what)
-    header_file = '%s/%s.emb.h' % (config.embDir, what)
-    header_file_short = '%s/%s.emb.short.h' % (config.embDir, what)
+    vector_file = '%s/%s.emb.long.v' % (config.embDir, what)
+    vector_file_short = '%s/%s.emb.v' % (config.embDir, what)
+    header_file = '%s/%s.emb.long.h' % (config.embDir, what)
+    header_file_short = '%s/%s.emb.h' % (config.embDir, what)
 
     if os.path.isfile(uri_file):
         entity_uris_done = np.array([line.strip() for line in open(uri_file, 'r')])
@@ -197,7 +200,7 @@ def main():
         vector_short = flatten(vector_short)
 
         with open(label_file, 'a+') as lf:
-            lf.write(label)
+            lf.write(label.replace('\n', ' '))
             lf.write('\n')
 
         with open(vector_file, 'a+') as f:
