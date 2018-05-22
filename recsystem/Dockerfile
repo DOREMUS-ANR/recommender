@@ -1,4 +1,4 @@
-FROM rappdw/docker-java-python
+FROM python:3.6.5
 
 COPY . /
 RUN pip install -r requirements.txt

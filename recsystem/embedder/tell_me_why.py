@@ -7,7 +7,7 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from scipy.spatial import distance
 
 from .combine_embeddings import to_embed
-from recsystem.embedder.common.config import config
+from embedder.common.config import config
 
 sparql = SPARQLWrapper(config.endpoint)
 
