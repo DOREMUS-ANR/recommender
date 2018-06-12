@@ -3,7 +3,7 @@ import codecs
 import config as cs
 import numpy as np
 from scipy import spatial as spatial
-from embedder.common.config import config
+from common.config import config
 
 max_distance = 0
 

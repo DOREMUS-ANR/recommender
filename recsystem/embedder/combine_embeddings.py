@@ -9,7 +9,7 @@ import sklearn.preprocessing as skpreprocess
 
 
 # import config as cs
-import embedder.common.config as cs
+import common.config as cs
 
 config = cs.getConfig()
 

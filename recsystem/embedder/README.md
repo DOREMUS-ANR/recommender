@@ -45,7 +45,7 @@ Explains why 2 artists (seed `-s` and target `-t`) are similar
 python tell_me_why.py -cf artist -s http://data.doremus.org/artist/5425efed-002f-3638-a7b0-ad379a2bf63d -t http://data.doremus.org/artist/0d3493ff-b0f9-35c3-bc75-1adfc0150cd2
 
 
-python get_neighborhood.py -cf artist -s  http://data.doremus.org/artist/f21bdcb3-565c-3a69-aa3f-67680a28e824
+python recommender.py -cf artist -s  http://data.doremus.org/artist/f21bdcb3-565c-3a69-aa3f-67680a28e824
 
 
 python tell_me_why.py -cf artist -s http://data.doremus.org/artist/b34f92ab-ad86-361b-a8b8-5c3a4db784d0 0.9999269773985313
