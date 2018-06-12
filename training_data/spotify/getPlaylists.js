@@ -34,7 +34,7 @@ var spotifyApi;
 spotifyAuth.login(run);
 
 var outputPath = path.join(__dirname, 'output/playlists/json/');
-fs.ensureDir(outputPath)
+fs.ensureDir(outputPath);
 
 function run(err, api) {
   if (err) return console.error(err);

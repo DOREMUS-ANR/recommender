@@ -21,8 +21,10 @@ INSTITUTION_LIST.forEach(run);
 function run(institution) {
   var list_dir_artist = path.join(list_dir, institution, 'artist');
   var list_dir_expression = path.join(list_dir, institution, 'expression');
+  var out_dir_inst = path.join(out_dir, institution);
   fs.ensureDirSync(list_dir_artist);
   fs.ensureDirSync(list_dir_expression);
+  fs.ensureDirSync(out_dir_inst);
 
   let graph_uri = `<http://data.doremus.org/${institution}>`;
 
@@ -39,7 +41,7 @@ function run(institution) {
             uuid = uuid[uuid.length - 1];
             console.log(uuid);
 
-            fs.writeFileSync(`${out_dir}/${uuid}.json`, JSON.stringify(concert, null, 2));
+            fs.writeFileSync(`${out_dir_inst}/${uuid}.json`, JSON.stringify(concert, null, 2));
             fs.writeFileSync(`${list_dir_artist}/${uuid}.json`,
               unique(concert.expression.map(e => e.composer)).join('\n'));
             fs.writeFileSync(`${list_dir_expression}/${uuid}.json`,
