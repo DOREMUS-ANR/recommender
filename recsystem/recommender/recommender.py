@@ -2,6 +2,9 @@ import codecs
 import numpy as np
 from scipy.spatial import distance as distance
 import recommender.weights as weights
+from werkzeug.contrib.cache import SimpleCache
+
+cache = SimpleCache()
 
 max_distance = 0
 
@@ -13,6 +16,8 @@ class Recommender:
         self.vectors = np.genfromtxt('%s/%s.emb.v' % (emb_dir, etype))
         self.vectors = np.ma.array(self.vectors, mask=self.vectors < -1.)
         self.uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (emb_dir, etype), 'r', 'utf-8')])
+        self.pp_videos = np.array([line.strip() for line in codecs.open('resources/pp_video.txt', 'r', 'utf-8')])
+        self.pp_videos_vec = np.ma.array([self.get_emb(uri) for uri in self.pp_videos])
 
         self.etype = etype
         self.weights = weights.get(etype, target)
@@ -27,7 +32,7 @@ class Recommender:
             return None
         return v[0]
 
-    def recommend(self, seed, n=5, w=None, target=None):
+    def recommend(self, seed, n=5, w=None, target='', focus=None):
         if n < 1:
             n = 5
 
@@ -40,17 +45,57 @@ class Recommender:
         if _seed is None:
             raise ValueError('URI not recognised')
 
+        cache_id = '|'.join([seed, ','.join(w.astype(np.str)), target, focus or ''])
+        rv = cache.get(cache_id)
+        if rv is not None:
+            print('taking result from cache')
+            return rv[:n]
+
         print('computing scores')
-        pool = self.vectors[self.uris != seed]
-        pool_uris = self.uris[self.uris != seed]
+        vec = self.pp_videos_vec if target == 'pp' else self.vectors
+        uris = self.pp_videos if target == 'pp' else self.uris
+
+        pool = vec[uris != seed]
+        pool_uris = uris[uris != seed]
+
+        closer = True
+        l = len(vec) + 1
+
+        if focus == 'genre':
+            pool = np.delete(pool, np.arange(9, l), axis=1)
+            pool = np.delete(pool, np.arange(6), axis=1)
+            _seed = np.delete(_seed, np.arange(9, l), axis=0)
+            _seed = np.delete(_seed, np.arange(6), axis=0)
+            w = np.ones_like(_seed)
+        elif focus == 'period':
+            pool = np.delete(pool, np.arange(12), axis=1)
+            _seed = np.delete(_seed, np.arange(12), axis=0)
+            w = np.ones_like(_seed)
+        elif focus == 'casting':
+            pool = np.delete(pool, np.arange(3, l), axis=1)
+            _seed = np.delete(_seed, np.arange(3, l), axis=0)
+            w = np.ones_like(_seed)
+        elif focus == 'composer':
+            pool = np.delete(pool, np.arange(6, l), axis=1)
+            pool = np.delete(pool, np.arange(3), axis=1)
+            _seed = np.delete(_seed, np.arange(6, l), axis=0)
+            _seed = np.delete(_seed, np.arange(3), axis=0)
+            w = np.ones_like(_seed)
+        elif focus == 'surprise':
+            closer = False
+
         scores = np.array([[self.similarity(_seed, x, w) for x in pool]])
         full = np.concatenate([pool_uris.reshape(len(pool_uris), 1), scores.transpose()], axis=1)
 
         # sort
-        full_sorted = sorted(full, key=lambda _x: float(_x[1]), reverse=True)
-        most_similar = full_sorted[:n]
+        full_sorted = sorted(full, key=lambda _x: float(_x[1]), reverse=closer)
+        most_similar = full_sorted[:max(20, n)]
+        json = [{'uri': _a[0], 'score': float(_a[1])} for _a in most_similar]
 
-        return [{'uri': _a[0], 'score': _a[1]} for _a in most_similar]
+        # save in cache
+        cache.set(cache_id, json, timeout=24 * 60 * 60)
+
+        return json[:n]
 
     def similarity(self, seed, target, w=None):
         b1 = np.argwhere(seed.mask)

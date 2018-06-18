@@ -42,7 +42,8 @@ def recommend(entity_type, seed, recommender, rq):
     #     explain = False
     # print('n=%d' % n)
 
-    most_similar = recommender.recommend(uri, n=n, w=w)
+    most_similar = recommender.recommend(uri, n=n, w=w, target=rq.args.get('target', default=''),
+                                         focus=rq.args.get('focus', default=None))
 
     # if explain:
     #     # we can swap out ProcessPoolExecutor for ThreadPoolExecutor
