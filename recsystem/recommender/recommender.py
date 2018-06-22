@@ -36,10 +36,17 @@ class Recommender:
         if n < 1:
             n = 5
 
-        if w is not None:
-            w = np.array(w)
-        else:
+        if w is None:
             w = weights.get(self.etype, target)
+        elif len(w) == 6:  # artist sliders
+            if np.array_equal(w, np.ones_like(w)):
+                w = weights.get(self.etype, target)
+            else:
+                w = np.array(
+                    [w[0], w[0], w[0], w[1], w[2], w[2], w[2], w[3], w[3], w[3], w[4], w[4], w[4], w[5], w[5], w[5]])
+
+        else:
+            w = np.array(w)
 
         _seed = self.get_emb(seed)
         if _seed is None:
