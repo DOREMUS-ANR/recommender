@@ -96,7 +96,7 @@ class Recommender:
 
         # sort
         full_sorted = sorted(full, key=lambda _x: float(_x[1]), reverse=closer)
-        most_similar = full_sorted[:max(20, n)]
+        most_similar = full_sorted[:max(100, n)]
         json = [{'uri': _a[0], 'score': float(_a[1])} for _a in most_similar]
 
         # save in cache
