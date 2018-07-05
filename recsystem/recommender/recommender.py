@@ -43,7 +43,7 @@ class Recommender:
                 w = weights.get(self.etype, target)
             else:
                 w = np.array(
-                    [w[0], w[0], w[0], w[1], w[2], w[2], w[2], w[3], w[3], w[3], w[4], w[4], w[4], w[5], w[5], w[5]])
+                    [w[0], w[0], w[0], w[1], w[1], w[2], w[2], w[2], w[3], w[3], w[3], w[4], w[4], w[4], w[5], w[5], w[5]])
 
         else:
             w = np.array(w)
