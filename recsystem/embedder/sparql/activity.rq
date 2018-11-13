@@ -1,6 +1,8 @@
 SELECT DISTINCT ?s ?o
 WHERE {
-  ?s ecrm:P14_carried_out_by ?someone ;
+  VALUES ?class {ecrm:E7_Activity mus:M28_Individual_Performance}
+  ?s a ?class;
+     ecrm:P14_carried_out_by ?someone ;
      ?p ?o
 
   FILTER (?p IN (

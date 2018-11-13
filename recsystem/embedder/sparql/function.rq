@@ -1,7 +1,6 @@
 DEFINE input:inference 'mus'
 
 SELECT DISTINCT ?s ?o
-FROM <http://data.doremus.org/vocabulary>
 WHERE {
   ?s skos:inScheme <http://data.doremus.org/vocabulary/function/> .
   {
