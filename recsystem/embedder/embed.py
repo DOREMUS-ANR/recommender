@@ -3,11 +3,8 @@ import entity2vec.node2vec as node2vec
 from os import path
 import networkx as nx
 
-import config as cs
-from config import config
 
-
-def main():
+def main(config):
     what = config.chosenFeature
 
     print('loading edgelists...')
@@ -54,11 +51,6 @@ def main():
     node2vec_graph.learn_embeddings('%s/%s.emb' % (config.embDir, what), 'text')
 
 
-def init():
+def init(config):
     if not os.path.exists(config.edgelistDir):
         os.makedirs(config.edgelistDir)
-
-
-if __name__ == '__main__':
-    cs.parse_args()
-    main()
