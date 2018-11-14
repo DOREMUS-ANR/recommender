@@ -3,12 +3,11 @@ import numpy as np
 import sklearn.preprocessing as skpreprocess
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-import config as cs
-from config import config
+import common.config as cs
+config = cs.getConfig()
 
 
 def get_label(uri):
-    print(uri)
     query = "select sql:BEST_LANGMATCH(?o, 'en;q=0.9, en-gb;q=0.8, *;q=0.1', 'en') as ?label" \
             " where { <%s> skos:prefLabel ?o }" % uri
 
@@ -19,6 +18,7 @@ def get_label(uri):
 
     r = results["results"]["bindings"][0]
     if r is None or 'label' not in r:
+        print(uri)
         return None
     return r["label"]["value"]
 

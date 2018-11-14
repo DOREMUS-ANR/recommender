@@ -6,7 +6,7 @@ from types import SimpleNamespace
 
 from SPARQLWrapper import SPARQLWrapper, JSON
 import networkx as nx
-from config import config
+from common.config import config
 
 XSD_NAMESPACE = 'http://www.w3.org/2001/XMLSchema#'
 
@@ -59,7 +59,6 @@ def to_node(obj):
     if type == 'typed-literal' and obj['datatype'].startswith(XSD_NAMESPACE):
         try:
             # is a date! to half century
-            print(obj)
             decade = 5 if (int(value[3]) > 4) else 0
             return value[:2] + str(decade) + '0'
         except:

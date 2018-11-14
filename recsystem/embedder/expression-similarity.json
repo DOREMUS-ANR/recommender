@@ -28,6 +28,13 @@
       "query": "?a mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance ?o"
     },
     {
+      "label": "solo",
+      "embedding": "mop",
+      "dimensions": 3,
+      "group": "casting",
+      "query": "{?a mus:U13_has_casting / mus:U23_has_casting_detail [ mus:U36_foresees_responsibility <http://data.doremus.org/vocabulary/responsibility/soloist> ; mus:U2_foresees_use_of_medium_of_performance ?o ]}UNION{[] efrbroo:R66_included_performed_version_of ?a; ecrm:P9_consists_of [ mus:U81_had_performer_status <http://data.doremus.org/vocabulary/performer_status/headliner>; mus:U1_used_medium_of_performance ?o ]}"
+    },
+    {
       "label": "composer",
       "embedding": "artist",
       "group": "composer",

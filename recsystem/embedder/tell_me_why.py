@@ -6,7 +6,7 @@ from types import SimpleNamespace
 from SPARQLWrapper import SPARQLWrapper, JSON
 from scipy.spatial import distance
 
-from .combine_embeddings import to_embed
+from combine_embeddings import to_embed
 from common.config import config
 
 sparql = SPARQLWrapper(config.endpoint)

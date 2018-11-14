@@ -11,11 +11,11 @@
     "weighted": false,
     "p": 1,
     "q": 1,
-    "walk_length": 5,
-    "num_walks": 10,
+    "walk_length": 3,
+    "num_walks": 2,
     "dimensions": 100,
-    "window_size": 10,
-    "workers": 5,
+    "window_size": 3,
+    "workers": 10,
     "iter": 3
   },
   "features": {

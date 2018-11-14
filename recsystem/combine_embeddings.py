@@ -7,7 +7,6 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 from sklearn.decomposition import PCA
 import sklearn.preprocessing as skpreprocess
 
-
 # import config as cs
 import common.config as cs
 
