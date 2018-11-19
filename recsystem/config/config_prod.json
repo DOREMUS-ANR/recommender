@@ -3,7 +3,6 @@
   "sparqlDir": "./sparql",
   "edgelistDir": "edgelist",
   "embDir": "/emb",
-  "chosenFeature": "mop",
   "num_results": 3,
   "node2vec": {
     "directed": false,
@@ -18,7 +17,7 @@
     "workers": 5,
     "iter": 3
   },
-  "features": {
+  "featureList": {
     "activity": {},
     "key": {
       "namespaces": [

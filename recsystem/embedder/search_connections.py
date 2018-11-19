@@ -29,7 +29,7 @@ def init():
     global sparql
     global config
 
-    with open('config.json') as json_data_file:
+    with open('config_prod.json') as json_data_file:
         config = json.load(json_data_file)
 
     if type(config) == dict:

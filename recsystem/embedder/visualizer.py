@@ -1,38 +1,54 @@
 import numpy as np
-import pylab as Plot
 import codecs
+import os
+from gensim.models import KeyedVectors
 
-from lib.tsne import tsne
-import config as cs
-from config import config
+import matplotlib.pyplot as plt
+from sklearn.manifold import TSNE
 
-
-def main():
-    vectors = np.loadtxt('%s/%s.emb.v' % (config.embDir, config.chosenFeature))
-    labels_file = codecs.open('%s/%s.emb.l' % (config.embDir, config.chosenFeature), 'r', 'utf-8')
-    labels = [line.strip() for line in labels_file]
-
-    rows = [labels.index(word) for word in labels if word in labels]
-    target_matrix = vectors[rows, :] / 2
-    reduced_matrix = tsne(target_matrix, 2)
-
-    Plot.figure(figsize=(20, 20), dpi=100)
-    max_x = np.amax(reduced_matrix, axis=0)[0]
-    max_y = np.amax(reduced_matrix, axis=0)[1]
-    Plot.xlim((-max_x, max_x))
-    Plot.ylim((-max_y, max_y))
-
-    Plot.scatter(reduced_matrix[:, 0], reduced_matrix[:, 1], 20)
-
-    for row_id in range(0, len(rows)):
-        target_word = labels[rows[row_id]]
-        x = reduced_matrix[row_id, 0]
-        y = reduced_matrix[row_id, 1]
-        Plot.annotate(target_word, (x, y))
-
-    Plot.savefig("%s.png" % config.chosenFeature)
+OUT_PATH = './img'
 
 
-if __name__ == '__main__':
-    cs.parse_args()
-    main()
+def main(args):
+    what = args.feature
+    if what is None:
+        raise RuntimeError('You must specify the feature using -f or --feature')
+
+    labels_file = codecs.open('%s/%s.emb.l' % (args.embDir, what), 'r', 'utf-8')
+    embedding = KeyedVectors.load_word2vec_format('%s/%s.emb' % (args.embDir, what))
+
+    uris = embedding.index2entity
+    vectors = [embedding.get_vector(k) for k in uris]
+    labels = []
+    for line in labels_file:
+        key, value = line.strip().split(' ', 1)
+        labels.append(value)
+
+    # find tsne coords for 2 dimensions
+    tsne = TSNE(n_components=2, random_state=0)
+    np.set_printoptions(suppress=True)
+    Y = tsne.fit_transform(vectors)
+
+    x_coords = Y[:, 0]
+    y_coords = Y[:, 1]
+
+    # display scatter plot
+    plt.scatter(x_coords, y_coords, alpha=0)
+
+    if not args.show:
+        plt.rcParams.update({'font.size': 0.5})
+
+    for label, x, y in zip(labels, x_coords, y_coords):
+        plt.annotate(label, xy=(x, y), xytext=(0, 0), textcoords='offset points')
+    plt.xlim(x_coords.min() + 0.00005, x_coords.max() + 0.00005)
+    plt.ylim(y_coords.min() + 0.00005, y_coords.max() + 0.00005)
+
+    if args.show:
+        plt.show()
+    else:
+        if not os.path.exists(OUT_PATH):
+            os.makedirs(OUT_PATH)
+
+        out = '%s/%s.eps' % (OUT_PATH, what)
+        plt.savefig(out, format='eps', dpi=1200)
+        print('Picture saved at %s' % out)

@@ -4,8 +4,11 @@ from os import path
 import networkx as nx
 
 
+
 def main(config):
-    what = config.chosenFeature
+    what = config.feature
+    if what is None:
+        raise RuntimeError('You must specify the feature using -f or --feature')
 
     print('loading edgelists...')
     G = nx.read_edgelist(path.join(config.edgelistDir, '%s.edgelist' % what), nodetype=str, create_using=nx.DiGraph())
@@ -13,8 +16,8 @@ def main(config):
     for edge in G.edges():
         G[edge[0]][edge[1]]['weight'] = .3
 
-    if what in config.features:
-        feat = config.features[what]
+    if what in config.featureList:
+        feat = config.featureList[what]
         if 'dependencies' in feat:
             dependencies = feat['dependencies']
 

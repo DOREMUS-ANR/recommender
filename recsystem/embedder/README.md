@@ -1,8 +1,8 @@
 Scripts for making the embeddings.
 
-They all read the file `config.json`, in particular the field `chosenFeature`.
+They all read the file `config_prod.json`, in particular the field `chosenFeature`.
 
-### `sparql2edgelist.py`
+### `create_edgelists.py`
 
 It performs queries to the SPARQL endpoint, creating an edgelist for each query in the `sparqlDir` folder.
 
@@ -10,7 +10,7 @@ It performs queries to the SPARQL endpoint, creating an edgelist for each query 
 
 It realises the embedding through node2vec, in the implementation of [entity2vec](https://github.com/MultimediaSemantics/entity2vec/blob/master/entity2vec/node2vec.py).
 
-### `post-embed.py`
+### `post_embed.py`
 
 - It filters the embeddings following the `namespaces` defined in the config file.
 - It produces 3 files:

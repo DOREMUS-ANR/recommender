@@ -3,7 +3,6 @@
   "sparqlDir": "embedder/sparql",
   "edgelistDir": "embedder/edgelist",
   "embDir": "/Users/pasquale/git/music-embeddings",
-  "chosenFeature": "mop",
   "num_results": 3,
   "node2vec": {
     "directed": false,
@@ -18,7 +17,7 @@
     "workers": 10,
     "iter": 3
   },
-  "features": {
+  "featureList": {
     "activity": {},
     "function": {
       "namespaces": [
