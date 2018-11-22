@@ -5,7 +5,7 @@ from flask import Flask, jsonify, request
 
 # from embedder import tell_me_why
 from recommender.recommender import Recommender
-import common.config as cs
+import embedder.config as cs
 
 config = cs.getConfig()
 

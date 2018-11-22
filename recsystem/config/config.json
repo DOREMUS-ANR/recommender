@@ -1,8 +1,9 @@
 {
   "endpoint": "http://data.doremus.org/sparql",
-  "sparqlDir": "embedder/sparql",
-  "edgelistDir": "embedder/edgelist",
+  "sparqlDir": "./sparql",
+  "edgelistDir": "./edgelist",
   "embDir": "/Users/pasquale/git/music-embeddings",
+  "dataDir": "./data",
   "num_results": 3,
   "node2vec": {
     "directed": false,

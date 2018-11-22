@@ -2,47 +2,75 @@
   "select": "?a a ecrm:E21_Person . [] ecrm:P14_carried_out_by ?a",
   "features": [
     {
-      "label": "birth date",
+      "label": "bd",
       "group": "period",
       "query": "?a schema:birthDate ?o"
     },
     {
-      "label": "death date",
+      "label": "dd",
       "group": "period",
       "query": "?a schema:deathDate ?o"
     },
     {
+      "label": "birth date",
+      "group": "period",
+      "query": "?a schema:birthDate ?o",
+      "embedding": "data:years",
+      "dimensions": 5
+    },
+    {
+      "label": "death date",
+      "group": "period",
+      "query": "?a schema:deathDate ?o",
+      "embedding": "data:years",
+      "dimensions": 5
+    },
+    {
+      "label": "birth place",
+      "embedding": "data:geonames",
+      "dimensions": 5,
+      "group": "place",
+      "query": "?a schema:birthPlace ?o. ?o a geonames:Feature; geonames:featureCode ?fc. FILTER  STRSTARTS (str(?fc), 'http://www.geonames.org/ontology#P.PPL')"
+    },
+    {
+      "label": "death place",
+      "embedding": "data:geonames",
+      "dimensions": 5,
+      "group": "place",
+      "query": "?a schema:deathPlace ?o. ?o a geonames:Feature; geonames:featureCode ?fc. FILTER  STRSTARTS (str(?fc), 'http://www.geonames.org/ontology#P.PPL')"
+    },
+    {
       "label": "key",
       "embedding": "key",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "work:key",
       "query": "[] efrbroo:R17_created [mus:U11_has_key ?o]; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a ."
     },
     {
       "label": "genre",
       "embedding": "genre",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "work:genre",
       "query": "[] efrbroo:R17_created ?sth; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a . { ?sth mus:U54_is_performed_expression_of [mus:U12_has_genre ?o] } UNION {?sth mus:U12_has_genre ?o}"
     },
     {
       "label": "casting",
       "embedding": "mop",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "work:casting",
       "query": "[] efrbroo:R17_created [mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance ?o]; ecrm:P9_consists_of / ecrm:P14_carried_out_by ?a ."
     },
     {
       "label": "function",
       "embedding": "function",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "work:function",
       "query": "[] ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?a ; mus:U31_had_function ?o ]"
     },
     {
       "label": "mop",
       "embedding": "mop",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "performance:mop",
       "query": "[] ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?a ; mus:U1_used_medium_of_performance ?o]"
     }

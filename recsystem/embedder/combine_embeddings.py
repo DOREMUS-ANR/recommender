@@ -27,6 +27,7 @@ class CombineEmbeddings:
             raise RuntimeError('You must specify the feature using -f or --feature')
 
         self.emb_dir = args.embDir
+        self.data_dir = args.dataDir
         self.sparql = SPARQLWrapper(args.endpoint)
         self.reset = args.reset
 
@@ -34,7 +35,12 @@ class CombineEmbeddings:
         if file in embedding_cache:
             return embedding_cache[file]
 
-        embedding = KeyedVectors.load_word2vec_format('%s/%s.emb' % (self.emb_dir, file))
+        input_ = '%s/%s.emb' % (self.emb_dir, file)
+        if file.startswith('data:'):
+            input_ = '%s/%s.emb' % (self.data_dir, file.replace('data:', ''))
+
+        print('loading %s' % input_)
+        embedding = KeyedVectors.load_word2vec_format(input_)
 
         uris = embedding.index2entity
         vectors = [embedding.get_vector(k) for k in uris]
@@ -51,9 +57,12 @@ class CombineEmbeddings:
     def get_embed(self, uri, emb, short=False):
         vectors, vectors_short, uris = self.load_embedding(emb)
 
-        index = np.where(uris == uri)
-        v = vectors_short if short else vectors
-        return v[index][0] if len(index[0]) else None
+        try:
+            index = uris.index(uri)
+            v = vectors_short if short else vectors
+            return v[index]
+        except ValueError:
+            return None
 
     def to_embed(self, obj, emb, short=False):
         global XSD_NAMESPACE
@@ -62,25 +71,28 @@ class CombineEmbeddings:
         value = obj['value']
 
         if type == 'uri':
-            return self.get_embed(value, emb, short)
+            a = self.get_embed(value, emb, short)
+            return a
 
         if type == 'literal':
             return None
 
         if type == 'typed-literal' and obj['datatype'].startswith(XSD_NAMESPACE):
             # is a date!
-            # range mapping {-100,2016} -> {0,2} -> {-1,1}
             try:
-                n = (int(value[:4]) / 1050) - 1
-                return [n]
-            except:
+                n = int(value[:4])
+                if emb is not None:
+                    return self.get_embed(str(n), emb, short)
+                else:
+                    # range mapping {-100,2016} -> {0,2} -> {-1,1}
+                    return [(n / 1050) - 1]
+            except ValueError:
                 return None
 
         return None
 
     def get_partial_emb(self, f, uri):
         f = SimpleNamespace(**f)
-        # print(f.label)
 
         # setup query
         query = "SELECT * where { %s } " % f.query.replace('?a', uri)
@@ -90,7 +102,6 @@ class CombineEmbeddings:
         self.sparql.setReturnFormat(JSON)
         results = self.sparql.query().convert()
         bindings = results["results"]["bindings"]
-
         emb = getattr(f, 'embedding', None)
 
         all_embs = [self.to_embed(result['o'], emb) for result in bindings]
@@ -133,10 +144,7 @@ class CombineEmbeddings:
         main_query = "SELECT DISTINCT ?a SAMPLE(?label) AS ?label " \
                      "WHERE { %s . OPTIONAL { ?a rdfs:label ?label } }" \
                      " GROUP BY ?a" \
-                     " LIMIT 10" % main_query_select
-        # ORDER
-        # BY
-        # DESC(COUNT(?a))
+                     " ORDER BY DESC(COUNT(?a))" % main_query_select
         print(main_query)
 
         self.sparql.setQuery(main_query)
@@ -177,7 +185,7 @@ class CombineEmbeddings:
             fh.write(' '.join([str(h['emb']) for h in head_short]))
 
         reset = self.reset or not os.path.isfile(uri_file)
-        entity_uris_done = np.array([line.strip() for line in open(uri_file, 'r')]) if reset else []
+        entity_uris_done = [] if reset else np.array([line.strip() for line in open(uri_file, 'r')])
         mode = 'w' if reset else 'a+'
 
         results = results["results"]["bindings"]
@@ -188,7 +196,7 @@ class CombineEmbeddings:
 
             label = result['label']['value'] if ('label' in result) else 'no_label'
 
-            print('%d/%d %s' % (i, len(results), uri))
+            print('%d/%d %s' % (i + 1, len(results), uri))
             vector = []
             vector_short = []
             for f in feature_list:
@@ -207,7 +215,7 @@ class CombineEmbeddings:
 
             with open(vector_file, mode) as f:
                 if mode == 'w':
-                    f.write('%d %d' % (len(results), len(vector)))
+                    f.write('%d %d\n' % (len(results), len(vector)))
                 nums = [str(n) for n in vector]
                 f.write(uri)
                 f.write(' ')
@@ -216,7 +224,7 @@ class CombineEmbeddings:
 
             with open(vector_file_short, mode) as f:
                 if mode == 'w':
-                    f.write('%d %d' % (len(results), len(vector_short)))
+                    f.write('%d %d\n' % (len(results), len(vector_short)))
                 nums = [str(n) for n in vector_short]
                 f.write(uri)
                 f.write(' ')
@@ -226,6 +234,7 @@ class CombineEmbeddings:
             with open(uri_file, mode) as fu:
                 fu.write(uri)
                 fu.write('\n')
+            mode = 'a+'
 
 
 def flatten(lst=None):
