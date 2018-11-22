@@ -18,18 +18,18 @@
   "license": "MIT",
   "dependencies": {
     "array-to-csv": "^1.0.1",
-    "async": "^2.6.0",
+    "async": "^2.6.1",
     "fast-levenshtein": "^2.0.6",
-    "fs-extra": "^6.0.0",
-    "json-2-csv": "^2.2.0",
-    "jsonfile": "^4.0.0",
-    "klaw-sync": "^4.0.0",
-    "moment": "^2.22.1",
+    "fs-extra": "^7.0.1",
+    "json-2-csv": "^2.4.0",
+    "jsonfile": "^5.0.0",
+    "klaw-sync": "^6.0.0",
+    "moment": "^2.22.2",
     "node-noop": "^1.0.0",
-    "spotify-web-api-node": "^3.1.1",
+    "spotify-web-api-node": "^4.0.0",
     "translitterify": "^1.0.0",
     "tsv": "^0.2.0",
-    "virtuoso-sparql-client": "^0.2.0",
+    "virtuoso-sparql-client": "^0.2.2",
     "xml2js": "^0.4.19"
   }
 }
