@@ -1,29 +1,37 @@
 import codecs
 import numpy as np
+from gensim.models import KeyedVectors
 from scipy.spatial import distance as distance
-import recommender.weights as weights
 from werkzeug.contrib.cache import SimpleCache
 
 cache = SimpleCache()
 
-max_distance = 0
+_ones = np.ones_like(100)
+
+
+def weighted_euclidean(a, b, w=None):
+    # weighted squared euclidean distance
+    return distance.minkowski(a, b, p=2, w=w)
+
+
+DEFAULT_DISTANCE = weighted_euclidean(_ones, -_ones)
 
 
 class Recommender:
-    def __init__(self, etype, emb_dir, target=None):
-        print('***** Init %s recommender *****' % etype)
+    def __init__(self, f, emb_dir, weights_manager):
+        print('***** Init %s recommender *****' % f)
         print('loading embeddings')
-        self.vectors = np.genfromtxt('%s/%s.emb.v' % (emb_dir, etype))
-        self.vectors = np.ma.array(self.vectors, mask=self.vectors < -1.)
-        self.uris = np.array([line.strip() for line in codecs.open('%s/%s.emb.u' % (emb_dir, etype), 'r', 'utf-8')])
+
+        self.embedding = KeyedVectors.load_word2vec_format('%s/%s.emb' % (emb_dir, f))
+        self.uris = np.array(self.embedding.index2entity)
+        self.vectors = np.array([self.embedding.get_vector(k) for k in self.uris])
+        self.vectors = np.ma.array(self.vectors, mask=-1. > self.vectors)
+
         self.pp_videos = np.array([line.strip() for line in codecs.open('resources/pp_video.txt', 'r', 'utf-8')])
         self.pp_videos_vec = np.ma.array([self.get_emb(uri) for uri in self.pp_videos])
 
-        self.etype = etype
-        self.weights = weights.get(etype, target)
-
-        _ones = np.ones_like(self.vectors[0])
-        self.max_distance = weighted_euclidean(_ones, -_ones, self.weights)
+        self.etype = f
+        self.weights_manager = weights_manager
 
     def get_emb(self, uri):
         # uri to embedding
@@ -37,20 +45,23 @@ class Recommender:
             n = 5
 
         if w is None:
-            w = weights.get(self.etype, target)
+            w = self.weights_manager.get(self.etype, length=len(self.vectors[0]), target=target)
         elif len(w) == 6:  # artist sliders
             if np.array_equal(w, np.ones_like(w)):
-                w = weights.get(self.etype, target)
+                w = self.weights_manager.get(self.etype, length=len(self.vectors[0]), target=target)
             else:
                 w = np.array(
-                    [w[0], w[0], w[0], w[1], w[1], w[2], w[2], w[2], w[3], w[3], w[3], w[4], w[4], w[4], w[5], w[5], w[5]])
-
+                    [w[0], w[0], w[0], w[1], w[1], w[2], w[2], w[2], w[3], w[3], w[3], w[4], w[4], w[4], w[5], w[5],
+                     w[5]])
         else:
             w = np.array(w)
 
         _seed = self.get_emb(seed)
         if _seed is None:
             raise ValueError('URI not recognised')
+
+        _ones = np.ones_like(self.vectors[0])
+        max_distance = weighted_euclidean(_ones, -_ones, w)
 
         cache_id = '|'.join([seed, ','.join(w.astype(np.str)), target, focus or ''])
         rv = cache.get(cache_id)
@@ -91,7 +102,7 @@ class Recommender:
         elif focus == 'surprise':
             closer = False
 
-        scores = np.array([[self.similarity(_seed, x, w) for x in pool]])
+        scores = np.array([[self.similarity(_seed, x, w, max_distance) for x in pool]])
         full = np.concatenate([pool_uris.reshape(len(pool_uris), 1), scores.transpose()], axis=1)
 
         # sort
@@ -104,7 +115,8 @@ class Recommender:
 
         return json[:n]
 
-    def similarity(self, seed, target, w=None):
+    @staticmethod
+    def similarity(seed, target, w=None, max_distance=DEFAULT_DISTANCE):
         b1 = np.argwhere(seed.mask)
         b2 = np.argwhere(target.mask)
         bad_pos = np.unique(np.concatenate([b1, b2]))
@@ -123,10 +135,5 @@ class Recommender:
         penalty = len([x for x in b2 if x not in b1]) / len(seed)
 
         # score
-        s = (self.max_distance - d) / self.max_distance
+        s = (max_distance - d) / max_distance
         return s * (1 - penalty)
-
-
-def weighted_euclidean(a, b, w=None):
-    # weighted squared euclidean distance
-    return distance.minkowski(a, b, p=2, w=w)

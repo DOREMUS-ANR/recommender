@@ -5,6 +5,9 @@
   "embDir": "/Users/pasquale/git/music-embeddings",
   "dataDir": "./data",
   "num_results": 3,
+  "weights": {
+
+  },
   "node2vec": {
     "directed": false,
     "preprocessing": false,
