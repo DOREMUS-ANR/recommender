@@ -1,44 +1,58 @@
 {
-  "select": "?a a efrbroo:F22_Self-Contained_Expression",
+  "select": "?a a efrbroo:F22_Self-Contained_Expression ; dc:identifier []",
   "features": [
     {
-      "label": "composition date",
+      "label": "cd",
       "group": "period",
       "query": "[] efrbroo:R17_created ?a ; ecrm:P4_has_time-span / time:hasBeginning / time:inXSDDate ?o"
     },
     {
+      "label": "composition date",
+      "group": "period",
+      "query": "[] efrbroo:R17_created ?a ; ecrm:P4_has_time-span / time:hasBeginning / time:inXSDDate ?o",
+      "embedding": "data:years",
+      "dimensions": 5
+    },
+    {
       "label": "key",
       "embedding": "key",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "key",
       "query": "?a mus:U11_has_key ?o"
     },
     {
       "label": "genre",
       "embedding": "genre",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "genre",
       "query": "?a mus:U12_has_genre ?o"
     },
     {
       "label": "casting",
       "embedding": "mop",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "casting",
       "query": "?a mus:U13_has_casting / mus:U23_has_casting_detail / mus:U2_foresees_use_of_medium_of_performance ?o"
     },
     {
       "label": "solo",
       "embedding": "mop",
-      "dimensions": 3,
+      "dimensions": 5,
       "group": "casting",
       "query": "{?a mus:U13_has_casting / mus:U23_has_casting_detail [ mus:U36_foresees_responsibility <http://data.doremus.org/vocabulary/responsibility/soloist> ; mus:U2_foresees_use_of_medium_of_performance ?o ]}UNION{[] efrbroo:R66_included_performed_version_of ?a; ecrm:P9_consists_of [ mus:U81_had_performer_status <http://data.doremus.org/vocabulary/performer_status/headliner>; mus:U1_used_medium_of_performance ?o ]}"
+    },
+    {
+      "label": "premiere",
+      "embedding": "data:geonames",
+      "group": "composer",
+      "dimensions": 5,
+      "query": "[] efrbroo:R17_created ?a ; mus:U5_had_premiere / ecrm:P7_took_place_at ?o"
     },
     {
       "label": "composer",
       "embedding": "artist",
       "group": "composer",
-      "dimensions": 3,
+      "dimensions": 5,
       "query": "[] efrbroo:R17_created ?a ; ecrm:P9_consists_of [ ecrm:P14_carried_out_by ?o ]"
     }
   ]

@@ -39,14 +39,6 @@ recs = {
 }
 
 
-# worksRec = Recommender('expression', emb_dir, wm)
-
-
-# @app.route('/<string:typ>/<string:exp>')
-# def recommend_expression(typ, exp):
-#     return jsonify(recommend("expression", exp, worksRec, request))
-#
-
 @app.route('/<string:entity_type>/<string:seed>')
 def recommend(entity_type, seed):
     print(entity_type)
