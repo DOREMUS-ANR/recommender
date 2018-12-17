@@ -277,7 +277,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-09T18:15:47+02:00",
-      "composer": "http://data.doremus.org/artist/8b9a3629-8a81-3ef4-8a6f-1efa3ad8601a"
+      "composer": "http://data.doremus.org/artist/8f760a28-d0d8-3c9f-bc15-995df141cc30"
     },
     {
       "id": "10",
@@ -544,7 +544,8 @@
         "FullName": "Natalie Massara",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-10-09T18:33:38+02:00"
+      "ScheduledDateTime": "2017-10-09T18:33:38+02:00",
+      "composer": "http://data.doremus.org/artist/1d253a08-465c-39d1-a551-aaf5db8ac6b0"
     },
     {
       "id": "16",
@@ -593,7 +594,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-10-09T18:36:47+02:00",
-      "composer": "http://data.doremus.org/artist/41126109-1229-3215-b60e-4e322d905824"
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
     },
     {
       "id": "18",
@@ -2442,9 +2443,7 @@
         "InterventionNote": "Alain Goraguer : Arrangeur"
       },
       "ScheduledDateTime": "2017-10-09T20:32:35+02:00",
-      "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2",
-      "best": "http://data.doremus.org/expression/9c68fad3-23bf-37c8-8eba-ba3ec14caa81",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2"
     },
     {
       "id": "62",
@@ -2884,5 +2883,5 @@
     }
   ],
   "total": 62,
-  "matched": 1
+  "matched": 0
 }

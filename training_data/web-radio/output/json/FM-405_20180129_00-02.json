@@ -1469,9 +1469,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2018-01-29T02:05:24+01:00",
-      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/0c40dade-a4da-3288-87db-22735863462c",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c"
     },
     {
       "id": "32",
@@ -1888,7 +1886,8 @@
         "Profession": "Interprète",
         "InterventionNote": "Les Permutants"
       },
-      "ScheduledDateTime": "2018-01-29T02:33:23+01:00"
+      "ScheduledDateTime": "2018-01-29T02:33:23+01:00",
+      "composer": "http://data.doremus.org/artist/1aa1d92f-e134-317c-ab60-8c168725af75"
     },
     {
       "id": "39",
@@ -2098,9 +2097,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2018-01-29T02:57:12+01:00",
-      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/0c40dade-a4da-3288-87db-22735863462c",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c"
     },
     {
       "id": "44",
@@ -2185,5 +2182,5 @@
     }
   ],
   "total": 38,
-  "matched": 5
+  "matched": 3
 }

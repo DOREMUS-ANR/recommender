@@ -1309,7 +1309,9 @@
         }
       ],
       "ScheduledDateTime": "2017-10-02T00:44:03+02:00",
-      "composer": "http://data.doremus.org/artist/d7c8cb8f-0cac-3a63-af49-616174b84a06"
+      "composer": "http://data.doremus.org/artist/d7c8cb8f-0cac-3a63-af49-616174b84a06",
+      "best": "http://data.doremus.org/expression/43736c53-208f-3439-9837-413acd68ba7b",
+      "best_matching_score": "1.00"
     },
     {
       "id": "17",
@@ -2162,7 +2164,8 @@
         "Profession": "Interprète",
         "InterventionNote": "Sweet System"
       },
-      "ScheduledDateTime": "2017-10-02T01:55:05+02:00"
+      "ScheduledDateTime": "2017-10-02T01:55:05+02:00",
+      "composer": "http://data.doremus.org/artist/4ece8ed1-ff26-39ca-b2be-990e5c5b6aa8"
     },
     {
       "id": "34",
@@ -2811,5 +2814,5 @@
     }
   ],
   "total": 38,
-  "matched": 2
+  "matched": 3
 }

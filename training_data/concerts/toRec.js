@@ -1,64 +1,40 @@
 const fs = require('fs-extra');
 const path = require('path');
-const jsonfile = require('jsonfile');
 const SparqlClient = require('virtuoso-sparql-client').Client;
 const async = require('async');
 
-var client = new SparqlClient('http://data.doremus.org/sparql');
-client.setOptions("application/json");
+const client = new SparqlClient('http://data.doremus.org/sparql');
+client.setOptions('application/json');
 
-var input_dir = __dirname;
-var out_dir = path.join(__dirname, './output/json/');
-var list_dir = path.join(__dirname, './output/list/');
-fs.ensureDirSync(out_dir);
+const inputDir = __dirname;
+const outDir = path.join(__dirname, './output/json/');
+const listDir = path.join(__dirname, './output/list/');
+fs.ensureDirSync(outDir);
 
-const INSTITUTION_LIST = ['itema3', 'euterpe', 'philharmonie'];
-const QUERY_CONCERTS = fs.readFileSync(path.join(input_dir, '/query_concerts.rq'), 'utf8');
-const QUERY_PIECES = fs.readFileSync(path.join(input_dir, '/query_played_expression.rq'), 'utf8');
-
-INSTITUTION_LIST.forEach(run);
-
-function run(institution) {
-  var list_dir_artist = path.join(list_dir, institution, 'artist');
-  var list_dir_expression = path.join(list_dir, institution, 'expression');
-  var out_dir_inst = path.join(out_dir, institution);
-  fs.ensureDirSync(list_dir_artist);
-  fs.ensureDirSync(list_dir_expression);
-  fs.ensureDirSync(out_dir_inst);
-
-  let graph_uri = `<http://data.doremus.org/${institution}>`;
-
-  let query_concerts = QUERY_CONCERTS.replace('?g', graph_uri);
-  client.query(query_concerts)
-    .then(result => result.results.bindings)
-    .then(bindings => bindings.map(b => b.s.value))
-    .then(concerts_uris =>
-      async.mapSeries(concerts_uris, queryForPieces,
-        (e, res) => {
-          if (e) throw e;
-          res.map(manageConcert).forEach(concert => {
-            let uuid = concert.id.split('/');
-            uuid = uuid[uuid.length - 1];
-            console.log(uuid);
-
-            fs.writeFileSync(`${out_dir_inst}/${uuid}.json`, JSON.stringify(concert, null, 2));
-            fs.writeFileSync(`${list_dir_artist}/${uuid}.json`,
-              unique(concert.expression.map(e => e.composer)).join('\n'));
-            fs.writeFileSync(`${list_dir_expression}/${uuid}.json`,
-              unique(concert.expression.map(e => e.id)).join('\n'));
-          });
-        }
-      )
-    ).catch(e => console.error(e));
-}
+const INSTITUTION_LIST = [
+  'itema3',
+  'euterpe',
+  'philharmonie',
+  'diabolo',
+  'bnfbib'
+];
+const QUERY_CONCERTS = fs.readFileSync(
+  path.join(inputDir, '/query_concerts.rq'),
+  'utf8'
+);
+const QUERY_PIECES = fs.readFileSync(
+  path.join(inputDir, '/query_played_expression.rq'),
+  'utf8'
+);
 
 async function queryForPieces(concert) {
-  return await client.query(QUERY_PIECES.replace('%%uri%%', concert))
+  return client
+    .query(QUERY_PIECES.replace('%%uri%%', concert))
     .then(result => result.results.bindings);
 }
 
 function manageConcert(json) {
-  let expression = json.map(line => ({
+  const expression = json.map(line => ({
     composer: line.composer && line.composer.value,
     id: line.expression.value
   }));
@@ -71,3 +47,46 @@ function manageConcert(json) {
 function unique(input) {
   return input.filter((v, i, a) => a.indexOf(v) === i);
 }
+
+function run(institution) {
+  const listDirArtist = path.join(listDir, institution, 'artist');
+  const listDirExpression = path.join(listDir, institution, 'expression');
+  const outDirInst = path.join(outDir, institution);
+  fs.ensureDirSync(listDirArtist);
+  fs.ensureDirSync(listDirExpression);
+  fs.ensureDirSync(outDirInst);
+
+  const graph = `<http://data.doremus.org/${institution}>`;
+
+  const queryConcerts = QUERY_CONCERTS.replace('?g', graph);
+  client
+    .query(queryConcerts)
+    .then(result => result.results.bindings)
+    .then(bindings => bindings.map(b => b.s.value))
+    .then(concertsUris =>
+      async.mapSeries(concertsUris, queryForPieces, (e, res) => {
+        if (e) throw e;
+        res.map(manageConcert).forEach(concert => {
+          let uuid = concert.id.split('/');
+          uuid = uuid[uuid.length - 1];
+          console.log(uuid);
+
+          fs.writeFileSync(
+            `${outDirInst}/${uuid}.json`,
+            JSON.stringify(concert, null, 2)
+          );
+          fs.writeFileSync(
+            `${listDirArtist}/${uuid}.json`,
+            unique(concert.expression.map(ex => ex.composer)).join('\n')
+          );
+          fs.writeFileSync(
+            `${listDirExpression}/${uuid}.json`,
+            unique(concert.expression.map(ex => ex.id)).join('\n')
+          );
+        });
+      })
+    )
+    .catch(e => console.error(e));
+}
+
+INSTITUTION_LIST.forEach(run);

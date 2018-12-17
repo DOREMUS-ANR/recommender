@@ -200,8 +200,8 @@
       ],
       "ScheduledDateTime": "2017-02-13T00:11:31+01:00",
       "composer": "http://data.doremus.org/artist/f482df1a-9990-3708-8950-674bad8c4289",
-      "best": "http://data.doremus.org/expression/69de39d0-0bd3-32d9-981a-712fb5d6f26d",
-      "best_matching_score": "0.90"
+      "best": "http://data.doremus.org/expression/e9ef61ac-2bf2-385c-ac85-b4524f3fdea0",
+      "best_matching_score": "0.94"
     },
     {
       "id": "6",
@@ -250,7 +250,7 @@
       },
       "ScheduledDateTime": "2017-02-13T00:16:25+01:00",
       "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/ecf574cf-4363-3743-a6af-3ef3f26f7334",
+      "best": "http://data.doremus.org/expression/41f9df61-47df-357b-b8fc-8771da367bc7",
       "best_matching_score": "1.00"
     },
     {
@@ -299,7 +299,8 @@
         "FullName": "Antal Dorati",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-02-13T00:24:10+01:00"
+      "ScheduledDateTime": "2017-02-13T00:24:10+01:00",
+      "composer": "http://data.doremus.org/artist/50452b63-7719-3881-b7a4-f8c1b41ca158"
     },
     {
       "id": "9",
@@ -490,7 +491,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-02-13T00:39:55+01:00",
-      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81"
+      "composer": "http://data.doremus.org/artist/aabcd2ee-ac9b-30f2-8096-e9de8b3c7a81",
+      "best": "http://data.doremus.org/expression/9a6453a2-39ee-3bbf-9e22-cb890cf0f18c",
+      "best_matching_score": "0.71"
     },
     {
       "id": "12",
@@ -595,7 +598,7 @@
       },
       "ScheduledDateTime": "2017-02-13T00:45:56+01:00",
       "composer": "http://data.doremus.org/artist/550348ea-82c1-3823-8f89-036fe612b4ea",
-      "best": "http://data.doremus.org/expression/1d75b063-2e8a-3110-9010-33cde28de98a",
+      "best": "http://data.doremus.org/expression/4c632ee1-189f-375b-8e1d-6be446ba35f1",
       "best_matching_score": "1.00"
     },
     {
@@ -717,7 +720,8 @@
         "FullName": "Francois Xavier Roth",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-02-13T00:51:04+01:00"
+      "ScheduledDateTime": "2017-02-13T00:51:04+01:00",
+      "composer": "http://data.doremus.org/artist/3f2e495e-f3d9-3603-a3bb-f6d38a4e1119"
     },
     {
       "id": "17",
@@ -765,7 +769,8 @@
         "FullName": "Francois Xavier Roth",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-02-13T00:52:34+01:00"
+      "ScheduledDateTime": "2017-02-13T00:52:34+01:00",
+      "composer": "http://data.doremus.org/artist/3f2e495e-f3d9-3603-a3bb-f6d38a4e1119"
     },
     {
       "id": "18",
@@ -813,7 +818,8 @@
         "FullName": "Francois Xavier Roth",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-02-13T00:53:50+01:00"
+      "ScheduledDateTime": "2017-02-13T00:53:50+01:00",
+      "composer": "http://data.doremus.org/artist/3f2e495e-f3d9-3603-a3bb-f6d38a4e1119"
     },
     {
       "id": "19",
@@ -858,7 +864,8 @@
         "Profession": "Interprète",
         "InterventionNote": "I Salonisti"
       },
-      "ScheduledDateTime": "2017-02-13T00:56:06+01:00"
+      "ScheduledDateTime": "2017-02-13T00:56:06+01:00",
+      "composer": "http://data.doremus.org/artist/50452b63-7719-3881-b7a4-f8c1b41ca158"
     },
     {
       "id": "20",
@@ -1035,7 +1042,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-02-13T01:05:39+01:00",
-      "composer": "http://data.doremus.org/artist/616ec229-ea8f-39f6-99bd-ae86c5019bb4"
+      "composer": "http://data.doremus.org/artist/5f2d7a6e-4540-3830-8e75-f3e3b7fb8ba2"
     },
     {
       "id": "22",
@@ -1083,7 +1090,7 @@
       },
       "ScheduledDateTime": "2017-02-13T01:09:37+01:00",
       "composer": "http://data.doremus.org/artist/72b3b303-5c15-319f-9c31-dc73b5b0fe74",
-      "best": "http://data.doremus.org/expression/6085dc78-fd49-3066-bc50-9c62202c729e",
+      "best": "http://data.doremus.org/expression/1bbf546b-a0da-33ff-8e3b-928a0bf7079f",
       "best_matching_score": "0.92"
     },
     {
@@ -1131,7 +1138,10 @@
         "FullName": "Andre Previn",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-02-13T01:11:50+01:00"
+      "ScheduledDateTime": "2017-02-13T01:11:50+01:00",
+      "composer": "http://data.doremus.org/artist/209e49f0-5e49-3941-9c1c-23760025e4e4",
+      "best": "http://data.doremus.org/expression/c8ca30d1-6727-31d5-af2e-2e159f31095b",
+      "best_matching_score": "1.00"
     },
     {
       "id": "25",
@@ -1243,7 +1253,7 @@
         }
       ],
       "ScheduledDateTime": "2017-02-13T01:18:56+01:00",
-      "composer": "http://data.doremus.org/artist/7cc936c8-d22d-331d-8668-49b0767dd355"
+      "composer": "http://data.doremus.org/artist/6319dd87-d403-30cd-aad0-3dc3cc3a62d4"
     },
     {
       "id": "27",
@@ -1348,7 +1358,7 @@
       },
       "ScheduledDateTime": "2017-02-13T01:30:02+01:00",
       "composer": "http://data.doremus.org/artist/69896139-4b18-30ff-bc65-7c14e18f1707",
-      "best": "http://data.doremus.org/expression/4b233007-82de-32b8-a7a9-e82b9cf20aac",
+      "best": "http://data.doremus.org/expression/1f42db8d-c0de-360a-b89f-5fde5c33684c",
       "best_matching_score": "1.00"
     },
     {
@@ -2184,7 +2194,8 @@
         "FullName": "Adrian Mac Donnell",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-02-13T02:26:03+01:00"
+      "ScheduledDateTime": "2017-02-13T02:26:03+01:00",
+      "composer": "http://data.doremus.org/artist/1354bb5f-7093-3fc5-94bb-cd212dbc257f"
     },
     {
       "id": "47",
@@ -2372,7 +2383,7 @@
       "ScheduledDateTime": "2017-02-13T02:42:22+01:00",
       "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/6b27628b-129e-364e-a3ce-9e2a8546f66a",
-      "best_matching_score": "0.99"
+      "best_matching_score": "0.97"
     },
     {
       "id": "51",
@@ -2427,9 +2438,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-02-13T02:46:18+01:00",
-      "composer": "http://data.doremus.org/artist/8000025a-e885-3177-99b3-300707faaad7",
-      "best": "http://data.doremus.org/expression/78c53d56-0179-33b3-8ce7-4ef3265025ea",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/25c7526c-edec-30f1-8bc0-c04ad129164a"
     },
     {
       "id": "52",
@@ -2485,8 +2494,8 @@
       },
       "ScheduledDateTime": "2017-02-13T02:50:18+01:00",
       "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
-      "best": "http://data.doremus.org/expression/600b36c8-2fdf-3ab8-90e8-dc543ded569c",
-      "best_matching_score": "0.74"
+      "best": "http://data.doremus.org/expression/f4030ba7-9095-3432-b2ae-e38ced7865b6",
+      "best_matching_score": "0.80"
     },
     {
       "id": "53",
@@ -2581,10 +2590,10 @@
       },
       "ScheduledDateTime": "2017-02-13T02:56:55+01:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/3b2738ce-0c6f-3012-8dda-4644ecea96a3",
-      "best_matching_score": "0.99"
+      "best": "http://data.doremus.org/expression/39569783-8615-3e66-ba43-b6fee5379919",
+      "best_matching_score": "0.89"
     }
   ],
   "total": 45,
-  "matched": 23
+  "matched": 24
 }

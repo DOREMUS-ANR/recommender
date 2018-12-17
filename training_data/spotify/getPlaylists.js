@@ -1,17 +1,15 @@
-/********************************
+/** ******************************
  * Retrieve the content of the
  * playlists in config.json
  * and interlink them with DOREMUS
- *********************************/
+ ******************************** */
 
-const fs = require('fs-extra'),
-  async = require('async'),
-  noop = require('node-noop').noop,
-  Track = require('./Track'),
-  matcher = require('../matcher.js'),
-  spotifyAuth = require('./spotifyAuth'),
-  path = require('path');
-
+const fs = require('fs-extra');
+const async = require('async');
+const path = require('path');
+const Track = require('./Track');
+const matcher = require('../matcher.js');
+const spotifyAuth = require('./spotifyAuth');
 const config = require('./config.json');
 
 // for taking them from play.spotify.com
@@ -25,26 +23,24 @@ const config = require('./config.json');
 // JSON.stringify(a);
 
 
-var {
+const {
   playlists,
-  full
+  full,
 } = config;
 
-var spotifyApi;
-spotifyAuth.login(run);
+let spotifyApi;
 
-var outputPath = path.join(__dirname, 'output/playlists/json/');
+
+const outputPath = path.join(__dirname, 'output/playlists/json/');
 fs.ensureDir(outputPath);
 
-function run(err, api) {
-  if (err) return console.error(err);
+function run(api) {
   spotifyApi = api;
 
   async.mapSeries(playlists, (playlist, callback) => {
-    let outPath = path.join(outputPath, `${playlist.id}.json`);
+    const outPath = path.join(outputPath, `${playlist.id}.json`);
 
-    if (!full && fs.existsSync(outPath))
-      return callback();
+    if (!full && fs.existsSync(outPath)) return callback();
 
     console.log(playlist.id);
 
@@ -56,28 +52,32 @@ function run(err, api) {
         playlist.followers = data.followers.total;
 
         playlist.tracks = data.tracks.items
-          .map((t) => new Track(t.track));
+          .map(t => new Track(t.track));
 
         async.eachSeries(playlist.tracks, (r, cb) => {
-          let title = r.title.toLowerCase(),
-            composer = r.artists[0].toLowerCase();
-          matcher(composer, title, (err, res) => {
+          const title = r.title.toLowerCase();
+
+
+          const composer = r.artists[0].toLowerCase();
+          matcher(composer, title).then((res) => {
             if (!res) return cb();
             if (res.composerUri) r.composer = res.composerUri;
-            let bests = res.bests;
+            const [bests] = res;
             if (bests && bests[0]) {
-              let best = bests[0];
+              const best = bests[0];
               if (best.score >= 0.7) {
                 r.best = best.expression;
                 r.best_matching_score = best.score.toFixed(2);
               }
             }
-            cb();
+            return cb();
+          }).catch((err) => {
+            cb(err);
           });
-        }, err => {
+        }, (err) => {
           if (err) console.error(err);
           else {
-            let matched = playlist.tracks.filter(t => t.best).length;
+            const matched = playlist.tracks.filter(t => t.best).length;
             playlist.n_matched = matched;
             playlist.n_total = playlist.tracks.length;
             console.log(`Playlist ${playlist.id} "${playlist.name}"
@@ -86,10 +86,13 @@ function run(err, api) {
           }
           callback(err, playlist);
         });
-
       }, callback);
-  }, (err, results) => {
-    if (err) return printError(err);
+  }, (err) => {
+    if (err) throw err;
     console.log('done');
   });
 }
+
+spotifyAuth.login()
+  .then(run)
+  .catch(e => console.error(e));

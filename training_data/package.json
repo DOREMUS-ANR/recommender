@@ -1,6 +1,6 @@
 {
   "name": "training-data-scripts",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Scripts for retrieving and managing the training data",
   "main": "index.js",
   "repository": {
@@ -21,11 +21,10 @@
     "async": "^2.6.1",
     "fast-levenshtein": "^2.0.6",
     "fs-extra": "^7.0.1",
-    "json-2-csv": "^2.4.0",
     "jsonfile": "^5.0.0",
     "klaw-sync": "^6.0.0",
     "moment": "^2.22.2",
-    "node-noop": "^1.0.0",
+    "promise.retry": "^0.2.0",
     "spotify-web-api-node": "^4.0.0",
     "translitterify": "^1.0.0",
     "tsv": "^0.2.0",

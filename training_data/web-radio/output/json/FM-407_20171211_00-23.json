@@ -79,7 +79,8 @@
         "FullName": "Pino Donaggio",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-12-11T00:05:25+01:00"
+      "ScheduledDateTime": "2017-12-11T00:05:25+01:00",
+      "composer": "http://data.doremus.org/artist/1d253a08-465c-39d1-a551-aaf5db8ac6b0"
     },
     {
       "id": "5",
@@ -119,7 +120,8 @@
         "FullName": "Pino Donaggio",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-12-11T00:09:26+01:00"
+      "ScheduledDateTime": "2017-12-11T00:09:26+01:00",
+      "composer": "http://data.doremus.org/artist/1d253a08-465c-39d1-a551-aaf5db8ac6b0"
     },
     {
       "id": "6",
@@ -702,7 +704,8 @@
         "FullName": "Carter Burwell",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-12-11T00:47:12+01:00"
+      "ScheduledDateTime": "2017-12-11T00:47:12+01:00",
+      "composer": "http://data.doremus.org/artist/2d2d740d-1ac7-3cf3-abf9-342246b1fa73"
     },
     {
       "id": "21",
@@ -776,7 +779,8 @@
         "FullName": "Carter Burwell",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-12-11T00:48:19+01:00"
+      "ScheduledDateTime": "2017-12-11T00:48:19+01:00",
+      "composer": "http://data.doremus.org/artist/2d2d740d-1ac7-3cf3-abf9-342246b1fa73"
     },
     {
       "id": "22",
@@ -826,7 +830,7 @@
       },
       "ScheduledDateTime": "2017-12-11T00:54:26+01:00",
       "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
-      "best": "http://data.doremus.org/expression/9998f89b-6052-3b6b-8b1e-27c16b756a87",
+      "best": {},
       "best_matching_score": "0.94"
     },
     {
@@ -1244,7 +1248,8 @@
           "mop": "Saxophone"
         }
       ],
-      "ScheduledDateTime": "2017-12-11T01:22:10+01:00"
+      "ScheduledDateTime": "2017-12-11T01:22:10+01:00",
+      "composer": "http://data.doremus.org/artist/4c06935e-5acb-3b0f-a7af-9e13147ed8c5"
     },
     {
       "id": "34",
@@ -1804,7 +1809,8 @@
         "EntityName": "Henri Mancini And His Orchestra",
         "EntityType": "Orchestre"
       },
-      "ScheduledDateTime": "2017-12-11T02:02:31+01:00"
+      "ScheduledDateTime": "2017-12-11T02:02:31+01:00",
+      "composer": "http://data.doremus.org/artist/f812bcfb-a58b-38cd-8600-bd93f2b03672"
     },
     {
       "id": "48",
@@ -2162,7 +2168,7 @@
       },
       "ScheduledDateTime": "2017-12-11T02:30:36+01:00",
       "composer": "http://data.doremus.org/artist/142feeef-c325-3041-8cf6-370e93e61845",
-      "best": "http://data.doremus.org/expression/789fa3bf-fdaa-348d-ae84-ca1132cc0745",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2466,7 +2472,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-12-11T03:01:05+01:00",
-      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127"
+      "composer": "http://data.doremus.org/artist/1a0054d5-07c8-33c3-9f7e-8482b43c585f"
     }
   ],
   "total": 54,

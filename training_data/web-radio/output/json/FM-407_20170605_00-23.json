@@ -197,7 +197,8 @@
         "FullName": "Klaus Badelt",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-06-05T18:11:14+02:00"
+      "ScheduledDateTime": "2017-06-05T18:11:14+02:00",
+      "composer": "http://data.doremus.org/artist/c25adc8e-1634-34e7-82fa-c8519d8c9244"
     },
     {
       "id": "7",
@@ -1418,7 +1419,8 @@
         "FullName": "Benedetto Ghiglia",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-06-05T19:44:16+02:00"
+      "ScheduledDateTime": "2017-06-05T19:44:16+02:00",
+      "composer": "http://data.doremus.org/artist/dcbdbde1-e824-3d2b-a893-e7b72e251f6c"
     },
     {
       "id": "39",
@@ -1458,7 +1460,8 @@
         "FullName": "Benedetto Ghiglia",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-06-05T19:45:24+02:00"
+      "ScheduledDateTime": "2017-06-05T19:45:24+02:00",
+      "composer": "http://data.doremus.org/artist/dcbdbde1-e824-3d2b-a893-e7b72e251f6c"
     },
     {
       "id": "40",
@@ -1498,7 +1501,8 @@
         "FullName": "Benedetto Ghiglia",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-06-05T19:46:25+02:00"
+      "ScheduledDateTime": "2017-06-05T19:46:25+02:00",
+      "composer": "http://data.doremus.org/artist/dcbdbde1-e824-3d2b-a893-e7b72e251f6c"
     },
     {
       "id": "41",
@@ -1814,7 +1818,7 @@
       },
       "ScheduledDateTime": "2017-06-05T20:03:28+02:00",
       "composer": "http://data.doremus.org/artist/71ec171d-965b-3967-b87b-262c514c01bd",
-      "best": "http://data.doremus.org/expression/a33bed58-1caa-3085-af3d-1da792a22b61",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2343,7 +2347,8 @@
         "FullName": "John Addison",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-06-05T20:26:45+02:00"
+      "ScheduledDateTime": "2017-06-05T20:26:45+02:00",
+      "composer": "http://data.doremus.org/artist/ab805f20-8565-33ac-ba76-b81447bb0359"
     },
     {
       "id": "61",
@@ -2383,9 +2388,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-06-05T20:30:07+02:00",
-      "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2",
-      "best": "http://data.doremus.org/expression/2869a294-d05f-30a1-8850-c0dd65ce9b7c",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2"
     },
     {
       "id": "62",
@@ -2427,7 +2430,7 @@
       },
       "ScheduledDateTime": "2017-06-05T20:33:44+02:00",
       "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2",
-      "best": "http://data.doremus.org/expression/23b11b9c-e74d-3091-a9f8-05068b53074b",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2470,7 +2473,7 @@
       },
       "ScheduledDateTime": "2017-06-05T20:36:34+02:00",
       "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2",
-      "best": "http://data.doremus.org/expression/23b11b9c-e74d-3091-a9f8-05068b53074b",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2858,5 +2861,5 @@
     }
   ],
   "total": 62,
-  "matched": 4
+  "matched": 3
 }

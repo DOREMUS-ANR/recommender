@@ -252,7 +252,7 @@
       "ScheduledDateTime": "2018-01-08T00:03:31+01:00",
       "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/c3c5c137-cd8e-3bde-a7bd-50fb6ef66bf2",
-      "best_matching_score": "0.99"
+      "best_matching_score": "0.94"
     },
     {
       "id": "7",
@@ -307,9 +307,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-08T00:08:10+01:00",
-      "composer": "http://data.doremus.org/artist/8000025a-e885-3177-99b3-300707faaad7",
-      "best": "http://data.doremus.org/expression/ebfc36e1-7516-3d76-a585-075deb232fce",
-      "best_matching_score": "0.99"
+      "composer": "http://data.doremus.org/artist/25c7526c-edec-30f1-8bc0-c04ad129164a"
     },
     {
       "id": "8",
@@ -358,7 +356,7 @@
       "ScheduledDateTime": "2018-01-08T00:13:51+01:00",
       "composer": "http://data.doremus.org/artist/12fa21ff-cfa4-31d6-87d9-a22315193b04",
       "best": "http://data.doremus.org/expression/7549e14b-648c-3bf8-8f69-980bca7ba239",
-      "best_matching_score": "0.80"
+      "best_matching_score": "0.92"
     },
     {
       "id": "9",
@@ -405,7 +403,9 @@
         "mop": "Piano"
       },
       "ScheduledDateTime": "2018-01-08T00:17:31+01:00",
-      "composer": "http://data.doremus.org/artist/5b6b876b-09ba-3856-8dd6-4208c0591621"
+      "composer": "http://data.doremus.org/artist/5b6b876b-09ba-3856-8dd6-4208c0591621",
+      "best": "http://data.doremus.org/expression/da21d3f9-77a4-3502-90a0-a625d4f53716",
+      "best_matching_score": "0.83"
     },
     {
       "id": "11",
@@ -453,8 +453,8 @@
       },
       "ScheduledDateTime": "2018-01-08T00:22:56+01:00",
       "composer": "http://data.doremus.org/artist/5b6b876b-09ba-3856-8dd6-4208c0591621",
-      "best": "http://data.doremus.org/expression/21f066a8-f11f-3365-8210-356dd67b3e68",
-      "best_matching_score": "0.74"
+      "best": "http://data.doremus.org/expression/34096ca6-6c25-31f1-b91d-a390250647bd",
+      "best_matching_score": "0.82"
     },
     {
       "id": "12",
@@ -502,8 +502,8 @@
       },
       "ScheduledDateTime": "2018-01-08T00:25:45+01:00",
       "composer": "http://data.doremus.org/artist/5b6b876b-09ba-3856-8dd6-4208c0591621",
-      "best": "http://data.doremus.org/expression/21f066a8-f11f-3365-8210-356dd67b3e68",
-      "best_matching_score": "0.74"
+      "best": "http://data.doremus.org/expression/663a6c43-671b-32cf-b281-7f1c2a06237f",
+      "best_matching_score": "0.81"
     },
     {
       "id": "13",
@@ -557,7 +557,8 @@
         "FullName": "Andrew Litton",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2018-01-08T00:28:57+01:00"
+      "ScheduledDateTime": "2018-01-08T00:28:57+01:00",
+      "composer": "http://data.doremus.org/artist/1354bb5f-7093-3fc5-94bb-cd212dbc257f"
     },
     {
       "id": "14",
@@ -611,7 +612,10 @@
         "FullName": "Neeme Jarvi",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2018-01-08T00:32:47+01:00"
+      "ScheduledDateTime": "2018-01-08T00:32:47+01:00",
+      "composer": "http://data.doremus.org/artist/209e49f0-5e49-3941-9c1c-23760025e4e4",
+      "best": "http://data.doremus.org/expression/57d6c45d-7eeb-3bf1-868d-ce885eac2ea4",
+      "best_matching_score": "0.97"
     },
     {
       "id": "15",
@@ -670,7 +674,10 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2018-01-08T00:39:04+01:00"
+      "ScheduledDateTime": "2018-01-08T00:39:04+01:00",
+      "composer": "http://data.doremus.org/artist/209e49f0-5e49-3941-9c1c-23760025e4e4",
+      "best": "http://data.doremus.org/expression/709f0103-4477-3304-9dbc-3910631a0794",
+      "best_matching_score": "1.00"
     },
     {
       "id": "17",
@@ -968,7 +975,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-08T00:56:13+01:00",
-      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d"
+      "composer": "http://data.doremus.org/artist/744e54f3-d9b2-3e16-a3a9-86ed41d8ee6d",
+      "best": "http://data.doremus.org/expression/f4cdb504-475c-365f-b1aa-c8985d1f37cf",
+      "best_matching_score": "0.77"
     },
     {
       "id": "23",
@@ -1023,9 +1032,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-08T01:06:31+01:00",
-      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
-      "best": "http://data.doremus.org/expression/5cfd73ee-28ef-3c39-9b9a-b858bc13c059",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d"
     },
     {
       "id": "24",
@@ -1081,7 +1088,7 @@
       "ScheduledDateTime": "2018-01-08T01:09:52+01:00",
       "composer": "http://data.doremus.org/artist/f9a2ac39-a62d-3be2-8abb-e564de0ec96d",
       "best": "http://data.doremus.org/expression/fe4fe6f3-bf06-3e4e-a717-2b26d9325c7a",
-      "best_matching_score": "0.99"
+      "best_matching_score": "0.98"
     },
     {
       "id": "25",
@@ -1278,9 +1285,7 @@
         }
       ],
       "ScheduledDateTime": "2018-01-08T01:20:14+01:00",
-      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/593cb4b9-0264-32db-a419-b11f90d434d7",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c"
     },
     {
       "id": "29",
@@ -1336,8 +1341,8 @@
       ],
       "ScheduledDateTime": "2018-01-08T01:25:15+01:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/0c40dade-a4da-3288-87db-22735863462c",
-      "best_matching_score": "1.00"
+      "best": "http://data.doremus.org/expression/0b4324b9-b6dd-36de-be1b-e9dc337e1cf4",
+      "best_matching_score": "0.94"
     },
     {
       "id": "30",
@@ -1546,8 +1551,8 @@
       },
       "ScheduledDateTime": "2018-01-08T01:38:27+01:00",
       "composer": "http://data.doremus.org/artist/6329cd86-d47a-3e0b-9a58-28d6d2d4b14e",
-      "best": "http://data.doremus.org/expression/97add7ae-281b-37bd-825f-81966967a92f",
-      "best_matching_score": "0.89"
+      "best": "http://data.doremus.org/expression/7c0ca784-3ef9-375c-bf33-42103ac96ed3",
+      "best_matching_score": "0.94"
     },
     {
       "id": "35",
@@ -1595,8 +1600,8 @@
       },
       "ScheduledDateTime": "2018-01-08T01:44:41+01:00",
       "composer": "http://data.doremus.org/artist/182eb912-5a5b-3082-9008-9d46d47548ca",
-      "best": "http://data.doremus.org/expression/0db8fd5b-85a7-36fc-9f43-c45bd9a85970",
-      "best_matching_score": "0.92"
+      "best": "http://data.doremus.org/expression/7f7b34eb-8699-3d37-b5fa-203817c36f79",
+      "best_matching_score": "0.99"
     },
     {
       "id": "36",
@@ -1650,9 +1655,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-08T01:49:27+01:00",
-      "composer": "http://data.doremus.org/artist/f753314d-87a7-32a9-9218-da98ae4f9812",
-      "best": "http://data.doremus.org/expression/1e93bf3a-4037-347f-9389-2b3208dd4340",
-      "best_matching_score": "0.99"
+      "composer": "http://data.doremus.org/artist/34217934-6e30-32f9-9f3b-f0b0875a74fd"
     },
     {
       "id": "37",
@@ -1732,7 +1735,7 @@
       "ScheduledDateTime": "2018-01-08T01:54:04+01:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
       "best": "http://data.doremus.org/expression/10152d45-3c83-3aba-9f7f-d29881de55e0",
-      "best_matching_score": "0.84"
+      "best_matching_score": "0.76"
     },
     {
       "id": "39",
@@ -1783,7 +1786,7 @@
       "ScheduledDateTime": "2018-01-08T01:58:12+01:00",
       "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
       "best": "http://data.doremus.org/expression/7898f6d0-ca31-38ea-b461-fe6dda1743cb",
-      "best_matching_score": "0.99"
+      "best_matching_score": "0.96"
     },
     {
       "id": "40",
@@ -1834,7 +1837,7 @@
       "ScheduledDateTime": "2018-01-08T02:04:12+01:00",
       "composer": "http://data.doremus.org/artist/df30cc35-ef79-3449-bbdb-da2e0cf1ef27",
       "best": "http://data.doremus.org/expression/9db34bef-f527-387e-bce6-8ad847bbbf3a",
-      "best_matching_score": "0.99"
+      "best_matching_score": "0.95"
     },
     {
       "id": "41",
@@ -1891,9 +1894,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-08T02:12:45+01:00",
-      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d",
-      "best": "http://data.doremus.org/expression/ae962407-d57f-35ce-bf30-06c77f04f5bf",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/34943da5-d068-3ada-bd4d-3db0c66c8a7d"
     },
     {
       "id": "43",
@@ -1950,7 +1951,7 @@
       "ScheduledDateTime": "2018-01-08T02:18:47+01:00",
       "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
       "best": "http://data.doremus.org/expression/328ee5f7-728d-3ce2-b89e-bb99b4c82fe7",
-      "best_matching_score": "0.96"
+      "best_matching_score": "0.94"
     },
     {
       "id": "44",
@@ -2081,7 +2082,7 @@
       "ScheduledDateTime": "2018-01-08T02:26:01+01:00",
       "composer": "http://data.doremus.org/artist/c2e25a07-7a54-335a-9a9e-e20a47713a7d",
       "best": "http://data.doremus.org/expression/21c5df51-9123-337f-9ae6-643146a26d12",
-      "best_matching_score": "1.00"
+      "best_matching_score": "0.92"
     },
     {
       "id": "46",
@@ -2128,7 +2129,8 @@
         "FullName": "Seiji Ozawa",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2018-01-08T02:31:31+01:00"
+      "ScheduledDateTime": "2018-01-08T02:31:31+01:00",
+      "composer": "http://data.doremus.org/artist/50452b63-7719-3881-b7a4-f8c1b41ca158"
     },
     {
       "id": "48",
@@ -2176,7 +2178,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2018-01-08T02:41:43+01:00",
-      "composer": "http://data.doremus.org/artist/3f96eea4-90fa-3ce5-bc52-ebd4965b0792"
+      "composer": "http://data.doremus.org/artist/00ec33a6-f012-3bb2-a52c-d7c831918f38"
     },
     {
       "id": "49",
@@ -2342,5 +2344,5 @@
     }
   ],
   "total": 40,
-  "matched": 26
+  "matched": 25
 }

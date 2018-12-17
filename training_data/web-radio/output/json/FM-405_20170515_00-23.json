@@ -1204,7 +1204,8 @@
         "Profession": "Interprète",
         "InterventionNote": "Christophe Wallemme"
       },
-      "ScheduledDateTime": "2017-05-15T01:37:13+02:00"
+      "ScheduledDateTime": "2017-05-15T01:37:13+02:00",
+      "composer": "http://data.doremus.org/artist/74ce73b8-5fff-3300-a44c-1263951c1791"
     },
     {
       "id": "31",
@@ -1273,9 +1274,7 @@
         }
       ],
       "ScheduledDateTime": "2017-05-15T01:42:14+02:00",
-      "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2",
-      "best": "http://data.doremus.org/expression/65e8936f-dd26-353d-a839-f1f018cc3d33",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/daec81ba-a882-3bc1-83c7-b6cee470ffc2"
     },
     {
       "id": "32",
@@ -2102,5 +2101,5 @@
     }
   ],
   "total": 39,
-  "matched": 3
+  "matched": 2
 }

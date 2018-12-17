@@ -58,7 +58,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-06-19T03:00:03+02:00",
-      "composer": "http://data.doremus.org/artist/85ee37e7-7b5d-3440-b29f-1fa160695c8c"
+      "composer": "http://data.doremus.org/artist/058e430e-f4e9-3b35-86f4-4bd4514d6ec3"
     },
     {
       "id": "4",
@@ -708,9 +708,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-06-19T03:42:38+02:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72",
-      "best": "http://data.doremus.org/expression/57ac9920-c460-30ce-918e-79ca95c0b137",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "21",
@@ -1125,7 +1123,7 @@
       },
       "ScheduledDateTime": "2017-06-19T04:03:12+02:00",
       "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf",
-      "best": "http://data.doremus.org/expression/8e712b4e-8093-3892-add3-e07e2e39b731",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -1436,7 +1434,7 @@
       },
       "ScheduledDateTime": "2017-06-19T04:20:53+02:00",
       "composer": "http://data.doremus.org/artist/45d40e2a-bd4a-3829-b0c7-8cd44417e1d0",
-      "best": "http://data.doremus.org/expression/274bb52f-8121-3b27-b67f-20edb1195f06",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2442,7 +2440,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-06-19T05:25:20+02:00",
-      "composer": "http://data.doremus.org/artist/41126109-1229-3215-b60e-4e322d905824"
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
     },
     {
       "id": "64",
@@ -2697,7 +2695,8 @@
         "FullName": "Carter Burwell",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-06-19T05:42:35+02:00"
+      "ScheduledDateTime": "2017-06-19T05:42:35+02:00",
+      "composer": "http://data.doremus.org/artist/2d2d740d-1ac7-3cf3-abf9-342246b1fa73"
     },
     {
       "id": "71",
@@ -2877,5 +2876,5 @@
     }
   ],
   "total": 63,
-  "matched": 3
+  "matched": 2
 }

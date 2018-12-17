@@ -410,7 +410,8 @@
         "EntityName": "Non Identifie",
         "EntityType": "Orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T00:26:10+02:00"
+      "ScheduledDateTime": "2017-09-25T00:26:10+02:00",
+      "composer": "http://data.doremus.org/artist/0952ea1a-a56c-342e-8056-7208342fc8ca"
     },
     {
       "id": "13",
@@ -682,7 +683,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-09-25T00:46:38+02:00",
-      "composer": "http://data.doremus.org/artist/41126109-1229-3215-b60e-4e322d905824"
+      "composer": "http://data.doremus.org/artist/05ba9cb0-1cf7-3dd9-802e-b4e7ff605f35"
     },
     {
       "id": "20",
@@ -1100,7 +1101,7 @@
         }
       ],
       "ScheduledDateTime": "2017-09-25T01:10:57+02:00",
-      "composer": "http://data.doremus.org/artist/5e147ab2-1726-3c3b-bbc8-6bdcac26074e"
+      "composer": "http://data.doremus.org/artist/769ef13a-fc93-32c1-bcba-89f226366c3d"
     },
     {
       "id": "30",
@@ -1276,7 +1277,9 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-09-25T01:23:45+02:00",
-      "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf"
+      "composer": "http://data.doremus.org/artist/d6308077-4dd3-3dde-ae94-2bf599be69bf",
+      "best": {},
+      "best_matching_score": "1.00"
     },
     {
       "id": "35",
@@ -1448,7 +1451,8 @@
         "FullName": "John Scott",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-09-25T01:35:10+02:00"
+      "ScheduledDateTime": "2017-09-25T01:35:10+02:00",
+      "composer": "http://data.doremus.org/artist/7932d23a-ae84-32e6-8d8b-55c2441b6522"
     },
     {
       "id": "40",
@@ -1621,7 +1625,7 @@
       },
       "ScheduledDateTime": "2017-09-25T01:51:49+02:00",
       "composer": "http://data.doremus.org/artist/3e804e5c-0db2-3aec-bbdc-744f2af392e3",
-      "best": "http://data.doremus.org/expression/6a4c2b8a-7060-39d5-83c1-2f71118ac4be",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -1708,7 +1712,7 @@
       },
       "ScheduledDateTime": "2017-09-25T01:54:27+02:00",
       "composer": "http://data.doremus.org/artist/283ef3c8-5ca2-336f-9774-6c2ce2010699",
-      "best": "http://data.doremus.org/expression/e9ef37c4-4661-3018-9356-491512e2522d",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2069,7 +2073,8 @@
         "FullName": "Carl Davies",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-09-25T02:20:53+02:00"
+      "ScheduledDateTime": "2017-09-25T02:20:53+02:00",
+      "composer": "http://data.doremus.org/artist/fd19bdab-2d25-3bfe-9e3f-ee6c4e7599fa"
     },
     {
       "id": "55",
@@ -2109,7 +2114,8 @@
         "FullName": "Oswald D'Andrea",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-09-25T02:23:09+02:00"
+      "ScheduledDateTime": "2017-09-25T02:23:09+02:00",
+      "composer": "http://data.doremus.org/artist/37e3a691-6335-3a2a-83dd-f3d313957fad"
     },
     {
       "id": "56",
@@ -2208,7 +2214,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-09-25T02:31:58+02:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "58",
@@ -2256,7 +2262,8 @@
         "FullName": "Natale Massara",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T02:35:09+02:00"
+      "ScheduledDateTime": "2017-09-25T02:35:09+02:00",
+      "composer": "http://data.doremus.org/artist/1d253a08-465c-39d1-a551-aaf5db8ac6b0"
     },
     {
       "id": "59",
@@ -2418,7 +2425,7 @@
       },
       "ScheduledDateTime": "2017-09-25T02:40:50+02:00",
       "composer": "http://data.doremus.org/artist/4c9e3128-8f13-36c0-9cf0-9886c6ed897d",
-      "best": "http://data.doremus.org/expression/481947a3-c1d2-3b33-8945-d0e3ec483003",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2634,7 +2641,8 @@
         "Profession": "Interprète",
         "InterventionNote": "Tom Waits"
       },
-      "ScheduledDateTime": "2017-09-25T02:56:32+02:00"
+      "ScheduledDateTime": "2017-09-25T02:56:32+02:00",
+      "composer": "http://data.doremus.org/artist/d4140688-33a7-3fef-9b06-3e631600310c"
     },
     {
       "id": "67",
@@ -2688,5 +2696,5 @@
     }
   ],
   "total": 57,
-  "matched": 3
+  "matched": 4
 }

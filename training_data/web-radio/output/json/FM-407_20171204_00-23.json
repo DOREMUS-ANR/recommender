@@ -86,9 +86,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-12-04T18:04:25+01:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72",
-      "best": "http://data.doremus.org/expression/57ac9920-c460-30ce-918e-79ca95c0b137",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "5",
@@ -173,7 +171,8 @@
         "EntityName": "Henri Mancini And His Orchestra",
         "EntityType": "Orchestre"
       },
-      "ScheduledDateTime": "2017-12-04T18:11:16+01:00"
+      "ScheduledDateTime": "2017-12-04T18:11:16+01:00",
+      "composer": "http://data.doremus.org/artist/f812bcfb-a58b-38cd-8600-bd93f2b03672"
     },
     {
       "id": "7",
@@ -1116,7 +1115,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-12-04T19:32:28+01:00",
-      "composer": "http://data.doremus.org/artist/8b9a3629-8a81-3ef4-8a6f-1efa3ad8601a"
+      "composer": "http://data.doremus.org/artist/8f760a28-d0d8-3c9f-bc15-995df141cc30"
     },
     {
       "id": "33",
@@ -1197,7 +1196,8 @@
         "FullName": "Philippe Eidel",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-12-04T19:37:08+01:00"
+      "ScheduledDateTime": "2017-12-04T19:37:08+01:00",
+      "composer": "http://data.doremus.org/artist/6c5ccf66-f7ed-3260-afe9-16ec1e08b379"
     },
     {
       "id": "36",
@@ -1288,7 +1288,8 @@
         "Profession": "Interprète",
         "InterventionNote": "Devotchka"
       },
-      "ScheduledDateTime": "2017-12-04T19:46:05+01:00"
+      "ScheduledDateTime": "2017-12-04T19:46:05+01:00",
+      "composer": "http://data.doremus.org/artist/f85264a3-7afa-3a24-9551-28775af4710f"
     },
     {
       "id": "38",
@@ -1436,7 +1437,8 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2017-12-04T19:51:50+01:00"
+      "ScheduledDateTime": "2017-12-04T19:51:50+01:00",
+      "composer": "http://data.doremus.org/artist/ee769fe5-0c20-3eb4-aaab-760899c3254e"
     },
     {
       "id": "40",
@@ -1650,7 +1652,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2017-12-04T20:13:25+01:00",
-      "composer": "http://data.doremus.org/artist/fba9fc43-ff02-3032-8813-79e85991887c"
+      "composer": "http://data.doremus.org/artist/d01f378c-8212-3c7e-929a-e91e5c9cbf76"
     },
     {
       "id": "46",
@@ -1941,7 +1943,7 @@
       },
       "ScheduledDateTime": "2017-12-04T20:29:28+01:00",
       "composer": "http://data.doremus.org/artist/0ff45f40-2c6a-322e-a441-3b4d0ed465ce",
-      "best": "http://data.doremus.org/expression/3bac3a3b-4d02-3647-bc66-6b011522132b",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2242,5 +2244,5 @@
     }
   ],
   "total": 50,
-  "matched": 2
+  "matched": 1
 }

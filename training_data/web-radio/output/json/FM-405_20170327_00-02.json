@@ -52,7 +52,9 @@
         "InterventionNote": "Swingle Singers"
       },
       "ScheduledDateTime": "2017-03-27T00:00:15+02:00",
-      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63"
+      "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
+      "best": "http://data.doremus.org/expression/5ace7ea6-6f0c-3742-9b0a-a7b161c2de9d",
+      "best_matching_score": "0.82"
     },
     {
       "id": "4",
@@ -155,7 +157,7 @@
       "ScheduledDateTime": "2017-03-27T00:09:19+02:00",
       "composer": "http://data.doremus.org/artist/269cec9d-5025-3a8a-b2ef-4f7acb088f2b",
       "best": "http://data.doremus.org/expression/4a6389a3-ee42-3895-a3a7-59dfeb8469ac",
-      "best_matching_score": "1.00"
+      "best_matching_score": "0.95"
     },
     {
       "id": "6",
@@ -477,9 +479,7 @@
         "mop": "Pianoforte"
       },
       "ScheduledDateTime": "2017-03-27T00:29:53+02:00",
-      "composer": "http://data.doremus.org/artist/ed7eb4d4-1e91-3a02-8e07-cbf857031127",
-      "best": "http://data.doremus.org/expression/052f06b4-24ea-3323-9d58-10c053dab14a",
-      "best_matching_score": "0.79"
+      "composer": "http://data.doremus.org/artist/1a0054d5-07c8-33c3-9f7e-8482b43c585f"
     },
     {
       "id": "12",
@@ -1075,7 +1075,7 @@
         }
       ],
       "ScheduledDateTime": "2017-03-27T01:05:59+02:00",
-      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
     },
     {
       "id": "22",
@@ -1226,7 +1226,7 @@
       ],
       "ScheduledDateTime": "2017-03-27T01:25:20+02:00",
       "composer": "http://data.doremus.org/artist/bcf39e82-e208-3049-b550-1feaae6071a6",
-      "best": "http://data.doremus.org/expression/fc107e28-8b56-311a-bf47-1f1c7e7d9929",
+      "best": "http://data.doremus.org/expression/2e5695a7-94bd-3db4-8655-3caa4e108596",
       "best_matching_score": "1.00"
     },
     {
@@ -1273,7 +1273,8 @@
         "InterventionNote": "Bengt Hallberg : Piano",
         "mop": "Piano"
       },
-      "ScheduledDateTime": "2017-03-27T01:29:52+02:00"
+      "ScheduledDateTime": "2017-03-27T01:29:52+02:00",
+      "composer": "http://data.doremus.org/artist/1354bb5f-7093-3fc5-94bb-cd212dbc257f"
     },
     {
       "id": "27",
@@ -1714,9 +1715,7 @@
         "EntityType": "Orchestre"
       },
       "ScheduledDateTime": "2017-03-27T02:08:12+02:00",
-      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c",
-      "best": "http://data.doremus.org/expression/0b4324b9-b6dd-36de-be1b-e9dc337e1cf4",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/03954109-0253-35d6-a70e-89ab27dea09c"
     },
     {
       "id": "36",
@@ -2075,8 +2074,8 @@
       ],
       "ScheduledDateTime": "2017-03-27T02:43:30+02:00",
       "composer": "http://data.doremus.org/artist/00f6e16d-7cd8-3d52-ad65-5f5e85e42123",
-      "best": "http://data.doremus.org/expression/988511d6-9101-3bf9-85d5-52f727a53880",
-      "best_matching_score": "0.85"
+      "best": "http://data.doremus.org/expression/351f1e29-12d5-3e11-b777-18878707f5a4",
+      "best_matching_score": "0.87"
     },
     {
       "id": "45",
@@ -2190,7 +2189,8 @@
         "Profession": "Interprète",
         "InterventionNote": "John Kirby"
       },
-      "ScheduledDateTime": "2017-03-27T02:50:09+02:00"
+      "ScheduledDateTime": "2017-03-27T02:50:09+02:00",
+      "composer": "http://data.doremus.org/artist/1354bb5f-7093-3fc5-94bb-cd212dbc257f"
     },
     {
       "id": "47",
@@ -2236,9 +2236,7 @@
         "InterventionNote": "Benny Goodman"
       },
       "ScheduledDateTime": "2017-03-27T02:52:33+02:00",
-      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/16c4f521-9fd4-3408-ab31-c850a6f8e1cf",
-      "best_matching_score": "1.00"
+      "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00"
     },
     {
       "id": "48",
@@ -2331,9 +2329,7 @@
         }
       ],
       "ScheduledDateTime": "2017-03-27T02:57:35+02:00",
-      "composer": "http://data.doremus.org/artist/6963af5e-b126-3d40-a84b-97e0b78f5452",
-      "best": "http://data.doremus.org/expression/c97eeedb-0628-3b17-9ac0-b37cf32b9ada",
-      "best_matching_score": "0.96"
+      "composer": "http://data.doremus.org/artist/19085a8b-d38d-37ac-9f0a-b412d6e1f88b"
     },
     {
       "id": "51",
@@ -2596,5 +2592,5 @@
     }
   ],
   "total": 46,
-  "matched": 12
+  "matched": 9
 }

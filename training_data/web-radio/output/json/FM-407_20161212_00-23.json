@@ -147,7 +147,7 @@
       },
       "ScheduledDateTime": "2016-12-12T09:07:11+01:00",
       "composer": "http://data.doremus.org/artist/b703908f-b682-36e1-9499-28e9268bf533",
-      "best": "http://data.doremus.org/expression/e8729d63-0695-314e-8082-5ca585fc8905",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -204,7 +204,7 @@
       },
       "ScheduledDateTime": "2016-12-12T09:14:04+01:00",
       "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/720d7dd5-b4c5-349f-a665-0dde0ba99002",
+      "best": {},
       "best_matching_score": "0.86"
     },
     {
@@ -458,8 +458,8 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T09:30:49+01:00",
-      "composer": "http://data.doremus.org/artist/22938da0-13d3-32bc-9b0d-ce2abcbbffef",
-      "best": "http://data.doremus.org/expression/fa755317-64e1-30a1-9b0c-6ce294069b38",
+      "composer": "http://data.doremus.org/artist/d75bd503-4bf8-3a5b-9826-fb860ec5c8cb",
+      "best": {},
       "best_matching_score": "0.92"
     },
     {
@@ -562,7 +562,7 @@
       },
       "ScheduledDateTime": "2016-12-12T09:38:49+01:00",
       "composer": "http://data.doremus.org/artist/6a99c949-7cf5-3290-829e-ff2d07b1cf65",
-      "best": "http://data.doremus.org/expression/477d2dd4-018a-3073-a7b0-948df942e208",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -604,7 +604,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2016-12-12T09:41:18+01:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "19",
@@ -654,8 +654,8 @@
       },
       "ScheduledDateTime": "2016-12-12T09:43:33+01:00",
       "composer": "http://data.doremus.org/artist/e80e9e08-019b-3a71-a43f-29ff03896899",
-      "best": "http://data.doremus.org/expression/7c97636a-56f3-31df-9ab4-ae4ad2271be2",
-      "best_matching_score": "1.00"
+      "best": {},
+      "best_matching_score": "0.94"
     },
     {
       "id": "21",
@@ -759,7 +759,7 @@
       ],
       "ScheduledDateTime": "2016-12-12T09:51:19+01:00",
       "composer": "http://data.doremus.org/artist/a4e8f64d-3411-3eb4-8e09-59e24bc26bf3",
-      "best": "http://data.doremus.org/expression/6caa458f-291b-36b8-af8e-d665e3a05476",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -846,7 +846,7 @@
       },
       "ScheduledDateTime": "2016-12-12T09:56:58+01:00",
       "composer": "http://data.doremus.org/artist/4802a043-23bb-3b8d-a443-4a3bd22ccc63",
-      "best": "http://data.doremus.org/expression/44d60392-e4bc-3b37-8e21-2f72d69ecd6d",
+      "best": {},
       "best_matching_score": "0.93"
     },
     {
@@ -896,9 +896,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T10:01:37+01:00",
-      "composer": "http://data.doremus.org/artist/7ceb06da-85a9-3304-94d3-faa898948f82",
-      "best": "http://data.doremus.org/expression/17e8ae8f-1d78-3ee5-8a54-372b5eb12928",
-      "best_matching_score": "0.98"
+      "composer": "http://data.doremus.org/artist/2b065056-4706-3097-ad10-5996f89e7aa3"
     },
     {
       "id": "27",
@@ -960,7 +958,7 @@
       ],
       "ScheduledDateTime": "2016-12-12T10:11:32+01:00",
       "composer": "http://data.doremus.org/artist/bcfefeca-ab42-3e86-9ffa-0b0176319b29",
-      "best": "http://data.doremus.org/expression/b4a446bd-eab8-3c63-8888-84ecddb9988d",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -1009,7 +1007,10 @@
         "FullName": "Guennadi Rojdestvenski",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2016-12-12T10:16:46+01:00"
+      "ScheduledDateTime": "2016-12-12T10:16:46+01:00",
+      "composer": "http://data.doremus.org/artist/209e49f0-5e49-3941-9c1c-23760025e4e4",
+      "best": {},
+      "best_matching_score": "0.98"
     },
     {
       "id": "29",
@@ -1070,7 +1071,7 @@
       ],
       "ScheduledDateTime": "2016-12-12T10:18:21+01:00",
       "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
-      "best": "http://data.doremus.org/expression/bf2e3d7f-1c6c-392d-aea0-607e0a013c79",
+      "best": {},
       "best_matching_score": "0.86"
     },
     {
@@ -1112,7 +1113,7 @@
         "Profession": "Compositeur/Compositrice"
       },
       "ScheduledDateTime": "2016-12-12T10:22:42+01:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "32",
@@ -1295,7 +1296,7 @@
       },
       "ScheduledDateTime": "2016-12-12T10:34:18+01:00",
       "composer": "http://data.doremus.org/artist/c23f132e-5813-39f5-aeaa-106738ff9123",
-      "best": "http://data.doremus.org/expression/ad13f2a3-b64a-31b0-be46-08d158a1264e",
+      "best": {},
       "best_matching_score": "0.99"
     },
     {
@@ -1342,7 +1343,7 @@
         "mop": "Guitare"
       },
       "ScheduledDateTime": "2016-12-12T10:51:35+01:00",
-      "composer": "http://data.doremus.org/artist/f146b700-a150-3e31-a67d-70a2d41ca53f"
+      "composer": "http://data.doremus.org/artist/920a4c9d-68f0-36c8-88a9-a4c882171aa6"
     },
     {
       "id": "39",
@@ -1410,8 +1411,8 @@
       ],
       "ScheduledDateTime": "2016-12-12T10:55:16+01:00",
       "composer": "http://data.doremus.org/artist/1b1205f9-b99a-3bb8-ba77-256689af2e00",
-      "best": "http://data.doremus.org/expression/4f56c71f-e047-3ac9-8a1f-133dd38feb49",
-      "best_matching_score": "1.00"
+      "best": {},
+      "best_matching_score": "0.76"
     },
     {
       "id": "41",
@@ -1491,7 +1492,7 @@
       ],
       "ScheduledDateTime": "2016-12-12T10:57:07+01:00",
       "composer": "http://data.doremus.org/artist/434764e7-d309-3e4a-b745-32e51891c80c",
-      "best": "http://data.doremus.org/expression/9998f89b-6052-3b6b-8b1e-27c16b756a87",
+      "best": {},
       "best_matching_score": "0.94"
     },
     {
@@ -1547,7 +1548,7 @@
       ],
       "ScheduledDateTime": "2016-12-12T11:00:37+01:00",
       "composer": "http://data.doremus.org/artist/d1649fd7-3a53-3dcb-afdf-6e3e0a2f0344",
-      "best": "http://data.doremus.org/expression/5492555b-a96b-3824-8222-131d2f5723c0",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -1597,7 +1598,9 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:03:19+01:00",
-      "composer": "http://data.doremus.org/artist/37cf105f-3435-36bf-8932-778998c8aa4a"
+      "composer": "http://data.doremus.org/artist/37cf105f-3435-36bf-8932-778998c8aa4a",
+      "best": {},
+      "best_matching_score": "0.77"
     },
     {
       "id": "44",
@@ -1656,7 +1659,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2016-12-12T11:04:10+01:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "45",
@@ -1710,7 +1713,8 @@
           "mop": "Piano"
         }
       ],
-      "ScheduledDateTime": "2016-12-12T11:09:20+01:00"
+      "ScheduledDateTime": "2016-12-12T11:09:20+01:00",
+      "composer": "http://data.doremus.org/artist/50452b63-7719-3881-b7a4-f8c1b41ca158"
     },
     {
       "id": "47",
@@ -1760,7 +1764,7 @@
       },
       "ScheduledDateTime": "2016-12-12T11:10:50+01:00",
       "composer": "http://data.doremus.org/artist/723b6f2c-0afa-3dcd-b20e-c4f428403a35",
-      "best": "http://data.doremus.org/expression/a7a875ac-04aa-314e-81e7-ca4963e994f8",
+      "best": {},
       "best_matching_score": "0.94"
     },
     {
@@ -3676,5 +3680,5 @@
     }
   ],
   "total": 72,
-  "matched": 15
+  "matched": 16
 }

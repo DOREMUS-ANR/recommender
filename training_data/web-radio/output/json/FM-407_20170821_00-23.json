@@ -218,7 +218,8 @@
         "FullName": "Carter Burwell",
         "Profession": "Compositeur/Compositrice"
       },
-      "ScheduledDateTime": "2017-08-21T00:13:30+02:00"
+      "ScheduledDateTime": "2017-08-21T00:13:30+02:00",
+      "composer": "http://data.doremus.org/artist/2d2d740d-1ac7-3cf3-abf9-342246b1fa73"
     },
     {
       "id": "8",
@@ -544,7 +545,7 @@
         "Profession": "Chef d'orchestre"
       },
       "ScheduledDateTime": "2017-08-21T00:37:18+02:00",
-      "composer": "http://data.doremus.org/artist/8b49e5af-83dc-381a-84a1-f5a0dc332b72"
+      "composer": "http://data.doremus.org/artist/3f3452df-e152-3488-834c-42e9f0e73841"
     },
     {
       "id": "17",
@@ -1596,7 +1597,7 @@
       },
       "ScheduledDateTime": "2017-08-21T01:37:53+02:00",
       "composer": "http://data.doremus.org/artist/0ff45f40-2c6a-322e-a441-3b4d0ed465ce",
-      "best": "http://data.doremus.org/expression/3bac3a3b-4d02-3647-bc66-6b011522132b",
+      "best": {},
       "best_matching_score": "1.00"
     },
     {
@@ -2648,7 +2649,8 @@
           "Profession": "Chef d'orchestre"
         }
       ],
-      "ScheduledDateTime": "2017-08-21T02:58:23+02:00"
+      "ScheduledDateTime": "2017-08-21T02:58:23+02:00",
+      "composer": "http://data.doremus.org/artist/c25adc8e-1634-34e7-82fa-c8519d8c9244"
     },
     {
       "id": "67",
