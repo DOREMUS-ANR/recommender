@@ -7,7 +7,7 @@ const klawSync = require('klaw-sync');
 const matcher = require('../matcher');
 const Record = require('./Record');
 
-const inputPath = path.join(__dirname, 'input/CONTEMPORAINE/');
+const inputPath = path.join(__dirname, 'input');
 const outputPath = path.join(__dirname, 'output');
 
 process.on('unhandledRejection', (reason, p) => {

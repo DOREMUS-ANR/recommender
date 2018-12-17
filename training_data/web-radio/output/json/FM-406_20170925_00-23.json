@@ -54,7 +54,10 @@
         "FullName": "George Benjamin",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T00:00:08+02:00"
+      "ScheduledDateTime": "2017-09-25T00:00:08+02:00",
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7",
+      "best": "http://data.doremus.org/expression/79d69542-a340-3304-82fd-4d74da6be6d0",
+      "best_matching_score": "1.00"
     },
     {
       "id": "5",
@@ -108,7 +111,10 @@
           "mop": "Trombone"
         }
       ],
-      "ScheduledDateTime": "2017-09-25T00:31:25+02:00"
+      "ScheduledDateTime": "2017-09-25T00:31:25+02:00",
+      "composer": "http://data.doremus.org/artist/53255ca5-60e2-35b8-8dea-fea4c9ccd7b9",
+      "best": "http://data.doremus.org/expression/0ef299e8-5727-397f-b0d4-f94c65e75a71",
+      "best_matching_score": "1.00"
     },
     {
       "id": "6",
@@ -156,7 +162,10 @@
         "FullName": "Stefan Asbury",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T00:46:47+02:00"
+      "ScheduledDateTime": "2017-09-25T00:46:47+02:00",
+      "composer": "http://data.doremus.org/artist/53255ca5-60e2-35b8-8dea-fea4c9ccd7b9",
+      "best": "http://data.doremus.org/expression/eb9f0f76-7072-3959-a53e-9df654f005b3",
+      "best_matching_score": "1.00"
     },
     {
       "id": "8",
@@ -209,7 +218,10 @@
         "FullName": "Pierre Andre Valade",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T01:09:00+02:00"
+      "ScheduledDateTime": "2017-09-25T01:09:00+02:00",
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7",
+      "best": "http://data.doremus.org/expression/3f598de1-cabd-362e-8d58-540eead2f0d7",
+      "best_matching_score": "1.00"
     },
     {
       "id": "10",
@@ -284,7 +296,10 @@
         "EntityName": "Accentus",
         "EntityType": "Choeur"
       },
-      "ScheduledDateTime": "2017-09-25T01:31:33+02:00"
+      "ScheduledDateTime": "2017-09-25T01:31:33+02:00",
+      "composer": "http://data.doremus.org/artist/8d84287a-4718-3624-954c-99121c478066",
+      "best": "http://data.doremus.org/expression/18690186-b5bd-34dc-a64f-08c14614a20c",
+      "best_matching_score": "0.93"
     },
     {
       "id": "12",
@@ -364,7 +379,8 @@
         "FullName": "Pierre Andre Valade",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T01:48:05+02:00"
+      "ScheduledDateTime": "2017-09-25T01:48:05+02:00",
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7"
     },
     {
       "id": "13",
@@ -409,7 +425,10 @@
         "InterventionNote": "Dominique My : Piano",
         "mop": "Piano"
       },
-      "ScheduledDateTime": "2017-09-25T01:59:58+02:00"
+      "ScheduledDateTime": "2017-09-25T01:59:58+02:00",
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7",
+      "best": "http://data.doremus.org/expression/ce795106-1a43-39a6-932e-e995cd242236",
+      "best_matching_score": "1.00"
     },
     {
       "id": "15",
@@ -463,7 +482,8 @@
         "FullName": "Pierre Andre Valade",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T02:10:11+02:00"
+      "ScheduledDateTime": "2017-09-25T02:10:11+02:00",
+      "composer": "http://data.doremus.org/artist/f9be0f12-f30c-354b-9495-37062c53a992"
     },
     {
       "id": "17",
@@ -511,7 +531,10 @@
         "FullName": "Yves Prin",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T02:38:16+02:00"
+      "ScheduledDateTime": "2017-09-25T02:38:16+02:00",
+      "composer": "http://data.doremus.org/artist/84329eca-fb5d-3b00-a424-7f94acb6a6c7",
+      "best": "http://data.doremus.org/expression/592ecfef-2b49-358e-a4e5-ecaafcfdbaf9",
+      "best_matching_score": "1.00"
     },
     {
       "id": "18",
@@ -565,9 +588,10 @@
         "FullName": "Sakari Oramo",
         "Profession": "Chef d'orchestre"
       },
-      "ScheduledDateTime": "2017-09-25T02:55:04+02:00"
+      "ScheduledDateTime": "2017-09-25T02:55:04+02:00",
+      "composer": "http://data.doremus.org/artist/920ba0aa-31c1-3950-8e09-666a033d7e25"
     }
   ],
   "total": 10,
-  "matched": 0
+  "matched": 7
 }

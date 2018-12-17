@@ -1,0 +1,275 @@
+{
+  "id": "FM-404_20171030_00-23",
+  "channel": "404",
+  "records": [
+    {
+      "id": "3",
+      "StepID": "3",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:00:09:00",
+      "ScheduledDuration": "00:44:21:00",
+      "NumPhase": 2,
+      "Inclusion": 0,
+      "NumEventCond": 3,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Nouba du mode Rasd Dhil",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Nouba du mode Rasd Dhil",
+      "Label": "ESPERANCE",
+      "ReferenceLabel": "CD 2698",
+      "ExternalID": "3252418269853-1-1",
+      "AlbumTitle": "Algèrie/Khaznadji Mohamed/ vol 4 Nouba du mode Rasd Dhil",
+      "Rank": 1,
+      "NumVolume": 1,
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3252418269853",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Mohamed Khaznadji",
+          "Profession": "Interprète",
+          "InterventionNote": "Mohamed Khaznadji : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T00:00:09+01:00"
+    },
+    {
+      "id": "5",
+      "StepID": "5",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "00:44:42:00",
+      "ScheduledDuration": "00:40:14:00",
+      "NumPhase": 4,
+      "Inclusion": 0,
+      "NumEventCond": 5,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Raga Jansammohini (Sud)",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Raga Jansammohini (Sud)",
+      "Label": "ADES",
+      "ReferenceLabel": "109612",
+      "ExternalID": "3229261096127-1-2",
+      "AlbumTitle": "Chaurasia Hariprasad",
+      "Rank": 2,
+      "NumVolume": 1,
+      "PublicationDate": "1992-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3229261096127",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Hariprasad Chaurasia",
+          "Profession": "Interprète",
+          "InterventionNote": "Hariprasad Chaurasia : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Zakir Hussain",
+          "Profession": "Interprète",
+          "InterventionNote": "Zakir Hussain : Tabla (timbales)",
+          "mop": "Tabla (timbales)"
+        },
+        {
+          "FullName": "Rupak Kulkarni",
+          "Profession": "Interprète",
+          "InterventionNote": "Rupak Kulkarni : Tambura (luth)",
+          "mop": "Tambura (luth)"
+        },
+        {
+          "FullName": "Christian Ledoux",
+          "Profession": "Interprète",
+          "InterventionNote": "Christian Ledoux : Tambura (luth)",
+          "mop": "Tambura (luth)"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T00:44:42+01:00"
+    },
+    {
+      "id": "7",
+      "StepID": "7",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "01:25:07:00",
+      "ScheduledDuration": "00:44:21:00",
+      "NumPhase": 6,
+      "Inclusion": 0,
+      "NumEventCond": 7,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Chahargah",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Chahargah",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 560013",
+      "ExternalID": "3149025059208-1-4",
+      "AlbumTitle": "Mugam d'Azerbaidjan",
+      "Rank": 4,
+      "NumVolume": 1,
+      "PublicationDate": "1993-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3149025059208",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Alim Qasimov",
+          "Profession": "Interprète",
+          "InterventionNote": "Alim Qasimov"
+        },
+        {
+          "FullName": "Elshan Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Elshan Mansurov : Kemençe (vièle)",
+          "mop": "Kemençe (vièle)"
+        },
+        {
+          "FullName": "Malik Mansurov",
+          "Profession": "Interprète",
+          "InterventionNote": "Malik Mansurov : Tar (luth)",
+          "mop": "Tar (luth)"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T01:25:07+01:00"
+    },
+    {
+      "id": "9",
+      "StepID": "9",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:09:34:00",
+      "ScheduledDuration": "00:42:51:00",
+      "NumPhase": 8,
+      "Inclusion": 0,
+      "NumEventCond": 9,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Shakkyô:Le pont en pierres",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Shakkyô:Le pont en pierres",
+      "Label": "OCORA",
+      "ReferenceLabel": "C 559005",
+      "ExternalID": "RF00000013110-1-1",
+      "AlbumTitle": "Japon/Musique du Nô/Shakkyô:Pont en pierre",
+      "Rank": 1,
+      "NumVolume": 1,
+      "PublicationDate": "1987-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "RF00000013110",
+      "Interpreter": [
+        {
+          "Highlight": true,
+          "FullName": "Divers",
+          "Profession": "Interprète",
+          "InterventionNote": "Divers : Voix",
+          "mop": "Voix"
+        },
+        {
+          "FullName": "Non Dentifie",
+          "Profession": "Interprète",
+          "InterventionNote": "Non Dentifie : Flûte",
+          "mop": "Flûte"
+        },
+        {
+          "FullName": "Non Dentifies",
+          "Profession": "Interprète",
+          "InterventionNote": "Non Dentifies : Tambour",
+          "mop": "Tambour"
+        }
+      ],
+      "ScheduledDateTime": "2017-10-30T02:09:34+01:00"
+    },
+    {
+      "id": "11",
+      "StepID": "11",
+      "FatherStepID": "1",
+      "AbsoluteScheduledDate": "2017-10-30",
+      "ScheduledTime": "02:52:31:00",
+      "ScheduledDuration": "00:08:36:00",
+      "NumPhase": 10,
+      "Inclusion": 0,
+      "NumEventCond": 11,
+      "TypEvent": "Primary Event",
+      "StartMode": "Follow",
+      "PressTitle": "Drissa barani",
+      "BroadcastNature": "En différé",
+      "TechnicalComment": "",
+      "Intro1Duration": [
+        "00:00:00:00",
+        "00:00:00:00"
+      ],
+      "Intro1DurationMS": 0,
+      "SoundId": "Titre de CD",
+      "LongTitle": "Drissa barani",
+      "Label": "PLAYA SOUND",
+      "ReferenceLabel": "PS 65172",
+      "ExternalID": "3298490651728-1-7",
+      "AlbumTitle": "Burkina Faso/Sababougnouma/Les balafons of Bobo Dioulasso",
+      "Rank": 7,
+      "NumVolume": 1,
+      "PublicationDate": "1996-01-01",
+      "LibMusicalKind": "Musique traditionnelle",
+      "Instru": false,
+      "SupportType": "Fichier",
+      "CDBarCode": "3298490651728",
+      "Interpreter": {
+        "FullName": "Divers",
+        "Profession": "Interprète",
+        "InterventionNote": "Divers : Luth, Tambour, Djembe (tambour), Balafon (xylophone), Percussions",
+        "mop": "Luth, Tambour, Djembe (tambour), Balafon (xylophone), Percussions"
+      },
+      "Orchestra": {
+        "Highlight": true,
+        "EntityName": "Sababougnouma",
+        "EntityType": "Orchestre"
+      },
+      "ScheduledDateTime": "2017-10-30T02:52:31+01:00"
+    }
+  ],
+  "total": 5,
+  "matched": 0
+}
