@@ -95,7 +95,8 @@ class CombineEmbeddings:
         f = SimpleNamespace(**f)
 
         # setup query
-        query = "SELECT * where { %s } " % f.query.replace('?a', uri)
+        query = 'DEFINE input:same-as "yes" \n' \
+                'SELECT * where { %s } ' % f.query.replace('?a', uri)
 
         # perform query
         self.sparql.setQuery(query)
@@ -141,10 +142,12 @@ class CombineEmbeddings:
                     feat_len[emb_f] = self.count_emb_len(emb_f)
                 feat_len_short[emb_f] = f['dimensions'] or 1
 
+        graph = 'FROM <%s>' % self.what['graph'] if 'graph' in self.what else ''
         main_query = "SELECT DISTINCT ?a SAMPLE(?label) AS ?label " \
+                     "%s" \
                      "WHERE { %s . OPTIONAL { ?a rdfs:label ?label } }" \
                      " GROUP BY ?a" \
-                     " ORDER BY DESC(COUNT(?a))" % main_query_select
+                     " ORDER BY DESC(COUNT(?a))" % (graph , main_query_select)
         print(main_query)
 
         self.sparql.setQuery(main_query)

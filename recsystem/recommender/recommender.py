@@ -3,6 +3,7 @@ import numpy as np
 from gensim.models import KeyedVectors
 from scipy.spatial import distance as distance
 from werkzeug.contrib.cache import SimpleCache
+from recommender.utils import loadHeader
 
 cache = SimpleCache()
 
@@ -23,7 +24,7 @@ class Recommender:
         print('loading embeddings')
 
         self.embedding = KeyedVectors.load_word2vec_format('%s/%s.emb' % (emb_dir, f))
-        self.uris = np.array(self.embedding.index2entity)
+        self.uris = np.array(self.embedding.index2entity)[0:1000]
         self.vectors = np.array([self.embedding.get_vector(k) for k in self.uris])
         self.vectors = np.ma.array(self.vectors, mask=-1. > self.vectors)
 
@@ -32,6 +33,7 @@ class Recommender:
 
         self.etype = f
         self.weights_manager = weights_manager
+        self.header = loadHeader(f, emb_dir)
 
     def get_emb(self, uri):
         # uri to embedding
@@ -77,30 +79,11 @@ class Recommender:
         pool_uris = uris[uris != seed]
 
         closer = True
-        l = len(vec) + 1
 
-        if focus == 'genre':
-            pool = np.delete(pool, np.arange(9, l), axis=1)
-            pool = np.delete(pool, np.arange(6), axis=1)
-            _seed = np.delete(_seed, np.arange(9, l), axis=0)
-            _seed = np.delete(_seed, np.arange(6), axis=0)
-            w = np.ones_like(_seed)
-        elif focus == 'period':
-            pool = np.delete(pool, np.arange(12), axis=1)
-            _seed = np.delete(_seed, np.arange(12), axis=0)
-            w = np.ones_like(_seed)
-        elif focus == 'casting':
-            pool = np.delete(pool, np.arange(3, l), axis=1)
-            _seed = np.delete(_seed, np.arange(3, l), axis=0)
-            w = np.ones_like(_seed)
-        elif focus == 'composer':
-            pool = np.delete(pool, np.arange(6, l), axis=1)
-            pool = np.delete(pool, np.arange(3), axis=1)
-            _seed = np.delete(_seed, np.arange(6, l), axis=0)
-            _seed = np.delete(_seed, np.arange(3), axis=0)
-            w = np.ones_like(_seed)
-        elif focus == 'surprise':
+        if focus == 'surprise':
             closer = False
+        elif focus is not None:
+            pool, _seed, w = self.cropOn(focus, pool, _seed, w)
 
         scores = np.array([[self.similarity(_seed, x, w, max_distance) for x in pool]])
         full = np.concatenate([pool_uris.reshape(len(pool_uris), 1), scores.transpose()], axis=1)
@@ -108,12 +91,24 @@ class Recommender:
         # sort
         full_sorted = sorted(full, key=lambda _x: float(_x[1]), reverse=closer)
         most_similar = full_sorted[:max(100, n)]
-        json = [{'uri': _a[0], 'score': float(_a[1])} for _a in most_similar]
-
+        json = [RecResult(_a[0], _a[1], self.get_emb(_a[0]), _seed) for _a in most_similar]
         # save in cache
         cache.set(cache_id, json, timeout=24 * 60 * 60)
 
         return json[:n]
+
+    def cropOn(self, focus, pool, seed, w):
+        if focus == 'period':
+            focus = 'composition_date'
+        elif focus == 'casting':
+            focus = 'solo'
+
+        pos = np.argwhere(self.header == focus).flatten()
+        pool = np.ma.array(pool)[:, pos]
+        seed = seed[pos]
+        w = w[pos]
+
+        return pool, seed, w
 
     @staticmethod
     def similarity(seed, target, w=None, max_distance=DEFAULT_DISTANCE):
@@ -137,3 +132,18 @@ class Recommender:
         # score
         s = (max_distance - d) / max_distance
         return s * (1 - penalty)
+
+
+class RecResult:
+    def __init__(self, uri, score, target, seed):
+        self.uri = uri
+        self.score = float(score)
+        self.target = target
+        self.seed = seed
+        self.explain = None
+
+    def toJson(self):
+        x = {'uri': self.uri, 'score': self.score}
+        if self.explain is not None:
+            x['explain'] = self.explain
+        return x
