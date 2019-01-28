@@ -63,7 +63,7 @@ def recommend(entity_type, seed):
 
     explain = request.args.get('explain', type=inputs.boolean, default=False)
 
-    most_similar = recommender.recommend(uri, n=n, w=w, target=request.args.get('target', default=''),
+    most_similar = recommender.recommend(uri, n=n, w=w, target=request.args.get('target', default='default'),
                                          focus=request.args.get('focus', default=None))
 
     if explain:

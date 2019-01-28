@@ -24,7 +24,7 @@ class Recommender:
         print('loading embeddings')
 
         self.embedding = KeyedVectors.load_word2vec_format('%s/%s.emb' % (emb_dir, f))
-        self.uris = np.array(self.embedding.index2entity)[0:1000]
+        self.uris = np.array(self.embedding.index2entity)
         self.vectors = np.array([self.embedding.get_vector(k) for k in self.uris])
         self.vectors = np.ma.array(self.vectors, mask=-1. > self.vectors)
 
@@ -42,12 +42,14 @@ class Recommender:
             return None
         return v[0]
 
-    def recommend(self, seed, n=5, w=None, target='', focus=None):
+    def recommend(self, seed, n=5, w=None, target='default', focus=None):
         if n < 1:
             n = 5
 
         if w is None:
             w = self.weights_manager.get(self.etype, length=len(self.vectors[0]), target=target)
+        elif len(w) == 1:  # flat
+            w = np.ones(len(self.vectors[0]))
         elif len(w) == 6:  # artist sliders
             if np.array_equal(w, np.ones_like(w)):
                 w = self.weights_manager.get(self.etype, length=len(self.vectors[0]), target=target)
@@ -58,6 +60,7 @@ class Recommender:
         else:
             w = np.array(w)
 
+        print(w)
         _seed = self.get_emb(seed)
         if _seed is None:
             raise ValueError('URI not recognised')
@@ -66,6 +69,7 @@ class Recommender:
         max_distance = weighted_euclidean(_ones, -_ones, w)
 
         cache_id = '|'.join([seed, ','.join(w.astype(np.str)), target, focus or ''])
+        print(cache_id)
         rv = cache.get(cache_id)
         if rv is not None:
             print('taking result from cache')

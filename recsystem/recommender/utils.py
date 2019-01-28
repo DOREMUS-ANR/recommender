@@ -16,7 +16,7 @@ class WeightsManager:
         if etype in self.w:
             t = self.w[etype]
             if target in t:
-                return t[target]
+                return np.array(t[target])
 
         return np.ones(length)
 
