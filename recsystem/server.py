@@ -74,9 +74,9 @@ def recommend(entity_type, seed):
                 pass
     return jsonify([x.toJson() for x in most_similar])
 
-#
-# if __name__ == '__main__':
-#     app.run(debug=False, host='0.0.0.0')
+
+if __name__ == '__main__':
+    app.run(debug=False, host='0.0.0.0')
 
 # export LC_ALL=en_US.UTF-8
 # export LANG=en_US.UTF-8
