@@ -17,6 +17,16 @@ def weighted_euclidean(a, b, w=None):
 
 DEFAULT_DISTANCE = weighted_euclidean(_ones, -_ones)
 
+# one tuple of embedding group labels per UI slider, in ?w= wire order
+SLIDER_GROUPS = (
+    ('mop',),
+    ('birth_date', 'death_date'),
+    ('casting',),
+    ('function',),
+    ('genre',),
+    ('key',),
+)
+
 
 class Recommender:
     def __init__(self, f, emb_dir, weights_manager):
@@ -42,23 +52,42 @@ class Recommender:
             return None
         return v[0]
 
+    def expand_slider_weights(self, sliders, target='default'):
+        # groups without a slider keep the configured default weight
+        length = len(self.vectors[0])
+        w = np.array(self.weights_manager.get(self.etype, length=length, target=target), dtype=float)
+        if len(w) != length:
+            w = np.ones(length)
+        weight_by_group = {label: sliders[i] for i, groups in enumerate(SLIDER_GROUPS) for label in groups}
+        for i, label in enumerate(self.header):
+            if i < length and label in weight_by_group:
+                w[i] = weight_by_group[label]
+        return w
+
+    def resolve_weights(self, w, target='default'):
+        length = len(self.vectors[0])
+        if w is None:
+            w = self.weights_manager.get(self.etype, length=length, target=target)
+        else:
+            w = np.array(w)
+            if len(w) == 1:  # flat
+                w = np.ones(length)
+            elif len(w) == 6:  # artist sliders
+                if np.array_equal(w, np.ones_like(w)):
+                    w = self.weights_manager.get(self.etype, length=length, target=target)
+                else:
+                    w = self.expand_slider_weights(w, target)
+        if len(w) != length:
+            print('weight/vector length mismatch (%s vs %s), using default weights'
+                  % (len(w), length))
+            w = self.weights_manager.get(self.etype, length=length, target=target)
+        return w
+
     def recommend(self, seed, n=5, w=None, target='default', focus=None):
         if n < 1:
             n = 5
 
-        if w is None:
-            w = self.weights_manager.get(self.etype, length=len(self.vectors[0]), target=target)
-        elif len(w) == 1:  # flat
-            w = np.ones(len(self.vectors[0]))
-        elif len(w) == 6:  # artist sliders
-            if np.array_equal(w, np.ones_like(w)):
-                w = self.weights_manager.get(self.etype, length=len(self.vectors[0]), target=target)
-            else:
-                w = np.array(
-                    [w[0], w[0], w[0], w[1], w[1], w[2], w[2], w[2], w[3], w[3], w[3], w[4], w[4], w[4], w[5], w[5],
-                     w[5]])
-        else:
-            w = np.array(w)
+        w = self.resolve_weights(w, target=target)
 
         print(w)
         _seed = self.get_emb(seed)
