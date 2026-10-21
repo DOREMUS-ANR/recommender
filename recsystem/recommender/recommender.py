@@ -7,15 +7,10 @@ from recommender.utils import loadHeader
 
 cache = SimpleCache()
 
-_ones = np.ones_like(100)
-
 
 def weighted_euclidean(a, b, w=None):
     # weighted squared euclidean distance
     return distance.minkowski(a, b, p=2, w=w)
-
-
-DEFAULT_DISTANCE = weighted_euclidean(_ones, -_ones)
 
 # one tuple of embedding group labels per UI slider, in ?w= wire order
 SLIDER_GROUPS = (
@@ -83,6 +78,18 @@ class Recommender:
             w = self.weights_manager.get(self.etype, length=length, target=target)
         return w
 
+    def _scores_vectorized(self, seed, pool, w, max_distance):
+        pool_filled = np.ma.filled(pool, 0.0)
+        pool_mask = np.ma.getmaskarray(pool)
+        seed_filled = np.ma.filled(seed, 0.0)
+        seed_mask = np.ma.getmaskarray(seed)
+        union = pool_mask | seed_mask
+        diff = np.where(union, 0.0, pool_filled - seed_filled)
+        dist = np.sqrt((diff ** 2 * w).sum(axis=1))
+        penalty = (pool_mask & ~seed_mask).sum(axis=1) / len(seed)
+        scores = (max_distance - dist) / max_distance * (1 - penalty)
+        return np.where((~union).sum(axis=1) == 0, 0.0, scores)
+
     def recommend(self, seed, n=5, w=None, target='default', focus=None):
         if n < 1:
             n = 5
@@ -118,13 +125,11 @@ class Recommender:
         elif focus is not None:
             pool, _seed, w = self.cropOn(focus, pool, _seed, w)
 
-        scores = np.array([[self.similarity(_seed, x, w, max_distance) for x in pool]])
-        full = np.concatenate([pool_uris.reshape(len(pool_uris), 1), scores.transpose()], axis=1)
+        scores = self._scores_vectorized(_seed, pool, w, max_distance)
 
-        # sort
-        full_sorted = sorted(full, key=lambda _x: float(_x[1]), reverse=closer)
-        most_similar = full_sorted[:max(100, n)]
-        json = [RecResult(_a[0], _a[1], self.get_emb(_a[0]), _seed) for _a in most_similar]
+        order = np.argsort(-scores if closer else scores, kind='stable')
+        most_similar = order[:max(100, n)]
+        json = [RecResult(pool_uris[i], scores[i], self.get_emb(pool_uris[i]), _seed) for i in most_similar]
         # save in cache
         cache.set(cache_id, json, timeout=24 * 60 * 60)
 
@@ -142,29 +147,6 @@ class Recommender:
         w = w[pos]
 
         return pool, seed, w
-
-    @staticmethod
-    def similarity(seed, target, w=None, max_distance=DEFAULT_DISTANCE):
-        b1 = np.argwhere(seed.mask)
-        b2 = np.argwhere(target.mask)
-        bad_pos = np.unique(np.concatenate([b1, b2]))
-
-        _seed = np.delete(seed, bad_pos, axis=0)
-        _target = np.delete(target, bad_pos, axis=0)
-        _w = np.delete(w, bad_pos, axis=0)
-
-        if len(_seed) == 0:
-            return 0
-
-        # distance
-        d = weighted_euclidean(_seed, _target, w=_w)
-
-        # how much info I am not finding
-        penalty = len([x for x in b2 if x not in b1]) / len(seed)
-
-        # score
-        s = (max_distance - d) / max_distance
-        return s * (1 - penalty)
 
 
 class RecResult:
