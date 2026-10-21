@@ -1,0 +1,11 @@
+services:
+  recommender:
+    build: recsystem/
+    image: doremus/recommender:2026.10
+    container_name: recommender
+    restart: unless-stopped
+    ports:
+      - "5559:5000"
+    volumes:
+      - /home/semantic/doremus/recommender/recsystem/config:/config
+      - /var/docker/doremus/music-embeddings:/emb
